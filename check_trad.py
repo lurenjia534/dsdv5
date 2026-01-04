@@ -52,6 +52,16 @@ def opencc_convert(text):
 
 
 _CHAR_CACHE = {}
+_COLOR_ENABLED = sys.stdout.isatty()
+_COLOR_GREEN = "\033[32m"
+_COLOR_RED = "\033[31m"
+_COLOR_RESET = "\033[0m"
+
+
+def colorize(text, color):
+    if not _COLOR_ENABLED:
+        return text
+    return f"{color}{text}{_COLOR_RESET}"
 
 
 def is_traditional_char(ch):
@@ -83,6 +93,27 @@ def find_traditional_chars(text):
         if is_cjk(ch) and is_traditional_char(ch):
             chars.add(ch)
     return sorted(chars)
+
+
+def list_traditional_chars(text):
+    if not has_cjk(text):
+        return []
+    converted = opencc_convert(text)
+    if converted is None or converted == text:
+        return []
+    chars = []
+    if len(converted) == len(text):
+        # 快速路径：一对一转换时，按位置逐字比对。
+        for original, simplified in zip(text, converted):
+            if is_cjk(original) and original != simplified:
+                chars.append(original)
+        if chars:
+            return chars
+    # 兜底路径：转换后长度变化时，逐字探测。
+    for ch in text:
+        if is_cjk(ch) and is_traditional_char(ch):
+            chars.append(ch)
+    return chars
 
 
 def has_traditional(text):
@@ -147,6 +178,18 @@ def file_traditional_details(path, one_based=False):
     return details
 
 
+def file_traditional_chars(path):
+    try:
+        text = decode_text(path)
+    except OSError:
+        return []
+    chars = []
+    strings = extract_json_strings(text)
+    for _, value in strings:
+        chars.extend(list_traditional_chars(value))
+    return chars
+
+
 def extract_json_strings(text):
     try:
         data = json.loads(text)
@@ -201,6 +244,12 @@ def main():
         action="store_true",
         help="Show per-folder YES/NO summary instead of listing files.",
     )
+    # --chars：输出每个文件的全部繁体字（不去重）。
+    mode.add_argument(
+        "--chars",
+        action="store_true",
+        help="Show all Traditional Chinese characters per file (no dedupe).",
+    )
     # --details：输出每个 JSON 路径的命中字符串与字符位置。
     mode.add_argument(
         "--details",
@@ -247,6 +296,12 @@ def main():
                             for ch, pos_list in positions.items():
                                 pos_str = ",".join(str(pos) for pos in pos_list)
                                 print(f"    {ch} x{len(pos_list)} @{pos_str}")
+                elif args.chars:
+                    chars = file_traditional_chars(file_path)
+                    if chars:
+                        any_match = True
+                        print(rel)
+                        print(f"  {''.join(chars)}")
                 else:
                     if file_has_traditional(file_path):
                         matched.append(rel)
@@ -255,7 +310,9 @@ def main():
             if matched and args.summary and not args.files:
                 break
         if args.summary:
-            print(f"{name}\t{'YES' if matched else 'NO'}")
+            label = "YES" if matched else "NO"
+            color = _COLOR_RED if matched else _COLOR_GREEN
+            print(f"{name}\t{colorize(label, color)}")
             if args.files and matched:
                 for rel_path in matched:
                     print(f"  {rel_path}")
@@ -263,9 +320,9 @@ def main():
             for rel_path in matched:
                 any_match = True
                 print(rel_path)
-    if not args.summary and not args.details and not any_match:
+    if not args.summary and not args.details and not args.chars and not any_match:
         print("No JSON files with Traditional Chinese found.")
-    if args.details and not any_match:
+    if (args.details or args.chars) and not any_match:
         print("No JSON files with Traditional Chinese found.")
 
     return 0
