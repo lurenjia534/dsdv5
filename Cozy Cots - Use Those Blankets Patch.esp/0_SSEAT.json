@@ -1,0 +1,110 @@
+[
+  {
+    "editor_id": "IndividualCivilWarCot_Blanket_HADunmerBlueCC",
+    "form_id": "0300080A|Cozy Cots - Use Those Blankets Patch.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualCivilWarCot_BlanketDunmerRedCC",
+    "form_id": "0300080B|Cozy Cots - Use Those Blankets Patch.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualCivilWarCot_BlanketGreenCC",
+    "form_id": "0300080C|Cozy Cots - Use Those Blankets Patch.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualCivilWarCot_Blanket_HADunmerRedCC",
+    "form_id": "0300080D|Cozy Cots - Use Those Blankets Patch.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualCivilWarCot_Blanket_HAGreenCC",
+    "form_id": "0300080E|Cozy Cots - Use Those Blankets Patch.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualCivilWarCot_BlanketDunmerPurpleCC",
+    "form_id": "0300080F|Cozy Cots - Use Those Blankets Patch.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualCivilWarCot_Blanket_HADunmerPurpleCC",
+    "form_id": "03000810|Cozy Cots - Use Those Blankets Patch.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualCivilWarCot_BlanketBlueCC",
+    "form_id": "03000812|Cozy Cots - Use Those Blankets Patch.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualCivilWarCot_Blanket_HABlueCC",
+    "form_id": "03000813|Cozy Cots - Use Those Blankets Patch.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualCivilWarCot_BlanketRedCC",
+    "form_id": "03000814|Cozy Cots - Use Those Blankets Patch.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualCivilWarCot_Blanket_HARedCC",
+    "form_id": "03000815|Cozy Cots - Use Those Blankets Patch.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualCivilWarCot_BlanketDunmerBlueCC",
+    "form_id": "03000816|Cozy Cots - Use Those Blankets Patch.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  }
+]

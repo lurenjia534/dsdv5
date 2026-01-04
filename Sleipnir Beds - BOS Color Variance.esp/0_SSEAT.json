@@ -1,0 +1,245 @@
+[
+  {
+    "editor_id": "UpperBedDouble01L_blue",
+    "form_id": "0100081B|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01L_green",
+    "form_id": "0100081C|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01L_red",
+    "form_id": "0100081D|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01R_blue",
+    "form_id": "0100081E|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01R_green",
+    "form_id": "0100081F|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01R_red",
+    "form_id": "01000820|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01_blue",
+    "form_id": "01000D7D|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01_green",
+    "form_id": "01000D7E|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01_red",
+    "form_id": "01000D7F|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01_blue",
+    "form_id": "01000D80|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01_green",
+    "form_id": "01000D81|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01_red",
+    "form_id": "01000D82|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01L_blue",
+    "form_id": "01000D83|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01L_green",
+    "form_id": "01000D84|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01L_red",
+    "form_id": "01000D85|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01R_blue",
+    "form_id": "01000D86|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01R_green",
+    "form_id": "01000D87|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01R_red",
+    "form_id": "01000D88|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01_red",
+    "form_id": "01000D8F|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01L_red",
+    "form_id": "01000D90|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01R_red",
+    "form_id": "01000D91|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01_blue",
+    "form_id": "01000D92|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01L_blue",
+    "form_id": "01000D93|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01R_blue",
+    "form_id": "01000D94|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01_green",
+    "form_id": "01000D95|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01L_green",
+    "form_id": "01000D96|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01R_green",
+    "form_id": "01000D97|Sleipnir Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  }
+]

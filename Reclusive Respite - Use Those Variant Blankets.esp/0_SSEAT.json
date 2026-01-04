@@ -1,0 +1,56 @@
+[
+  {
+    "editor_id": "IndividualGreyBeardBed_BlanketRedRecRes",
+    "form_id": "04000803|Reclusive Respite - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualGreyBeardBed_Blanket_HARedRecRes",
+    "form_id": "04000804|Reclusive Respite - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualGreyBeardBed_BlanketBlueRecRes",
+    "form_id": "04000809|Reclusive Respite - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualGreyBeardBed_Blanket_HABlueRecRes",
+    "form_id": "0400080A|Reclusive Respite - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualGreyBeardBed_BlanketGreenRecRes",
+    "form_id": "0400080B|Reclusive Respite - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualGreyBeardBed_Blanket_HAGreenRecRes",
+    "form_id": "0400080C|Reclusive Respite - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  }
+]

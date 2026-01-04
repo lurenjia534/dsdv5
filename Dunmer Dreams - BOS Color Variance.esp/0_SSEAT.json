@@ -1,0 +1,164 @@
+[
+  {
+    "editor_id": "DLC2DarkElfBed01_blue",
+    "form_id": "03000800|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBed01L_blue",
+    "form_id": "03000801|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBed01R_blue",
+    "form_id": "03000802|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBedDouble01_blue",
+    "form_id": "03000803|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBedDouble01L_blue",
+    "form_id": "03000804|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBedDouble01R_blue",
+    "form_id": "03000805|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBed01_purple",
+    "form_id": "03000806|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBed01L_purple",
+    "form_id": "03000807|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBed01R_purple",
+    "form_id": "03000808|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBedDouble01_purple",
+    "form_id": "03000809|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBedDouble01L_purple",
+    "form_id": "0300080A|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBedDouble01R_purple",
+    "form_id": "0300080B|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBed01_red",
+    "form_id": "0300080C|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBed01L_red",
+    "form_id": "0300080D|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBed01R_red",
+    "form_id": "0300080E|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBedDouble01_red",
+    "form_id": "0300080F|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBedDouble01L_red",
+    "form_id": "03000810|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBedDouble01R_red",
+    "form_id": "03000811|Dunmer Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  }
+]

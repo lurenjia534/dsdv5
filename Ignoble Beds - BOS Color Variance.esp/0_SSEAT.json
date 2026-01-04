@@ -1,0 +1,569 @@
+[
+  {
+    "editor_id": "NobleBedSingle01_blue",
+    "form_id": "01000800|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedSingle01_red",
+    "form_id": "01000801|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble02_blue",
+    "form_id": "01000802|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble02_red",
+    "form_id": "01000803|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble01_blue",
+    "form_id": "01000804|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble01_red",
+    "form_id": "01000805|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble01L_blue",
+    "form_id": "01000806|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble01L_green",
+    "form_id": "01000807|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble01L_red",
+    "form_id": "01000808|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble01R_blue",
+    "form_id": "01000809|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble01R_green",
+    "form_id": "0100080A|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble01R_red",
+    "form_id": "0100080B|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble02L_blue",
+    "form_id": "0100080C|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble02L_green",
+    "form_id": "0100080D|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble02L_red",
+    "form_id": "0100080E|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble02R_blue",
+    "form_id": "0100080F|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble02R_green",
+    "form_id": "01000810|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble02R_red",
+    "form_id": "01000811|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedSingle01L_blue",
+    "form_id": "01000812|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedSingle01L_green",
+    "form_id": "01000813|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedSingle01L_red",
+    "form_id": "01000814|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedSingle01R_blue",
+    "form_id": "01000815|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedSingle01R_green",
+    "form_id": "01000816|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedSingle01R_red",
+    "form_id": "01000817|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble01_green",
+    "form_id": "01000818|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedDouble02_green",
+    "form_id": "01000819|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedSingle01_green",
+    "form_id": "0100081A|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01L_blue",
+    "form_id": "0100081B|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01L_green",
+    "form_id": "0100081C|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01L_red",
+    "form_id": "0100081D|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01R_blue",
+    "form_id": "0100081E|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01R_green",
+    "form_id": "0100081F|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01R_red",
+    "form_id": "01000820|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01_blue",
+    "form_id": "01000D7D|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01_green",
+    "form_id": "01000D7E|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedDouble01_red",
+    "form_id": "01000D7F|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01_blue",
+    "form_id": "01000D80|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01_green",
+    "form_id": "01000D81|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01_red",
+    "form_id": "01000D82|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01L_blue",
+    "form_id": "01000D83|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01L_green",
+    "form_id": "01000D84|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01L_red",
+    "form_id": "01000D85|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01R_blue",
+    "form_id": "01000D86|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01R_green",
+    "form_id": "01000D87|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedSingle01R_red",
+    "form_id": "01000D88|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01_red",
+    "form_id": "01000D8F|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01L_red",
+    "form_id": "01000D90|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01R_red",
+    "form_id": "01000D91|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01_blue",
+    "form_id": "01000D92|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01L_blue",
+    "form_id": "01000D93|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01R_blue",
+    "form_id": "01000D94|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01_green",
+    "form_id": "01000D95|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01L_green",
+    "form_id": "01000D96|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UpperBedChildSingle01R_green",
+    "form_id": "01000D97|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedChildSingle01_blue",
+    "form_id": "01000D98|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedChildSingle01L_blue",
+    "form_id": "01000D99|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedChildSingle01R_blue",
+    "form_id": "01000D9A|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedChildSingle01_green",
+    "form_id": "01000D9B|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedChildSingle01L_green",
+    "form_id": "01000D9C|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedChildSingle01R_green",
+    "form_id": "01000D9D|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedChildSingle01_red",
+    "form_id": "01000D9E|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedChildSingle01L_red",
+    "form_id": "01000D9F|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NobleBedChildSingle01R_red",
+    "form_id": "01000DA0|Ignoble Beds - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  }
+]

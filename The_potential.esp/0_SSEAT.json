@@ -1,0 +1,1082 @@
+[
+  {
+    "editor_id": "PotentialSkillTree",
+    "form_id": "01000805|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Awaken your hidden potential through this ancient tome of forgotten mastery.",
+    "string": "通过这本古籍唤醒你隐藏的潜力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Alteration",
+    "form_id": "01000816|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Enhancing Alteration",
+    "string": "增强变化系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Alteration",
+    "form_id": "01000816|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Alteration spells and effects last <mag>% longer.",
+    "string": "变化系法术和效果持续时间延长<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Illusion",
+    "form_id": "01000817|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Enhancing Illusion",
+    "string": "增强幻术系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Illusion",
+    "form_id": "01000817|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Illusion spells and effects are <mag>% stronger.",
+    "string": "幻术系法术和效果增强<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Conjuration",
+    "form_id": "01000818|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Enhancing Conjuration",
+    "string": "强化召唤系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Conjuration",
+    "form_id": "01000818|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Conjuration spells and effects last <mag>% longer.",
+    "string": "召唤系法术和效果持续时间延长<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Destruction",
+    "form_id": "01000819|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Enhancing Destruction",
+    "string": "增强毁灭系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Destruction",
+    "form_id": "01000819|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Destruction spells and effects are <mag>% stronger.",
+    "string": "毁灭系法术和效果增强<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Restoration",
+    "form_id": "0100081A|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Enhancing Restoration",
+    "string": "增强恢复系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Restoration",
+    "form_id": "0100081A|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Restoration spells and effects are <mag>% stronger.",
+    "string": "恢复系法术和效果增强<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyHealth",
+    "form_id": "0100083B|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Health",
+    "string": "強化生命力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyHealth",
+    "form_id": "0100083B|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increases Health by <mag> points.",
+    "string": "提升生命上限<mag>点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyStamina",
+    "form_id": "0100083C|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Stamina",
+    "string": "強化精力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyStamina",
+    "form_id": "0100083C|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increases Stamina by <mag> points.",
+    "string": "提升耐力上限<mag>点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyMagicka",
+    "form_id": "0100083D|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Magicka",
+    "string": "強化法力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyMagicka",
+    "form_id": "0100083D|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increases Magicka by <mag> points.",
+    "string": "提升魔力上限<mag>点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyArmorRating",
+    "form_id": "0100083E|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Armor Rating",
+    "string": "強化護甲值",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyArmorRating",
+    "form_id": "0100083E|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increases Armor rating by <mag> points.",
+    "string": "护甲等级提高<mag>点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_ResistMagic",
+    "form_id": "0100083F|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Magic",
+    "string": "魔法抗性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_ResistMagic",
+    "form_id": "0100083F|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Grants <mag>% resistance to all magic.",
+    "string": "提升<mag>%魔法抗性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_ResistPoison",
+    "form_id": "01000840|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Poison",
+    "string": "毒素抗性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_ResistPoison",
+    "form_id": "01000840|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Grants <mag>% resistance to poison.",
+    "string": "提升<mag>%毒素抗性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Up_ResistDisease",
+    "form_id": "01000841|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Disease",
+    "string": "疾病抗性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Up_ResistDisease",
+    "form_id": "01000841|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Grants <mag>% resistance to disease.",
+    "string": "提升<mag>%疾病抗性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyAlteration",
+    "form_id": "01000842|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Alteration",
+    "string": "強化變換系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyAlteration",
+    "form_id": "01000842|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Alteration spells and enchantments cost <mag>% less.",
+    "string": "变化系法术和附魔消耗降低<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyConjuration",
+    "form_id": "01000843|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Conjuration",
+    "string": "召喚系法術強化",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyConjuration",
+    "form_id": "01000843|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Conjuration spells and enchantments cost <mag>% less.",
+    "string": "召唤系法术和附魔消耗降低<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyDestruction",
+    "form_id": "01000844|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Destruction",
+    "string": "毀滅系法術強化",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyDestruction",
+    "form_id": "01000844|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Destruction spells and enchantments cost <mag>% less.",
+    "string": "毁灭系法术和附魔消耗降低<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyIllusion",
+    "form_id": "01000845|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Illusion",
+    "string": "強化幻術系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyIllusion",
+    "form_id": "01000845|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Illusion spells and enchantments cost <mag>% less.",
+    "string": "幻术系法术和附魔消耗降低<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyRestoration",
+    "form_id": "01000846|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Restoration",
+    "string": "強化恢復系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyRestoration",
+    "form_id": "01000846|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Restoration spells and enchantments cost <mag>% less.",
+    "string": "恢复系法术和附魔消耗降低<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyCarry",
+    "form_id": "01000847|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Carry",
+    "string": "强化负重",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyCarry",
+    "form_id": "01000847|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Carrying capacity increased by <mag> points.",
+    "string": "負重提高<mag>點。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Up_FortifyLockpicking",
+    "form_id": "01000848|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Lockpicking",
+    "string": "开锁強化",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Up_FortifyLockpicking",
+    "form_id": "01000848|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Lockpicking is <mag>% easier.",
+    "string": "开锁難度減少<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyArchery",
+    "form_id": "01000849|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Archery",
+    "string": "箭術強化",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyArchery",
+    "form_id": "01000849|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Bows do <mag>% more damage.",
+    "string": "弓箭傷害提高<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyOneHanded",
+    "form_id": "0100084A|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify OneHanded",
+    "string": "强化单手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyOneHanded",
+    "form_id": "0100084A|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "One-handed attacks do <mag>% more damage.",
+    "string": "單手攻擊傷害提高<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyPickpocket",
+    "form_id": "0100084B|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Pickpocket",
+    "string": "扒竊強化",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyPickpocket",
+    "form_id": "0100084B|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Pickpocket chances are <mag>% higher.",
+    "string": "扒窃成功率提升<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifySneak",
+    "form_id": "0100084C|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Sneak",
+    "string": "强化潜行",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifySneak",
+    "form_id": "0100084C|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are <mag>% harder to detect while sneaking.",
+    "string": "潜行时被发现难度提升<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyTwoHanded",
+    "form_id": "0100084E|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify TwoHanded",
+    "string": "强化双手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyTwoHanded",
+    "form_id": "0100084E|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Two-handed attacks do <mag>% more damage.",
+    "string": "雙手攻擊傷害提高<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyStaminaRate",
+    "form_id": "0100084F|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify StaminaRate",
+    "string": "强化耐力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyStaminaRate",
+    "form_id": "0100084F|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Stamina regenerates <mag>% faster.",
+    "string": "精力恢復速度加快<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyShoutTimer",
+    "form_id": "01000852|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify ShoutTimer",
+    "string": "强化龙吼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyShoutTimer",
+    "form_id": "01000852|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Time between shouts is reduced by <mag>%.",
+    "string": "龙吼冷却时间缩短<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Waterbreathing",
+    "form_id": "01000853|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Waterbreathing",
+    "string": "水下呼吸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Waterbreathing",
+    "form_id": "01000853|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Can swim underwater without drowning.",
+    "string": "在水下游泳不會溺死。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PotentialSkillTreeSpell",
+    "form_id": "01000804|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Call of Potential",
+    "string": "潜能的呼唤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_HMS_UP_1",
+    "form_id": "01000809|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Wellspring of Vitalis",
+    "string": "维塔利斯之泉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_HMS_UP_1",
+    "form_id": "01000809|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Unleashes inner vitality, increasing Health, Magicka, and Stamina.",
+    "string": "释放内在生命力，提升生命值、魔法值和耐力值。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_ACMR_UP_1",
+    "form_id": "0100080F|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Aegis of the Unseen",
+    "string": "无形之盾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_ACMR_UP_1",
+    "form_id": "0100080F|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Strengthens your hidden defenses, enhancing armor and magic resistance.",
+    "string": "增强你的潜行防御，提升护甲和魔法抗性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_DPR_UP_1",
+    "form_id": "01000810|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Essence of Purity",
+    "string": "纯净精华",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_DPR_UP_1",
+    "form_id": "01000810|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Awakens resilience against corruption, boosting poison and disease resistance.",
+    "string": "觉醒抗腐败抗性，增强毒和疾病抗性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_MAGE_UP_1",
+    "form_id": "01000815|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Arcane Awakening",
+    "string": "奥术觉醒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_MAGE_UP_1",
+    "form_id": "01000815|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Draws from latent magical power, reducing spell cost and increasing potency.",
+    "string": "从潜在魔力中汲取，减少法术消耗并提升效果。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_WARRIOR_UP_1",
+    "form_id": "0100081F|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bloodforged Might",
+    "string": "血锻之力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_WARRIOR_UP_1",
+    "form_id": "0100081F|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Taps into battle-born strength, increasing weapon damage and stamina flow.",
+    "string": "增强战斗天赋之力，提高武器伤害并增强耐力恢复。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_THIEF_UP_1",
+    "form_id": "01000824|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Veil of Shadows",
+    "string": "暗影之帷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_THIEF_UP_1",
+    "form_id": "01000824|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Harnesses the art of deception, enhancing sneak and cunning skills.",
+    "string": "掌握欺骗艺术，增强潜行和狡诈技能。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_DRAGON_UP_100",
+    "form_id": "01000826|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Voice of the Ancients",
+    "string": "远古之声",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_DRAGON_UP_100",
+    "form_id": "01000826|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Channels ancient dragonborn power, removing cooldowns on shouts.",
+    "string": "引导远古龙裔的力量，移除龙吼的冷却时间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_WB_UP_00",
+    "form_id": "01000828|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deepborn Resilience",
+    "string": "深喉韧性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_WB_UP_00",
+    "form_id": "01000828|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Calls on aquatic instincts, increasing underwater breathing and carry weight.",
+    "string": "召唤水生本能，提升水下呼吸和携带重量。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PotentialSkillTreeTome",
+    "form_id": "01000806|The_potential.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Tome of Hidden Potential",
+    "string": "潜能卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PotentialSkillTreeTome",
+    "form_id": "01000806|The_potential.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>Awaken your hidden potential through this ancient tome of forgotten mastery.",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>通过这本失落技艺的古籍唤醒你潜藏的潜能。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk01",
+    "form_id": "01000800|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Arcane Awakening",
+    "string": "奥术觉醒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk01",
+    "form_id": "01000800|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Magicka cost of all spells Reduced by 5% and increases their effectiveness by 5%, across all schools of magic.",
+    "string": "将所有法术的魔力消耗减少5%，同时提升其效果5%，适用于所有魔法学派。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk02",
+    "form_id": "01000801|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Arcane Awakening",
+    "string": "奥术觉醒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk02",
+    "form_id": "01000801|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Magicka cost of all spells Reduced by 5% and increases their effectiveness by 5%, across all schools of magic.",
+    "string": "将所有法术的魔力消耗减少5%，同时提升其效果5%，适用于所有魔法学派。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk03",
+    "form_id": "01000807|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Arcane Awakening",
+    "string": "奥术觉醒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk03",
+    "form_id": "01000807|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Magicka cost of all spells Reduced by 5% and increases their effectiveness by 5%, across all schools of magic.",
+    "string": "将所有法术的魔力消耗减少5%，同时提升其效果5%，适用于所有魔法学派。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk01",
+    "form_id": "01000808|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Inner Wellspring",
+    "string": "内在源泉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk01",
+    "form_id": "01000808|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Gain 20 Health, Magicka, Stamina.",
+    "string": "获得20点生命值、魔法值、耐力值。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk02",
+    "form_id": "0100080A|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Inner Wellspring",
+    "string": "内在源泉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk02",
+    "form_id": "0100080A|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Gain 30 Health, Magicka, Stamina.",
+    "string": "获得30点生命值、魔法值、耐力值。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk03",
+    "form_id": "0100080B|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Inner Wellspring",
+    "string": "内在源泉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk03",
+    "form_id": "0100080B|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Gain 50 Health, Magicka, Stamina.",
+    "string": "获得50点生命值、魔法值、耐力值。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk04",
+    "form_id": "0100080C|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Awakened Aegis",
+    "string": "觉醒之盾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk04",
+    "form_id": "0100080C|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You gain 50 Armor and 5% Magic Resistance.",
+    "string": "你获得50点护甲和5%魔法抗性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk05",
+    "form_id": "0100080D|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Awakened Aegis",
+    "string": "觉醒之盾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk05",
+    "form_id": "0100080D|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You gain 50 Armor and 5% Magic Resistance.",
+    "string": "你获得50点护甲和5%魔法抗性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk06",
+    "form_id": "0100080E|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Awakened Aegis",
+    "string": "觉醒之盾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk06",
+    "form_id": "0100080E|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You gain 100 Armor and 10% Magic Resistance.",
+    "string": "你获得100点护甲和10%的魔法抗性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk07",
+    "form_id": "01000811|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Purified Essence",
+    "string": "纯净精华",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk07",
+    "form_id": "01000811|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You gain 10% increased resistance to poisons and diseases.",
+    "string": "你获得对毒药和疾病的抗性增加10%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk08",
+    "form_id": "01000812|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Purified Essence",
+    "string": "纯净精华",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk08",
+    "form_id": "01000812|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You gain 10% increased resistance to poisons and diseases.",
+    "string": "你获得对毒药和疾病的抗性增加10%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk09",
+    "form_id": "01000813|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Purified Essence",
+    "string": "纯净精华",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk09",
+    "form_id": "01000813|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You gain 20% increased resistance to poisons and diseases.",
+    "string": "获得20%的抗毒和抗疾病能力提升。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk04",
+    "form_id": "01000814|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Arcane Awakening",
+    "string": "奥术觉醒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk04",
+    "form_id": "01000814|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "The Magicka cost of all spells Reduced by 10% and increases their effectiveness by 10%, across all schools of magic.",
+    "string": "所有魔法学派的法术魔力消耗减少10%，并提升其效果强度10%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk01",
+    "form_id": "0100081B|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bloodforged Might",
+    "string": "血锻之力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk01",
+    "form_id": "0100081B|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your weapons deal 10% more damage, regenerate Stamina 20% faster.",
+    "string": "你的武器造成10%更多的伤害，体力恢复速度提升20%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk02",
+    "form_id": "0100081C|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bloodforged Might",
+    "string": "血锻之力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk02",
+    "form_id": "0100081C|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your weapons deal 10% more damage, regenerate Stamina 30% faster.",
+    "string": "你的武器造成10%更高的伤害，体力恢复速度加快30%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk03",
+    "form_id": "0100081D|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bloodforged Might",
+    "string": "血锻之力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk03",
+    "form_id": "0100081D|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your weapons deal 10% more damage, regenerate Stamina 40% faster.",
+    "string": "你的武器造成的伤害提高10%，体力恢复速度加快40%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk04",
+    "form_id": "0100081E|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bloodforged Might",
+    "string": "血锻之力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk04",
+    "form_id": "0100081E|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your weapons deal 20% more damage, regenerate Stamina 60% faster.",
+    "string": "你的武器造成20%的额外伤害，体力恢复速度提升60%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk01",
+    "form_id": "01000820|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Veil of Shadows",
+    "string": "暗影之帷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk01",
+    "form_id": "01000820|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You gain a 10% increase to Sneak, Speech, Pickpocketing, and Lockpicking.",
+    "string": "你获得潜行、说服、偷窃和开锁技能的10%提升。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk02",
+    "form_id": "01000821|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Veil of Shadows",
+    "string": "暗影之帷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk02",
+    "form_id": "01000821|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You gain a 20% increase to Sneak, Speech, Pickpocketing, and Lockpicking.",
+    "string": "您获得潜行、说服、扒窃和开锁技能各20%的提升。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk03",
+    "form_id": "01000822|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Veil of Shadows",
+    "string": "暗影之帷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk03",
+    "form_id": "01000822|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You gain a 30% increase to Sneak, Speech, Pickpocketing, and Lockpicking.",
+    "string": "你获得潜行、说话、偷窃和开锁技能的30%提升。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk04",
+    "form_id": "01000823|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Veil of Shadows",
+    "string": "暗影之帷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk04",
+    "form_id": "01000823|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You gain a 40% increase to Sneak, Speech, Pickpocketing, and Lockpicking.",
+    "string": "你获得潜行、说服、扒窃和开锁40%的提升。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyDragonSkillPerk",
+    "form_id": "01000825|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Voice of the Ancients",
+    "string": "远古之声",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyDragonSkillPerk",
+    "form_id": "01000825|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Reduces the cooldown of Shouts by 20%",
+    "string": "减少20%的龙吼冷却时间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk10",
+    "form_id": "01000829|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Deepborn Resilience",
+    "string": "深喉韧性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk10",
+    "form_id": "01000829|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You can breathe underwater and increase your carryweight.",
+    "string": "你可以在水下呼吸并增加你的负重能力。",
+    "status": "TranslationComplete"
+  }
+]

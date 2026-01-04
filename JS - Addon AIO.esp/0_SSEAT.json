@@ -1,0 +1,272 @@
+[
+  {
+    "editor_id": "DLC2GoldPile01",
+    "form_id": "01018486|Dragonborn.esm",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Pile of Gold",
+    "string": "金币堆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2GoldPile02",
+    "form_id": "01018488|Dragonborn.esm",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Pile of Gold",
+    "string": "金币堆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JS_KnapsackNoAni",
+    "form_id": "03000D69|JS - Addon AIO.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Knapsack",
+    "string": "背包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JS_KnapsackRed",
+    "form_id": "03000D6A|JS - Addon AIO.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Knapsack",
+    "string": "背包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JS_KnapsackBrown",
+    "form_id": "03000D6B|JS - Addon AIO.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Knapsack",
+    "string": "背包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JS_KnapsackRugged",
+    "form_id": "03000D6C|JS - Addon AIO.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Knapsack",
+    "string": "背包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JS_KnapsackSlashed",
+    "form_id": "03000D6D|JS - Addon AIO.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Knapsack",
+    "string": "背包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JS_DwarvenOil02",
+    "form_id": "03000D64|JS - Addon AIO.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Dwarven Oil",
+    "string": "矮人油",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JS_DwarvenOil03",
+    "form_id": "03000D65|JS - Addon AIO.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Dwarven Oil",
+    "string": "矮人油",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Gold001",
+    "form_id": "0000000F|Skyrim.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Gold",
+    "string": "金币",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JS_PanteaFlute",
+    "form_id": "03000D66|JS - Addon AIO.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Pantea's Flute",
+    "string": "潘提亚的长笛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JS_RjornsDrum",
+    "form_id": "03000D67|JS - Addon AIO.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Rjorn's Drum",
+    "string": "荣恩的鼓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JS_FinnsLute",
+    "form_id": "03000D68|JS - Addon AIO.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Finn's Lute",
+    "string": "芬恩的鲁特琴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CoinPurseSmall",
+    "form_id": "000D790C|Skyrim.esm",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "钱包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CoinPurseSmall",
+    "form_id": "000D790C|Skyrim.esm",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "拿取",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CoinPurseMedium",
+    "form_id": "000D8E7F|Skyrim.esm",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "钱包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CoinPurseMedium",
+    "form_id": "000D8E7F|Skyrim.esm",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "拿取",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CoinPurseLarge",
+    "form_id": "000D8E80|Skyrim.esm",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "钱包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CoinPurseLarge",
+    "form_id": "000D8E80|Skyrim.esm",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "拿取",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BardsCollegeLute",
+    "form_id": "000D93FA|Skyrim.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Finn's Lute",
+    "string": "芬恩的鲁特琴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BardsCollegeLute",
+    "form_id": "000D93FA|Skyrim.esm",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Thieves stolen Finn's Lute from the Bards College over a year ago. Inge Six-Fingers has asked me to recover the lute from their stronghold. ",
+    "string": "小偷在一年前把芬恩的鲁特琴从吟游诗人学院偷走了，因格．六指请求我从他们的据点中把琴取回来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BardsCollegeLute",
+    "form_id": "000D93FA|Skyrim.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Find Finn's Lute",
+    "string": "找到芬恩的鲁特琴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BardsCollegeLute",
+    "form_id": "000D93FA|Skyrim.esm",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Give Finn's Lute to Inge",
+    "string": "把芬恩的鲁特琴交给因格",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BardsCollegeFlute",
+    "form_id": "000D9431|Skyrim.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Pantea's Flute",
+    "string": "潘提亚的长笛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BardsCollegeFlute",
+    "form_id": "000D9431|Skyrim.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Find Pantea's Flute",
+    "string": "找到潘提亚的长笛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BardsCollegeFlute",
+    "form_id": "000D9431|Skyrim.esm",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Return Pantea's Flute",
+    "string": "归还潘提亚的长笛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BardsCollegeDrum",
+    "form_id": "000D944F|Skyrim.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Rjorn's Drum",
+    "string": "荣恩的鼓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BardsCollegeDrum",
+    "form_id": "000D944F|Skyrim.esm",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Giraud Gemane of the Bards College has found a clue to the location of the legendary drum of Rjorn. He's asked me to go to Halldir's Cairn and retrieve it.",
+    "string": "吟游诗人学院的吉劳德．格玛尼找到关于荣恩的传奇之鼓的线索。他请求我到霍迪尔石冢把它找回来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BardsCollegeDrum",
+    "form_id": "000D944F|Skyrim.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Find Rjorn's Drum",
+    "string": "找到荣恩的鼓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BardsCollegeDrum",
+    "form_id": "000D944F|Skyrim.esm",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Give Rjorn's Drum to Giraud",
+    "string": "把荣恩的鼓交给吉劳德",
+    "status": "TranslationComplete"
+  }
+]

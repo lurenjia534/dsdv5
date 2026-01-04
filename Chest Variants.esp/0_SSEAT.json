@@ -1,0 +1,1388 @@
+[
+  {
+    "editor_id": "TreasBanditChest_1",
+    "form_id": "03000D62|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasDraugrChest_1",
+    "form_id": "03000D63|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PersonalChestSmall_1",
+    "form_id": "03000D64|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasBanditChestBoss_1",
+    "form_id": "03000D65|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasDraugrChestBoss_1",
+    "form_id": "03000D66|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasWarlockChest_1",
+    "form_id": "03000D67|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasUpperChest_1",
+    "form_id": "03000D68|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasCWImperialChest_1",
+    "form_id": "03000D69|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasBanditChestEMPTY_1",
+    "form_id": "03000D6A|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasForswornChest_1",
+    "form_id": "03000D6B|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasCWSonsChest_1",
+    "form_id": "03000D6C|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasOrcChest_1",
+    "form_id": "03000D6D|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasWarlockChestBoss_1",
+    "form_id": "03000D6E|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGREvidenceChest_1",
+    "form_id": "03000D6F|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasHagravenChest_1",
+    "form_id": "03000D70|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasVampireChest_1",
+    "form_id": "03000D72|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasHagravenChestBoss_1",
+    "form_id": "03000D73|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasVampireChestBoss_1",
+    "form_id": "03000D74|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGGuildChest_1",
+    "form_id": "03000D75|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Guild Chest",
+    "string": "公会箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EvidenceChestPlayerInventory_1",
+    "form_id": "03000D76|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Prisoner Belongings Chest",
+    "string": "囚犯的箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFortSoldierWoundedTentChest_1",
+    "form_id": "03000D77|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasExplorerLootChest_1",
+    "form_id": "03000D78|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasForswornChestBoss_1",
+    "form_id": "03000D7A|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EvidenceChestStolenGoods_1",
+    "form_id": "03000D7B|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Evidence Chest",
+    "string": "证据箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGREvidenceChestUpper_1",
+    "form_id": "03000D7C|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasGiantChest_1",
+    "form_id": "03000D7D|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasGiantChestBoss_1",
+    "form_id": "03000D7E|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasAfflictedChest_1",
+    "form_id": "03000D7F|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasUpperChestEMPTY_1",
+    "form_id": "03000D80|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PlayerHouseChest_1",
+    "form_id": "03000D81|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasOrcChestBoss_1",
+    "form_id": "03000D82|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VendorMiscChestSmall_1",
+    "form_id": "03000D83|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHChest01_1",
+    "form_id": "03000D85|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasDraugrChestBoss_3",
+    "form_id": "03000D86|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasBanditChest_3",
+    "form_id": "03000D87|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasDraugrChest_3",
+    "form_id": "03000D88|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PersonalChestSmall_3",
+    "form_id": "03000D89|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasBanditChestBoss_3",
+    "form_id": "03000D8A|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasWarlockChest_3",
+    "form_id": "03000D8B|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasUpperChest_3",
+    "form_id": "03000D8C|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasCWImperialChest_3",
+    "form_id": "03000D8D|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasBanditChestEMPTY_3",
+    "form_id": "03000D8E|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasForswornChest_3",
+    "form_id": "03000D8F|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasCWSonsChest_3",
+    "form_id": "03000D90|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasOrcChest_3",
+    "form_id": "03000D91|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasWarlockChestBoss_3",
+    "form_id": "03000D92|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGREvidenceChest_3",
+    "form_id": "03000D93|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasVampireChest_3",
+    "form_id": "03000D94|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasHagravenChestBoss_3",
+    "form_id": "03000D95|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasVampireChestBoss_3",
+    "form_id": "03000D96|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGGuildChest_3",
+    "form_id": "03000D97|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Guild Chest",
+    "string": "公会箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EvidenceChestPlayerInventory_3",
+    "form_id": "03000D98|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Prisoner Belongings Chest",
+    "string": "囚犯的箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFortSoldierWoundedTentChest_3",
+    "form_id": "03000D99|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasExplorerLootChest_3",
+    "form_id": "03000D9A|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasForswornChestBoss_3",
+    "form_id": "03000D9B|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EvidenceChestStolenGoods_3",
+    "form_id": "03000D9C|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Evidence Chest",
+    "string": "证据箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGREvidenceChestUpper_3",
+    "form_id": "03000D9D|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasGiantChest_3",
+    "form_id": "03000D9E|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasGiantChestBoss_3",
+    "form_id": "03000D9F|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasAfflictedChest_3",
+    "form_id": "03000DA0|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasUpperChestEMPTY_3",
+    "form_id": "03000DA1|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PlayerHouseChest_3",
+    "form_id": "03000DA2|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasOrcChestBoss_3",
+    "form_id": "03000DA3|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VendorMiscChestSmall_3",
+    "form_id": "03000DA4|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasBanditChest_4",
+    "form_id": "03000DA5|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasDraugrChest_4",
+    "form_id": "03000DA6|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PersonalChestSmall_4",
+    "form_id": "03000DA7|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasWarlockChest_4",
+    "form_id": "03000DA8|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasUpperChest_4",
+    "form_id": "03000DA9|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasCWImperialChest_4",
+    "form_id": "03000DAA|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasBanditChestEMPTY_4",
+    "form_id": "03000DAB|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasForswornChest_4",
+    "form_id": "03000DAC|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasCWSonsChest_4",
+    "form_id": "03000DAD|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasOrcChest_4",
+    "form_id": "03000DAE|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGREvidenceChest_4",
+    "form_id": "03000DAF|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasVampireChest_4",
+    "form_id": "03000DB0|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGGuildChest_4",
+    "form_id": "03000DB1|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Guild Chest",
+    "string": "公会箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EvidenceChestPlayerInventory_4",
+    "form_id": "03000DB3|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Prisoner Belongings Chest",
+    "string": "囚犯的箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFortSoldierWoundedTentChest_4",
+    "form_id": "03000DB4|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasExplorerLootChest_4",
+    "form_id": "03000DB5|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EvidenceChestStolenGoods_4",
+    "form_id": "03000DB6|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Evidence Chest",
+    "string": "证据箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGREvidenceChestUpper_4",
+    "form_id": "03000DB7|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasGiantChest_4",
+    "form_id": "03000DB8|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasAfflictedChest_4",
+    "form_id": "03000DB9|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasUpperChestEMPTY_4",
+    "form_id": "03000DBA|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PlayerHouseChest_4",
+    "form_id": "03000DBB|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VendorMiscChestSmall_4",
+    "form_id": "03000DBC|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasBanditChest_5",
+    "form_id": "03000DBD|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasBanditChest_6",
+    "form_id": "03000DBE|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasDraugrChest_5",
+    "form_id": "03000DBF|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasDraugrChest_6",
+    "form_id": "03000DC0|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PersonalChestSmall_5",
+    "form_id": "03000DC1|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PersonalChestSmall_6",
+    "form_id": "03000DC2|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasWarlockChest_5",
+    "form_id": "03000DC3|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasWarlockChest_6",
+    "form_id": "03000DC4|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasUpperChest_5",
+    "form_id": "03000DC5|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasCWImperialChest_5",
+    "form_id": "03000DC6|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasCWImperialChest_6",
+    "form_id": "03000DC7|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasBanditChestEMPTY_5",
+    "form_id": "03000DC8|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasBanditChestEMPTY_6",
+    "form_id": "03000DC9|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasForswornChest_5",
+    "form_id": "03000DCA|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasForswornChest_6",
+    "form_id": "03000DCB|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasCWSonsChest_5",
+    "form_id": "03000DCC|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasCWSonsChest_6",
+    "form_id": "03000DCD|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasOrcChest_5",
+    "form_id": "03000DCE|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasOrcChest_6",
+    "form_id": "03000DCF|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGREvidenceChest_5",
+    "form_id": "03000DD0|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGREvidenceChest_6",
+    "form_id": "03000DD1|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasVampireChest_5",
+    "form_id": "03000DD2|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGGuildChest_5",
+    "form_id": "03000DD3|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Guild Chest",
+    "string": "公会箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGGuildChest_6",
+    "form_id": "03000DD4|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Guild Chest",
+    "string": "公会箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EvidenceChestPlayerInventory_5",
+    "form_id": "03000DD5|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Prisoner Belongings Chest",
+    "string": "囚犯的箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EvidenceChestPlayerInventory_6",
+    "form_id": "03000DD6|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Prisoner Belongings Chest",
+    "string": "囚犯的箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFortSoldierWoundedTentChest_5",
+    "form_id": "03000DD7|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFortSoldierWoundedTentChest_6",
+    "form_id": "03000DD8|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasExplorerLootChest_5",
+    "form_id": "03000DD9|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasExplorerLootChest_6",
+    "form_id": "03000DDA|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EvidenceChestStolenGoods_5",
+    "form_id": "03000DDB|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Evidence Chest",
+    "string": "证据箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EvidenceChestStolenGoods_6",
+    "form_id": "03000DDC|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Evidence Chest",
+    "string": "证据箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGREvidenceChestUpper_5",
+    "form_id": "03000DDD|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasGiantChest_5",
+    "form_id": "03000DDE|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasGiantChest_6",
+    "form_id": "03000DDF|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasAfflictedChest_5",
+    "form_id": "03000DE0|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasAfflictedChest_6",
+    "form_id": "03000DE1|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasUpperChestEMPTY_5",
+    "form_id": "03000DE2|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PlayerHouseChest_5",
+    "form_id": "03000DE3|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VendorMiscChestSmall_5",
+    "form_id": "03000DE4|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VendorMiscChestSmall_6",
+    "form_id": "03000DE5|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasDraugrChest_1",
+    "form_id": "03000DE8|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasDraugrChest_3",
+    "form_id": "03000DE9|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasDraugrChest_4",
+    "form_id": "03000DEA|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasDraugrChest_5",
+    "form_id": "03000DEB|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasDraugrChest_6",
+    "form_id": "03000DEC|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasBanditChest_1",
+    "form_id": "03000DED|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasBanditChest_3",
+    "form_id": "03000DEE|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasBanditChest_4",
+    "form_id": "03000DEF|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasBanditChest_5",
+    "form_id": "03000DF0|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasBanditChest_6",
+    "form_id": "03000DF1|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasRieklingChest_1",
+    "form_id": "03000DF2|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasRieklingChest_3",
+    "form_id": "03000DF3|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasRieklingChest_4",
+    "form_id": "03000DF4|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasRieklingChest_5",
+    "form_id": "03000DF5|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasRieklingChest_6",
+    "form_id": "03000DF6|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasExplorerLootChest_1",
+    "form_id": "03000DF7|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasExplorerLootChest_3",
+    "form_id": "03000DF8|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasExplorerLootChest_4",
+    "form_id": "03000DF9|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasExplorerLootChest_5",
+    "form_id": "03000DFA|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasExplorerLootChest_6",
+    "form_id": "03000DFB|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasDraugrChestBoss_1",
+    "form_id": "03000DFC|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasDraugrChestBoss_3",
+    "form_id": "03000DFD|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasBanditChestBoss_1",
+    "form_id": "03000DFE|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasBanditChestBoss_3",
+    "form_id": "03000DFF|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasRieklingChestBoss_1",
+    "form_id": "03000E00|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasRieklingChestBoss_3",
+    "form_id": "03000E01|Chest Variants.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  }
+]

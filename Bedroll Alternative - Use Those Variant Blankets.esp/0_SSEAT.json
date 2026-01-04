@@ -1,0 +1,83 @@
+[
+  {
+    "editor_id": "BedRoll_BlanketRedBA",
+    "form_id": "04000805|Bedroll Alternative - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bedroll Blanket",
+    "string": "铺盖卷毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BedRoll_Blanket_KidRedBA",
+    "form_id": "04000806|Bedroll Alternative - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bedroll Blanket",
+    "string": "铺盖卷毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BedRoll_Blanket_HARedBA",
+    "form_id": "04000807|Bedroll Alternative - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bedroll Blanket",
+    "string": "铺盖卷毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BedRoll_BlanketBlueBA",
+    "form_id": "04000808|Bedroll Alternative - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bedroll Blanket",
+    "string": "铺盖卷毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BedRoll_Blanket_KidBlueBA",
+    "form_id": "04000809|Bedroll Alternative - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bedroll Blanket",
+    "string": "铺盖卷毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BedRoll_Blanket_HABlueBA",
+    "form_id": "0400080A|Bedroll Alternative - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bedroll Blanket",
+    "string": "铺盖卷毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BedRoll_BlanketGreenBA",
+    "form_id": "0400080B|Bedroll Alternative - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bedroll Blanket",
+    "string": "铺盖卷毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BedRoll_Blanket_KidGreenBA",
+    "form_id": "0400080C|Bedroll Alternative - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bedroll Blanket",
+    "string": "铺盖卷毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BedRoll_Blanket_HAGreenBA",
+    "form_id": "0400080D|Bedroll Alternative - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bedroll Blanket",
+    "string": "铺盖卷毯子",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,1883 @@
+[
+  {
+    "editor_id": "RiverwoodSleepingGiantInn",
+    "form_id": "000133C6|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Sleeping Giant Inn",
+    "string": "沉睡巨人旅店",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000801|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, er... sorry.",
+    "string": "呃，抱歉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000802|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hehe! Excuse me.",
+    "string": "呵呵！打扰一下",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080C|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did you hear that? You certainly weren't meant to.",
+    "string": "你听到那个了吗？你肯定不该听到这个。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080D|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Please excuse me. My stomach is a little off.",
+    "string": "请原谅，我的胃有点不舒服。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000817|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh! Excuse me.",
+    "string": "哦！打扰了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000818|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "More cheese for the Greybeards?!",
+    "string": "给灰胡子们更多的奶酪吗？！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000823|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh my. Sorry.",
+    "string": "哦，抱歉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000824|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Er - whoops. I beg your pardon.",
+    "string": "呃——哎呀。请原谅。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000830|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I grace you with my once-noble gases!",
+    "string": "我赐予你我的稀有气体（屁）！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000831|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, something just escaped from my buttocks.",
+    "string": "哦，有东西从我屁股里跑出来了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083B|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha! That was funny!",
+    "string": "哈！真有趣！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083C|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I bet you didn't see that coming!",
+    "string": "我打赌你没想到会发生这样的事！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000847|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, excuse me.",
+    "string": "哦，不好意思。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000848|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whoops. Sorry.",
+    "string": "哎呀。对不起。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000803|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh come on, that's just wrong.",
+    "string": "哦，得了吧，那完全不对。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000804|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am not 'impressed'. Impressed? Get it?",
+    "string": "我并不“印象深刻”。印象深刻？懂了吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000807|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I think I might throw up.",
+    "string": "我想我可能要吐了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000808|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh my word. That's one of the worst smells I've ever heard. Er - smelled.",
+    "string": "天哪。那是我闻过的最难闻的气味之一。呃——是闻过的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000805|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The good thing about having a skill like mine is you can blame someone else. It was me! I farted!",
+    "string": "像我这样的本事的好处就是可以把责任推给别人。是我！我放了个屁！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000806|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh please. You've done worse.",
+    "string": "哦，得了吧。你以前做过更糟糕的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080E|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, it's not like I can exactly afford good quality food, is it?",
+    "string": "好吧，我也买不起精美的食物，不是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080F|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I didn't think it was that bad.",
+    "string": "我觉得它没有那么糟糕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000819|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All this fuss over a little gas? Really?",
+    "string": "这点小屁就值得这么大惊小怪？真的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081A|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I broke wind. The end.",
+    "string": "我放了个响屁。完事了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000825|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not going to lie. I honestly thought that would be silent.",
+    "string": "我不打算撒谎。说实话，我本以为那会是无声的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000826|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey, what are you looking at? That wasn't me. It was it was - that guard. Yeah that one, over there.",
+    "string": "嘿，你在看什么？那不是我。是那个——那个守卫。对，就是那边那个。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000832|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What?!",
+    "string": "什麼？！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000833|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I blame it all on Odar's cooking.",
+    "string": "我把这一切都归咎于奥达尔的厨艺。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083D|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I bet bards will write songs about that one.",
+    "string": "我打赌，吟游诗人会为此写歌。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083E|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'd say sorry, but I'm not.",
+    "string": "我本想说对不起，但我没有。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000849|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't look at me. It's the mead, I swear it.",
+    "string": "别看我，我发誓，是蜂蜜酒的原因。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084A|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, that came out worse than I thought.",
+    "string": "哦，结果比我想象的还要糟糕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080B|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? That's not very polite.",
+    "string": "真的吗？那不太礼貌。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000810|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you absolutely have to do that in front of me?",
+    "string": "你非得当着我的面做那件事吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081B|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What in the world was that?",
+    "string": "这到底是怎么回事？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081C|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't be so disgusting.",
+    "string": "别这么恶心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000827|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh come on. That's awful, even by your standards.",
+    "string": "哦，得了吧。即使按照你的标准，那也太糟糕了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000828|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "W-what is... that... smell?",
+    "string": "那……那是什么……味道？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000829|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's not very well mannered, is it now?",
+    "string": "这不太礼貌，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000834|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you mind?",
+    "string": "你介意吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083F|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I feel like it's tickling the inside of my nose.",
+    "string": "我感觉好像有东西在挠我的鼻子里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000840|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you think that's funny? It's not.",
+    "string": "你觉得这很有趣吗？其实并不。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084B|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you mind? That's just bad manners!",
+    "string": "你介意吗？那太没礼貌了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084C|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey! Don't do that, it's horrible.",
+    "string": "嘿！别那么做，太可怕了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000855|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How do Khajiit end disagreements? They hiss and make up.",
+    "string": "卡吉特怎么结束争执？他们嘶嘶作态然后和好。  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000856|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I put on a show for some ghosts once. I got booed off the stage.",
+    "string": "我曾经为一些幽灵表演。我被喝了倒彩轰下了台。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000857|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why don't skeletons fight each other? They don't have the guts!",
+    "string": "为什么骷髅不互相打架？因为他们没有胆！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C8|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I went to High Hrothgar last week. I just wanted to know what all the 'Fus' was about.",
+    "string": "上周我去过高吼峰。我只是想弄清楚\"Fus\"是什么回事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C9|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What does a cow say if you set its tail on fire? Mooo!",
+    "string": "你把牛的尾巴点着它会说什么？哞——！  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CA|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A wizard once asked me to proofread one of his scrolls. I guess you could say it was a spell check.",
+    "string": "一位法师曾让我校对他的卷轴。我想你可以说那是在进行拼写检查。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EE|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What kind of magic makes people sad? Cryomancy.",
+    "string": "哪种魔法会让人感到悲伤？冰系占卜术。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EF|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why did the Khajiit become a guard? Because he was interested in claw enforcement.",
+    "string": "为什么卡吉特会成为一名守卫？因为他热衷于执行爪法。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F0|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A Khajiit walks into a tavern and says 'Give me a mug of your... best... ale'. The innkeeper says, what's with the long paws?",
+    "string": "一只猫人走进酒馆，说道：“给我来一杯你们……最好的……麦芽酒。”店主问道：“你的爪子怎么这么长？”？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091C|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why don't mudcrabs give to charity? Because they're shellfish.",
+    "string": "为什么泥沼蟹不慈善？因为它们很自私。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091D|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you call a parade of rabbits hopping backwards? A receding hare-line.",
+    "string": "你怎么称呼一队倒着跳的兔子？后退的发际线。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091E|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I visited a Redguard vegetable stall the other day. They had curved gourds. Curved. Gourds.",
+    "string": "前几天我去了一个红卫人的蔬菜摊。他们有弯的葫芦。弯的。葫芦。  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000869|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's the first thing wizards do in the morning? They wake up.",
+    "string": "巫师早上第一件事做什么？他们醒来。  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086A|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What kind of dog tells the time? A watch dog.",
+    "string": "什么狗能报时？看门狗。  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086B|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I slept like a log last night. I woke up in a fireplace.",
+    "string": "我昨晚睡得像个木柴。醒来时却在壁炉里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CB|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A horse walks into a tavern. The innkeeper says 'why the long face?'",
+    "string": "一匹马走进酒馆。店主说：“怎么拉长着脸？”",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CC|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A moth priest walks into a bar.  And a chair.  And a table.",
+    "string": "一位飞蛾祭司走进酒吧。还有一把椅子。还有一张桌子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CD|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you call a Thane of Solitude that speaks two languages? Bry-lingual!",
+    "string": "你会怎么称呼一个会说两种语言的孤独领主呢？双语领主！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F4|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you get from a pampered cow? Spoiled milk.",
+    "string": "娇生惯养的牛产什么？被宠坏的罐装奶。  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F5|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A bard threatened to attack me with the neck of his lute. I said 'Is that a fret?'",
+    "string": "一个吟游诗人威胁要用他的鲁特琴琴颈攻击我。我说“那是琴品吗？”",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F6|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's orange and sounds like a parrot? A carrot.",
+    "string": "什么东西是橙色的，听起来像鹦鹉？答案是胡萝卜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091F|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What does a dog say when you tell it a joke? Woof.",
+    "string": "你讲笑话时狗会说什么？汪！  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000920|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What letter in the alphabet holds the most amount of water? C.",
+    "string": "字母表里哪个字母装的水最多？C。  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000921|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you call a hat for your leg? A kneecap.",
+    "string": "你管腿上的帽子叫什么？膝盖帽。  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000875|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well that was pretty obvious. I won.",
+    "string": "那太明显了。我赢了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000876|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, clearly they liked me more.",
+    "string": "好吧，显然他们更喜欢我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000877|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's settled that. You're not funny. I am.",
+    "string": "那就这么定了。你不好笑，我才是。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CE|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, obviously I won that round.",
+    "string": "嗯，显然我赢了那一局。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CF|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The audience definitely laughed more at my jokes.",
+    "string": "我的笑话确实让观众笑得更欢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D0|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Happy now? I claim victory.",
+    "string": "现在高兴了吧？我宣布获胜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F7|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well that went well - for me, obviously.",
+    "string": "嗯，对我来说，显然，事情进展得很顺利。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F8|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I did enjoy wiping the floor with you Ongbarn. Better luck next time, eh?",
+    "string": "确实很享受和翁邦把你打得落花流水。下次好运，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000917|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah, even when I use your voice, I'm funnier than the real you.",
+    "string": "是啊，就算我用你的声音，我也比真正的你更有趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000918|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That wasn't a challenge at all. I'm the clear winner.",
+    "string": "那根本不是挑战。我显然是赢家。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000930|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My name is Lydia and I would definitely say Aperic is funnier than Ongbarn.",
+    "string": "我叫莉迪亚，我肯定会说阿佩里克比翁邦有趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000931|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes. The jester mortal named Aperic is funnier than the one called Ongbarn. Far funnier, in fact.",
+    "string": "是的。那个名叫阿佩里克的凡人小丑比那个叫翁巴恩的小丑更有趣。事实上，有趣得多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000932|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come on lad. Just accept that I'm funnier than you.",
+    "string": "得了吧，小伙子。你就承认我比你更有趣吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000933|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Proper funny me. Not pretend funny like you, you ponce.",
+    "string": "我才是真正的好笑，不像你这种假笑，你这家伙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087A|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That wasn't funny at all.",
+    "string": "这一点也不好笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087B|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come on. That was weak.",
+    "string": "得了吧。那也太弱了吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087C|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heard it before.",
+    "string": "以前听过。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000889|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pathetic.",
+    "string": "可悲。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088A|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Call that a joke?",
+    "string": "这算是个笑话吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088B|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not funny in the slightest.",
+    "string": "一点也不好笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088C|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Huh?",
+    "string": "嗯？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088D|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What? I don't even get it.",
+    "string": "什么？我甚至都没明白。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B9|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Boring!",
+    "string": "无聊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BA|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not funny.",
+    "string": "不好笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BB|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh don't be silly.",
+    "string": "哦，别傻了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E0|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uh - no!",
+    "string": "哦 - 不!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E1|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uh - no!",
+    "string": "哦 - 不!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E2|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Seriously?",
+    "string": "真的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E3|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "People really laugh at this stuff?",
+    "string": "人们真的会为这些东西发笑吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000905|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's not funny.",
+    "string": "这不好笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000906|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're a failure.",
+    "string": "你是个失败者。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000907|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That one was rubbish.",
+    "string": "那部电影真烂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000908|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Huh?",
+    "string": "嗯？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000909|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm Ongbarn. I'm dumb!",
+    "string": "我是翁邦。我是笨蛋！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000926|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm just seriously confused right now.",
+    "string": "我现在真的非常困惑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000927|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's going on?",
+    "string": "發生什麼事了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000928|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I-I, don't get what's happening.",
+    "string": "我，我，不明白发生了什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A1|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These so-called jesters eh?",
+    "string": "这些所谓的弄臣，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A2|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I won that, you agree, right?",
+    "string": "我赢了，你同意吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A3|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll be glad to see the back of that fool.",
+    "string": "我很高兴能摆脱那个傻瓜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A4|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That Aperic is a weird one, right?",
+    "string": "那阿佩里克真是个古怪的人，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D1|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know I'm funnier than Gorthe right? Right?!",
+    "string": "你知道我比戈斯更有趣，对吧？正确的",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D2|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A female jester? Bah, what's that about?",
+    "string": "女小丑？呸，这算怎么回事？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D3|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What in Oblivion just happened?",
+    "string": "湮灭里到底发生了什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000938|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh. It's you.",
+    "string": "哦，是你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000922|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wait? Is that supposed to be me?",
+    "string": "等等？那应该是我吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000923|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you impersonating me?",
+    "string": "你在冒充我吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500093A|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What did you say?",
+    "string": "你说了什么呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500093B|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What was that?",
+    "string": "那是什麼？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500093C|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Say that again! I dare you!",
+    "string": "再说一遍！我赌你敢！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000924|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That doesn't sound like me at all.",
+    "string": "那听起来完全不像我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000925|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stop it. You're messing with my head.",
+    "string": "别这样。你把我弄糊涂了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500093E|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh come on. I'm just as funny as you, if not funnier.",
+    "string": "哦，得了吧。我跟你一样有趣，甚至可能更有趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500093F|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? People seem to laugh at my jokes more than yours.",
+    "string": "真的吗？人们似乎对我的笑话比对你的笑话笑得更厉害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000940|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't think so. My jokes are more original than yours.",
+    "string": "我不这么认为。我的笑话比你的更有创意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000942|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well I guess there's only one way to find out.",
+    "string": "好吧，我想只有一个办法能知道了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000943|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We'll see about that. Let's find out shall we?",
+    "string": "我们拭目以待。让我们来一探究竟，好吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000944|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How about we prove who's funnier then? Or are you scared?",
+    "string": "要不我们比一比，看谁更风趣？还是你害怕了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000946|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A competition. We take turns telling jokes and see who gets more laughs.",
+    "string": "比赛。我们轮流讲笑话，看谁得到的笑声更多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000947|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We each tell our jokes and let the audience decide.",
+    "string": "我们各自讲笑话，然后让观众来决定。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000948|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We both deliver our best jokes and see who laughs the hardest.",
+    "string": "我们各自讲出自己最好的笑话，然后看看谁让人笑得最厉害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092A|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's the difference between a pirate and a fruit farmer? One buries his treasure, the other treasures his berries.",
+    "string": "海盗和果农有什么区别？一个埋藏财宝，一个珍惜浆果。  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092B|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why shouldn't pigs drive carriages? Because they'll hog the road.",
+    "string": "为什么猪不该驾驶马车？因为它们会霸占整条路。  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500094A|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you call an elf that is a member of the Dark Brotherhood? A murdermer.",
+    "string": "你如何称呼一个属于黑暗兄弟会的精灵？杀人犯。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500094B|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why do shy people like to live in Haafingar? Because they like Solitude.",
+    "string": "为什么害羞的人喜欢住在哈芬加尔？因为他们喜欢独处。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500094C|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's the weather like on Solstheim? Yesterday - sunny. Today - raining. Tomorrow wind.",
+    "string": "索尔斯特海姆的天气怎么样？昨天是晴天。今天下雨。明天有风。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092C|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What crime is it when a Spriggan kills another Spriggan? Tree-son.",
+    "string": "树精杀死另一个树精算什么罪？树精叛国罪。  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092D|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A sweetroll walks into a tavern and asks for a pint of ale. The innkeeper says 'sorry, we don't serve food here'.",
+    "string": "一个甜卷走进酒馆要一品脱麦芽酒。店主说‘对不起，我们这里不供应食物’。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500094E|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Where in Skyrim would you take your footwear to get repaired? The Sole Cairn.",
+    "string": "在天际中，你会去哪里修理鞋子呢？去鞋匠凯恩那里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500094F|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Who can enter the Emperor's chamber? Nobody Septim.",
+    "string": "谁可以进入皇帝的寝宫？只有西吉姆。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000950|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do the Daedra make their clothes out of? Mala-cloth.",
+    "string": "戴达拉族用什么材料制作衣服？玛拉布。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092E|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When do ducks wake up? At the quack of dawn.",
+    "string": "鸭子什么时候醒来？破晓时分。  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092F|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I asked a guard if he knew the alphabet. He said no, but as I was walking away, the guard said 'wait! I know U'.",
+    "string": "我问一个守卫是否认识字母表。他说不认识，但当我走开时，守卫说：‘等等！我认识你！’",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000952|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I got kicked out of the college in Solitude. You might say I was dis-bard.",
+    "string": "我被孤独学院开除了。你也可以说我被吊销了执照。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000953|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why do Khajiit wear armor? Fur protection of course.",
+    "string": "为什么卡吉特人要戴盔甲？当然是为了保护他们的毛皮。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000954|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What type of beer do they drink in Dawnstar? Pale ale.",
+    "string": "在晨星，他们喝什么类型的啤酒？淡色艾尔啤酒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000929|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I - uh - what you did? Isn't that - uh cheating?",
+    "string": "我——呃——你刚才做了什么？这不是作弊吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000956|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you kidding? They clearly liked me better?",
+    "string": "你在开玩笑吗？他们明明更喜欢我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000957|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh come on. I won. Is there something wrong with your ears?",
+    "string": "哦，得了吧。我赢了。你的耳朵有问题吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000958|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're unbelievable. I give up.",
+    "string": "你真是难以置信。我放弃了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AD|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, hello Ongbarn.",
+    "string": "哦，你好，翁邦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AE|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes of course it's me. Who else would it be?",
+    "string": "当然是我了。还会是谁呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D4|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yep, it's me alright.",
+    "string": "没错，就是我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D5|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well that's not much of a hello, is it?",
+    "string": "好吧，这算不上是打招呼，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F9|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ongbarn! My nemesis!",
+    "string": "哦，翁邦！我的克星！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FA|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, fancy running into you here.",
+    "string": "哦，真没想到在这儿碰到你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500095B|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well if it isn't the famous Ongbarn.",
+    "string": "哎呀，这不是大名鼎鼎的翁邦吗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500095C|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh look what the cat dragged in.",
+    "string": "哦，看看那只猫拖来了什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AF|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Still not funny I see.",
+    "string": "我看还是不好笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B0|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The man with the worst jokes in Skyrim.",
+    "string": "天际省讲笑话最烂的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D6|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Still telling those things you dare call 'jokes' eh?",
+    "string": "还在讲那些你所谓的“笑话”吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D7|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So Ongbarn, still struggling to make people laugh I take it?",
+    "string": "所以，翁邦，我看你还在努力逗人笑呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FB|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My name is Ongbarn, and I'm not funny.",
+    "string": "我叫翁邦，我并不幽默。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FC|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh I tell really bad jokes and people laugh just to be polite.",
+    "string": "哦，我讲的笑话真的很糟糕，人们只是出于礼貌才笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500095E|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The unfunniest man in Skyrim.",
+    "string": "天际大陆上最无趣的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500095F|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The teller of pathetic jokes.",
+    "string": "讲低俗笑话的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B1|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh come on now, you're not even a proper jester, you're just not funny.",
+    "string": "哦，得了吧，你甚至算不上一个合格的逗乐者，你根本就不搞笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B2|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Here's the facts. I make people laugh. You don't.",
+    "string": "事实就是，我能逗人笑，而你不能。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D8|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, at the risk of repeating myself, you're not very funny are you?",
+    "string": "好吧，冒着重复的风险，你其实并不怎么有趣，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D9|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm pretty sure you know what I said, but to be clear, I insulted your joke telling abilities.",
+    "string": "我敢肯定你知道我说了什么，但我要明确一点，我侮辱了你的讲笑话能力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FD|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, I was doing your voice, that's exactly what you sound like. I'm Ongbarn and I sound like a whiny little skeever.",
+    "string": "是的，我在模仿你的声音，你听起来就是这样。我是翁邦，我听起来就像一只爱抱怨的小老鼠。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FE|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha! This never gets old.",
+    "string": "哈！这永远都不过时。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000961|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You heard me well enough.",
+    "string": "你听得够清楚了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000962|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you deaf, as well as bland?",
+    "string": "你是聋子，还这么无趣吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B3|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No, no, no. I'm so much funnier than you, it's not even funny.",
+    "string": "不不不。我比你有趣多了，根本不是一个级别。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B4|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I always get more of a laugh than you do.",
+    "string": "我总是比你更引人发笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DA|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now 'that' was funny. But really? I'm much funnier than you are.",
+    "string": "现在，那确实很有趣。但说真的？我比你有趣多了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DB|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You can't seriously believe that you're funnier than me? You're not even funnier than Hurbjorf in Winterhold, and he's seriously not funny.",
+    "string": "你不会真的以为你比我更有趣吧？你甚至还不如冬堡的赫布约夫有趣，而他真的不搞笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FF|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm funnier than you, even when I am you.",
+    "string": "即使我变成你，我也比你更有趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000900|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Silly little man. You're not funny at all.",
+    "string": "愚蠢的小个子。你一点也不好笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000964|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't think so.",
+    "string": "我不這麼認為。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000965|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You really think you're funny?",
+    "string": "你真的觉得自己很幽默吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B5|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This should be interesting. Go on.",
+    "string": "这应该会很有趣。继续吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B6|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, what do you have in mind?",
+    "string": "那么，你有什么想法吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DC|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm interested in proving it, what's the deal?",
+    "string": "我对证明这件事很感兴趣，到底是怎么回事？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DD|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh I bet this is going to be fun.",
+    "string": "哦，我打赌这会很有趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000901|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Spit it out then.",
+    "string": "那就说出来吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000902|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's hear this cunning plan of yours then.",
+    "string": "那么，让我们听听你那个狡猾的计划吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000967|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What are you suggesting?",
+    "string": "你有什么建议？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000968|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Go on. I'm listening.",
+    "string": "繼續。我在聽。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B7|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well. I accept your challenge.",
+    "string": "很好。我接受你的挑战。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B8|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's do it then. I will prove I'm funnier.",
+    "string": "那就这么办吧。我会证明我比他更有趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DE|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let the joke battle commence. You can go first.",
+    "string": "笑话大战开始吧。你先来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DF|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh this is a nice idea, I'll wipe the floor with you.",
+    "string": "哦，这是个好主意，我会把你打得满地找牙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000903|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I accept. Let's go.",
+    "string": "我接受。我们走吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000904|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bring it on then. But you just know I'll be imitating you.",
+    "string": "那就来吧。但你肯定知道，我会模仿你的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500096A|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're on. You go first.",
+    "string": "你上吧。你先来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500096B|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's go then. You can start it off.",
+    "string": "那么开始吧。你可以先开始。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C5|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you call a pile of cats? A meow-ntain.",
+    "string": "你怎么称呼一堆猫？喵山。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C6|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Where would you find a mudcrab with no legs? Where you left it.",
+    "string": "你能在哪儿找到一条没有腿的泥沼蟹？在你把它丢弃的地方。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C7|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've got a dog you know. It's very good at smithing. If you kick it, it makes a bolt for the door.",
+    "string": "你知道的，我养了一只狗。它非常擅长打铁。如果你踢它，它会迅速逃向门口。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F1|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Where do vampires keep their money? In a blood bank.",
+    "string": "吸血鬼把钱存在哪里？血液银行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F2|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's a cat's favorite color? Purr-ple.",
+    "string": "猫最喜欢什么颜色？喵紫色。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F3|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do Mjoll the Lioness and Grelod the Kind have in common? They both have the same middle name.",
+    "string": "母狮姆乔尔和仁慈的格雷洛德有什么共同之处？他们俩的中间名相同。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000919|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why did the thieves Guild split up? There was a Rift-en the ranks.",
+    "string": "盗贼公会为何分裂？因为他们呆在裂谷。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091A|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do the true sons and daughters of Skyrim wear when it rains? A Storm cloak!",
+    "string": "天际真正的儿女下雨天穿什么？风暴斗篷！  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091B|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you call a fish with no eye? A fsh.",
+    "string": "你怎么称呼一条没有眼睛的鱼？福石。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000975|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "An orc walks into a bar. The bar breaks.",
+    "string": "一个兽人走进酒吧。酒吧崩塌了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000976|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What is the most common crime for blacksmiths? Forgery.",
+    "string": "铁匠最常见的犯罪是什么？伪造。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000977|Jesters of Skyrim Patch AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why did the farmer bury his money in a field. He wanted to make his soil rich. ",
+    "string": "为什么农民要把钱埋在田里呢？他想让他的土地变得肥沃。 ",
+    "status": "TranslationComplete"
+  }
+]

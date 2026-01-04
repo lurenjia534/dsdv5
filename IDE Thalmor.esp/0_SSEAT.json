@@ -1,0 +1,4799 @@
+[
+  {
+    "editor_id": "aaThalmorAncanoSoulGemFragment",
+    "form_id": "05000A18|IDE Thalmor.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Aetherial Echo",
+    "string": "以太回响",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorJdatharr",
+    "form_id": "05000964|IDE Thalmor.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "J'datharr",
+    "string": "贾达萨尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeJusticiarsHeadquarters",
+    "form_id": "00071FFE|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Thalmor Headquarters",
+    "string": "梭莫总部",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaMarkers",
+    "form_id": "0005EAC7|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Marker Storage Unit",
+    "string": "标记存储单元",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际省",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0002E1A6|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My duty is simple - oversee the Thalmor Justiciars, and make sure they perform their duties admirably.",
+    "string": "我的职责很简单--监督梭莫审判官,确保他们出色地履行职责。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000302E5|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Empire, in its wisdom, has come to recognize Talos worship as a barbaric remnant of a bygone age.",
+    "string": "帝国以其智慧,已认识到对塔洛斯的崇拜是过往时代的野蛮遗存。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000302E6|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Talos was a heroic man, but not a god. It pains the Altmer that we must remind our younger cousins of the difference.",
+    "string": "塔洛斯是一位英雄人物,但并非神明。令我们高等精灵痛心的是,现在甚至必须向年轻的表亲们提醒这一区别。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000302E7|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We only want what is best for Tamriel. Surely, the rebels will accept peace when they realize this.",
+    "string": "我们只希望泰姆瑞尔得到最好的局面。当叛军意识到这一点时,他们肯定会接受和平。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000302E8|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I could swear I've seen you somewhere before...",
+    "string": "我敢发誓以前在哪儿见过你......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000410FB|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Welcome. I don't believe we've met. I am Elenwen, the Thalmor Ambassador to Skyrim.",
+    "string": "欢迎。我想我们未曾谋面。我是艾琳温,梭莫驻天际省的大使。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000410FB|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And you are...?",
+    "string": "那么你是......?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000910|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You were supposed to deal with the problem in Winterhold. Instead, you come to feast at my home. How, I wonder, might our wine advance your campaign?",
+    "string": "你本该去处理冬堡的问题,却跑来我家赴宴。我倒想问问,我们的美酒如何能助你推进战事?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000910|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Oh, but fret not... You are a guest, after all. Perhaps the most important one here, where the Thalmor's interests are concerned.",
+    "string": "哦,但请不必忧虑......毕竟你是客人。在涉及梭莫利益的地方,你或许是最重要的一位。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000908|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Welcome. I am Elenwen, the Thalmor Ambassador to Skyrim.",
+    "string": "欢迎。我是艾琳温,梭莫驻天际省的大使。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformMarkarthMOndolemarReturnTopic",
+    "form_id": "00064775|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I found this amulet in Ogmund's house.",
+    "string": "我在昂蒙德的房子里找到了这个护身符。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00064783|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, there we have it. This will be all I need to have Ogmund taken care of. ",
+    "string": "啊,这就对了。有了这个,我就能让昂蒙德得到应有的处置了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00064783|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I would like to personally thank you on behalf of myself and the Thalmor for your assistance. Here, for your work.",
+    "string": "我谨代表我个人及先祖神州,为你的协助致以诚挚的谢意。这是给你的酬劳。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000729EE|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh! Um, he he... Hold on... I... I can explain...",
+    "string": "哦!呃,呵呵......等等......我......我可以解释......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A49|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh! I... I didn't know if you'd return...",
+    "string": "哦!我......我不知道你还会回来......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000729F3|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wait... who in blazes is this?",
+    "string": "等等......这到底是谁?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D950B|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And so we meet again. But this time I know who and what you really are.",
+    "string": "于是我们又见面了。但这一次,我清楚你的真实身份与本质。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQSTGreetGeneralNeverMentionedBranchTopic",
+    "form_id": "000C3505|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "General Tullius never mentioned you...",
+    "string": "图留斯将军从未提起过你......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000C3569|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Galmar never mentioned a mission here...",
+    "string": "加尔玛从未提过这里的任务......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQSTMidGoingWithMeTopic",
+    "form_id": "000C3517|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why aren't you going in there?",
+    "string": "你为什么不进去?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000802|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You stand before a Mer of superior lineage. Consider yourself graced by my presence.",
+    "string": "你正站在一位血统高贵的精灵面前。我的现身,是你莫大的荣幸。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000863|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's rare to encounter another Mer of proper breeding in these northern wastes.",
+    "string": "在这北境荒原上,能遇到另一位血统纯正的精灵实属罕见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000864|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your presence here is almost as surprising as it is welcome.",
+    "string": "你的到来既令人惊喜,又同样受欢迎。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000865|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I trust you find these... provincial surroundings as trying as I do.",
+    "string": "我相信你和我一样,也觉得这些......乡土环境令人难以忍受。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000866|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your people's exile has taught them resilience, if nothing else.",
+    "string": "你们族人的流亡经历,至少教会了他们坚韧不拔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000867|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Dunmer have always been... pragmatic in their approach to survival.",
+    "string": "暗精灵在生存之道上向来......务实。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000868|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm curious how one of your heritage views our presence in Skyrim. It's inconsequential, of course... but still a matter of interest.",
+    "string": "我很好奇,你的某个血统如何看待我们在天际的存在。当然,这无关紧要......但依然是个有趣的话题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000869|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your ancestors once showed the Empire proper respect. A pity that tradition has... deteriorated.",
+    "string": "你的祖先曾对帝国表现出应有的敬意。可惜这一传统已...衰败了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder if you truly understand what your people's rebellion costs.",
+    "string": "我在想,你是否真正明白你们族人的叛乱付出了怎样的代价。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not all Nords are blind to reason, it seems.",
+    "string": "看来并非所有诺德人都蛮不讲理。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your Empire's capitulation saved countless lives. Some call it wisdom.",
+    "string": "你帝国的投降拯救了无数生命。有人称之为智慧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I trust you remember the terms your leaders agreed to.",
+    "string": "我相信你还记得你们领袖同意的条件。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "An Imperial who understands his place. How... refreshing.",
+    "string": "一个明白自己位置的帝国人。多么......令人耳目一新。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "An Imperial who understands her place. How... refreshing.",
+    "string": "一个明白自己位置的帝国人。多么......令人耳目一新。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000870|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your mixed heritage grants you certain... perspectives others lack.",
+    "string": "你的混血血统赋予了你一些他人所不具备的......独特视角。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000871|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Bretons have always been adaptable. It's a useful trait.",
+    "string": "布莱顿人向来善于适应。这是个有用的特质。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000872|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your people understand the value of... accommodation.",
+    "string": "你们族人明白......妥协的价值。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000873|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your brethren show proper deference to their betters. There's wisdom in their obedience.",
+    "string": "你的同族对尊长表现出应有的敬意。他们的顺从中蕴含着智慧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000874|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is pleasing to see your kind embracing civilization. The Green Pact is a relic of a primitive age. Its time is over.",
+    "string": "看到你们这类人拥抱文明,令人欣慰。绿色契约是原始时代的遗物,它的时代已经结束了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000875|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "At least some Mer retain appropriate reverence.",
+    "string": "至少有些精灵还保持着应有的敬畏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000876|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your people's warrior traditions are... notable, if unrefined.",
+    "string": "你们族人的战士传统......虽显粗犷,却令人瞩目。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000877|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Orcs have learned much about strength through adversity.",
+    "string": "兽人通过逆境学到了许多关于力量的真谛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000878|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your kind was taught the necessity of firm governance, as it should be.",
+    "string": "你们这类人,理应被教导坚定治理的必要性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000879|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your people's resistance was admirable, if ultimately futile.",
+    "string": "你们族人的抵抗令人钦佩,尽管终究徒劳无功。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The sands are an obstacle, true - but they cannot halt destiny.",
+    "string": "沙海固然是阻碍,但它无法阻挡命运的脚步。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your people understand the cost of defiance, and those who don't will soon be educated.",
+    "string": "你的族人明白反抗的代价,而那些不明白的人,很快就会被教育明白。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your people's flexibility serves them well in these times.",
+    "string": "你们族人的灵活性在这样的时期对他们大有裨益。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Khajiit understand the wisdom of choosing the winning side.",
+    "string": "卡吉特人深谙选择胜者一方的智慧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "At least your kind knows when to bend rather than break.",
+    "string": "至少你们这类存在懂得何时该屈而非折。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your people remain distant from these northern conflicts, but they won't stay hidden forever.",
+    "string": "你们的族人虽远离北方的纷争,但不会永远藏匿下去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000880|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Saxhleel have always been... practical in their loyalties.",
+    "string": "萨克斯希尔人在忠诚方面向来......务实。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000881|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your kind understands survival better than most.",
+    "string": "你们这类存在比大多数都更懂得生存之道。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarLineage0",
+    "form_id": "05000805|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you mean by 'superiorly bred Mer'?",
+    "string": "你所说的'血统优良的精灵'是什么意思?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000806|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The gods have endowed us Altmer with numerous gifts. Most evidently, our extended lifespans grant us perspectives lacking in the 'simpler' races.",
+    "string": "诸神赐予我们高精灵诸多天赋。最显著的是,我们漫长的寿命赋予了我们那些'较简单'种族所缺乏的视野。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000806|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Combine that with our inherent magical aptitude, the wisdom of our divine ancestry, and a refined taste for the finer things-",
+    "string": "再加上我们与生俱来的魔法天赋,神圣血统的智慧,以及对高雅事物的精致品味--",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000806|IDE Thalmor.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "We are, in short, divinely anointed to guide the destiny of Tamriel. It is our burden, and our right.",
+    "string": "简而言之,我们受神恩膏,注定引领泰姆瑞尔的命运。这是我们的重担,也是我们的权利。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarLineage1",
+    "form_id": "05000807|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What an arrogant thing to say.",
+    "string": "这话说得可真傲慢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000808|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Arrogance implies unfounded pride. I speak of observable fact.",
+    "string": "傲慢意味着无端的骄傲。我所说的是可观察到的事实。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000808|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Though I will acknowledge that humans possess certain... admirable qualities, despite their limitations.",
+    "string": "尽管我承认人类具备某些......令人钦佩的品质,尽管他们有其局限性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Arrogance implies unfounded pride. I speak of observable fact. You'll do well to address this truth, beast.",
+    "string": "傲慢意味着无端的骄傲。我所说的是可观察到的事实。你最好正视这个真相,野兽。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000809|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It seems your prolonged dwelling among the plebeians has led you to neglect your birthright and dignity.",
+    "string": "看来你长期混迹于平民之中,已让你忘却了自己的出身与尊严。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000809|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "No matter. Once the Great Golden Eagle arrives for this land, you will all remember what it means to be Altmer.",
+    "string": "无妨。待伟大的金鹰降临这片土地,你们都将重新铭记身为高等精灵的意义。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000809|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "That doesn't make us any better than the other races inherently.",
+    "string": "这并不代表我们天生就比其他种族更优越。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, the Dunmer's misguided perspective. You mistake survival for superiority.",
+    "string": "啊,黑暗精灵那误入歧途的视角。你把生存错当成了优越。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080A|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "True greatness comes from inherent gifts, not merely enduring suffering; or else the poor and the wretched would be the masters.",
+    "string": "真正的伟大源于与生俱来的天赋,而非仅仅忍受苦难;否则穷人与可怜虫便将成为主宰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080A|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "We Dunmer have proven ourselves superior through hardship and trial.",
+    "string": "我们丹莫人历经磨难与考验,已证明自身更为优越。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Our cousins possess some advantages over men, certainly; but they lack the Altmer's... refinement.",
+    "string": "我们的表亲在某些方面确实比人类更具优势,但他们缺少高精灵的那种......精致。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080B|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "All things considered, we are the first among Mer.",
+    "string": "总而言之,我们是精灵族中的佼佼者。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080B|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "What about the Bosmer?",
+    "string": "那波兹莫呢?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, sometimes, one can easily forget that your people are also... technically among the Mer kind.",
+    "string": "啊,有时候,人们很容易忘记,你们族人......严格来说也属于精灵族。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080C|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Indeed, strength is truth. This is why the Altmer preside over the greatest state of Tamriel, while your people... Well, need I go on?",
+    "string": "确实,力量即是真理。正因如此,高等精灵才统治着泰姆瑞尔最强大的国度,而你的族人......呵,还需要我继续说下去吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080C|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Strength is the only truth, puny Altmer.",
+    "string": "力量才是唯一的真理,渺小的高精灵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarzExit0",
+    "form_id": "0500080E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's talk about something else.",
+    "string": "我们聊点别的吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarLineage2",
+    "form_id": "05000810|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Indeed, the Altmer are naturally superior.",
+    "string": "确实,高等精灵天生就更为优越。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Our heritage does grant us many advantages.",
+    "string": "我们的传统确实赋予了我们许多优势。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000862|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well. Your cooperation has been noted, citizen.",
+    "string": "很好。公民,你的配合已被记录在案。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000855|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well spoken. Your cooperation has been noted, citizen.",
+    "string": "说得好。公民,你的配合已被记录在案。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000852|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well spoken. Your patriotism has been noted, citizen.",
+    "string": "说得好。公民,你的爱国之心已被记录在案。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000825|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We were the first and the last line of defense against Oblivion's treachery. Daedric filth and vampire-kind alike learned to fear our order.",
+    "string": "我们是抵御湮灭阴谋的第一道,也是最后一道防线。无论是迪德拉的污秽还是吸血鬼族群,都学会了畏惧我们的秩序。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000825|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "In the aftermath of Naarifin's treachery, I distinguished myself by hunting down hundreds who dared whisper of Daedric rot.",
+    "string": "在纳里芬背叛之后,我因追捕了数百名胆敢提及迪德拉腐化之人而声名鹊起。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000825|IDE Thalmor.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "In return, I was made a commander in the Justiciary. It was a reward as much as a burden.",
+    "string": "作为回报,我被任命为司法部的指挥官。这既是奖赏,也是一种负担。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000812|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Precisely. It's refreshing to speak with someone who understands our natural superiority isn't mere boasting, but biological reality.",
+    "string": "正是如此。与明白我们天然优越性并非虚言而是生物学现实的人交谈,着实令人耳目一新。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarStationed0",
+    "form_id": "05000815|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why are you stationed in Skyrim?",
+    "string": "你为什么驻扎在天际省?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000816|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I possess particular skills in identifying heretical worship. Rooting out Talos devotion requires a high degree of... finesse, you see.",
+    "string": "我在识别异端崇拜方面颇有专长。铲除对塔洛斯的信仰需要极高的...技巧,你明白的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarStationed1",
+    "form_id": "05000817|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What kind of skills?",
+    "string": "什么样的技能?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000818|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My methods are refined through experience. That's all you need to know.",
+    "string": "我的方法经由经验提炼而成。你只需知道这一点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarStationed1a",
+    "form_id": "05000819|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That doesn't say anything.",
+    "string": "这什么也没说明。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your curiosity about Thalmor operations is noted, citizen. Perhaps you have reasons for such interest?",
+    "string": "公民,你对梭莫行动的关注已被记录在案。或许你对此有特别的理由?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your curiosity about Thalmor operations is noted, citizen. Perhaps I can enlighten you.",
+    "string": "公民,你对梭莫行动的关注已被记录在案。或许我能为你解惑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081F|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Back in Alinor, I served as a proud officer of the Divine Prosecution. The methods I acquired there have served my new role splendidly.",
+    "string": "在阿利诺尔,我曾是神圣审判团的一名骄傲军官。在那里习得的方法,为我如今的新角色带来了极大的助益。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081F|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Please, I want to know more about you personally. (Persuade)",
+    "string": "拜托了,我想多了解你本人。(说服)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarFFMarkarthM0",
+    "form_id": "0500081C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You want to hunt the Skald? What harm does one old man do?",
+    "string": "你想猎杀那个吟游诗人?一个老人能造成什么危害?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Talos worship is like a disease.",
+    "string": "崇拜塔洛斯就像一种疾病。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081D|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It spreads from one 'harmless' believer to another, undermining the White-Gold Concordat and the peace we've worked tirelessly to maintain.",
+    "string": "它从一个'无害'的信徒蔓延到另一个,侵蚀着白金协定和我们不懈努力维持的和平。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000843|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your assistance was... efficient. Though I find myself curious about your motivations.",
+    "string": "你的协助...很有效率。不过我很好奇你的动机。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000843|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I've helped you find out Ogmund's truth. Now what?",
+    "string": "我已经帮你查清了昂蒙德的真相。现在呢?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000821|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't suppose you've heard of that name?",
+    "string": "我想你应该没听说过这个名字吧?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000822|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I trust you are familiar with that name, given our long tradition of safeguarding Altmeri society.",
+    "string": "鉴于我们守护高精灵社会的悠久传统,我相信你对那个名字并不陌生。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarStationed1ai",
+    "form_id": "05000823|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, I know the Divine Prosecution.",
+    "string": "是的,我知道神圣审判庭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarStationed1aii",
+    "form_id": "05000826|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Remind me about them.",
+    "string": "提醒我一下他们的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarStationed1aiii",
+    "form_id": "05000828|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've never heard of the Divine Prosecution.",
+    "string": "我从未听说过神圣审判庭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarStationed1ai1",
+    "form_id": "0500082A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Naarifin's treachery?",
+    "string": "纳里芬的背叛?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Naarifin - Auriel curse his name - was once the Supreme Commander of the Aldmeri army. The golden child of the Thalmor, if you would.",
+    "string": "纳里芬--愿奥瑞埃尔诅咒其名--曾是先祖神洲军队的最高指挥官。若你愿意这么说,他便是梭莫的金童。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082B|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And yet, even as the Great Eagle's triumph seemed assured, the betrayer defiled himself with Daedric pacts, grasping for power.",
+    "string": "然而,就在巨鹰的胜利看似已成定局之际,背叛者却与迪德拉缔结污秽契约,贪婪地攫取着力量。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082B|IDE Thalmor.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Had his treachery been known sooner, all of Tamriel would now enjoy the Thalmor's peace.",
+    "string": "若他的背叛能早些被察觉,整个泰姆瑞尔如今早已沐浴在梭莫创造的和平之中。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarStationed1ai2",
+    "form_id": "0500082C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So, the Thalmor hate the Daedra on top of Talos?",
+    "string": "所以,梭莫除了憎恨塔洛斯,还憎恨迪德拉?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Unlike the false god who never was, the Daedra are very much real - and insidious.",
+    "string": "与那位从未存在过的伪神不同,迪德拉是真实存在的--且阴险狡诈。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082D|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "By eradicating the worship of Talos, we purge a dangerous falsehood; and by destroying Daedric cults, we prevent another Oblivion Crisis.",
+    "string": "通过根除对塔洛斯的崇拜,我们清除了一个危险的谬误;而通过摧毁迪德拉教派,我们则防止了另一场湮灭危机。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarStationed1ai3",
+    "form_id": "0500082E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How is hunting Daedra worshippers different from Talos worshippers?",
+    "string": "追捕迪德拉信徒与追捕塔洛斯信徒有何不同?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Different prey, similar methods.",
+    "string": "猎物不同,方法相似。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082F|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Heresy has a stench. All we must do is sniff it out, trace the prints... then smother the flame.",
+    "string": "异端自有其腐臭。我们只需循迹追踪,找到火种......然后将其扑灭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarStationed1ai2a",
+    "form_id": "05000830|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Not all Daedra are evil.",
+    "string": "并非所有迪德拉都是邪恶的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000831|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've enjoyed our conversation, so I will pretend I never heard such heretical words.",
+    "string": "我很享受我们的谈话,所以我会假装从未听过如此异端的言论。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000831|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Utter them again, and your curiosity about our methods will be satisfied... permanently.",
+    "string": "再说一遍,你对我们行事方式的好奇心将会得到满足......永久地。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarStationed1ai1a",
+    "form_id": "05000832|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds like you're blaming one man for your country's failure.",
+    "string": "听起来你是在把你们国家的失败归咎于一个人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000833|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Our fleet rivaled the All Flags Navy; our cities shone with a wealth forgotten since the days before the gates of Oblivion opened.",
+    "string": "我们的舰队曾与万旗海军分庭抗礼;我们的城市闪耀着自湮灭之门开启前便已失落的辉煌财富。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000833|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Was the 'Supreme Commander' to blame for wasting away all our cards for his doomed heresy? I assure you - he most certainly was.",
+    "string": "那位'最高指挥官'是否该为将所有底牌都浪费在他那注定失败的异端邪说上而负责?我可以肯定地告诉你--他绝对难辞其咎。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarFFMarkarthM1",
+    "form_id": "05000834|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're just murderers in uniforms.",
+    "string": "你们不过是穿着制服的杀人犯。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000835|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is there something you wish to confess? Or perhaps you count yourself among his... devoted?",
+    "string": "你有什么想坦白的吗?还是说,你自认是他......的追随者?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I trust you're not a sympathizer to these heretics. Such... associations... rarely end favorably.",
+    "string": "我相信你不是这些异端的同情者。这类......关联......很少能善终。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000837|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am quite skilled at rooting out Talos worship, citizen. Those who harbor... inappropriate devotions... rarely remain hidden for long.",
+    "string": "我相当擅长揪出塔洛斯的崇拜者,市民。那些心怀...不当信仰...的人,很少能长久隐藏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000837|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I do hope you'll reconsider your position. Now begone, and let your betters do what must be done.",
+    "string": "我真希望你能重新考虑你的立场。现在滚吧,让你那些更优秀的人去做该做的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarFFMarkarthM2",
+    "form_id": "05000838|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Forget it. I'm not helping you persecute an old man.",
+    "string": "算了。我不会帮你迫害一个老人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000839|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How... interesting. Most citizens are eager to assist the Thalmor in maintaining order. Your reluctance is quite telling.",
+    "string": "......有意思。大多数市民都乐于协助梭莫维持秩序。你的抗拒态度倒是很能说明问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarFFMarkarthM2a",
+    "form_id": "0500083B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't want to get involved.",
+    "string": "我不想掺和进去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Neutrality in matters of heresy is itself a form of complicity. I wonder what secrets you're protecting.",
+    "string": "在异端事务上保持中立,本身就是一种共谋。我很好奇你在守护什么秘密。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarFFMarkarthM2b",
+    "form_id": "0500083D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's not my business.",
+    "string": "这不关我的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Everything that threatens the Concordat is everyone's business. Your indifference suggests... sympathies.",
+    "string": "任何威胁协约的事物都事关众人。你的漠然暗示着......某种同情。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarFFMarkarthM2c",
+    "form_id": "0500083F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I won't spy for you.",
+    "string": "我不会为你做间谍。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000840|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Spy? How dramatic. Though your choice of words reveals much about your loyalties.",
+    "string": "间谍?真够戏剧性的。不过你的措辞倒是暴露了不少关于你的忠诚度。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarFFMarkarthM3",
+    "form_id": "05000841|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I better get back to it then.",
+    "string": "那我最好还是回去继续吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000842|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course you do.",
+    "string": "你当然知道。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000845|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What drove a human to aid the Thalmor so readily?",
+    "string": "是什么让一个人类如此轻易地就帮助了梭莫?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000846|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What drove a Dunmer to aid the Thalmor so readily?",
+    "string": "是什么让一个黑暗精灵如此轻易地就帮助了梭莫?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000847|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What drove a Bosmer to aid the Thalmor so readily?",
+    "string": "是什么让一个波兹莫如此轻易地就帮助了梭莫?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000848|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What drove an Orc to aid the Thalmor so readily?",
+    "string": "是什么让一个兽人如此轻易地就帮助了梭莫?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000849|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What drove a Khajiit to aid the Thalmor so readily?",
+    "string": "是什么让一个虎人如此轻易地就帮助了梭莫?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What drove a... An Argonian like you to aid the Thalmor so readily?",
+    "string": "是什么让一个...像你这样的亚龙人如此轻易地就帮助了梭莫?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What drove someone like you to aid the Thalmor so readily?",
+    "string": "是什么让你这样的人如此轻易地就帮助了梭莫?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarFFMarkarthMHelped1",
+    "form_id": "0500084C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's my duty as an Altmer to support our cause.",
+    "string": "作为一位高精灵,支持我们的事业是我的职责。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000854|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Justice doesn't care about race or politics.",
+    "string": "正义无关种族或政治。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000857|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I believe in following the law.",
+    "string": "我相信要遵守法律。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000856|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Order benefits everyone, regardless of politics.",
+    "string": "秩序对所有人都有益,无关政治立场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarFFMarkarthMHelped2",
+    "form_id": "0500084F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Dominion's goals align with my own beliefs.",
+    "string": "统治者的目标与我的信念相符。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000858|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Our peoples know well how the world can be poisoned by mere men who blaspheme the sanctity of Aetherius. Your good faith has been noted, citizen.",
+    "string": "我们的人民深知,仅凭凡人之躯亵渎光界圣洁,便足以荼毒世间。公民,你的诚意已被记录在案。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000858|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Talos worship is as false as the Tribunal was.",
+    "string": "对塔洛斯的崇拜与审判庭一样虚假。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, greed - the one sin that drives the world. Fret not, continue to prove your worth, and you will have your reward.",
+    "string": "啊,贪婪--这驱使世界的原罪。不必忧虑,继续证明你的价值,奖赏自会到来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "The gold was worth the effort.",
+    "string": "这些金子值得这番努力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The one thing we can all appreciate about your people. Your cooperation has been noted, citizen.",
+    "string": "对于你们族人,有一点我们所有人都很欣赏。公民,你的配合已被记录在案。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I don't share human superstitions about Talos.",
+    "string": "我不认同人类对塔洛斯的迷信。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarFFMarkarthMHelped3",
+    "form_id": "05000851|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Maintaining order benefits all Mer.",
+    "string": "维持秩序对所有精灵都有益。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000850|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We all live for the betterment of our kind. Thank you, my compatriot.",
+    "string": "我们皆是为族群的昌盛而生。谢谢你,我的同胞。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000859|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I have my own reasons for opposing Imperial traditions.",
+    "string": "我反对帝国传统自有我的理由。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sometimes cooperation is wiser than resistance.",
+    "string": "有时,合作比抵抗更为明智。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "The Thalmor's methods are effective.",
+    "string": "梭莫的手段很有效。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarFFMarkarthMHelped4",
+    "form_id": "0500085E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Honestly, I was just curious to see what'd happen to that old man.",
+    "string": "说实话,我只是好奇那个老人会有什么下场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah. Rarely do I appreciate one's curiosity.",
+    "string": "啊。我很少欣赏他人的好奇心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarFFMarkarthMHelped5",
+    "form_id": "05000860|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "My reasons are my own.",
+    "string": "我的理由属于我自己。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarForsworn0",
+    "form_id": "05000883|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What are your thoughts on the Forsworn?",
+    "string": "你对弃誓者有什么看法?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000884|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A persistent nuisance. Those heathens lack the organization to be a true threat, but their guerrilla tactics have cost me good soldiers.",
+    "string": "一个持续不断的麻烦。那些异教徒缺乏组织性,构不成真正的威胁,但他们的游击战术让我损失了不少优秀的士兵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000884|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Fanatics are always... troublesome to root out.",
+    "string": "狂热的信徒总是......难以根除。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarForsworn1",
+    "form_id": "05000885|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you lost many men to them?",
+    "string": "你有很多手下死在他们手里吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000886|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "More than I care to admit. They know these mountains better than we do, and desperation makes them dangerous.",
+    "string": "比我愿意承认的还要多。他们比我们更熟悉这些山脉,而绝望让他们变得危险。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000886|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Still, those Daedra-worshipping savages are merely delaying the inevitable.",
+    "string": "尽管如此,那些崇拜迪德拉的野蛮人只是在拖延不可避免的命运。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarForsworn2",
+    "form_id": "05000887|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's my kinsmen you're talking about. (Reachman)",
+    "string": "你谈论的是我的族人。(瑞驰人)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000888|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your 'kinsmen' cling to a past that never truly existed. The Reach belongs to whoever can hold it.",
+    "string": "你的'同胞们'紧抱着一个从未真正存在过的过去。落锤省属于能掌控它的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000888|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And that is not a collection of painted savages living in caves.",
+    "string": "那可不是一群住在洞穴里,浑身涂彩的野蛮人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarForsworn3",
+    "form_id": "05000889|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you see them as more than just rebels?",
+    "string": "你是否认为他们不仅仅是反叛者?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They have... tenacity, I'll grant them that. But courage without wisdom is merely elaborate suicide.",
+    "string": "他们确实......有股韧劲,这点我承认。但缺乏智慧的勇气,不过是精心策划的自杀罢了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarForsworn4",
+    "form_id": "0500088B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are they really that much of a threat?",
+    "string": "他们真的构成那么大的威胁吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All I'll say is that they're like wolves - individually weak, but dangerous when cornered or in packs.",
+    "string": "我只能说,他们就像狼一样--个体弱小,但被逼入绝境或成群结队时就很危险。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've heard a rather curious rumor about you...",
+    "string": "我听到一个关于你的相当奇怪的传闻......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarDA111",
+    "form_id": "05000891|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What rumor?",
+    "string": "什么谣言?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000892|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Something about cannibals in the Hall of the Dead. Disgusting Daedric practices, no doubt.",
+    "string": "关于亡者之厅里的食人族。肯定是些令人作呕的迪德拉仪式。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000892|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Curious how some reports have associated these heathens to you.",
+    "string": "有些报告将这些异教徒与你联系起来,真是令人好奇。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000893|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Word has reached me about a certain 'group' you are associated with. A cult that has the most depraved dietary practices.",
+    "string": "我听说你与某个'团体'有关联。那是个有着最堕落饮食习惯的邪教。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000893|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Surely someone of your... standing wouldn't involve themselves in such blasphemy?",
+    "string": "以您这样的...身份地位,想必不会参与如此亵渎之事吧?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000894|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear you dealt with some... unpleasant individuals. Namira's wretched followers, if rumors are true.",
+    "string": "我听说你处理了一些......令人不快的家伙。如果传言属实,是娜米拉的那些可悲追随者。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarDA111a",
+    "form_id": "05000895|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm investigating it.",
+    "string": "我正在调查此事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000896|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Investigation is wise. The Daedra corrupt everything they touch. Put an end to whatever foulness you find, and know that the Eagle is watching.",
+    "string": "调查是明智之举。迪德拉会腐化它们触及的一切。终结你所发现的任何污秽,并记住,雄鹰正注视着你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000899|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever your reasons, consort with the Daedra and you invite corruption. Know that you are now watched... 'citizen'.",
+    "string": "无论你有何理由,与迪德拉为伍即是自招腐化。须知你现已被监视......'公民'。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000899|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "What I do is my business.",
+    "string": "我做什么是我自己的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Indeed. Daedric cults are a cancer that must be excised. You've done the city a great service, and the Thalmor thanks you for that.",
+    "string": "确实如此。迪德拉教派是必须根除的毒瘤。你为这座城市立下了大功,梭莫为此向你致谢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "They got what they deserved.",
+    "string": "他们罪有应得。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarDA111b",
+    "form_id": "05000897|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's none of your concern.",
+    "string": "这不关你的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000898|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Daedric cults are everyone's concern, for their corruption seeps into society and poisons the mind. The Eagle does not forget - nor should you.",
+    "string": "魔神崇拜事关所有人,因其腐化会渗入社会,毒害人心。雄鹰不曾遗忘--你也不该遗忘。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Then rest easy, and know that the Eagle's eyes are always upon you... to keep you safe from those Talos and Daedric heathens, naturally.",
+    "string": "那么请安心休息,要知道鹰眼时刻注视着你......自然是为了保护你免受那些塔洛斯和迪德拉异教徒的侵害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I don't know anything about them. (Lie)",
+    "string": "我对他们一无所知。(说谎)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Quite right. The Daedra prey on the weak-minded, turning them into abominations. Your intervention was... commendable.",
+    "string": "说得对。迪德拉会侵蚀意志薄弱者,将他们变成可憎之物。你的干预......值得称赞。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Someone had to stop them.",
+    "string": "总得有人阻止他们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A1|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Still no word from Agent Sanyon? He's been off to Falkreath for awhile.",
+    "string": "桑永特工那边还是没消息吗?他去佛克瑞斯已经有一阵子了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A3|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No word for the past two weeks, Sir.",
+    "string": "长官,过去两周没有任何消息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A5|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bloody savages! Can't this damned wilderness manage one day without trying to kill my agents?",
+    "string": "这些该死的野蛮人!这片该死的荒野就不能有一天不试图杀害我的特工吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A9|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir. We've heard words of a secret conclave in the mountains. Another heretical Talos cult.",
+    "string": "先生。我们听说山中有一场秘密集会。又一个异端的塔洛斯教派。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AB|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A Talos cult next to the Forsworn? Where did you hear this?",
+    "string": "塔洛斯教派就在弃誓者旁边?你从哪儿听说的?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AD|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In the tavern, Sir.",
+    "string": "在酒馆里,先生。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AF|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you would only use your brain for a day, I wouldn't have to do everything by myself.",
+    "string": "如果你哪怕肯动一天脑子,我也不必事事亲力亲为。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B1|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Those Daedric heathens would carve up any Talos heretics faster than we could find them. Whoever told you that was setting us up.",
+    "string": "那些迪德拉异教徒宰杀塔洛斯异端的速度,比我们找到他们还快。告诉你这话的人是在陷害我们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B3|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My apologies, Sir. The failure is mine... Still, I see now who I must 'question' for this deliberate misinformation.",
+    "string": "抱歉,先生。这是我的失职......不过,我现在明白该去'审问'谁了,竟敢故意提供虚假情报。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B8|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How is your family in Lillandril?",
+    "string": "你在里兰卓尔（夏暮岛城市）的家人还好吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BA|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They are well, Sir - as any family would be, with a daughter who serves the Great Golden Eagle.",
+    "string": "他们一切都好,大人--任何家庭若有一位侍奉伟大金鹰的女儿,都会如此。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BC|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Excellent. Then picture their faces when you come home dishonored and unemployed after your next failure.",
+    "string": "很好。那就想象一下,当你下次失败后,蒙羞失业地回到家时,他们脸上的表情吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaOndolemarTalos0",
+    "form_id": "050008BE|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I worship Talos. What are you going to do about it?",
+    "string": "我崇拜塔洛斯。你打算怎么办?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BF|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I applaud your courage, if entirely for its comedic value.",
+    "string": "我赞赏你的勇气,如果这勇气完全是为了喜剧效果的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BF|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "As a matter of fact, having Talos's beloved fellow humans perform the task would heighten the comedy considerably.",
+    "string": "事实上,让塔洛斯所钟爱的人类同胞来执行这项任务,无疑会大大增添喜剧效果。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BF|IDE Thalmor.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Guards! There's a Talos heretic here! Do your job and uphold the White-Gold Concordat!",
+    "string": "卫兵!这里有个塔洛斯的异端!履行职责,维护白金协定!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C2|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah. The architect of my party's... disruptions. You are bold to reveal yourself to the eyes of the Thalmor.",
+    "string": "啊。我队伍中...那些骚乱的策划者。你竟敢在梭莫的注视下现身,真是胆大包天。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C9|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Jarl Igmund. I have received a message from Ambassador Elenwen.",
+    "string": "伊格蒙德领主。我收到了艾琳温大使传来的消息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CB|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Out with it.",
+    "string": "说出来吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CD|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "'Most Esteemed Jarl Igmund of Markarth, I must remind you that the Talos heresy is a threat to the hard-won peace between our states.'",
+    "string": "'尊敬的马卡斯城领主伊格蒙德,我必须提醒您,塔洛斯异端是对我们两国间来之不易的和平的威胁。'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CF|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "'Yet, the False God's shrine remains standing. If the Court refuses to cooperate, then more needless violence and hardships are assured.'",
+    "string": "然而,伪神的神庙依然矗立。若法庭拒绝合作,那么更多无谓的暴力与苦难便无可避免。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D1|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you done?",
+    "string": "你结束了吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D3|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes. Might I urge you to pay her message its due care.",
+    "string": "是的。我能否恳请您对她的信息给予应有的重视。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D5|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tell your mistress I'll consider her advice carefully. Now go, I have a city to tend to.",
+    "string": "告诉你的女主人,我会仔细考虑她的建议。现在走吧,我还有一座城市需要照料。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMQ2011",
+    "form_id": "050008D7|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I did it only to investigate the dragons.",
+    "string": "我这么做只是为了调查龙族。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D8|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "At whose behest, I wonder? One would not normally associate dragons with the Dominion... unless otherwise instigated.",
+    "string": "我很好奇,这是受谁指使?通常人们不会将龙与帝国联系起来......除非另有煽动。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008ED|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How curious that you clung to the Blades, whose minds were so utterly divorced from reality.",
+    "string": "真是奇怪,你竟会追随那些与现实彻底脱节的刀锋卫士。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMQ2012",
+    "form_id": "050008D9|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd do it all over again.",
+    "string": "我会再做一遍。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DA|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A grave mistake to provoke the Thalmor.",
+    "string": "激怒梭莫是一个严重的错误。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMQ2013",
+    "form_id": "050008DB|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You must've mistaken me for someone else. (Lie)",
+    "string": "你一定是认错人了。(说谎)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DC|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your skills in deceit have dulled since the party.",
+    "string": "自从那次聚会后,你的欺骗技巧就生疏了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMQ2011a",
+    "form_id": "050008DD|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Blades thought you were behind the dragons.",
+    "string": "刀锋会认为龙的出现是你搞的鬼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DE|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So more fishes had slipped through the net, as I always suspected...",
+    "string": "果然有更多漏网之鱼,正如我一直怀疑的那样......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMQ2011b",
+    "form_id": "050008DF|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's between me and my source.",
+    "string": "那是我和我的线人之间的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E0|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So you cling to the one whose mind was so utterly divorced from reality? How... loyal.",
+    "string": "所以你执意追随那个与现实彻底脱节的人?真是......忠心耿耿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E2|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be assured that the Eagle always snatches its quarry in the end.",
+    "string": "请放心,雄鹰终将擒获它的猎物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E4|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Know that the Thalmor never forgets transgressions. But fret not - your utility to the Dominion outweighs your indiscretions... currently.",
+    "string": "要知道,梭莫从不忘记冒犯之举。但不必担心--你对帝国的利用价值,目前仍胜过你的过失。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E7|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The traitor Ancano has forsaken his oaths to the Thalmor and seized the Artifact for himself. He must be eliminated, and you will be our instrument.",
+    "string": "叛徒安卡诺背弃了对梭莫的誓言,将神器据为己有。必须将其铲除,而你将是我们执行此事的工具。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E6|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The dragons are a persistent hindrance to the Dominion's designs. You, however, are the one arrow sharp enough to pierce their hearts.",
+    "string": "龙族是帝国宏图大业中挥之不去的阻碍。而你,正是那支足以刺穿他们心脏的利箭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E9|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do as you are required - and perhaps it needs not be animosity between us.",
+    "string": "按你的要求去做--或许我们之间不必心存敌意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EC|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I sense traces of Aetherial magicka on you. There can be no mistake - you are a survivor of Winterhold's incident. One of the apprentices, I presume.",
+    "string": "我在你身上感应到了以太魔力的痕迹。不会有错--你是冬堡事件的幸存者。我猜,是学徒之一吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EC|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Before you take any action you would regret - listen. Ancano has betrayed the Thalmor as much as he has betrayed you.",
+    "string": "在你做出任何会后悔的举动之前--听我说。安卡诺背叛了梭莫,正如他背叛了你一样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EC|IDE Thalmor.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "By seizing the Artifact, the traitor has recklessly unleashed a power fit to topple states. He aspires above his station, spurning the Eagle's boon.",
+    "string": "叛徒夺取圣物,鲁莽释放了足以倾覆邦国的力量。他觊觎超越自身地位之物,竟敢藐视雄鹰的恩赐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMG051",
+    "form_id": "050008EE|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is that so? Maybe you're just upset he didn't give the power to you.",
+    "string": "是这样吗?也许你只是因为他没把权力交给你而不高兴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMG052",
+    "form_id": "050008F0|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I thought so. His actions were too reckless to be orchestrated by the Thalmor.",
+    "string": "我也这么想。他的行为太过鲁莽,不像是梭莫人策划的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F1|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see your mind remains clear, despite the recent tragedies at your College. Good... You'll need sound judgment to destroy the traitor.",
+    "string": "看来你的头脑依然清醒,尽管学院最近发生了那些惨剧。很好......你需要清醒的判断力来消灭那个叛徒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMG053",
+    "form_id": "050008F2|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't believe you. The Thalmor are behind all this!",
+    "string": "我不信你。这一切都是梭莫在背后搞鬼!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A6A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you actually believe I'm so gullible?! You are literally WEARING it!",
+    "string": "你真以为我这么好骗吗?!你明明就穿在身上!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A68|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I think you're lying. I think you're trying to keep the mask for yourself!",
+    "string": "我认为你在撒谎。你是想自己留下那个面具吧!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A26|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ignorance is strong out here, it seems!",
+    "string": "看来此地的愚昧之风颇为盛行!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A22|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, one can ask the same about YOU.",
+    "string": "嗯,同样的问题也可以问问你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A09|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What can an apprentice, chasing petty tasks and begging for a Professor's nod, possibly understand of 'meaning'?",
+    "string": "一个追逐琐碎任务,乞求教授点头的学徒,又能对'意义'理解多少呢?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A09|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "If Tolfdir told you to dive into the Sea of Ghosts for some rusted trinket, you would do it without thought. All for a scrap of approval.",
+    "string": "如果托夫迪尔让你潜入幽灵之海寻找生锈的小饰品,你也会不假思索地照做。这一切不过是为了换取一丝认可。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A09|IDE Thalmor.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "There is no meaning to your life. Never will be. Not unless you take matters into your own hands...",
+    "string": "你的生命毫无意义。永远不会有。除非你亲自插手......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009DF|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A pointless inquiry, but let us be clear so you may finally be silent: my station is ordained. Yours is contingent.",
+    "string": "一个毫无意义的追问,但为了让你最终能安静下来,我们不妨把话说清楚:我的地位是注定的,而你的则取决于条件。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009DF|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My research in Alinor birthed industries. A contribution so significant, the Thalmor appointed me their envoy to this... charitable endeavor.",
+    "string": "我在艾琳诺的研究催生了诸多产业。这份贡献如此重大,以至于梭莫任命我为他们派驻这项......慈善事业的使节。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F4|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Think of the Dominion what you will. Our goal is order. Our mandate is prosperity. And we will remove any obstacle to that stability.",
+    "string": "无论你对自治领有何看法,我们的目标是秩序,我们的使命是繁荣。我们将清除任何阻碍这一稳定的障碍。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A41|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fine! If you won't take the job, you can at least serve as a lesson for the next fool who thinks to cross me!",
+    "string": "好!既然你不接这活儿,至少也能给下一个胆敢忤逆我的蠢货当个教训!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F7|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ancano has made himself an enemy of the State. Every breath he takes is a blight upon Skyrim, and tenfold upon Alinor.",
+    "string": "安卡诺已成为国家的敌人。他每一次呼吸都是对天际省的玷污,更是对阿利诺尔的十倍亵渎。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F7|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Slay him, and restore order to your College. Slay him, and be rewarded by the Eagle.",
+    "string": "斩杀他,恢复你学院的秩序。斩杀他,鹰将赐予你奖赏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMG051a",
+    "form_id": "050008F8|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I will kill Ancano - but not for you.",
+    "string": "我会杀了安卡诺--但不是为了你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F9|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It matters not what you fight for, so long as the fighting is done.",
+    "string": "为何而战并不重要,只要战斗持续下去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMG051b",
+    "form_id": "050008FA|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ready your payment.",
+    "string": "准备好你的酬劳。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500090F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your reward awaits. But for now - indulge yourself. Consider the food and wine a sample of the rewards that await, if your service proves valuable.",
+    "string": "你的报酬在等着你。不过现在--请尽情享受。这些美食与美酒,就当作是未来酬劳的样品,前提是你的服务能证明其价值。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FB|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your reward awaits - do claim it before Skyrim sinks as Winterhold did.",
+    "string": "你的报酬在等着你--趁天际还没像冬堡一样沉没,快去领取吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMG051c",
+    "form_id": "050008FC|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why can't your people kill Ancano?",
+    "string": "为什么你们的人杀不了安卡诺?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FD|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A rodent knows its barn, and Ancano is nothing if not the shrewdest rat.",
+    "string": "鼠辈识其巢,安卡诺若非最狡黠之鼠,则无物可称。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FD|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "His tenure is a weapon he now turns against us; he knows our methods and has countered every move.",
+    "string": "他的任期如今成了他用来对付我们的武器;他熟知我们的方法,并已化解了每一步行动。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000901|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A withered feather plucked from the Eagle, and peace dawns once more on Winterhold.",
+    "string": "从鹰身上拔下一根枯萎的羽毛,冬堡重归安宁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000901|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "You have done both Skyrim and Alinor a great service by removing the traitor Ancano... and such heroism ought to be rewarded.",
+    "string": "你铲除叛徒安卡诺,既为天际省也为艾琳诺立下大功......如此英勇之举理应获得奖赏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMG081",
+    "form_id": "05000902|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Keep your gold. I didn't do it for the Thalmor.",
+    "string": "你的金子自己留着吧。我这么做不是为了梭莫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000903|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yet I insist.",
+    "string": "但我坚持。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMG082",
+    "form_id": "05000904|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Very well.",
+    "string": "很好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000905|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Eagle rewards faithful service, and yours has been extraordinary. May this gold serve as a lasting reminder of that fact.",
+    "string": "雄鹰嘉奖忠实的效劳,而你的功绩尤为卓著。愿这黄金成为此事的永恒见证。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorElenwenMG083",
+    "form_id": "05000906|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You shrug off the blame for Ancano's actions all so easily.",
+    "string": "你如此轻易地就将安卡诺行为的责任推卸得一干二净。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000907|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Dominion seeks only what is best for this world. Ancano would doom it all for his own selfish, reckless ambition.",
+    "string": "至高议会只求为这个世界谋求最好的未来。安卡诺却会因其自私鲁莽的野心而毁灭这一切。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500090A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your victory against the Vampire Lord Harkon has been the talk of Haafingar - even in this very embassy. Allow me to thank you for the sun's grace.",
+    "string": "你击败吸血鬼领主哈孔的事迹已是海芬加领--乃至这座大使馆内--热议的话题。请允许我为这份阳光的恩典向你致谢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500090B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My colleagues spoke highly of you, Legate. Thanks to you, the heretical rebellion has been quelled, and the Eight once more receive proper reverence.",
+    "string": "我的同僚们对您赞誉有加,军团长。多亏了您,异端叛乱得以平息,八圣灵重获应有的尊崇。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500090D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My colleagues spoke of your victories against the rebels. Your valor at the Battle of Whiterun was particularly noteworthy.",
+    "string": "我的同事们谈及了你对抗叛军的胜利。你在白漫城战役中的英勇表现尤为引人注目。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500090D|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I bid you to continue the good fight, to quell this heretical rebellion and restore the Eight to their proper reverence.",
+    "string": "我命你继续这场正义之战,平息这场异端叛乱,让八圣灵重获应有的尊崇。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500090C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My colleagues spoke of your exploits in the Civil War. Your valor at the Battle of Whiterun was particularly noteworthy.",
+    "string": "我的同事们谈论过你在内战中的英勇事迹。你在白漫城之战中的表现尤为引人注目。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500090C|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Though your allegiance is... unfortunate, today we celebrate peace. You are welcome here, provided you respect it.",
+    "string": "尽管你的效忠对象...令人遗憾,但今天我们庆祝和平。只要你尊重和平,这里就欢迎你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500090E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is always a pleasure to meet the Arch-Mage of Winterhold, considering the great service you have done us.",
+    "string": "冬堡的首席法师,鉴于您为我们所做的巨大贡献,见到您总是令人愉快。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000914|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is a pleasure to meet the new Thane in Haafingar's court. May Solitude prosper together with Alinor.",
+    "string": "很高兴能在海芬加宫廷见到新任的领主。愿独孤城与艾琳诺一同繁荣昌盛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000912|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do indulge yourself. Consider this feast a sample of the luxuries awaiting those whose interests align with the Dominion.",
+    "string": "尽情享受吧。请将这场盛宴视为一份样品,预示着那些与帝国利益一致者将享有的奢华未来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000916|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm sure you are interested in Thalmor affairs, but I am hardly the person someone of your station should speak to.",
+    "string": "我确信你对梭莫事务很感兴趣,但以你的身份,实在不该与我这样的人交谈。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000917|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You seem to have confused me with my colleagues.",
+    "string": "你似乎把我跟我的同事搞混了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000918|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Surely you were bound for the tavern and have merely wandered into the wrong place.",
+    "string": "你肯定是打算去酒馆,只是不小心走错了地方。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000919|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't believe we have any business with each other.",
+    "string": "我想我们之间没什么好谈的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope our interests will one day be truly aligned; though in many ways, they already do.",
+    "string": "我希望有朝一日我们的利益能真正一致;尽管在许多方面,它们已然如此。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The dragons remain a disturbance. I trust you will continue to rid Skyrim of them.",
+    "string": "龙族仍是祸患。我相信你会继续为天际清除它们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Thalmor have no business with wanderers like you.",
+    "string": "梭莫与你这样的流浪者无关。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Surely you belong elsewhere.",
+    "string": "你肯定不属于这里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Get out of my way, plebeian.",
+    "string": "滚开,庶民。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000920|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You address a member of the Thalmor. Consider your words wisely, and speak with due reverence.",
+    "string": "你正与一名梭莫成员对话。请字斟句酌,言语间务必保持应有的敬意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000922|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We have many methods to extract secrets. Perhaps you are here to explore some of them?",
+    "string": "我们有许多方法可以挖掘秘密。或许你正是为此而来,想要探寻其中一二?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000921|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you bring useful information? I didn't think so. Go somewhere you're wanted.",
+    "string": "你带来了有用的信息吗?我想没有。去一个需要你的地方吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do not test my patience.",
+    "string": "不要考验我的耐心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000976|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So this is what passes for a college outside the Dominion. No wonder the Empire lost the war.",
+    "string": "原来这就是自治领之外所谓的学院水准。难怪帝国会输掉那场战争。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000974|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am Ancano's personal guard. His safety in this... College is my responsibility.",
+    "string": "我是安卡诺的私人护卫。他在这个......学院里的安全由我负责。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000977|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My master is far above your station. You will address him with reverence, or not at all.",
+    "string": "我的主人远非你所能企及。你当以敬畏之心称呼他,否则就免开尊口。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000975|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Keep your distance from Ancano, or you will soon know the consequences.",
+    "string": "离安卡诺远点,否则你很快就会知道后果。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500098E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Been short on coin lately... Shouldn't have gambled it all with that Khajiit.",
+    "string": "最近手头有点紧......真不该把所有的钱都拿去跟那个虎人赌。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500098F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Those two Khajiit in the bunkhouse... they seem simple enough, but there's something in their smiles that chills my spine.",
+    "string": "营房里的那两个虎人......他们看起来挺单纯,可他们笑容里藏着的东西让我脊背发凉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500098C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Would you know Etienne by any chance? He's my closest friend. Helped me out in my darkest hour.",
+    "string": "你认识艾蒂安吗?他是我最亲密的朋友。在我最艰难的时刻帮助过我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500098D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Etienne and I trust each other with our lives. That kind of bond is a rare commodity in Riften... let alone the Ratway.",
+    "string": "艾蒂安和我生死相托。这种情谊在裂谷城已是稀罕物......更别提鼠道了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000991|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Maybe Etienne will help me with the Khajiit's debt. He's always so busy with Guild business though...",
+    "string": "也许艾蒂安会帮我处理虎人的债务。不过他总是忙于公会事务......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000990|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Those Khajiit's eyes... they see far more than they let on. It is unsettling.",
+    "string": "那些虎人的眼睛......它们看到的远比表现出来的要多。这令人不安。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000992|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Few Khajiit are allowed into the city. But if you have the right connections, you can do anything in Riften...",
+    "string": "很少有虎人被允许进入这座城市。但如果你有合适的人脉,在裂谷城你可以为所欲为......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000994|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see you are one of the few those idiot Nords let in. Congratulations.",
+    "string": "看来你是那些愚蠢的诺德人允许进入的少数人之一。恭喜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000996|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Show your claws at the right time, and those Nords will never dare bully you.",
+    "string": "在恰当的时机亮出你的利爪,那些诺德人就再也不敢欺负你了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000993|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So many Khajiit traffick Skooma and worse. They give our people a bad name.",
+    "string": "许多虎人都在走私斯库玛甚至更糟的东西。他们败坏了我们族人的名声。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000995|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lady Maven has been kind to my husband and I. A Khajiit always remembers her debts.",
+    "string": "梅文女士对我和我的丈夫一直很友善。卡吉特人永远不会忘记她的恩情。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000997|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have nothing more to say to you. Go away.",
+    "string": "我没什么可对你说的了。走开。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000998|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My wife is all I've got in this cold country.",
+    "string": "在这寒冷的国度,我的妻子是我唯一的依靠。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000999|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thanks to Maven, my wife and I are given a place in this city.",
+    "string": "多亏了马雯,我和妻子在这座城市有了安身之所。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500099C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "To think, my own wife was one of them... All those years sharing the same roof, and she gave not a single sign.",
+    "string": "想想看,我自己的妻子竟然也是他们中的一员......这么多年同住一个屋檐下,她竟没有露出丝毫破绽。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500099D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If only I could bring my wife back, just to ask if it was all real... Now, I'm left with only silence and doubt.",
+    "string": "要是我能把妻子带回来,哪怕只是问问这一切是否真实......如今,留给我的只有沉默与怀疑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500099A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Anequina's sun is a fading memory here in Riften's filth... But people like us take what refuge we can.",
+    "string": "安奎娜的太阳在裂谷城的污秽中已成褪色的记忆......但像我们这样的人,只能在力所能及之处寻找庇护。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500099B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I miss the feeling of warm sands in my paws. But I'm alive... It's all that matters.",
+    "string": "我怀念爪间温暖沙粒的感觉。但我还活着......这才是最重要的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500099E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have nothing more to say to you. Why don't you go bother someone else?",
+    "string": "我没什么可对你说的了。你为什么不去烦别人呢?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A61|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well? Why are you still here? Don't you have... places... to be?",
+    "string": "嗯?你怎么还在这儿?你不是有......地方......要去吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A62|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You've done enough here. Now leave me be.",
+    "string": "你在这里已经做得够多了。现在别来烦我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A31|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah. If it isn't the face I least want to see right now...",
+    "string": "啊。这不是我现在最不想看到的脸吗......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A32|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They all bought my story, so I would appreciate it if you keep your mouth shut about my mission.",
+    "string": "他们都信了我的说辞,所以如果你能对我的任务守口如瓶,我会很感激。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A33|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope that was my last disguise mission... But a mere agent doesn't get to choose.",
+    "string": "希望这是我最后一次伪装任务......但区区一个特工可没得选。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000926|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How is the visiting scholar adjusting in Winterhold?",
+    "string": "访问学者在冬堡适应得如何?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000928|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Winterhold is a far cry from Lillandril, but he is adjusting well and is prepared to engage in academic exchange, Mistress Elenwen.",
+    "string": "冬堡虽与里兰卓尔（夏暮岛城市）相去甚远,但他适应得很好,并已准备好进行学术交流,艾琳温女士。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't expect him to learn anything of academic substance in Winterhold, but maintaining our presence in the local magical community is vital.",
+    "string": "我并不指望他能在冬堡学到什么学术真谛,但维持我们在当地魔法社群中的存在至关重要。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course. I will make sure he understands his role.",
+    "string": "当然。我会确保他明白自己的职责。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000931|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What news of the disturbance in Winterhold?",
+    "string": "冬堡的骚乱有什么新消息?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000933|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Our visiting scholar's report was long on words and short on new information. Mostly, he's repeating what we already know.",
+    "string": "我们访问学者的报告长篇大论,却鲜有新信息。他基本上只是在重复我们已经知道的内容。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000935|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch him closely, and make sure he produces results... Oh, do remind me, what is his name again?",
+    "string": "盯紧他,确保他拿出成果......对了,提醒我一下,他叫什么名字来着?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000937|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ancano, Mistress Elenwen.",
+    "string": "安卡诺,艾琳温女士。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500093C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Synod are on an expedition in Skyrim. Our sources suggest they are after the same thing as us.",
+    "string": "辛诺德正在天际省进行考察。我们的情报显示,他们也在追寻与我们相同的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500093E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let the Imperials have their little adventure. My concern is our scholar in Winterhold - his reports have grown worryingly scarce.",
+    "string": "让帝国人去进行他们的小冒险吧。我担心的是我们在冬堡的学者--他的报告变得令人担忧地稀少。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000940|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I... do not know, Mistress Elenwen. Neither he nor his subordinate has made contact according to schedule.",
+    "string": "我......不知道,艾琳温女士。他和他的下属都未按计划联系。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000942|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever they found in Winterhold proved enough to seduce our scholar. Go to Winterhold next dawn, rectify his priorities.",
+    "string": "他们在冬堡的发现足以诱惑我们的学者。明日拂晓前往冬堡,纠正他的轻重缓急。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000944|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By your orders, Mistress Elenwen.",
+    "string": "遵命,艾琳温女士。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000949|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What news of the situation in Winterhold?",
+    "string": "冬堡的情况有什么新消息?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500094B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The traitor has seized the Artifact and killed Winterhold's Arch-Mage. We tried sending assassins... none have returned.",
+    "string": "叛徒已夺取神器,并杀害了冬堡的首席法师。我们曾派遣刺客前去......无一生还。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500094D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's his treacherous subordinate. Of course...",
+    "string": "是他那个背信弃义的下属。当然了......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500094F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Aldmeri Council will demand answers, and Skyrim will see blood. Who must stand to face the accusations? The Ambassador.",
+    "string": "阿尔德梅里议会将要求给出解释,天际省将血流成河。谁必须站出来面对指控?大使。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000951|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ancano, Ancano... Death would be such a cheap ending for you.",
+    "string": "安卡诺,安卡诺......死亡对你来说未免太过轻松的结局了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000956|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How was your latest mission, comrade?",
+    "string": "同志,你最近的任务进行得怎么样?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000958|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph. You know them heretics - always dying before they break. I've only managed to catch stragglers.",
+    "string": "哼。你也知道那些异端--总是在崩溃前就死了。我只抓到过几个掉队的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500095A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I could give you a few pointers if you want... over a glass of wine tonight, maybe.",
+    "string": "如果你愿意的话,我可以给你一些建议......或许今晚可以边喝杯酒边聊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500095C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You flirt. But I'd much rather learn how you made those cultists scream...",
+    "string": "你这是在调情。但我更想知道你是怎么让那些邪教徒尖叫的......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorEstormoAncano0",
+    "form_id": "05000979|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who's Ancano to you?",
+    "string": "安卡诺对你来说是谁?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000987|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am his personal guard. Dare touch him, and my magic shall end your misery. You need not concern yourself with anything beyond that.",
+    "string": "我是他的私人护卫。胆敢碰他,我的魔法便会终结你的痛苦。除此之外,你无需操心任何事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorEstormoMG0",
+    "form_id": "0500097B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't like your attitude.",
+    "string": "我不喜欢你的态度。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500097C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I merely told you the truth. To your kind, there isn't even a need to decorate my words.",
+    "string": "我只是告诉你真相。对你们这类存在,甚至无需修饰我的言辞。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorEstormoMG1",
+    "form_id": "0500097D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "My kind? What do you mean?",
+    "string": "我的同类?你是什么意思?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500097E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why, a wretch who has mingled with the plebeian for too long and forgotten the glory of our kind.",
+    "string": "哼,一个与平民厮混太久,忘却了我族荣耀的可悲之徒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500097F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am inclined to say the truth again...",
+    "string": "我又想说实话了......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000981|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "But well, Master Ancano is here on a diplomatic mission. For friendship, if you believe such a thing's possible between us and... you. So I'll stop.",
+    "string": "不过,安卡诺大师此行是出于外交使命。为了友谊,如果你相信我们与......你们之间可能存在这种东西的话。所以我就此打住。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorEstormoMG2",
+    "form_id": "05000982|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Your 'truth' can answer my fist. (Brawl)",
+    "string": "你的'真相'能回答我的拳头。(斗殴)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000983|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph. Barbarian... Where you can't match someone with words, you resort to force. I will engage in no such thing with you.",
+    "string": "哼。野蛮人......说不过别人就诉诸武力。我可不会跟你来这一套。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorzExit0",
+    "form_id": "05000985|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's talk about something else.",
+    "string": "我们聊点别的吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009ED|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you quite sure we must continue this conversation?",
+    "string": "你确定我们必须继续这次对话吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorEstormoAncano2",
+    "form_id": "05000988|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You admire him, don't you?",
+    "string": "你很钦佩他,对吧?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000989|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He embodies the ideal Altmer. Born to the highest station, forged for it. It is only natural for one to... admire him.",
+    "string": "他体现了理想的高精灵形象。生于至高之位,亦为此而生。人们自然会......对他心生敬仰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000989|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But I've said enough. Return to whatever menial... 'research' you were doing, apprentice.",
+    "string": "但我说得够多了。回去做你那些卑微的......'研究'吧,学徒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorEstormoAncano1",
+    "form_id": "0500098A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why would he need a guard? The College is safe enough.",
+    "string": "他为什么需要守卫?学院已经够安全了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500098B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The local barbarians see our colors and think 'target.' We've lost good people to their ignorant violence...",
+    "string": "当地蛮族看到我们的旗帜,便视作'目标'。我们已有优秀的战士因他们无知的暴力而牺牲......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500098B|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But I won't lose Ancano to that.",
+    "string": "但我不会因此失去安卡诺。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A2|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "General Tullius, it is always a pleasure to meet you.",
+    "string": "图留斯将军,见到您总是令人愉快。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A4|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And to you, Lady Ambassador. What business brings you to this place? I doubt you'd make the journey without good cause.",
+    "string": "至于您,大使女士。是什么风把您吹到这儿来了?我想您不会无缘无故长途跋涉而来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A6|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Please. For a senior Thalmor, teleportation is a mere parlor trick.",
+    "string": "拜托了。对一位高阶梭莫成员而言,传送术不过是雕虫小技。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A8|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It has come to my attention that Jarl Balgruuf of Whiterun may yet harbor heretical beliefs.",
+    "string": "我注意到,白漫城的巴尔古夫领主可能仍持有异端信仰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009AB|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It has come to my attention that Jarl... pardon me - former Jarl Balgruuf may yet harbor heretical beliefs.",
+    "string": "我注意到,巴尔古夫领主--抱歉,是前任领主巴尔古夫--可能仍持有异端信仰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009AC|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It has come to my attention that Jarl Hrongar of Whiterun may yet harbor heretical beliefs.",
+    "string": "我注意到,白漫城的赫隆加领主可能仍持有异端信仰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009AA|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hereby request the Legion's cooperation to conduct a thorough investigation. To prove the suspect's innocence, if nothing else.",
+    "string": "我特此请求军团协助,进行彻底调查。即便不为别的,至少也要证明嫌疑人的清白。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009AE|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The White-Gold Concordat grants you entry into Whiterun. However, this investigation falls under Thalmor jurisdiction. The Legion will not intervene.",
+    "string": "白金协定准许你进入白漫城。然而,此次调查归属梭莫管辖范围。军团不会介入。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009AF|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The man is already in exile, and still you... Fine. We will honor the White-Gold Concordat, as we must.",
+    "string": "此人已被流放,而你却......也罢。我们会遵守白金协定,这是必须的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009B1|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your response pleases me. This is the answer I expected.",
+    "string": "你的回答让我满意。这正是我期待的答案。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009B7|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "General Tullius. A heretical cell has taken root within your Legion. These Talos 'worshippers' undermine your Empire's integrity under the Concordat.",
+    "string": "图留斯将军，一个异端组织已在您的军团内部扎根。这些所谓的塔洛斯'崇拜者'正根据《白金条约》削弱帝国的完整性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009B9|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your oversight of your own soldiers appears... lacking, General.",
+    "string": "将军,你对麾下士兵的监管似乎......有所欠缺。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009BB|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Empire upholds its treaties. If you have specific charges, present them. I do not govern by rumor.",
+    "string": "帝国恪守条约。若有具体指控,请提出。我不以流言治国。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009BD|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well. You demand charges; the Thalmor shall provide them.",
+    "string": "很好。你要求指控;梭莫自会提供。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009BF|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Consider, when our evidence is presented, that a more... cooperative approach was available to you.",
+    "string": "试想,当我们的证据呈上时,你本可以采取一种更为......合作的态度。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009C1|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Present your evidence when you have it, not before. Until then, the Legion has a campaign to plan. Good day, Ambassador.",
+    "string": "证据确凿时再呈上,而非在此之前。在那之前,军团还有战役需要筹划。日安,大使。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009C5|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "General Tullius. The recent losses have strained your treasury, have they not?",
+    "string": "图留斯将军。近期的损失让您的国库吃紧,不是吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009C7|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How did you even...",
+    "string": "你怎么会......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009C9|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "But have no fear. The Thalmor are generous to those who serve the Concordat's peace. Alinor would gladly extend a... financial accommodation.",
+    "string": "但请不必担忧。梭莫对维护《白金条约》和平之人向来慷慨。阿利诺很乐意提供......经济上的便利。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009CB|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A gift? Or a loan?",
+    "string": "一份礼物?还是一笔借款?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009CD|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, we can't expect free lunches in the Fourth Era, can we?",
+    "string": "好吧,第四纪元可没有免费的午餐,不是吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009CF|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I will have to politely decline. Besides, I doubt House Vici would look kindly upon those who would make their debtor beholden to another.",
+    "string": "我只能礼貌地拒绝。况且,维西家族恐怕不会善待那些让他们的债务人欠下他人情的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncarionStalhrim0",
+    "form_id": "050009D2|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why are you interested in the Stalhrim?",
+    "string": "你为什么对魔冰感兴趣?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D3|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was gracious enough to let you live. Do not test the Thalmor's mercy.",
+    "string": "我宽宏大量才饶你一命。别试探梭莫的仁慈。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncarionStalhrim1",
+    "form_id": "050009D4|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I agreed to help you, didn't I? You can trust me. (Persuade)",
+    "string": "我不是答应帮你了吗?你可以相信我。(说服)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D5|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I permitted your assistance because of your usefulness, but usefulness alone speaks nothing of your faith.",
+    "string": "我允许你协助,是因为你有用,但有用本身并不能说明你的信仰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D5|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Do not probe where you are not meant to, or I shall find myself a new assistant.",
+    "string": "不该打听的地方就别打听,否则我就得给自己找个新助手了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D6|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well. If it guarantees quality... I can share certain information. But only what's relevant to your task.",
+    "string": "很好。如果这能保证质量......我可以分享一些信息。但仅限于与你的任务相关的部分。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D6|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "We've learned Stalhrim's magic has a unique signature, echoing a substance we uncovered in Hammerfell's wastes.",
+    "string": "我们发现坚冰的魔法具有独特的印记,呼应了我们在落锤省荒原中发现的一种物质。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D6|IDE Thalmor.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Both, in a sense, hear the world's... song.",
+    "string": "在某种意义上,两者都聆听着世界的......歌声。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D6|IDE Thalmor.esp",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "If I know the purpose, I can forge you more suitable weapons. (Persuade)",
+    "string": "如果我知道你的目的,就能为你打造更合适的武器。(说服)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncarionStalhrim1a",
+    "form_id": "050009D7|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The world's song? What does that mean?",
+    "string": "世界的歌声?那是什么意思?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D8|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is the moment where you shut your mouth if you value your life.",
+    "string": "如果你还珍惜自己的性命,现在就该闭嘴了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D8|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Just know that for our weapons to channel that song truly, the Stalhrim must listen alone. Other materials will distort its resonance.",
+    "string": "须知要让我们的武器真正传导那首歌,必须让坚冰独自聆听。其他材质会扭曲其共鸣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D8|IDE Thalmor.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Now, I trust you have Stalhrim to mine, and weapons to forge.",
+    "string": "现在,我相信你有矿可采,也有武器可锻造。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoBackground0",
+    "form_id": "050009DA|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to know more about you.",
+    "string": "我想多了解你一些。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009DB|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? Shouldn't you concern yourself with matters more suited to your... interest?",
+    "string": "是吗?你难道不该多关注些更符合你......兴趣的事务吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoBackground1",
+    "form_id": "050009DC|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am curious about you.",
+    "string": "我对你很好奇。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoBackground2",
+    "form_id": "050009DE|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I just wanted to know what gave you that attitude.",
+    "string": "我只是想知道,是什么让你有了那种态度。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoBackground1a",
+    "form_id": "050009E1|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you mean by 'charitable endeavor'?",
+    "string": "你所说的'慈善事业'是什么意思?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E2|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The College of Winterhold's sole distinction is being Skyrim's only repository of magic. Beyond that singular fact, it is largely inconsequential.",
+    "string": "冬堡学院唯一的特殊之处在于它是天际省唯一的魔法宝库。除此之外,它基本上无足轻重。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E2|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Had the Arch-Mage heeded me, I would have shared our success, steered this College from irrelevance.",
+    "string": "若首席法师当初听从我的建议,我本可分享我们的成功,引领这所学院摆脱默默无闻的境地。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E2|IDE Thalmor.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "And so far, he has done nothing but to squander this priceless opportunity.",
+    "string": "而迄今为止,他除了挥霍这宝贵的机会外,一事无成。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoBackground1ai",
+    "form_id": "050009E3|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "And why would the Thalmor do this for the College?",
+    "string": "那梭莫又为什么要为学院这么做呢?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E4|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In its 'wisdom', the Aldmeri Council initiated an outreach to lesser magical institutions. A gesture of... enlightened patronage.",
+    "string": "议会以其'智慧',主动向规模较小的魔法机构伸出了援手。此举可谓是一种......开明的庇护姿态。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E4|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "A hollow assignment for little meaning beyond the Party's reputation. But we must act on the Council's decree, not our personal... preferences.",
+    "string": "一项空洞的任命,除了议会的声誉外几乎毫无意义。但我们必须执行议会的决议,而非我们个人的......偏好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoBackground1ai1",
+    "form_id": "050009E5|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It seems you're discontent with your superior's decision.",
+    "string": "看来你对上级的决定感到不满。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E6|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And were their decree not governing my actions, your tongue would be too frozen to utter another impertinent question.",
+    "string": "若非他们的法令约束着我的行动,你的舌头早已冻僵,再也说不出任何无礼的问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoBackground1ai2",
+    "form_id": "050009E7|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is your 'personal preference' then?",
+    "string": "那么,你的'个人偏好'又是什么呢?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E8|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You may confuse conversation for camaraderie. Remember your station, and learn the limits of your inquiry.",
+    "string": "你或许会将交谈误认为情谊。记住你的身份,并学会把握询问的界限。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoBackground1ai3",
+    "form_id": "050009E9|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So leave the Thalmor and do what you think is meaningful.",
+    "string": "那就离开梭莫,去做你认为有意义的事吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009EA|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do NOT presume to tell me what is meaningful. This conversation is over.",
+    "string": "不要妄图告诉我什么是有意义的。这次谈话到此为止。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoBackgroundExit",
+    "form_id": "050009EB|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What a waste of time talking to you.",
+    "string": "跟你说话真是浪费时间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009EC|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The feeling is mutual.",
+    "string": "彼此彼此。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoMG040",
+    "form_id": "050009EF|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I met with the Augur of Dunlain. He said you two talked.",
+    "string": "我见到了阿兰。杜让先知。他说你们俩谈过了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F0|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My interest in the Augur was purely scholarly. Much as I presume yours was.",
+    "string": "我对占卜者的兴趣纯粹是学术性的,想必你也是如此。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoMG041",
+    "form_id": "050009F1|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He told me you were asking about the Eye.",
+    "string": "他告诉我你在打听关于眼睛的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009FD|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aren't we all curious about the Eye? It is only natural that wizards like us seek to unravel its secrets.",
+    "string": "我们难道不对那眼睛感到好奇吗?像我们这样的巫师,想要解开它的秘密,实在是再自然不过了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F4|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You gaze into the Eye, seeking meaning. As many before you did.",
+    "string": "你凝视着那只眼睛,寻求意义。正如许多前人曾做过的那样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F6|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All my life, I strove to meet expectations - excel in class, climb the ladder - so that I could be the cog they needed.",
+    "string": "我一生都在努力满足期望--在课堂上出类拔萃,步步高升--只为成为他们需要的那颗螺丝钉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F8|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I never questioned it. It was the only path, only meaning I was taught. But this power... if I can harness such power...",
+    "string": "我从未质疑过。这是我被教导的唯一道路,唯一的意义。但这股力量......倘若我能驾驭这样的力量......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009FA|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There is no meaning to be found. Its power shall be your undoing.",
+    "string": "无意义可寻。它的力量将成为你的毁灭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009FC|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Then I take pleasure, knowing I will have broken the purpose I was given. And if death lies at the end... Let the world follow me into ruin.",
+    "string": "那么我将欣然接受,因为我知道我将打破我被赋予的使命。如果终点即是死亡......就让这个世界随我一同毁灭吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoMG042a",
+    "form_id": "050009FE|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Don't the Thalmor already provide your meaning and shelter?",
+    "string": "梭莫不是已经给了你们意义和庇护吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoMG042ai",
+    "form_id": "05000A00|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why the hostility? I was just asking a question.",
+    "string": "为何如此敌意?我只是问个问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A01|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your impertinence repeats itself. We have nothing more to discuss.",
+    "string": "你的无礼一再重演。我们没什么好谈的了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoMG042aii",
+    "form_id": "05000A02|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "And you intend to take matters into your own hands... through what? The Eye?",
+    "string": "而你打算亲自插手......通过什么方式?那只眼睛吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A03|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you not have more College 'assignments' to complete? Leave weightier matters to your betters.",
+    "string": "你不是还有更多学院'任务'要完成吗?把更重大的事务留给你更优秀的人去处理吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoMG042aiii",
+    "form_id": "05000A04|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "And yet here you are, stuck in a College where no one takes you seriously.",
+    "string": "然而你却困在这所无人重视你的学院里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A05|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Unlike you, I do not require a Master's approval to validate my existence. Not anymore.",
+    "string": "与你不同,我不再需要主人的认可来证明我的存在。再也不需要了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoMG042",
+    "form_id": "05000A06|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He also said you 'seek meaning and shelter in knowledge'.",
+    "string": "他还说你'在知识中寻求意义与庇护'。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A07|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As do all who practice magic. Speak plainly - what are you after?",
+    "string": "所有研习魔法之人皆是如此。直说吧--你究竟意欲何为?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoMG042b",
+    "form_id": "05000A08|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Just found it funny you didn't know your meaning.",
+    "string": "只是觉得你连自己的意思都不知道,这有点好笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoMG042c",
+    "form_id": "05000A0B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I guess I'm after the same.",
+    "string": "我想我追寻的也是同样的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And no doubt, you expect to find such meaning in your trivial 'assignments'. I suggest you return to them.",
+    "string": "毫无疑问,你期望在你那些微不足道的'任务'中找到这种意义。我建议你还是回去继续做那些事吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoEducation0",
+    "form_id": "05000A0E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You sound dismissive to the College of Winterhold. Why?",
+    "string": "你听起来对冬堡学院很不屑。为什么?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "'Dismissive'? You have no conception of the world beyond this frozen rock.",
+    "string": "'不屑'?你对这片冰封岩石之外的世界一无所知。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0F|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "At the High University of Alinor, a single year of my work yielded more progress than this 'College' has seen in ten.",
+    "string": "在艾琳诺高等学府,我一年的研究成果比这所'学院'十年来的进展还要多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0F|IDE Thalmor.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Our magic feeds cities and elevates civilization. Yours huddles in a ruin, wilfully irrelevant.",
+    "string": "我们的魔法滋养城市,提升文明。而你们的魔法却蜷缩于废墟之中,甘愿与世隔绝。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0F|IDE Thalmor.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "So tell me - if not for disgrace and pity, what does this place truly merit in the world's eyes?",
+    "string": "那么告诉我--若非因耻辱与怜悯,在世人的眼中,此地究竟有何真正的价值?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoEducation1",
+    "form_id": "05000A10|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The College's merit can't be measured by research alone.",
+    "string": "学院的功绩不能仅凭研究来衡量。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A11|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "An institution's value is measured solely by the progress it yields. If it produces nothing of benefit to the realm, then it has no purpose.",
+    "string": "一个机构的价值,完全取决于它所带来的进步。若其未能为王国带来任何益处,便毫无存在意义。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A11|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And by that same measure, your College's scholars are... found wanting.",
+    "string": "同样地,你们学院的学者们也......显得有所不足。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoEducation1a",
+    "form_id": "05000A12|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So the Thalmor measure people only by their usefulness? Soulless and pathetic.",
+    "string": "所以梭莫只以利用价值来衡量人?真是冷酷又可悲。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A13|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In the end, we are all judged by our utility. Prove our worth to the machine, or be removed from it.",
+    "string": "最终,我们都将因自身的效用而被评判。向机器证明我们的价值,否则就会被它移除。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A13|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Alinor stands as the greatest state of Tamriel, while Winterhold is content with illusions of its past glory. Such are the differences that mark us.",
+    "string": "艾琳诺是泰姆瑞尔最伟大的国度,而冬堡则满足于昔日辉煌的幻影。这便是我们之间的差异所在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoEducation2",
+    "form_id": "05000A14|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can see some truths in that.",
+    "string": "我能看出其中一些道理。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A15|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You might be better suited to the south, then. There, your worth is proven in a ceaseless contest where all vie for the ultimate honor-",
+    "string": "那你或许更适合南方。在那里,你的价值需通过一场永不停歇的竞赛来证明,所有人都在争夺至高荣誉--",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A15|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Utility to the State.",
+    "string": "对国家的效用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorAncanoEducation1b",
+    "form_id": "05000A16|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The College educates and provides a safe place to learn.",
+    "string": "学院提供教育,并营造安全的学习环境。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A17|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You learn - but to what end? All that knowledge acquired, utilized only in petty assignments that amount to nothing.",
+    "string": "你不断学习--但目的何在?获取了那么多知识,却只用于微不足道,毫无意义的琐事之中。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A17|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "A meaningless endeavor.",
+    "string": "一项毫无意义的事业。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirImperial0",
+    "form_id": "05000A20|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why is an Altmer working for the Legion?",
+    "string": "为何一位高精灵会为军团效力?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A23|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Why is an Altmer working for the Stormcloaks?",
+    "string": "为何一位高精灵会为风暴斗篷效力?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A25|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Why is an Altmer working for the Stormcloaks?",
+    "string": "为何一位高精灵会为风暴斗篷效力?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A28|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why do I fight for it? Of course it's because I hate nothing more than those savage rebels. With the Empire, we can crush them where it hurts.",
+    "string": "我为何要为它而战?当然是因为我最痛恨那些野蛮的叛军。有了帝国,我们就能直击他们的要害,将他们彻底击溃。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A2B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Empire keeps the peace for everyone, and, uh, it upholds the rule of law. Of course - why else would I fight for it?",
+    "string": "帝国为所有人维持和平,并且,呃,它维护法治。当然--不然我为什么要为它而战?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A2A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why do I fight for them? Of course it's because I hate nothing more than the dusking Empire. With the Stormcloaks, we can crush them where it hurts.",
+    "string": "我为何为他们而战?当然是因为我最痛恨暮光帝国。与风暴斗篷并肩,我们就能直击其要害,彻底击溃他们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A30|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Stormcloaks love Talos, and, uh, I also respect Talos a lot. Of course - why else would I fight for them?",
+    "string": "风暴斗篷热爱塔洛斯,呃,我也非常尊敬塔洛斯。当然了--不然我为什么要为他们而战呢?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirImperial1",
+    "form_id": "05000A2C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I see. Alright.",
+    "string": "我明白了。好的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A2D|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good. Now, why don't you get back to the task instead of wasting both our time?",
+    "string": "很好。现在,你何不回去继续任务,而不是浪费我们俩的时间?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirImperial2",
+    "form_id": "05000A2E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't believe it. There's something off about you.",
+    "string": "我不信。你有点不对劲。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A2F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The only thing that's off is your attitude when given a task. Are you fighting for the cause or not?",
+    "string": "唯一不对劲的是你接受任务时的态度。你到底是不是在为事业奋斗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirLetter0",
+    "form_id": "05000A35|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Care to explain your order? (Show Valmir his order)",
+    "string": "想解释一下你的命令吗?(向瓦尔米尔展示他的命令)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A36|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What?! How did you... It's not what you think!",
+    "string": "什么?!你怎么会......不是你想的那样!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirLetter1",
+    "form_id": "05000A37|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You work for the Thalmor, don't you?",
+    "string": "你是在为梭莫工作,对吧?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A38|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I... By the Eight, fine. You caught me.",
+    "string": "我......以八圣灵之名,好吧。你抓住我了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirLetter2",
+    "form_id": "05000A39|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I demand answers, now.",
+    "string": "我现在就要答案。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A3A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fine. You have me. I am no soldier.",
+    "string": "好吧。你抓住我了。我不是士兵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirLetter3",
+    "form_id": "05000A3B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You lied to me, Valmir. Now die! (Attack)",
+    "string": "你骗了我,瓦尔米尔。现在去死吧!(攻击)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A3E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "But we don't have to be enemies... You're here for treasures, for payment; not for some foolish ideals. The offer still stands between us.",
+    "string": "但我们不必成为敌人......你来此是为了财宝,为了报酬;不是为了什么愚蠢的理想。我们之间的提议依然有效。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A3E|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My interest begins and ends with the mask - a trifle, for a fortune in coin. Be wise, and take the deal.",
+    "string": "我的兴趣仅在于面具--区区小物,换得万贯钱财。明智些,接受这笔交易。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirLetter1a",
+    "form_id": "05000A3F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think I'll do without your deal. (Attack)",
+    "string": "我想我不需要你的交易。(攻击)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirLetter1b",
+    "form_id": "05000A42|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Not unless you tell me your whole plan. Why do you want the mask?",
+    "string": "除非你把整个计划告诉我。你为什么想要那个面具?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A43|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're trying my patience, 'adventurer'. I need a pair of helping hands, not a prying nose in my affairs.",
+    "string": "你正在考验我的耐心,'冒险者'。我需要的是帮手,而不是一个爱管闲事,打探我私事的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A43|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My mission does not require your understanding, only your cooperation.",
+    "string": "我的任务不需要你理解,只需要你配合。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirLetter1bi",
+    "form_id": "05000A44|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me, or I walk away. Are you sure the next one will even help? (Intimidate)",
+    "string": "告诉我,否则我就走人。你确定下一个会帮忙吗?(威胁)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A45|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fine. Truth be told... you were the only one who didn't look like a corpse waiting to happen.",
+    "string": "好吧。说实话......你是唯一一个看起来不像在等死的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A45|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "All I know is that someone back in Alinor wants an artifact buried beneath Labyrinthian - one said to warp time and cheat death.",
+    "string": "我只知道艾琳诺那边有人想要一件埋在迷宫深处的神器--据说它能扭曲时间,欺骗死亡。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A45|IDE Thalmor.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The eight masks are the key. We located three, but then our divination was... disrupted by something in Winterhold.",
+    "string": "八副面具是关键。我们找到了三副,但之后我们的占卜......被冬堡的某种存在干扰了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A45|IDE Thalmor.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "So now, here I am, stuck trying to claim one of those three. An inconvenience I hope you will soon rectify.",
+    "string": "所以现在,我困在这里,试图争取那三个名额之一。希望你能尽快解决这个不便。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A46|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Or else what? Don't be foolish. Take the job, get paid, then walk away.",
+    "string": "不然呢?别犯傻了。接下这活儿,拿了钱,然后走人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A46|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tell me now, or else. (Intimidate)",
+    "string": "现在告诉我,否则后果自负。(威胁)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirLetter1c",
+    "form_id": "05000A47|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Fine. I'll help you.",
+    "string": "好吧。我来帮你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A48|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A generous reward awaits you... Just do what you're told, come back in one piece, and we'll both leave this gods-forsaken ruin satisfied.",
+    "string": "丰厚的奖赏在等着你......只需按吩咐行事,完好无损地回来,我们都能心满意足地离开这被诸神遗弃的废墟。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A4B|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you want your bloody reward, then help me!",
+    "string": "想要你那该死的报酬,就帮我!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A4E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well... Thank you for your assistance. Gods damn these Thalmor, they're everywhere in Skyrim these days.",
+    "string": "嗯......感谢你的帮助。诸神诅咒这些梭莫,如今他们在天际省无处不在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A50|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Keep safe, adventurer. Next Thalmor you see? Put an arrow in them for me.",
+    "string": "保重,冒险者。下次见到梭莫的人?替我给他们一箭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A51|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A pity we must now turn our blades against each other. Fighting the Thalmor side by side... It was good while it lasted.",
+    "string": "可惜我们现在必须兵戎相见了。曾与梭莫并肩作战......那段时光确实美好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorSoldierForelhostPost1",
+    "form_id": "05000A53|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aye. It was good while it lasted... May Sovngarde take you.",
+    "string": "是啊。那段时光确实美好......愿松加德接纳你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A54|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "May it take you first.",
+    "string": "愿它先带走你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A6F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Aye. It was good while it lasted... and now we must fight.",
+    "string": "是啊。那段时光确实美好......而现在我们必须战斗了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorSoldierForelhostPost2",
+    "form_id": "05000A55|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We don't have to. Together, we can stop the Thalmor, just like today. (Persuade)",
+    "string": "我们不必如此。携手合作,我们就能阻止梭莫,就像今天一样。(说服)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A56|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see. I'm glad I don't have to kill you - would be a shame for Skyrim to lose such an honorable fighter.",
+    "string": "我明白了。我很高兴不必杀你--若天际失去如此一位可敬的战士,那将是一种遗憾。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A56|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Keep safe... 'friend'. Next Thalmor you see, put a few arrows in them for me.",
+    "string": "保重......'朋友'。下次见到梭莫的人,替我多射他们几箭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A57|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm afraid that's impossible. You have your allegiance... and we have ours. Now, let us each defend our beliefs!",
+    "string": "恐怕这不可能。你有你的效忠对象......我们也有我们的。现在,让我们各自捍卫自己的信念吧!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A57|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Can't we both walk away from this? (Persuade)",
+    "string": "我们能不能就此罢手?(说服)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorSoldierForelhostPost3",
+    "form_id": "05000A58|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Die, Imperial dog.",
+    "string": "去死吧,帝国的走狗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A59|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "For the Empire!",
+    "string": "为了帝国!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A5A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "For Skyrim!",
+    "string": "为了天际省!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A5A|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Die, Stormcloak dog.",
+    "string": "去死吧,风暴斗篷的走狗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A5E|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well... That was nasty.",
+    "string": "嗯......真是够呛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A5E|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But how glad am I to see you come out of that ruin... alive! Now, I trust you have my mask?",
+    "string": "但看到你从那片废墟中活着出来,我有多么高兴啊!现在,我相信你拿到我的面具了吧?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A70|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The mask... You...",
+    "string": "面具......你......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirPost1",
+    "form_id": "05000A5F|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes. Here it is.",
+    "string": "是的。就是这个。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A60|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A job well done, and a pay well earned...",
+    "string": "任务完成得漂亮,报酬也拿得心安理得......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A60|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "All that's left is for me to bring the mask to Labyrinthian. It's been a pleasure, adventurer - but now I have a mission to do.",
+    "string": "现在只剩下把面具带到迷宫了。很高兴认识你,冒险者--但我现在有任务要完成。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirPost2",
+    "form_id": "05000A63|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think I'll keep the mask.",
+    "string": "我想我会留下这个面具。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A64|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You dare betray the Thalmor?! Your essence will be scattered to the voids between stars!",
+    "string": "你竟敢背叛梭莫?!你的灵魂将被放逐至星辰之间的虚空!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirPost3",
+    "form_id": "05000A65|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think I might have lost it...",
+    "string": "我想我可能把它弄丢了......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaThalmorValmirPost4",
+    "form_id": "05000A67|IDE Thalmor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The mask was broken while I battled the Dragon Priest, unfortunately. (Lie)",
+    "string": "可惜,我在与龙祭司战斗时,面具被打碎了。(谎言)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A6C|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Auriel above, why does this always happen to my missions?!",
+    "string": "奥瑞艾尔在上,为什么我的任务总是遇到这种事?!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A6C|IDE Thalmor.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Fine, begone! And forget about your payment. You've done enough damage already.",
+    "string": "很好,滚吧!你的酬劳也别想了。你造成的破坏已经够多了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A72|IDE Thalmor.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I will finally live for something else. As someone else. Not a Thalmor. Not... a cog.",
+    "string": "我终于能为自己而活,以另一种身份。不再是梭莫的一员,也不再是......一枚齿轮。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Siege on the Dragon Cult",
+    "string": "拜龙教围攻",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I have been asked to defeat the Dragon Priest in Forelhost and to bring back his Mask. A journal left by Skorm Snow-Strider may reveal a way past the collapsed areas.",
+    "string": "我接到任务,要去佛瑞霍斯特击败龙祭司并带回他的面具。斯克姆·雪行者留下的日记或许能揭示穿过坍塌区域的方法。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I have been asked to defeat the Dragon Priest in Forelhost and to bring back his Mask. I have found the journal of Skorm Snow-Strider, which may reveal how to bypass the collapsed areas.",
+    "string": "我接到任务,要去佛瑞霍斯特击败龙祭司并带回他的面具。我找到了斯克姆·雪行者的日记,其中可能揭示了如何绕过坍塌区域的方法。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I have been asked to defeat the Dragon Priest in Forelhost and to bring back his Mask. I can reach the blocked off areas of the stronghold through the well.",
+    "string": "我接到任务,要去佛瑞霍斯特击败龙祭司,并带回他的面具。我可以通过水井进入堡垒被封锁的区域。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I have been asked to defeat the Dragon Priest in Forelhost and to bring back his Mask.",
+    "string": "我接到任务,要去佛瑞霍斯特击败龙祭司,并带回他的面具。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I have defeated the Dragon Priest, Rahgot, and taken his Mask. I should return with it to Valmir.",
+    "string": "我已击败龙祭司拉格特,并取走了他的面具。我应该带着它回去找瓦尔米尔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "Valmir has betrayed me and has been tricking soldiers into the ruins. He must die.",
+    "string": "瓦尔米尔背叛了我,一直把士兵骗进废墟。他必须死。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "Valmir needs my help to kill the soldiers he tried to trick. I must decide who to side with.",
+    "string": "瓦尔米尔需要我帮忙杀死那些他曾试图欺骗的士兵。我必须决定站在哪一边。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "I gave the Dragon Priest's mask to Valmir.",
+    "string": "我把龙祭司的面具交给了瓦尔米尔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "I tricked Valmir into believing the Dragon Priest's mask was destroyed.",
+    "string": "我骗瓦尔米尔相信龙祭司的面具已被摧毁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "I fought Valmir, the Thalmor agent pretending to be a soldier, after I retrieved the Dragon Priest mask from Forelhost.",
+    "string": "我从佛瑞霍斯特取回龙祭司面具后,与伪装成士兵的梭莫特工瓦尔米尔交战了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "(Optional) Find Skorm Snow-Strider's journal",
+    "string": "(可选)寻找斯克姆·雪行者的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "(Optional) Show Skorm Snow-Strider's journal to Valmir",
+    "string": "(可选)向瓦尔米尔展示斯克姆·雪行者的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "(Optional) Find the key to the well in the Catacombs",
+    "string": "(可选)在墓穴中找到井的钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Obtain Rahgot's mask",
+    "string": "获取龙祭祀拉格特的面具",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Return to Valmir",
+    "string": "返回瓦尔米尔处",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Kill the imposter Valmir",
+    "string": "杀死冒牌货瓦尔米尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunForelhostQST",
+    "form_id": "00035354|Skyrim.esm",
+    "index": 75,
+    "type": "QUST NNAM",
+    "original": "Help Valmir or the soldiers",
+    "string": "帮助瓦尔米尔还是帮助士兵",
+    "status": "TranslationComplete"
+  }
+]

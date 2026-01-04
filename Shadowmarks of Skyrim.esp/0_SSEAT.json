@@ -1,0 +1,335 @@
+[
+  {
+    "editor_id": "mannyShadowMarkGuild",
+    "form_id": "05000001|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "The building or someone nearby is part of the Guild! You're welcome!",
+    "string": "附近建筑或NPC属于盗贼公会！欢迎光临！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkGuild",
+    "form_id": "05000001|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Shadowmark",
+    "string": "暗影标记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkSafe",
+    "form_id": "05000002|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "This area is safe for the Guild and its members!",
+    "string": "此区域对盗贼公会及其成员是安全的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkSafe",
+    "form_id": "05000002|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Shadowmark",
+    "string": "暗影标记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkDanger",
+    "form_id": "05000003|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Danger! Someone nearby or inside does not take kindly to the Guild!",
+    "string": "危险！附近或内部有人对盗贼公会怀有敌意！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkDanger",
+    "form_id": "05000003|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Shadowmark",
+    "string": "暗影标记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkEscape",
+    "form_id": "05000004|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Follow to escape!",
+    "string": "跟随以逃离！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkEscape",
+    "form_id": "05000004|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Shadowmark",
+    "string": "暗影标记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkProtected",
+    "form_id": "05000005|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "This area or people are under Guild protection! Do not steal nor harm them!",
+    "string": "此区域或人员受盗贼公会保护！切勿盗窃或伤害他们！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkProtected",
+    "form_id": "05000005|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Shadowmark",
+    "string": "暗影标记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkFence",
+    "form_id": "05000006|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Fence here! You can safely sell your stolen items!",
+    "string": "销赃处在此！你可以安全地出售赃物！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkFence",
+    "form_id": "05000006|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Shadowmark",
+    "string": "暗影标记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkCache",
+    "form_id": "05000007|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Here your Thieves Cache!",
+    "string": "此处为盗贼藏匿点！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkCache",
+    "form_id": "05000007|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Shadowmark",
+    "string": "暗影标记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkLoot",
+    "form_id": "05000008|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Valuables or riches lie inside or nearby! Time to loot!",
+    "string": "内部或附近藏有贵重物品或财富！是时候掠夺了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkLoot",
+    "form_id": "05000008|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Shadowmark",
+    "string": "暗影标记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkEmpty",
+    "form_id": "05000009|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Do not waste your time! It's empty!",
+    "string": "别浪费时间了！这里是空的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyShadowMarkEmpty",
+    "form_id": "05000009|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Shadowmark",
+    "string": "暗影标记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Book0Shadowmarks",
+    "form_id": "000F84A1|Skyrim.esm",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Shadowmarks",
+    "string": "暗影標記",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Book0Shadowmarks",
+    "form_id": "000F84A1|Skyrim.esm",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nShadowmarks\r\n\r\n\r\nby \r\nDelvin Mallory\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/N_letter.png'>eed to know your way around, eh? Don't want to stumble into a necromancer's house or fall into another trap set up by the city guard? Then you need to read this book from cover to cover. Learning to identify the shadowmark can mean the difference between making a fortune and ending up with a blade in your gut.\r\n\r\nThe clever little marks are carved all over Skyrim... mostly on the doorframes or fronts of buildings, but you can find them pretty much anywhere a thief's been. It's the way we talk to each other without talking. Keeps the newer thieves from becoming dead thieves and all that nonsense. There aren't that many of the bloody things, so I don't want to hear any excuses about not having the time to learn them.\r\n\r\nAnyway, enough of my gabbing. Time to put your wizard's cap on and do a little research.\r\n[pagebreak]\r\n<p align=\"center\">\r\nGlossary\r\nof Shadowmarks\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMGuildMember01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n\"The Guild\"\r\n<p align=\"left\">\r\nThis is the symbol for the Guild. This means the place is as safe as the Flagon's cistern. If you see this shadowmark, someone from the Guild is nearby for certain.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMSafe01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n\"Safe\"\r\n<p align=\"left\">\r\nWe usually leave this shadowmark when we've scouted and found a safe way around something, a hallway without traps or maybe a house that's already cleared out. If you see one of these, head the way it's pointing and you'll be fine.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMDanger01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n\"Danger\"\r\n<p align=\"left\">\r\nIf you see this shadowmark, head the other way or take your life in your own hands. It means there's something ahead or beyond that door that wants to turn you inside-out.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMEscape01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n\"Escape Route\"\r\n<p align=\"left\">\r\nNow, on the rare occasion (it better be a rare occasion if you want to work in the Guild) that you find yourself in jail, look for this little beauty. You see this shadowmark and escape is just a few steps away.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMProtected01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n\"Protected\"\r\n<p align=\"left\">\r\nWe put these shadowmarks on places we don't want you to go. As in stay out of there or there's going to be a boot up the backside. These people are under the Guild's protection and should never be robbed or assaulted.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMFence01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n\"Fence\"\r\n<p align=\"left\">\r\nThis should quickly become your favorite shadowmark. The person near this mark will buy your... hard-earned stolen goods for a fair price.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMCache01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n\"Thieves' Cache\"\r\n<p align=\"left\">\r\nWho says we only take and never give back? If you find this shadowmark near a chest or maybe a hollowed log, you're in for a surprise... a gift from the Guild for the thief in the field. Whoever said membership didn't have its privileges?\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMLoot01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n\"Loot\"\r\n<p align=\"left\">\r\nThere's something near this shadowmark worth stealing. Saves you from breaking into a place only to find the people don't even have two septims to rub together.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMEmpty01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n\"Empty\"\r\n<p align=\"left\">\r\nThe opposite of the Loot Shadowmark. Pass on this place, there's nothing inside.",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n暗影标记\r\n\r\n\r\n戴尔文·马洛里\r\n著\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/N_letter.png'>想要搞清周围环境，对吧？不想误打误撞走到死灵法师的房子里头，或者踩到城镇卫兵下的陷阱吧？那你得好好把这本书从头读到尾了。能否学会辨识暗影标记，有可能意味着你到底是大发财源还是被捅死的区别。\r\n\r\n    这些精妙的小标记刻遍了全天际……绝大多数在门框或者建筑物的正面，但你基本上能在任何有贼光顾的地方找到它们。这就是我们无声的交流。也是为了防止新来的小贼变成死贼的黑话。没有那么多该死的事情，别让我听到什么没时间学习的理由。\r\n\r\n    好了，我说得够多了。该是时候戴上你的术士冠，做点小研究了。\r\n[pagebreak]\r\n<p align=\"center\">\r\n暗影标记表\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMGuildMember01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n“公会”\r\n<p align=\"left\">\r\n这个是公会的象征标记。意味着标记的地点跟漏壶的蓄水池一样安全。你要是见着这个暗影标记，肯定有公会的伙伴在附近。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMSafe01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n“安全”\r\n<p align=\"left\">\r\n我们通常会在侦查并找到安全通过的方法时留下这个暗影标记，有可能是没有陷阱的走廊，或者是已经清理干净的房子。如果你看到，那顺着它指明的方向前进，包你没事。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMDanger01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n“危险”\r\n<p align=\"left\">\r\n你要是见着这个暗影标记，要么另寻他路，要么走过去找死。那扇门的前后肯定有什么东西可以把你从里到外翻出来。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMEscape01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n“退路”\r\n<p align=\"left\">\r\n嗯，在极少情况下（如果你想在公会干，就最好不要发生），你会发现自己身处监狱，那就找找这个小美人。看到这个暗影标记，那逃生路线就在几步开外。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMProtected01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n“庇护”\r\n<p align=\"left\">\r\n我们会在不想让你进的地方打上这个暗影标记。别进到这些地方，否则就等着滚蛋吧。这些地方有公会罩着，不能随便打劫或袭击。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMFence01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n“销赃”\r\n<p align=\"left\">\r\n这个应该会很快变成你最爱的暗影标记。标记附近的伙计会买下你……千辛万苦偷来的货，而且价格公道。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMCache01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n“盗贼贮藏”\r\n<p align=\"left\">\r\n谁说咱只管索取却从不回馈了？你要是在某个箱子或者一根掏空的原木旁边找着了这个暗影标记，那你就有个惊喜了……一份公会送给在外盗贼的大礼就在里面。谁说公会会员没有福利？\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMLoot01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n“劫掠”\r\n<p align=\"left\">\r\n在这暗影标记附近有东西值得一偷。省得你闯进某个地方，却只发现里头的人穷到都没有两个塞普汀能互相摩擦。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/ShadowMarks/SMEmpty01.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n“空无一物”\r\n<p align=\"left\">\r\n与“劫掠”相反。换个地方吧，里头没油水能捞了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mannyIntShadowmarks",
+    "form_id": "0500006E|Shadowmarks of Skyrim.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Service Room",
+    "string": "服务间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Irkngthand02",
+    "form_id": "0007614C|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Irkngthand Grand Cavern",
+    "string": "苦悶之牙廢墟巨型洞窟",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunDragonsreachBasement",
+    "form_id": "0004A376|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dragonsreach Dungeon",
+    "string": "龙临堡地牢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthUnderStoneKeep",
+    "form_id": "00016DF2|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Understone Keep",
+    "string": "石下要塞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenRatway02",
+    "form_id": "000A1BFD|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Ratway Vaults",
+    "string": "鼠道墓穴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Irkngthand03",
+    "form_id": "000527F2|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Irkngthand Slave Pens",
+    "string": "苦悶之牙廢墟奴隸圍欄",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeJail01",
+    "form_id": "00056E88|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Castle Dour Dungeon",
+    "string": "陰鬱堡地牢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeWinkingSkeever",
+    "form_id": "00016A0E|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Winking Skeever",
+    "string": "眨眼恶鼠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RRGloverMalloryHouse",
+    "form_id": "04017EC4|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Glover Mallory's House",
+    "string": "葛羅文．馬洛瑞的家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenJail01",
+    "form_id": "000A8B23|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Riften Jail",
+    "string": "裂谷城監獄",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmWorld",
+    "form_id": "0001691D|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Windhelm",
+    "string": "风舵城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenWorld",
+    "form_id": "00016BB4|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Riften",
+    "string": "裂谷城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthWorld",
+    "form_id": "00016D71|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Markarth",
+    "string": "马卡斯城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunWorld",
+    "form_id": "0001A26F|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Whiterun",
+    "string": "白漫城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeWorld",
+    "form_id": "00037EDF|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solitude",
+    "string": "獨孤城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2SolstheimWorld",
+    "form_id": "04000800|Dragonborn.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solstheim",
+    "string": "索瑟海姆",
+    "status": "TranslationComplete"
+  }
+]

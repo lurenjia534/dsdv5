@@ -1,0 +1,245 @@
+[
+  {
+    "editor_id": "NL_PerkMagickaRecovery",
+    "form_id": "06000001|Natural Learning.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Recover Magicka",
+    "string": "恢复魔力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_PerkMagickaRecovery",
+    "form_id": "06000001|Natural Learning.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Magicka regenerates 10% faster.",
+    "string": "魔力恢复速度加快10%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_PerkStaminaRecovery",
+    "form_id": "0600000D|Natural Learning.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Recover Stamina",
+    "string": "恢复耐力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_PerkStaminaRecovery",
+    "form_id": "0600000D|Natural Learning.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Stamina regenerates 10% faster while sneaking.",
+    "string": "耐力恢复速度加快10%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_PerkMagickaRecovery1",
+    "form_id": "06000002|Natural Learning.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Lesser Magicka Recovery",
+    "string": "魔力恢复减少",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_PerkStaminaRecovery1",
+    "form_id": "0600000E|Natural Learning.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Lesser Stamina Recovery",
+    "string": "耐力恢复减少",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_ProgressBook",
+    "form_id": "0600000F|Natural Learning.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Tome of Reflection",
+    "string": "反思之书",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_ProgressBook",
+    "form_id": "0600000F|Natural Learning.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<p align='center'>\r\n<img src='img://Textures/NL/Book/NL_icon.dds' width='128' height='128'>\r\n</p>\r\n\r\n<p align='center'><font size='24'><b>Natural Learning</b></font></p>\r\n<br>\r\n<i>Those who strive, those who endure-are granted mastery beyond mere training.</i>\r\n\r\n[pagebreak]\r\n<b>BLOCK</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - Defender's Stance: +5% damage blocked</li>\r\n<li>30 - Firm Grip: +15% bash damage</li>\r\n<li>40 - Braced Focus: -3% stagger taken while blocking</li>\r\n<li>50 - Elemental Brace: -3% spell damage taken while blocking</li>\r\n<li>60 - Guard's Force: +15% bash damage</li>\r\n<li>70 - Balanced Posture: -2% stagger taken while blocking</li>\r\n<li>80 - Iron Wall: +5% damage blocked</li>\r\n<li>90 - Crushing Blow: +20% bash damage</li>\r\n<li>100 - Perfect Form: +5% damage blocked</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>ONE-HANDED</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - Precision: +1% Critical Hit Chance</li>\r\n<li>30 - Endurance: -5% Stamina cost for Power Attacks</li>\r\n<li>40 - Brutality: +20% Critical Hit Damage</li>\r\n<li>50 - Momentum: +4% Base Damage</li>\r\n<li>60 - Executioner: +20% Critical Hit Damage</li>\r\n<li>70 - Focus: +1% Critical Hit Chance</li>\r\n<li>80 - Blade Mastery: +4% Base Damage</li>\r\n<li>90 - Crushing Blows: +5% Power Attack Damage</li>\r\n<li>100 - Mastery: +4% Base Damage</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>TWO-HANDED</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - Precision: +1.5% Critical Hit Chance</li>\r\n<li>30 - Endurance: -5% Stamina cost for Power Attacks</li>\r\n<li>40 - Brutality: +30% Critical Hit Damage</li>\r\n<li>50 - Momentum: +4% Base Damage</li>\r\n<li>60 - Sunder: 8% Armor Penetration on Power Attacks</li>\r\n<li>70 - Crushing Blows: +5% Power Attack Damage</li>\r\n<li>80 - Blade Mastery: +4% Base Damage</li>\r\n<li>90 - Heavy Impact: +5% Power Attack Damage</li>\r\n<li>100 - Mastery: +4% Base Damage</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>MARKSMAN</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - Precision: +1.5% Critical Hit Chance</li>\r\n<li>30 - Recovery: +5% Arrow Recovery Chance</li>\r\n<li>40 - Deadly Shot: +50% Critical Hit Damage</li>\r\n<li>50 - Steady Aim: +4% Base Damage</li>\r\n<li>60 - Opportunist: Attacks ignore 20% of the target's armor when the target is not in combat</li>\r\n<li>70 - Scavenger: +5% Arrow Recovery Chance</li>\r\n<li>80 - Perfect Draw: +4% Base Damage</li>\r\n<li>90 - First Strike: +10% Damage against targets with more than 98% Health</li>\r\n<li>100 - Master Marksman: +4% Base Damage</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>SNEAK</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - Whisper Steps: +3 Detection Resistance</li>\r\n<li>30 - Silent Breath: +10% Stamina regeneration while sneaking</li>\r\n<li>40 - Veil of Dusk: +3 Detection Resistance</li>\r\n<li>50 - Elusive Form: -3% incoming damage while sneaking</li>\r\n<li>60 - Silent Precision: +0.5% Critical Hit Chance</li>\r\n<li>70 - Ghost Presence: +3 Detection Resistance</li>\r\n<li>80 - Fade into Shadows: +2 Detection Resistance</li>\r\n<li>90 - Predatory Instinct: -10% target armor</li>\r\n<li>100 - Shadowguard: -5% Armor Weight</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>DESTRUCTION</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - Efficient Casting: -3% Magicka cost</li>\r\n<li>30 - Focused Flow: +4% Spell Damage</li>\r\n<li>40 - Twin Force: +4% Spell Damage while dual casting</li>\r\n<li>50 - Energy Conservation: -3% Magicka cost</li>\r\n<li>60 - Destruction Pressure: +4% Spell Damage</li>\r\n<li>70 - Synchronized Flow: -3% Magicka cost while dual casting</li>\r\n<li>80 - Destruction Resilience: While casting, incoming Destruction spells are 5% less effective against you</li>\r\n<li>90 - Intensity: +4% Spell Damage</li>\r\n<li>100 - Burning Focus: Destruction spells last 15% longer against hostile targets</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>CONJURATION</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - Summoner's Flow: -3% Magicka cost for Conjuration spells</li>\r\n<li>30 - Lasting Link: +10% duration of Conjuration spells</li>\r\n<li>40 - Bound Strength: +4% damage with Bound Weapons</li>\r\n<li>50 - Efficient Binding: -3% Magicka cost for Conjuration spells</li>\r\n<li>60 - Stable Rift: +4% spell magnitude for Conjuration spells</li>\r\n<li>70 - Oblivion Focus: -3% Magicka cost for Conjuration spells</li>\r\n<li>80 - Bound Edge: +4% damage with Bound Weapons</li>\r\n<li>90 - Deepened Pact: +4% spell magnitude for Conjuration spells</li>\r\n<li>100 - Eternal Servants: +10% duration of Conjuration spells</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>ILLUSION</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - Quiet Intent: -3% Magicka cost for Illusion spells</li>\r\n<li>30 - Subtle Pressure: +10% magnitude for Calm spells</li>\r\n<li>40 - Unseen Terror: +10% magnitude for Fear spells</li>\r\n<li>50 - Ghoststep: -10% physical damage while invisible</li>\r\n<li>60 - Mental Focus: -3% Magicka cost for Illusion spells</li>\r\n<li>70 - Deep Trickery: +10% magnitude for Illusion spells</li>\r\n<li>80 - Lingering Veil: +10% duration for Illusion spells</li>\r\n<li>90 - Will Shaper: +10% magnitude for Illusion spells</li>\r\n<li>100 - Master of the Mind: +10% duration for Illusion spells</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>ALTERATION</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - Mental Discipline: -3% Magicka cost for Alteration spells</li>\r\n<li>30 - Hardened Shell: +25% duration for armor spells</li>\r\n<li>40 - Efficient Weaving: -10% Magicka cost for armor spells</li>\r\n<li>50 - Arcane Plating: +10% strength of armor spells</li>\r\n<li>60 - Control Flow: +10% magnitude for non-armor Alteration spells</li>\r\n<li>70 - Centered Mind: -3% Magicka cost for Alteration spells</li>\r\n<li>80 - Reality Threading: +25% duration for non-armor Alteration spells</li>\r\n<li>90 - Fracture Grip: +4% spell magnitude for Alteration spells</li>\r\n<li>100 - Worldbinder: +25% duration for all Alteration spells</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>RESTORATION</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - Healer's Touch: -3% Magicka cost for Restoration spells</li>\r\n<li>30 - Survival Instinct: Healing spells restore 12% more Health when the target is below 50%</li>\r\n<li>40 - Warding Focus: +10% magnitude for Ward spells</li>\r\n<li>50 - Calm Mind: +10% Magicka regeneration rate</li>\r\n<li>60 - Sanctified Will: +5% magnitude for all Restoration spells except healing and ward spells</li>\r\n<li>70 - Inner Flow: -3% Magicka cost for Restoration spells</li>\r\n<li>80 - Sacred Shielding: -3% incoming physical damage from undead</li>\r\n<li>90 - Pure Radiance: +4% magnitude for Restoration spells</li>\r\n<li>100 - Holy Armor: Gain +80 armor while casting spells</li>\r\n</ul>\r\n</font>",
+    "string": "<p align='center'>\r\n<img src='img://Textures/NL/Book/NL_icon.dds' width='128' height='128'>\r\n</p>\r\n\r\n<p align='center'><font size='24'><b>自然学习</b></font></p>\r\n<br>\r\n<i>天道酬勤。</i>\r\n\r\n[pagebreak]\r\n<b>格挡</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - 防御姿态：伤害格挡+5%</li>\r\n<li>30 - 有力回击：盾击伤害+15%</li>\r\n<li>40 - 稳扎稳打：格挡时被击退几率-3%</li>\r\n<li>50 - 元素屏障：格挡时所受法术伤害-3%</li>\r\n<li>60 - 石破天惊：盾击伤害+15%</li>\r\n<li>70 - 不动如山：格挡时被击退几率-2%</li>\r\n<li>80 - 铜墙铁壁：伤害格挡+5%</li>\r\n<li>90 - 干坤一击：盾击伤害+20%</li>\r\n<li>100 - 坚不可摧：伤害格挡+5%</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>单手武器</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - 精准打击：暴击几率+1%</li>\r\n<li>30 - 坚韧不拔：重击体力消耗-5%</li>\r\n<li>40 - 正中要害：暴击伤害+20%</li>\r\n<li>50 - 娴熟挥击：基础伤害+4%</li>\r\n<li>60 - 透体贯穿：暴击伤害+20%</li>\r\n<li>70 - 一剑封喉：暴击几率+1%</li>\r\n<li>80 - 得心应手：基础伤害+4%</li>\r\n<li>90 - 削铁如泥：重击伤害+5%</li>\r\n<li>100 - 白虹贯日：基础伤害+4%</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>双手武器</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - 精准打击：暴击几率+1.5%</li>\r\n<li>30 - 坚韧不拔：重击体力消耗-5%</li>\r\n<li>40 - 正中要害：暴击伤害+30%</li>\r\n<li>50 - 娴熟挥击：基础伤害+4%</li>\r\n<li>60 - 无坚不摧：重击无视目标8%护甲</li>\r\n<li>70 - 横扫千军：重击伤害+5%</li>\r\n<li>80 - 势如破竹：基础伤害+4%</li>\r\n<li>90 - 摧枯拉朽：重击伤害+5%</li>\r\n<li>100 - 崩山裂地：基础伤害+4%</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>箭术</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - 精准打击：暴击几率+1.5%</li>\r\n<li>30 - 刮地寻矢：箭矢回收几率+5%</li>\r\n<li>40 - 破甲穿云：暴击伤害+50%</li>\r\n<li>50 - 稳定瞄准：基础伤害+4%</li>\r\n<li>60 - 伺机而动：目标未进入战斗时，攻击无视其20%护甲</li>\r\n<li>70 - 草船借箭：箭矢回收几率+5%</li>\r\n<li>80 - 蓄势待发：基础伤害+4%</li>\r\n<li>90 - 先发制人：对生命值高于98%的目标伤害+10%</li>\r\n<li>100 - 百步穿杨：基础伤害+4%</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>潜行</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - 蹑手蹑脚：侦测抗性+3</li>\r\n<li>30 - 静默唿吸：潜行时体力恢复+10%</li>\r\n<li>40 - 悄声匿迹：侦测抗性+3</li>\r\n<li>50 - 暗度陈仓：潜行时受到伤害-3%</li>\r\n<li>60 - 攻其不备：暴击几率+0.5%</li>\r\n<li>70 - 神出鬼没：侦测抗性+3</li>\r\n<li>80 - 踏雪无痕：侦测抗性+2</li>\r\n<li>90 - 笑里藏刀：无视目标10%护甲</li>\r\n<li>100 - 万物皆虚：护甲重量-5%</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>毁灭系</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - 高效施法：魔法消耗-3%</li>\r\n<li>30 - 聚焦流动：法术伤害+4%</li>\r\n<li>40 - 双重聚爆：双手施法时法术伤害+4%</li>\r\n<li>50 - 后劲绵长：魔法消耗-3%</li>\r\n<li>60 - 雷霆万钧：法术伤害+4%</li>\r\n<li>70 - 双龙出海：双手施法时魔法消耗-3%</li>\r\n<li>80 - 我行我素：施法时，受到毁灭系法术的效果降低5%</li>\r\n<li>90 - 灰飞烟灭：法术伤害+4%</li>\r\n<li>100 - 毁天灭地：法术效果持续时间+15%</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>召唤系</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - 以逸待劳：魔法消耗-3%</li>\r\n<li>30 - 持久联结：法术效果持续时间+10%</li>\r\n<li>40 - 心念剑至：凝聚武器伤害+4%</li>\r\n<li>50 - 魂契俭省：魔法消耗-3%</li>\r\n<li>60 - 稳定裂隙：法术强度+4%</li>\r\n<li>70 - 不竭之源：魔法消耗-3%</li>\r\n<li>80 - 灵兵天降：凝聚武器伤害+4%</li>\r\n<li>90 - 神力共盟：法术强度+4%</li>\r\n<li>100 - 生死主宰：法术效果持续时间+10%</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>幻术系</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - 润物无声：魔法消耗-3%</li>\r\n<li>30 - 言出法随：安抚术强度+10%</li>\r\n<li>40 - 不战而溃：恐惧术强度+10%</li>\r\n<li>50 - 避实就虚：隐身时受到物理伤害-10%</li>\r\n<li>60 - 心诡不竭：魔法消耗-3%</li>\r\n<li>70 - 夺魄惊心：法术强度+10%</li>\r\n<li>80 - 潜移默化：法术效果持续时间+10%</li>\r\n<li>90 - 翻云覆雨：法术强度+10%</li>\r\n<li>100 - 众生癫狂：法术效果持续时间+10%</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>变化系</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - 克己守心：魔法消耗-3%</li>\r\n<li>30 - 培元固本：护甲术持续时间+25%</li>\r\n<li>40 - 举重若轻：护甲术魔法消耗-10%</li>\r\n<li>50 - 固若金汤：护甲术强度+10%</li>\r\n<li>60 - 操弄自如：非护甲类法术强度+10%</li>\r\n<li>70 - 凝神静气：魔法消耗-3%</li>\r\n<li>80 - 生生不息：非护甲类法术效果持续时间+25%</li>\r\n<li>90 - 驾驭五行：法术强度+4%</li>\r\n<li>100 - 执掌干坤：法术效果持续时间+25%</li>\r\n</ul>\r\n</font>\r\n[pagebreak]\r\n<b>恢复系</b><br>\r\n<font size='16'>\r\n<ul>\r\n<li>20 - 医者仁心：魔法消耗-3%</li>\r\n<li>30 - 春风化雨：目标生命值低于50%时，治疗术效果+12%</li>\r\n<li>40 - 全神贯注：结界术强度+10%</li>\r\n<li>50 - 心平气和：魔法恢复速率+10%</li>\r\n<li>60 - 崇高信念：除治疗和结界术外，法术强度+5%</li>\r\n<li>70 - 周行不殆：魔法消耗-3%</li>\r\n<li>80 - 神恩浩荡：来自亡灵的物理伤害-3%</li>\r\n<li>90 - 回天有术：法术强度+4%</li>\r\n<li>100 - 力挽狂澜：施法时获得+80点护甲值</li>\r\n</ul>\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HelgenKeep01",
+    "form_id": "0005DE24|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Helgen Keep",
+    "string": "圣地镇堡垒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu1",
+    "form_id": "06000011|Natural Learning.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Select a skill to see your progress. Click Next to view the next set of skills.",
+    "string": "选择一项技能以查看进度。点击继续以查看其他技能。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu1",
+    "form_id": "06000011|Natural Learning.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Title",
+    "string": "技能",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu1",
+    "form_id": "06000011|Natural Learning.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Close",
+    "string": "关闭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu1",
+    "form_id": "06000011|Natural Learning.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Block",
+    "string": "格挡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu1",
+    "form_id": "06000011|Natural Learning.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "OneHanded",
+    "string": "单手武器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu1",
+    "form_id": "06000011|Natural Learning.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "TwoHanded",
+    "string": "双手武器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu1",
+    "form_id": "06000011|Natural Learning.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Marksman",
+    "string": "箭术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu1",
+    "form_id": "06000011|Natural Learning.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Sneak",
+    "string": "潜行",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu1",
+    "form_id": "06000011|Natural Learning.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Next",
+    "string": "下一个",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu2",
+    "form_id": "06000012|Natural Learning.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Select a skill to see your progress. Click Next to view the next set of skills.",
+    "string": "选择一项技能以查看进度。点击继续以查看其他技能。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu2",
+    "form_id": "06000012|Natural Learning.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Title",
+    "string": "技能",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu2",
+    "form_id": "06000012|Natural Learning.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "后退",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu2",
+    "form_id": "06000012|Natural Learning.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Alteration",
+    "string": "变换系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu2",
+    "form_id": "06000012|Natural Learning.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Conjuration",
+    "string": "召唤系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu2",
+    "form_id": "06000012|Natural Learning.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Destruction",
+    "string": "毁灭系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu2",
+    "form_id": "06000012|Natural Learning.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Illusion",
+    "string": "幻术系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu2",
+    "form_id": "06000012|Natural Learning.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Restoration",
+    "string": "恢复系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NL_BookMenu2",
+    "form_id": "06000012|Natural Learning.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Close",
+    "string": "关闭",
+    "status": "TranslationComplete"
+  }
+]

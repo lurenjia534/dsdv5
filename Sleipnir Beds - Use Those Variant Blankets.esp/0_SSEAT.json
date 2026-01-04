@@ -1,0 +1,218 @@
+[
+  {
+    "editor_id": "DoubleupperBedBlanket_0_HABlueSB",
+    "form_id": "05000800|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleupperBedBlanket_0_HAGreenSB",
+    "form_id": "05000801|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleupperBedBlanket_0_HARedSB",
+    "form_id": "05000802|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleupperBedBlanket_0BlueSB",
+    "form_id": "05000803|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleupperBedBlanket_0GreenSB",
+    "form_id": "05000804|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleupperBedBlanket_0RedSB",
+    "form_id": "05000805|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleupperBedBlanket_1_HABlueSB",
+    "form_id": "05000806|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleupperBedBlanket_1_HAGreenSB",
+    "form_id": "05000807|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleupperBedBlanket_1_HARedSB",
+    "form_id": "05000808|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleupperBedBlanket_1BlueSB",
+    "form_id": "05000809|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleupperBedBlanket_1GreenSB",
+    "form_id": "0500080A|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleupperBedBlanket_1RedSB",
+    "form_id": "0500080B|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualupperBed_blanket_2BlueSB",
+    "form_id": "0500080C|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualupperBed_blanket_2GreenSB",
+    "form_id": "0500080D|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualupperBed_blanket_2RedSB",
+    "form_id": "0500080E|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualupperBed_blanket_HABlueSB",
+    "form_id": "0500080F|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualupperBed_blanket_HAGreenSB",
+    "form_id": "05000810|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualupperBed_blanket_HARedSB",
+    "form_id": "05000811|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualupperBed_blanketBlueSB",
+    "form_id": "05000812|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualupperBed_blanketGreenSB",
+    "form_id": "05000813|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualupperBed_blanketRedSB",
+    "form_id": "05000814|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "individualupperbed_kid_blanketBlueSB",
+    "form_id": "05000815|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "individualupperbed_kid_blanketGreenSB",
+    "form_id": "05000816|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "individualupperbed_kid_blanketRedSB",
+    "form_id": "05000817|Sleipnir Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  }
+]

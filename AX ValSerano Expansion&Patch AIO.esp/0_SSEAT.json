@@ -1,0 +1,1676 @@
+[
+  {
+    "editor_id": "AX_ValAbyssalImpactME",
+    "form_id": "20000004|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Abyssal Impact",
+    "string": "深渊冲击",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValAbyssalImpactME",
+    "form_id": "20000004|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Abyssal ink-drenched tentacles dealing <mag> points of poison damage.",
+    "string": "沾满深渊之墨的触手造成<mag>点毒素伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValAbyssalImpactSpeedME",
+    "form_id": "20000005|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Abyssal Impact",
+    "string": "深渊冲击",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValAbyssalImpactSpeedME",
+    "form_id": "20000005|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "and they move 50% slower.",
+    "string": "并且他们的移动速度减少50%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValAbyssalImpactPoisonResistME",
+    "form_id": "20000006|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Abyssal Impact",
+    "string": "深渊冲击",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValAbyssalImpactPoisonResistME",
+    "form_id": "20000006|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, target Poison Resistance is decreased by <mag>",
+    "string": "在<dur>秒内，目标的毒素抗性降低<mag>。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValSummonWatcherME",
+    "form_id": "20000007|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Watcher",
+    "string": "召唤监视者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValSummonWatcherME",
+    "form_id": "20000007|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a Dread Watcher for <dur> seconds wherever the caster is pointing.",
+    "string": "在施法者指向的地方召唤一个恐惧监视者，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_WatcherGazeME",
+    "form_id": "2000000A|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Gaze",
+    "string": "凝视",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_AbyssalInkBoltME",
+    "form_id": "2000000C|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Abyssal Ink Bolt",
+    "string": "深渊触手箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_AbyssalInkBoltME",
+    "form_id": "2000000C|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Abyssal ink bolt dealing <mag> points of poison damage.",
+    "string": "发射一道深渊触手箭，造成<mag>点毒素伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_RunemendAreaME",
+    "form_id": "2000000D|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Runemend",
+    "string": "符文治愈术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_RunemendAreaME",
+    "form_id": "2000000D|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Precise Apocryphal runes healing you <mag> points and nearby allies for half that amount per second for <dur> seconds.",
+    "string": "召唤精准秘符，每秒治疗你<mag>点生命值，附近盟友治疗效果减半，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_AbyssalInkBoltPoisonResistME",
+    "form_id": "2000000E|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Abyssal Ink Bolt",
+    "string": "深渊触手箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_AbyssalInkBoltPoisonResistME",
+    "form_id": "2000000E|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, target Poison Resistance is decreased by <mag>",
+    "string": "在<dur>秒内，目标的毒素抗性降低<mag>。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_AbyssalInkBoltSpeedME",
+    "form_id": "2000000F|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Abyssal Ink Bolt",
+    "string": "深渊触手箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_AbyssalInkBoltSpeedME",
+    "form_id": "2000000F|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "and they move 25% slower.",
+    "string": "并且他们的移动速度减少25%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_RunemendME",
+    "form_id": "20000010|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Runemend",
+    "string": "符文治愈术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_RunemendME",
+    "form_id": "20000010|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Precise Apocryphal runes healing you <mag> points and nearby allies for half that amount per second for <dur> seconds.",
+    "string": "召唤精准秘符，每秒治疗你<mag>点生命值，附近盟友治疗效果减半，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_CCElementalFlareLeftHandSPELL",
+    "form_id": "19CEC5CE|AX ValSerano.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Elemental Flare",
+    "string": "元素闪耀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_CCElementalBoltSPELL",
+    "form_id": "19CEC5CF|AX ValSerano.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Elemental Bolt",
+    "string": "元素箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_CCElementalBurstSPELL",
+    "form_id": "19CEC5D1|AX ValSerano.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Elemental Burst",
+    "string": "元素爆发",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_CCElementalBlastSPELL",
+    "form_id": "19CEC5D3|AX ValSerano.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Elemental Blast",
+    "string": "元素爆裂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_CCUnboundedStormsSPELL",
+    "form_id": "19CEC5D5|AX ValSerano.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Unbounded Storms",
+    "string": "无尽风暴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValAbyssalImpactSPELL",
+    "form_id": "20000001|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Abyssal Impact",
+    "string": "深渊冲击",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValAbyssalInkBoltSPELL",
+    "form_id": "20000002|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Abyssal Ink Bolt",
+    "string": "深渊触手箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValConjureWatcherSPELL",
+    "form_id": "20000003|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Watcher",
+    "string": "召唤监视者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValRunemendSPELL",
+    "form_id": "20000008|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Runemend",
+    "string": "符文治愈术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_SummonWatcherGazeSPELL",
+    "form_id": "2000000B|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Gaze",
+    "string": "凝视",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValDormNobleChestDrawers01",
+    "form_id": "194A8C2E|AX ValSerano.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Dormitory Storage",
+    "string": "贮藏",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValSerano",
+    "form_id": "1900AA0F|AX ValSerano.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Val Serano",
+    "string": "瓦尔·塞拉诺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_ValSerano",
+    "form_id": "1900AA0F|AX ValSerano.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Val",
+    "string": "瓦尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_SeranoMarooned",
+    "form_id": "1901EE2B|AX ValSerano.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Serano",
+    "string": "塞拉诺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_SeranoMarooned",
+    "form_id": "1901EE2B|AX ValSerano.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Serano",
+    "string": "塞拉诺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_SBTarekMora",
+    "form_id": "19A639E4|AX ValSerano.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Simulacrum of Tarek",
+    "string": "塔雷克的幻影",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_SummonedWatcher",
+    "form_id": "20000009|AX ValSerano Expansion&Patch AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dread Watcher",
+    "string": "恐惧监视者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HighHrothgar",
+    "form_id": "00087764|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "High Hrothgar",
+    "string": "高吼修道院",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AXHiddenGrotto01",
+    "form_id": "19CDF643|AX ValSerano.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hidden Grotto",
+    "string": "隐秘洞穴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WinterholdCollegeHallofAttainment",
+    "form_id": "000CAB91|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hall of Attainment",
+    "string": "成就大厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CragslaneCavern01",
+    "form_id": "000152A5|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Cragslane Cavern",
+    "string": "斯莱恩峭壁洞窟",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WinterholdCollegeMidden01",
+    "form_id": "0002BCD7|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Midden",
+    "string": "枯骨地牢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenRaggedFlagon",
+    "form_id": "00016BCF|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Ragged Flagon",
+    "string": "漏壶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ECSSGroveofReflection01",
+    "form_id": "16038CD9|Skyrim Extended Cut - Saints and Seducers.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Grove of Reflection",
+    "string": "倒影之林",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ECSSRootNexus01",
+    "form_id": "16033A65|Skyrim Extended Cut - Saints and Seducers.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Root Nexus",
+    "string": "根连接",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ReachcliffCave01",
+    "form_id": "00015227|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Reachcliff Cave",
+    "string": "延崖洞穴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ECSSSolitudeSewers",
+    "form_id": "1100083C|ccBGSSSE025-AdvDSGS.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Solitude Sewers",
+    "string": "独孤城下水道",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KarthspireRedoubtWorld",
+    "form_id": "00035699|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "The Karthspire",
+    "string": "卡斯之矛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ECSSShiveringIsles",
+    "form_id": "16C2BFF8|Skyrim Extended Cut - Saints and Seducers.esp",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Shivering Isles",
+    "string": "战栗孤岛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AXOffshoreIslandWorld",
+    "form_id": "191A4CEF|AX ValSerano.esp",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Far From Shore",
+    "string": "远离海岸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AXSailorsBargainWorld",
+    "form_id": "199BFA36|AX ValSerano.esp",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Sailor's Bargain",
+    "string": "水手的交易",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS10StigWhereIsTheBase",
+    "form_id": "0001F799|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where would I go to join up?",
+    "string": "我应该去哪加入？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0001F7A2|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, I can't just tell that to any skeever that washes up. ",
+    "string": "嗯，我不能就这样告诉所有自己跑来的恶鼠。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0001F7A2|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "From the look of you, I'm guessing you're more looking to cause some trouble for the Horkers.",
+    "string": "从你的样子看来，我想你是来找我们的麻烦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FFRiften02LynlyBranchTopic01",
+    "form_id": "0005324C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You have nothing to fear from me. (Persuade)",
+    "string": "你不必怕我。（说服）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000B815E|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right, hand over your valuables, or I'll gut you like a fish.",
+    "string": "好吧，交出你身上值钱的东西，否则我会把你像条鱼一样宰了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14YsoldaMeet2BranchTopic",
+    "form_id": "000D396C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you know what I did with it?",
+    "string": "你知道我做了什么吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0001F391|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You went right out to give it to your fiancee! Don't you even remember where you left her?",
+    "string": "你就这么跑出去把它交给你的未婚妻！你还记得是在哪里离开她的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0001F391|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And after you told me that sweet story of how you met in Witchmist Grove! I can see why she left you.",
+    "string": "在你告诉我你们如何在女巫迷雾森林相遇的甜蜜故事之后！我看得出她为何离开你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00021260|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You went right out to give it to your fiancee! Don't you even remember where you left him?",
+    "string": "你就这么跑出去把它交给你的未婚夫！你还记得是在哪里离开他的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00021260|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And after you told me that sweet story of how you met in Witchmist Grove! I can see why he left you.",
+    "string": "在你告诉我你们如何在女巫迷雾森林相遇的甜蜜故事之后！我看得出他为何离开你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Val004Daedra01",
+    "form_id": "194CB732|AX ValSerano.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You've mentioned the Dunmer faith before...",
+    "string": "你之前提到过丹莫信仰……\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "194CB733|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Azura, Boethia, and Mephala I know well. My father worships in the New Temple faith and raised me the same.",
+    "string": "阿祖拉、波耶西亚和梅法拉我很熟悉。我父亲信仰新圣殿，并以同样的方式养育了我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ValCCHomes01",
+    "form_id": "19AC7004|AX ValSerano.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How do you like my home?",
+    "string": "你喜欢我的家吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D00C07|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uh, it's rustic...",
+    "string": "挺有乡土气息的…",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D00C07|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "What do you think of Golden Hills Plantation?",
+    "string": "你觉得金丘种植园怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CE7464|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It was just a misunderstanding? That's... tragic.",
+    "string": "只是个误会？那可真是…悲哀啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CE7470|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fish are food, not friends... well except for that tiny mudcrab. That little fella is pretty cute.",
+    "string": "鱼是食物，不是朋友…唔，那只小泥蟹除外。那小家伙还挺招人疼的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CE7471|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is this a paying job, or are we just killing the undead for fun and relaxation?",
+    "string": "这是份有报酬的活儿，还是我们单纯在打亡灵找乐子解闷？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AEBD|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We're not in Solitude anymore, Sweetroll.",
+    "string": "咱们可不在独孤城了，小甜卷。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CE747A|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey... If you ever have doubts about me like that couple did for each other, I want you to promise me that you'll be able to talk to me about it. Okay?",
+    "string": "听着…如果有一天你也像那对情侣一样对我产生怀疑，我要你答应我，一定要亲口告诉我。好吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5CD|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What carnival of idiots summoned an entire horde of zombies?",
+    "string": "是哪个白痴马戏团召唤了一整群僵尸？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ValCCAA02A",
+    "form_id": "19CEC5DB|AX ValSerano.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Elemental Flare.",
+    "string": "元素炽焰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5E1|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I really appreciate your help. You're a good teacher, you know?",
+    "string": "衷心感谢你的帮助。你是个不错的老师，知道吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5E2|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Actually, I need to learn Elemental Flare myself before I can teach you.",
+    "string": "事实上，在教你之前我自己得先学会元素炽焰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ValCCAA02B",
+    "form_id": "19CEC5DC|AX ValSerano.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Elemental Bolt.",
+    "string": "元素之箭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5E3|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll do my best not to hit you with this by accident, but, uh, my apologies in advance.",
+    "string": "我会尽量不误伤到你，不过嘛…先提前道个歉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5E4|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Actually, I need to learn Elemental Bolt myself before I can teach you.",
+    "string": "其实我得先自己学会元素之箭，才能教你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5E5|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Actually, I need to improve my Destruction skill before I can teach Elemental Bolt.",
+    "string": "事实上，我的毁灭系法术造诣不够，还教不了你元素之箭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ValCCAA02C",
+    "form_id": "19CEC5DD|AX ValSerano.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Elemental Burst.",
+    "string": "元素爆发。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5E6|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see it now... fire is easier to evoke when you start the spell framework with lightning.",
+    "string": "原来如此...以闪电构筑法术框架时，火焰反而更容易被唤起了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5E6|AX ValSerano.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Heat is just a byproduct. I think I'm getting smarter!",
+    "string": "热量不过是附带产物。看来我的思路更清晰了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5E7|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Actually, I need to learn Elemental Burst myself before I can teach you.",
+    "string": "其实我得先自己学会元素爆发，才能教你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5E8|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Actually, I need to improve my Destruction skill before I can teach Elemental Burst.",
+    "string": "事实上，我的毁灭系法术造诣不够，还教不了你元素爆发。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ValCCAA02D",
+    "form_id": "19CEC5DE|AX ValSerano.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Elemental Blast.",
+    "string": "元素冲击。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5E9|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is an incredibly powerful spell. I don't think I could have understood the nuances of casting it without your insight.",
+    "string": "这法术威力惊人。没有你的指点，我恐怕永远搞不明白施法的精妙之处。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5E9|AX ValSerano.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "When you explain things to me, they just make sense.",
+    "string": "你一说，我就懂了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5EA|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Actually, I need to learn Elemental Blast myself before I can teach you.",
+    "string": "其实我得先自己学会元素冲击，才能教你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5EB|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Actually, I need to improve my Destruction skill before I can teach Elemental Blast.",
+    "string": "事实上，我的毁灭系法术造诣不够，还教不了你元素冲击。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5EC|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Actually, you're going to need additional study at the College to learn Elemental Blast.",
+    "string": "事实上，你需要去冬堡学院深造一段时间，才能学元素冲击。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ValCCAA02E",
+    "form_id": "19CEC5DF|AX ValSerano.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Unbounded Storms.",
+    "string": "无尽风暴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5ED|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I feel like I'm on my way to being master of the sea and sky. Maybe I can learn some wind-based spells next...",
+    "string": "我仿佛正迈向天空与海洋的主宰之路……或许，该学点驭风之术了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5EE|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Actually, I need to learn Unbounded Storms myself before I can teach you.",
+    "string": "其实我得先自己学会无尽风暴，才能教你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5EF|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Actually, I need to improve my Destruction skill before I can teach Unbounded Storms.",
+    "string": "事实上，我的毁灭系法术造诣不够，还教不了你无尽风暴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CEC5F0|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Actually, you're going to need additional study at the College to learn Unbounded Storms.",
+    "string": "事实上，你需要去冬堡学院深造一段时间，才能学无尽风暴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ValCCNordic01",
+    "form_id": "19CF6926|AX ValSerano.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You had something you wanted to say?",
+    "string": "你看上去有事要说？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CF6927|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have something for you - it's a gift! Before you ask, yes, I paid for it. It has a Certificate of Authenticity and everything.",
+    "string": "给你个惊喜——礼物！别担心，我可是真金白银买的！认证证书、包装，一样不少！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19CF6927|AX ValSerano.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "You do a lot of things for me, and I wanted to do something for you, too. I appreciate you keeping me around.",
+    "string": "你为我做了太多，我也想为你做点什么。谢谢你一直留我在身边。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D00C11|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It feels good to see Daenella and Simon reunited. It's the kind of bittersweet love story you'd read in a book...",
+    "string": "看着达奈拉和西蒙重逢，真是让人欣慰。这样的爱情故事，苦涩中带着甜蜜，就像书里写的那样…",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D00C00|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If this delusional Nord wants to die at your hand, fine, but don't expect me to stand around and watch.",
+    "string": "如果这个疯疯癫癫的诺德人非要找死，随他便。但可别指望我会在这儿傻站着看戏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AEBE|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We're not in Solitude anymore, Meeko.",
+    "string": "咱们可不在独孤城了，米科。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AEBF|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I would have thought there would be more cheese.",
+    "string": "我还以为会有更多奶酪呢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AEC0|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "At least I have my pants on this time.",
+    "string": "至少这次我裤子穿好了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AEC1|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know, this hat isn't so bad. I think it suits me. W-Wait, wait what am I saying?!",
+    "string": "呃，这帽子其实还不错... 还挺适合我的？——等等，我在说什么啊？！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AEC2|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Madness is a lifeboat...",
+    "string": "疯狂是救生艇…",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AEC3|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Maybe I do take myself too seriously.",
+    "string": "是啊，可能真的绷太紧了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AEC4|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When was the last time I just took a day off?",
+    "string": "你上一次纯粹休息一整天是什么时候？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AEC5|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can't believe there's no cheese here.",
+    "string": "难以置信，这儿居然连奶酪都没有。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AEC6|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Staada... Gaslight, gatekeep, girlboss personified.",
+    "string": "斯塔达…简直是煤气灯、把持门路、女王本王的化身。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AEC7|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dylora and Staada hate each other? Well, there goes that fantasy. Why do I keep saying these things out loud? Awkward...",
+    "string": "黛萝拉和斯塔达互相讨厌？好吧，这下幻想要破灭了。我怎么又把心里话喊出来了？尴尬…",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AEC8|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why do I keep saying these things out loud?",
+    "string": "我怎么老把心里话念叨出来？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AEC9|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "More like Drinks-the-Skooma.",
+    "string": "更像是喝多了斯库玛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AECA|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Something about this guy's terrible fashion sense seems familiar.",
+    "string": "这家伙糟糕的时尚品味莫名有种熟悉感。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AECB|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm suffering for the art all right.",
+    "string": "我这是为艺术献身啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AECC|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're weird, little buddy. You're weird!",
+    "string": "你真是个怪家伙，小不点儿。怪得很！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AED4|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's all purple butterflies and cheesy hats until you find someone's intestines woven into a chair.",
+    "string": "一开始还满是紫蝴蝶和俗气的帽子，直到你发现某人的肠子被编进了椅子里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151B0|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder what would happen if I ate a soul tomato?",
+    "string": "我在想如果我吃下一个灵魂番茄会发生什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151B7|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These tunnels are moving. It feels like I'm on a ship.",
+    "string": "这些隧道仿佛在流动，如同置身摇晃的船腹。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151B8|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is it just me, or does this place make your teeth feel weird?",
+    "string": "不知是否只有我如此，这地方总让人觉得牙齿怪怪的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151B9|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why am I so happy? There is no reason for me to be smiling.",
+    "string": "为何我如此快乐？明明没有值得微笑的理由。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151BA|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not entirely sure what we accomplished here.",
+    "string": "我不确定我们到底达成了什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151BB|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A Ring of Disrobing? You just couldn't resist, huh?",
+    "string": "脱衣戒指？你果然把持不住是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151BC|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wouldn't want to be stabbed with a spoon. It's dull; that would hurt more.",
+    "string": "我可不想被勺子捅。钝器伤人更疼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151BD|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Just when you start to think 'Uncle Sheo' isn't so bad, you find an eyeball in a box.",
+    "string": "就在你刚觉得“疯神大叔”没那么糟的时候，盒子里冒出一颗眼球。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151C3|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's the kind of sword that kills you by alphabetizing your internal organs.",
+    "string": "这把剑的厉害之处在于，它能按字母表顺序排列你的内脏，让你一命呜呼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19E4634C|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A Ring of Disrobing? You just couldn't resist, huh?",
+    "string": "脱衣戒指？你果然把持不住是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ValAddon01About01",
+    "form_id": "19D0AED1|AX ValSerano.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "About Staada and Dylora...",
+    "string": "关于黛萝拉和斯塔达…",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AED2|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sorry about my earlier comment. This place is giving my intrusive thoughts an unfair advantage.",
+    "string": "没关系的。幽暗之地总会放大那些不受控的念头——但你知道吗？连迪德拉的永恒牢笼都会在晨风的风中留下裂痕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AED2|AX ValSerano.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I wasn't gonna act on it!",
+    "string": "我当然不会真做什么！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AED2|AX ValSerano.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Anyway, don't let these two 'guards' and their superior attitude get to you.",
+    "string": "总之，别让这两个“守卫”和他们那高高在上的态度影响你。\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AED2|AX ValSerano.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Sure, they're immortal, but they're just Daedra. They can only what they already are.",
+    "string": "是啊，他们确实永生不死——但他们终究只是迪德拉。他们永远被困在自己的本质里，无法成为别的什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D0AED2|AX ValSerano.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "You and me? We have choices. We can always change. Our time might be short, but it's time that matters.",
+    "string": "你和我？我们仍有选择。我们总能改变。生命或许短暂，但重要的正是这短暂的光阴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151C0|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know, I always thought I could pull off any look, but this armor is the exception.",
+    "string": "要知道，我一直以为自己能驾驭任何造型。但这套盔甲是个例外。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151C1|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I admire the bold fashion statement, but I'm not sure you're pulling it off.",
+    "string": "我欣赏这种大胆的时尚宣言，但不确定你是否驾驭得了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151C2|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, hello to you, too! You can wear that around me any time you like.",
+    "string": "哎呀，你也好啊！你随时都可以在我面前穿成这样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151C6|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're chopped cheese!",
+    "string": "你算哪根葱！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151C7|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why so serious?",
+    "string": "这么严肃干什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151C8|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Riddle me this, n'wah.",
+    "string": "猜猜看啊，蠢货。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151C9|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All it takes is one bad day.",
+    "string": "只需一个糟糕的日子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151CA|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And here we go.",
+    "string": "我们开始吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151CB|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am the night!",
+    "string": "我即是黑夜！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151CE|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We're not locked in here with you; you're locked in here with us!",
+    "string": "不是你困住了我们，而是我们困住了你！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151CF|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you ever danced with the daedra in the pale moonlight?",
+    "string": "你可曾在苍白的月光下与迪德拉共舞？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151D0|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How about a magic trick? I'm gonna make this cutlass disappear!",
+    "string": "想看个魔术吗？我要让这把弯刀凭空消失！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151CD|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right let's do this. Valllllll Seraanoooooooo!",
+    "string": "好吧，开干。瓦尔——塞拉诺——！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151D2|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you're good at somethin', never do it for free.",
+    "string": "看家的本领最好别白给。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "19D151D6|AX ValSerano.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I could go for some chicken.",
+    "string": "突然有点想吃鸡肉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "A Night To Remember",
+    "string": "值得铭记之夜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I have awoken in the Temple of Dibella in Markarth. Sam and the staff he promised me have disappeared.",
+    "string": "我在马卡斯城的蒂贝拉神殿醒来。山姆和他答应给我的法杖都消失了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I have awoken in the Temple of Dibella in Markarth. Sam and the staff he promised me have disappeared. I have no idea how I got here but a priestess has told me I trashed the temple. The priestess might tell me what happened to Sam and the staff if I pick up the place.",
+    "string": "我在马卡斯城的蒂贝拉神殿醒来。山姆和他答应给我的法杖都消失了。我不知道我是怎么过来的，一个女祭司告诉我我把神殿搞得一团糟。这位女祭司也许可以告诉我山姆和法杖到底发生了什么事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I have awoken in the Temple of Dibella in Markarth. Sam and the staff he promised me have disappeared. I have no idea how I got here but a priestess has told me I trashed the temple. I have cleaned up the temple. If I apologize to the priestess she might tell me what happened to Sam and the staff.",
+    "string": "我在马卡斯城的蒂贝拉神殿醒来。山姆和他答应给我的法杖都消失了。我不知道我是怎么过来的，一个女祭司说我把神殿搞得一团糟。首先我得打扫神殿，然后再向女祭司道歉，之后她也许会告诉我山姆和法杖都怎么了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. The priestesses of Dibella have told me to ask about Sam in Rorikstead.",
+    "string": "我在马卡斯城的蒂贝拉神殿醒来。山姆和他答应给我的法杖都消失了。蒂贝拉的女祭司叫我去洛利克镇打听山姆的事情。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ennis in Rorikstead will tell me more about what happened once I return the goat I stole from him.",
+    "string": "我在马卡斯城的蒂贝拉神殿醒来。山姆和他答应给我的法杖都消失了。只要我把我偷走的山羊还给洛利克镇的埃尼斯，他就会告诉我发生了什么事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ennis in Rorikstead will tell me more about what happened once I return the goat I stole from him.",
+    "string": "我在马卡斯城的蒂贝拉神殿醒来。山姆和他答应给我的法杖都消失了。只要我把我偷走的山羊还给洛利克镇的埃尼斯，他就会告诉我发生了什么事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. A note of debt I gave to Ennis in Rorikstead has directed me to Ysolda in Whiterun. She might be able to direct me to Sam.",
+    "string": "我从一夜的放荡中醒来，不知道发生了什么事。山姆和他答应给我的法杖都消失了。洛利克镇的埃尼斯要我去找白漫城的伊索尔达，她也许能指引我找到山姆。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ysolda in Whiterun will give me more information about Sam once I return the ring I borrowed from her to give to someone in Witchmist Grove.",
+    "string": "我从一夜的放荡中醒来，不知道发生了什么事。山姆和他答应给我的法杖都消失了。白漫城的伊索尔达称如果我帮她把我之前从她那里借来并送到女巫迷雾树林的戒指归还的话，她就会给我更多的信息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ysolda in Whiterun will give me more information about Sam once I return the ring I borrowed from her to give to a hagraven at Witchmist Grove.",
+    "string": "我从一夜的放荡中醒来，不知道发生了什么事。山姆和他答应给我的法杖都消失了。白漫城的伊索尔达称如果我帮她把我之前从她那里借来并送到女巫迷雾树林的戒指归还的话，她就会给我更多的信息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "I have awoken from a night of debauchery with no idea what happened. Sam and the staff he promised me have disappeared. Ysolda in Whiterun has told me to look for Sam in Morvunskar.",
+    "string": "我从一夜的放荡中醒来，不知道发生了什么事。山姆和他答应给我的法杖都消失了。白漫城的伊索尔达叫我去莫万斯卡找山姆。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 11,
+    "type": "QUST CNAM",
+    "original": "\"Sam\" turned out to be the Daedric Prince of Debauchery, Sanguine. He spurred me on during a drunken night of revelry that crossed all of Skyrim. I've acquired the Sanguine Rose for my troubles.",
+    "string": "“山姆”居然是掌管放荡之魔神，桑吉恩。他在一个寻欢作乐的酒醉之夜怂恿我横跨整个天际，他给了我血腥玫瑰作为奖励。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Find Sam Guevenne",
+    "string": "找到山姆·圭文",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 12,
+    "type": "QUST NNAM",
+    "original": "Find the Staff",
+    "string": "找到法杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Help clean up the Temple of Dibella",
+    "string": "协助清理蒂贝拉神殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Apologize to the priestesses of Dibella",
+    "string": "向蒂贝拉女祭司道歉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Ask about Sam and the staff in Rorikstead",
+    "string": "在洛利克镇询问山姆和法杖的事情",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Find Gleda the Goat",
+    "string": "找到山羊格丽达",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 75,
+    "type": "QUST NNAM",
+    "original": "Bring Gleda the Goat back to Ennis in Rorikstead",
+    "string": "将山羊格丽达带回给洛利克镇的埃尼斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 85,
+    "type": "QUST NNAM",
+    "original": "Talk to Ysolda in Whiterun about the staff",
+    "string": "和白漫城的伊索尔达谈谈关于法杖的事情",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Find the wedding ring in Witchmist Grove",
+    "string": "在女巫迷雾森林找到婚戒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 115,
+    "type": "QUST NNAM",
+    "original": "Take the wedding ring",
+    "string": "拿走婚戒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 125,
+    "type": "QUST NNAM",
+    "original": "Return the wedding ring to Ysolda in Whiterun",
+    "string": "将婚戒还给白漫城的伊索尔达",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 135,
+    "type": "QUST NNAM",
+    "original": "Head to Morvunskar",
+    "string": "前往门割要塞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14",
+    "form_id": "0001BB9B|Skyrim.esm",
+    "index": 150,
+    "type": "QUST NNAM",
+    "original": "Search Morvunskar for Sam and the Staff",
+    "string": "在莫万斯卡搜索山姆和法杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunMidden01QST",
+    "form_id": "00055977|Skyrim.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Forgotten Names",
+    "string": "被遗忘之名",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BGSSSE018_ShadowrendQuest",
+    "form_id": "0B00081C|ccBGSSSE018-Shadowrend.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Through a Glass, Darkly",
+    "string": "透过玻璃，黑暗",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BGSSSE018_ShadowrendQuest",
+    "form_id": "0B00081C|ccBGSSSE018-Shadowrend.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "An inner voice is telling me I must confront a darkness within myself. I am drawn toward a geyser pool in Eastmarch. Perhaps answers lie there.",
+    "string": "内心的声音告诉我，我必须面对自己内心的黑暗。我被伊斯特玛奇的一个间歇泉池所吸引。也许答案就在那里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BGSSSE018_ShadowrendQuest",
+    "form_id": "0B00081C|ccBGSSSE018-Shadowrend.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "The weapon I attempted to take has pulled something from within me - a dark shadow of myself. I must defeat this doppelganger.",
+    "string": "我试图拿走的武器从我内心拉出了一些东西——我自己的黑暗阴影。我一定要打败这个分身。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BGSSSE018_ShadowrendQuest",
+    "form_id": "0B00081C|ccBGSSSE018-Shadowrend.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I have defeated my shadow and feel at peace.  I should retrieve the weapon from its remains.",
+    "string": "我战胜了自己的影子，感到平静。我应该从它的残骸中取回武器。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BGSSSE018_ShadowrendQuest",
+    "form_id": "0B00081C|ccBGSSSE018-Shadowrend.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I discovered and defeated my shadow doppelganger, and have obtained the weapon Shadowrend.",
+    "string": "我发现并击败了我的影子分身，并获得了武器“暗影撕裂”。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BGSSSE018_ShadowrendQuest",
+    "form_id": "0B00081C|ccBGSSSE018-Shadowrend.esl",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Go to the Grove of Reflection",
+    "string": "前往倒影之林",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BGSSSE018_ShadowrendQuest",
+    "form_id": "0B00081C|ccBGSSSE018-Shadowrend.esl",
+    "index": 8,
+    "type": "QUST NNAM",
+    "original": "Return to the Grove of Reflection",
+    "string": "返回反思之林",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BGSSSE018_ShadowrendQuest",
+    "form_id": "0B00081C|ccBGSSSE018-Shadowrend.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Defeat your Shadow",
+    "string": "打败你的影子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BGSSSE018_ShadowrendQuest",
+    "form_id": "0B00081C|ccBGSSSE018-Shadowrend.esl",
+    "index": 15,
+    "type": "QUST NNAM",
+    "original": "Retrieve Shadowrend",
+    "string": "取回暗影撕裂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ValCC",
+    "form_id": "19AB2AA5|AX ValSerano.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Creation Club",
+    "string": "创造俱乐部",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ValAddon01",
+    "form_id": "19D0AEB9|AX ValSerano.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Saints and Seducers Extended Cut",
+    "string": "圣徒与诱惑者：扩展版",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_AbyssalTidePerk",
+    "form_id": "199FDB43|AX ValSerano.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Abyssal Tides",
+    "string": "深渊潮汐",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AX_AbyssalTidePerk",
+    "form_id": "199FDB43|AX ValSerano.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Grants access to the powerful magics of Aprocrypha",
+    "string": "赋予使用伪典的强大魔法的力量",
+    "status": "TranslationComplete"
+  }
+]

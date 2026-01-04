@@ -1,0 +1,587 @@
+[
+  {
+    "editor_id": "zVigilantYngvir",
+    "form_id": "03000021|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Vigilant Yngvir",
+    "string": "警戒者英格维尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantYngvir",
+    "form_id": "03000021|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Yngvir",
+    "string": "英格维尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HallOfTheVigilant01",
+    "form_id": "000C7348|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hall of the Vigilant",
+    "string": "警戒者之家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantdialoguecstart1Topic",
+    "form_id": "03000004|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is Daedra worship Illegal?",
+    "string": "崇拜死亡之神是否违法？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000005|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Unfortunately, no. The Nords and the Empire tolerate it. However, such vile rituals inevitably lead to unlawful acts. ",
+    "string": "不幸的是，不。诺德人和帝国对此持宽容态度。然而，这些卑劣的仪式最终会导致非法行为的发生。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000005|Vigilangdialogueexpanded.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Lycanthropy, vampirism, human sacrifice. And many other profane acts of worship. Proof of any of these gives us the freedom to act.",
+    "string": "狼人症、吸血鬼症、人祭。以及许多其他亵渎的崇拜仪式。证明其中任何一项都能赋予我们行动的自由。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantdialogueDMDEWTDTopic",
+    "form_id": "03000007|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Don't most Dark elves worship Daedra?",
+    "string": "大多数黑暗精灵不都崇拜戴德拉吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000008|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes. There was some hope after the fall of their Tribunal of false gods, they would turn to the true light of the divines.",
+    "string": "是的。在他们伪神法庭覆灭后，曾有一线希望，他们将转向神之真光。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000008|Vigilangdialogueexpanded.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But instead, most have fallen under darker influences still. Many of our own members are Dunmer.",
+    "string": "然而，大多数仍然陷入了更黑暗的影响之下。我们自己的成员中有很多杜姆尼尔人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000008|Vigilangdialogueexpanded.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "They see what is happening to their kin and homeland. And hope to set it right. And by Stendaar's mercy, they, we will prevail.",
+    "string": "他们目睹族人与家园所遭受的苦难。并渴望扭转这一切。借着圣斯坦达尔的慈悲，他们，我们终将胜利。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantdialogueorcTopic",
+    "form_id": "0300000A|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How do you view Malacath worship among stronghold Orcs?",
+    "string": "在要塞的兽人中，你是如何看待马拉卡斯崇拜的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300000B|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They aren't generally as dangerous as other Daedra worshipers. But their worship leads them to live short brutal lives on the outskirts of society.",
+    "string": "他们通常不像其他德拉德信徒那样危险。但他们的信仰使他们过着短暂而残酷的生活，处于社会的边缘。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300000B|Vigilangdialogueexpanded.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "They could be so much more if they embraced the teaching of the god of mercy.",
+    "string": "如果他们接受怜悯之神的教诲，他们就能成为更强大的存在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantdialogueHowdidyoubecomekeeperTopic",
+    "form_id": "0300000D|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did you become Keeper?",
+    "string": "你是怎么成为守护者的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300000E|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was given the honor of my position when my predecessor, Vulatius fell to a werebear.",
+    "string": "当我的前任警戒者被狼人熊所杀时，我便获得了这个职位的荣誉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300000E|Vigilangdialogueexpanded.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "He fought bravely and took the twisted abomination with him. None in Stendaar's service could ask for a more honorable death.",
+    "string": "他英勇奋战，将扭曲的怪物带走了。在斯坦达尔手下效力的人中，无人会要求更光荣的死亡。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantdialoguedylmm",
+    "form_id": "0300000F|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you lose many members?",
+    "string": "你们是否失去了很多成员？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000010|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sadly, the land is full of abominations and those who create and enable them. ",
+    "string": "可惜，这片土地布满了灾厄，以及那些制造和助长它们的幕后黑手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000010|Vigilangdialogueexpanded.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": " It's an unending battle. And one that can not be fought without sacrifices.",
+    "string": " 这是一场无尽的战斗。没有牺牲就无法进行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000012|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stendaar be with you",
+    "string": "斯坦达尔与你同在",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000032|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stendarr watch over you.",
+    "string": "願斯坦德爾保佑你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000033|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I won't be here for long. I'll meet up with our brothers in the Rift soon.",
+    "string": "我不会在这里待太久。很快就会在裂谷城与我们的兄弟汇合。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantdialogueWDIMTBAVOSTopic",
+    "form_id": "03000014|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What does it mean to be a Vigilant of Stendaar?",
+    "string": "成为斯坦达尔的警戒者意味着什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000015|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It means standing against false life, daedric interlopers, and those who bring them to Nirn. It's not an easy task. ",
+    "string": "这意味着对抗虚假生命、达达利亚入侵者，以及将他们带到尼尔姆的人。这并非易事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000015|Vigilangdialogueexpanded.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Sometimes vampires wear the faces of people you knew. And Deadra worshipers have loved ones too. ",
+    "string": "有时吸血鬼会戴着你认识的人的面具。而德雷德的信徒也有他们的爱人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000015|Vigilangdialogueexpanded.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Stendarr protects the innocent and brings justice to all. And his mercy sometimes can seem cruel. But it can not be extended to Daedra worshipers.",
+    "string": "圣达瑞尔守护着无辜者，为所有人伸张正义。他的仁慈有时看似残酷。但这一点无法施加于达德拉信徒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantdialoguehgvaisTopic",
+    "form_id": "03000018|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How goes the Vigilants Operations in Skyrim?",
+    "string": "天际中的警戒者行动进行得如何？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000019|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some of our members are reporting an increase in Vampire activity. No matter. We will stamp them out.",
+    "string": "我们的一些成员报告称吸血鬼活动有所增加。不管怎样，我们会彻底铲除它们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300001A|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ours members in the Rift report most of the Dunmer there follow the divines. In time all will see their truth.",
+    "string": "裂谷城中的我们的成员报告称，那里大多数锻默人信仰天神。最终，他们终将明白真相。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300001B|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Jarl of this very hold has allowed a Museum of the Mythic Dawn to be opened. One of our members was even handed a promotional pamphlet for it. ",
+    "string": "这个领地的领主已批准开设了\"神话黎明博物馆\"。甚至有我们的成员收到了该博物馆的宣传单。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300001B|Vigilangdialogueexpanded.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": " It's disheartening to see the authories tolerate such thinly disguised Dagon worship.",
+    "string": " 看到当局竟然容忍这种巧妙掩饰的大衮崇拜，令人失望。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300001C|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Necromancers have been taking up residence in many of Skyrim's ancient tombs. We will do what we can to flush them out.",
+    "string": "亡灵法师已经占据了天际许多古代墓穴。我们会尽我们所能将他们驱逐出去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300001E|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am Keeper of the Vigil here in Skyrim. We bring Stendarr's Mercy to the innocent and His Justice to the Daedra. ",
+    "string": "我是天际的守望者。我们为无辜者带来斯坦达尔的仁慈，对达德拉施以他的正义。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000030|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Welcome to the hall of the Vigilant. We offer healing to the sick and justice for the innocents prayed on by Daedra and their followers.",
+    "string": "欢迎来到守望者之厅。我们为病人提供治疗，并为遭受达德拉及其追随者祈祷的无辜者伸张正义。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000031|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Travelers are always welcome in the Hall of the Vigilant. It is a place of rest and healing.",
+    "string": "警戒者的大厅永远欢迎旅行者。这里是休憩与疗伤之所。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantdialogueWDIMTopic",
+    "form_id": "03000024|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What does it mean to be a Vigilant of Steendar?",
+    "string": "成为斯坦达尔的警戒者意味着什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000025|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It means burying your friends more often than anyone should. It means standing against evil and injustice wherever it rears its head. ",
+    "string": "这意味着你需要比任何人应有的频率都要频繁地埋葬朋友。这意味着无论邪恶和不公以何种形式冒头，都要站在对抗它们的立场上。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000025|Vigilangdialogueexpanded.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It means being treated like criminals for doing what's right. It means a lifetime of struggle and never achieving your goal.",
+    "string": "这意味着为了做正确的事而被视作罪犯。这意味着终生的斗争却永远无法达成目标。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantdialogueHLHYBTopic",
+    "form_id": "03000027|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How long have you been a Vigilant of Steendar?",
+    "string": "你已经担任斯塔达尔的警戒者多长时间了呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000028|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Longer than anyone else here. When I was 14. I lied about my age to join. I'm what they call an old warrior.",
+    "string": "在这里的任何人中，我经历的战斗时间最长。当我14岁的时候，我就撒谎说自己的年龄来加入。他们称我为老战士。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantdialogueHgvoisTopic",
+    "form_id": "0300002A|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How goes the Vigilants operations in Skyrim?",
+    "string": "天际省的夜莺骑士团行动进展如何？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300002B|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We end up fighting wolves and bandits more often than abominations. Being on the open road often means you don't get to choose your enemies.",
+    "string": "我们最终不得不与狼和强盗战斗的次数远多于怪物。在野外路上游荡时，往往意味着你无法选择自己的敌人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300002C|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've seen some lone vampires scouting around the Hall. I don't know why, but it worries me.",
+    "string": "我看到一些独行的吸血鬼在大厅周围侦查。我不确定原因，但让我感到不安。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300002D|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Authorities protect Deadra worshipers who are the source of so many of these problems. So, we are stuck fighting the symptoms.",
+    "string": "当局保护着众多问题的根源——死神教徒。因此，我们只能在表象上与之对抗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300002E|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Eastmarch worries me. The Vigilantes have very little presence there. Daedric cults are building shrines and establishing footholds unchallenged.",
+    "string": "东边陲让我感到不安。警戒者在那里几乎没有存在感。达达利亚教派正在毫无阻碍地建造神殿并建立据点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300002F|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": " Travelers have been found with blood drained on the southern road between the Rift and Whiterun. ",
+    "string": " 在裂谷与白漫之间的南方道路上发现了被抽干了血液的旅人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300002F|Vigilangdialogueexpanded.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I'll head to the Beacon of Stendaar soon. This can't be allowed to continue.",
+    "string": "我很快就要前往斯坦达尔灯塔了。这种情况绝对不能继续下去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantdialogueWDTJTVTopic",
+    "form_id": "03000035|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why did you join the Vigilants of Stendaar?",
+    "string": "你为什么加入斯坦达尔警戒者？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000036|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There was no one reason. I was very young when I joined, impressionable.",
+    "string": "没有一个明确的原因。我加入时还很年轻，容易受影响。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000036|Vigilangdialogueexpanded.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I grew up hearing stories of the Oblivion crisis. And the evils that the Vigilant fight never seemed very distant. ",
+    "string": "我从小听闻湮灭危机的故事。而守望者所对抗的邪恶力量，从未显得遥不可及。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000036|Vigilangdialogueexpanded.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The wilds are full of undead, vampires, conjurers. Every time I heard a tale or rumor about one of them it made me want to join more.",
+    "string": "荒野中充满了不死族、吸血鬼和法师。每次听到关于他们的故事或传闻，都会让我更想加入其中。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000036|Vigilangdialogueexpanded.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Until one day as a young lad barely old enough to grow his first chin hairs. I decided I didn't want to wait any longer. I knew what I wanted.",
+    "string": "直到有一天，我刚能长出第一根下巴胡须的年纪。我决定不再等待，我知道自己想要什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000036|Vigilangdialogueexpanded.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "So, I ran off to join them. I was large for my age. So, when I told them I was 17 it seemed plausible.",
+    "string": "于是我就赶紧跑过去加入他们。我这个年纪已经够大的了。所以当我说自己17岁的时候，听起来也挺合理的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000036|Vigilangdialogueexpanded.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "hey gave me my first mace and started training me the next day.",
+    "string": "嘿，给了我第一把战锤，第二天就开始训练我了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000036|Vigilangdialogueexpanded.esp",
+    "index": 7,
+    "type": "INFO NAM1",
+    "original": "In the end I outlived everyone who trained me.",
+    "string": "最终，我超越了所有训练我的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantdialogueProudTopic",
+    "form_id": "03000038|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is your proudest moment as a Vigilant?",
+    "string": "作为警戒者，你最自豪的时刻是什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000039|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've never been an exceptional warrior. Though I do consider myself a reliable one. I would have never made it this long if I wasn't. ",
+    "string": "我从未成为一位特别出色的战士。虽然我自认可靠。如果我没有这种可靠性，我早就撑不下去了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000039|Vigilangdialogueexpanded.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "People like me aren't the type of people who will make it into histories or heroic tales. We don't defeat ancient evils or save the world.",
+    "string": "像我这样的人不会成为历史记载或英雄传说中的一员。我们没有打败古老的邪恶势力或拯救世界。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000039|Vigilangdialogueexpanded.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": " But sometimes small acts can make all the difference in people's lives.",
+    "string": " 但有时，微小的善举也能在人们的生活中产生决定性的影响。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000039|Vigilangdialogueexpanded.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I saved a child once. He had been kidnapped by a new vampire to use as a source of blood. He was delirious when I found him.",
+    "string": "有一次，我救了一个孩子。他被一个新吸血鬼绑架，用作取血来源。当我找到他时，他已经神志不清了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000039|Vigilangdialogueexpanded.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Clearly enchanted by their unholy magics and on the verge of death. I doubt he would have survived another feeding.",
+    "string": "显然被施了邪魔法，濒临死亡的边缘。我不确定他还能再承受一轮吸血。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000039|Vigilangdialogueexpanded.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "But he didn't have to. I put the abomination down. And returned him to his parents. ",
+    "string": "但他不必如此。我将那可憎之物制服了。并将其送回了他的父母身边。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000039|Vigilangdialogueexpanded.esp",
+    "index": 7,
+    "type": "INFO NAM1",
+    "original": "He's all grown up now. With his own farm and just got married last year.",
+    "string": "他现在已经长大成人了。拥有自己的农场，并且去年刚结婚。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000039|Vigilangdialogueexpanded.esp",
+    "index": 8,
+    "type": "INFO NAM1",
+    "original": "I've only had a few successes like that. But they make all the years I've dedicated to this order worth it.",
+    "string": "我只有过几次这样的成功。但这些成就让我的奉献变得值得。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zVigilantdialogue",
+    "form_id": "03000001|Vigilangdialogueexpanded.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Vigilantdialogue",
+    "string": "警戒者对话",
+    "status": "TranslationComplete"
+  }
+]

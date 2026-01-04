@@ -1,0 +1,308 @@
+[
+  {
+    "editor_id": "DLC2DarkElfBench01_blue",
+    "form_id": "03000800|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bench",
+    "string": "长椅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBench01_purple",
+    "form_id": "03000801|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bench",
+    "string": "长椅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBench01_red",
+    "form_id": "03000802|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bench",
+    "string": "长椅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBench01_nobleblue",
+    "form_id": "03000803|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bench",
+    "string": "长椅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBench01_noblepurple",
+    "form_id": "03000804|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bench",
+    "string": "长椅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfBench01_noblered",
+    "form_id": "03000805|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bench",
+    "string": "长椅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01_blue",
+    "form_id": "03000806|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01F_blue",
+    "form_id": "03000807|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01L_blue",
+    "form_id": "03000808|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01R_blue",
+    "form_id": "03000809|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01_purple",
+    "form_id": "0300080A|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01F_purple",
+    "form_id": "0300080B|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01L_purple",
+    "form_id": "0300080C|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01R_purple",
+    "form_id": "0300080D|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01_red",
+    "form_id": "0300080E|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01F_red",
+    "form_id": "0300080F|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01L_red",
+    "form_id": "03000810|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01R_red",
+    "form_id": "03000811|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01_nobleblue",
+    "form_id": "03000812|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01F_nobleblue",
+    "form_id": "03000813|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01L_nobleblue",
+    "form_id": "03000814|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01R_nobleblue",
+    "form_id": "03000815|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01_noblepurple",
+    "form_id": "03000816|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01F_noblepurple",
+    "form_id": "03000817|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01L_noblepurple",
+    "form_id": "03000818|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01R_noblepurple",
+    "form_id": "03000819|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01_noblered",
+    "form_id": "0300081A|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01F_noblered",
+    "form_id": "0300081B|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01L_noblered",
+    "form_id": "0300081C|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfChair01R_noblered",
+    "form_id": "0300081D|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfThrone01_noble",
+    "form_id": "0300081E|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Throne",
+    "string": "王座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfThrone01_blue",
+    "form_id": "0300081F|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Throne",
+    "string": "王座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfThrone01_purple",
+    "form_id": "03000820|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Throne",
+    "string": "王座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2DarkElfThrone01_red",
+    "form_id": "03000821|Redoran Reverie - A Dunmer Furniture Replacer - BOS.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Throne",
+    "string": "王座",
+    "status": "TranslationComplete"
+  }
+]

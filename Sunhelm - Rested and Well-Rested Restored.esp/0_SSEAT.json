@@ -1,0 +1,272 @@
+[
+  {
+    "editor_id": "RestedSkillEffect",
+    "form_id": "0010D968|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rested",
+    "string": "已休息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RestedSkillEffect",
+    "form_id": "0010D968|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "All skills improve <5>% faster for <8> hours.",
+    "string": "所有技能提升速度加快<5>%，持续<8>小时。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RestedWellSkillEffect",
+    "form_id": "0010D96B|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Well Rested",
+    "string": "充分休息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RestedWellSkillEffect",
+    "form_id": "0010D96B|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "All skills improve <10>% faster for <8> hours.",
+    "string": "所有技能提升速度加快<10>%，持续<8>小时。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RestedMarriageSkillEffect",
+    "form_id": "0010D96C|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Lover's Comfort",
+    "string": "爱人的慰藉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RestedMarriageSkillEffect",
+    "form_id": "0010D96C|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "All skills improve <15>% faster for <8> hours.",
+    "string": "所有技能提升速度加快<15>%，持续<8>小时。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHVampireSleepRestedEffect",
+    "form_id": "03000C34|HearthFires.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Vampiric Blood Rested",
+    "string": "吸血鬼之血休息效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRestedAdoptionSkillEffectMale",
+    "form_id": "03004294|HearthFires.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Father's Love",
+    "string": "父爱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRestedAdoptionSkillEffectFemale",
+    "form_id": "0300590B|HearthFires.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Mother's Love",
+    "string": "母爱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SHFatigue01Display",
+    "form_id": "05021E33|SunHelmSurvival.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Exhaustion Status",
+    "string": "精疲力竭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SHFatigue01Display",
+    "form_id": "05021E33|SunHelmSurvival.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Currently not suffering from sleep deprivation.",
+    "string": "目前没有睡眠不足的问题",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Rested",
+    "form_id": "000FB981|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Rested",
+    "string": "已休息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WellRested",
+    "form_id": "000FB984|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Well Rested",
+    "string": "充分休息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHVampireSleepRested",
+    "form_id": "03000C35|HearthFires.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Vampiric Blood Rested",
+    "string": "吸血鬼之血休息效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHAdoptionSleepAbilityMale",
+    "form_id": "03002F54|HearthFires.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Father's Love",
+    "string": "父爱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHAdoptionSleepAbilityMale",
+    "form_id": "03002F54|HearthFires.esm",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Healing spells and potions restore <25>% more health for <8> hours.",
+    "string": "治疗法术和药水效果提升<25>%，持续<8>小时。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHAdoptionSleepAbilityFemale",
+    "form_id": "03004292|HearthFires.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mother's Love",
+    "string": "母爱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHAdoptionSleepAbilityFemale",
+    "form_id": "03004292|HearthFires.esm",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Healing spells and potions restore <25>% more health for <8> hours.",
+    "string": "治疗法术和药水效果提升<25>%，持续<8>小时。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SHFatigue01",
+    "form_id": "0501E845|SunHelmSurvival.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Not Tired",
+    "string": "未感疲倦",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WSN_Redguard_Morwha_Boon2_Food_0",
+    "form_id": "0620A802|Wintersun - Faiths of Skyrim.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Sacred Pineapple",
+    "string": "神圣菠萝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WSN_Redguard_Morwha_Boon2_Food_2",
+    "form_id": "0620A805|Wintersun - Faiths of Skyrim.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Sacred Kiwi",
+    "string": "神圣猕猴桃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WSN_Redguard_Morwha_Boon2_Food_1",
+    "form_id": "0620A807|Wintersun - Faiths of Skyrim.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Sacred Mango",
+    "string": "神圣芒果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WSN_Redguard_Morwha_Boon2_Food_3",
+    "form_id": "0620A809|Wintersun - Faiths of Skyrim.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Sacred Melon",
+    "string": "神圣甜瓜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WSN_Redguard_Morwha_Boon2_Food_4",
+    "form_id": "0620A80B|Wintersun - Faiths of Skyrim.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Sacred Papaya",
+    "string": "神圣木瓜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WSN_Redguard_Morwha_Boon2_Food_5",
+    "form_id": "0620A80D|Wintersun - Faiths of Skyrim.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Sacred Banana",
+    "string": "神圣香蕉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHAdoptionRestedMessageFemaleFirst",
+    "form_id": "07000B00|Sunhelm - Rested and Well-Rested Restored.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I awaken feeling a Mother's Love.",
+    "string": "我醒来时感受到了母爱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHAdoptionRestedMessageMaleFirst",
+    "form_id": "07000B01|Sunhelm - Rested and Well-Rested Restored.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I awaken feeling a Father's Love.",
+    "string": "我醒来时感受到了父爱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarriageRestedMessageFirst",
+    "form_id": "07000B02|Sunhelm - Rested and Well-Rested Restored.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I awaken feeling my Lover's Comfort.",
+    "string": "我醒来时感觉到爱人的慰藉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RestedMessageFirst",
+    "form_id": "07000B03|Sunhelm - Rested and Well-Rested Restored.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I awaken feeling Rested. ",
+    "string": "我醒来感觉休息过了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WellRestedMessageFirst",
+    "form_id": "07000B04|Sunhelm - Rested and Well-Rested Restored.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I awaken feeling Well Rested. ",
+    "string": "我醒来感觉休息得很好。",
+    "status": "TranslationComplete"
+  }
+]

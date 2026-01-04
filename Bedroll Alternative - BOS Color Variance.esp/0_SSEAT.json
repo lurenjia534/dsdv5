@@ -1,0 +1,191 @@
+[
+  {
+    "editor_id": "Bedroll01L_green",
+    "form_id": "01000D66|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01LR_green",
+    "form_id": "01000D67|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01R_green",
+    "form_id": "01000D68|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01_red",
+    "form_id": "01000D69|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01F_red",
+    "form_id": "01000D6A|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01FL_red",
+    "form_id": "01000D6B|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01FR_red",
+    "form_id": "01000D6C|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01L_red",
+    "form_id": "01000D6D|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01LR_red",
+    "form_id": "01000D6E|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01R_red",
+    "form_id": "01000D6F|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01_blue",
+    "form_id": "01000D70|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01F_blue",
+    "form_id": "01000D71|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01FL_blue",
+    "form_id": "01000D72|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01FR_blue",
+    "form_id": "01000D73|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01L_blue",
+    "form_id": "01000D74|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01LR_blue",
+    "form_id": "01000D75|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01R_blue",
+    "form_id": "01000D76|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01FL_green",
+    "form_id": "01000D64|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01F_green",
+    "form_id": "01000D63|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01FR_green",
+    "form_id": "01000D65|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Bedroll01_green",
+    "form_id": "01000D62|Bedroll Alternative - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed Roll",
+    "string": "铺盖卷",
+    "status": "TranslationComplete"
+  }
+]

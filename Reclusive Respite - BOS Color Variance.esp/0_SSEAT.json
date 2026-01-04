@@ -1,0 +1,578 @@
+[
+  {
+    "editor_id": "HHFurnitureChair01F",
+    "form_id": "00102733|Skyrim.esm",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureBedSingle01_red",
+    "form_id": "01000D62|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureBedSingle01L_red",
+    "form_id": "01000D63|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureBedSingle01R_red",
+    "form_id": "01000D64|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureBedSingle01_blue",
+    "form_id": "01000D65|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureBedSingle01L_blue",
+    "form_id": "01000D66|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureBedSingle01R_blue",
+    "form_id": "01000D67|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureBedSingle01_green",
+    "form_id": "01000D68|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureBedSingle01L_green",
+    "form_id": "01000D69|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureBedSingle01R_green",
+    "form_id": "01000D6A|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureBench01_blue",
+    "form_id": "01000D6B|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bench",
+    "string": "长椅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair01_blue",
+    "form_id": "01000D6C|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair01F_blue",
+    "form_id": "01000D6D|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair01L_blue",
+    "form_id": "01000D6E|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair01R_blue",
+    "form_id": "01000D6F|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair02_blue",
+    "form_id": "01000D70|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair02F_blue",
+    "form_id": "01000D71|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair02L_blue",
+    "form_id": "01000D72|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair02R_blue",
+    "form_id": "01000D73|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureBench01_red",
+    "form_id": "01000D74|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bench",
+    "string": "长椅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair01_red",
+    "form_id": "01000D75|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair01F_red",
+    "form_id": "01000D76|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair01L_red",
+    "form_id": "01000D77|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair01R_red",
+    "form_id": "01000D78|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair02_red",
+    "form_id": "01000D79|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair02F_red",
+    "form_id": "01000D7A|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair02L_red",
+    "form_id": "01000D7B|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair02R_red",
+    "form_id": "01000D7C|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureBench01_green",
+    "form_id": "01000D7D|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bench",
+    "string": "长椅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair01_green",
+    "form_id": "01000D7E|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair01F_green",
+    "form_id": "01000D7F|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair01L_green",
+    "form_id": "01000D80|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair01R_green",
+    "form_id": "01000D81|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair02_green",
+    "form_id": "01000D82|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair02F_green",
+    "form_id": "01000D83|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair02L_green",
+    "form_id": "01000D84|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HHFurnitureChair02R_green",
+    "form_id": "01000D85|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair02L_red",
+    "form_id": "01000D86|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair02R_red",
+    "form_id": "01000D87|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair02F_red",
+    "form_id": "01000D88|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureBedSingle01L_red",
+    "form_id": "01000D89|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureBedSingle01R_red",
+    "form_id": "01000D8A|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair01_red",
+    "form_id": "01000D8B|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair01R_red",
+    "form_id": "01000D8C|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair02_red",
+    "form_id": "01000D8D|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair01L_red",
+    "form_id": "01000D8E|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureBedSingle01L_blue",
+    "form_id": "01000D8F|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureBedSingle01R_blue",
+    "form_id": "01000D90|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair01L_blue",
+    "form_id": "01000D91|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair01R_blue",
+    "form_id": "01000D92|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair02_blue",
+    "form_id": "01000D93|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair02F_blue",
+    "form_id": "01000D94|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair02L_blue",
+    "form_id": "01000D95|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair02R_blue",
+    "form_id": "01000D96|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureBedSingle01L_green",
+    "form_id": "01000D97|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureBedSingle01R_green",
+    "form_id": "01000D98|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair01_blue",
+    "form_id": "01000D99|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair01_green",
+    "form_id": "01000D9A|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair01L_green",
+    "form_id": "01000D9B|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair01R_green",
+    "form_id": "01000D9C|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair02_green",
+    "form_id": "01000D9D|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair02F_green",
+    "form_id": "01000D9E|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair02L_green",
+    "form_id": "01000D9F|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SHTFurnitureChair02R_green",
+    "form_id": "01000DA0|Reclusive Respite - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  }
+]

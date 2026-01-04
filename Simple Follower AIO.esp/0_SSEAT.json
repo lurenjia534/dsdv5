@@ -1,0 +1,4007 @@
+[
+  {
+    "editor_id": "01_Deliacs",
+    "form_id": "10000813|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "CLAS FULL",
+    "original": "Warrior",
+    "string": "战士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Feter_class",
+    "form_id": "10000889|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "CLAS FULL",
+    "original": "菲特�?艾尔类型",
+    "string": "菲特·艾尔类型",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_EmberClass",
+    "form_id": "100008D8|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "CLAS FULL",
+    "original": "Warrior",
+    "string": "战士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_EllaClass",
+    "form_id": "10000920|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "CLAS FULL",
+    "original": "Destruction Mage",
+    "string": "毁灭系法师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_LilliClass",
+    "form_id": "10000941|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "CLAS FULL",
+    "original": "Warrior",
+    "string": "战士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_KyaruClass",
+    "form_id": "10000952|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "CLAS FULL",
+    "original": "Warrior",
+    "string": "战士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_SidneyClass",
+    "form_id": "100009CA|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "CLAS FULL",
+    "original": "Warrior",
+    "string": "战士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Lansseax",
+    "form_id": "10000A83|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "CLAS FULL",
+    "original": "Lansseax",
+    "string": "兰塞克斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_CombatSeline",
+    "form_id": "10000B39|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "CLAS FULL",
+    "original": "Seline",
+    "string": "塞琳",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00KhanaClass",
+    "form_id": "10000B4E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "CLAS FULL",
+    "original": "Khana",
+    "string": "卡纳",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Argonian_Face_HP",
+    "form_id": "10000AF6|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "HDPT FULL",
+    "original": "Argonian",
+    "string": "阿尔贡人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aa22DarkElfRace",
+    "form_id": "10000005|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dark Elf",
+    "string": "暗精灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aa22DarkElfRace",
+    "form_id": "10000005|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Also known as \"Dunmer\" in their homeland of Morrowind, dark elves are noted for their stealth and magic skills. They are naturally resistant to fire and can call upon their Ancestor's Wrath to surround themselves in fire.",
+    "string": "在故乡晨风省，他们被称作「丹莫」。暗精灵的过人之处在于他们的力量和魔法技艺。他们天生对火焰有高抵抗力，并且能召唤先祖之怒，使全身环绕着火焰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aa22NordRace",
+    "form_id": "10000006|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aa22NordRace",
+    "form_id": "10000006|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "诺德人是天际省的居民，身材高大、髮色金黄。他们犟壮、耐劳又耐寒，是着名的天生战士。只消发出一声战吼，敌人就会吓得逃窜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00DemonGuardRace",
+    "form_id": "1000085B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00DemonGuardRace",
+    "form_id": "1000085B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "诺德人是天际省的居民，身材高大、髮色金黄。他们犟壮、耐劳又耐寒，是着名的天生战士。只消发出一声战吼，敌人就会吓得逃窜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailindrick_hollowjack_race",
+    "form_id": "100008FB|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Deer",
+    "string": "鹿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZckeZcktMariaFollowerNordRace",
+    "form_id": "100009FE|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZckeZcktMariaFollowerNordRace",
+    "form_id": "100009FE|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Maria Follower",
+    "string": "玛丽亚追随者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ImperialRaceVania",
+    "form_id": "10000A2C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Imperial",
+    "string": "帝国人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ImperialRaceVania",
+    "form_id": "10000A2C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Natives of Cyrodiil, they have proved to be shrewd diplomats and traders. They are skilled with combat and magic. Anywhere gold coins might be found, Imperials always seem to find a few more. They can call upon the Voice of the Emperor to calm an enemy.",
+    "string": "赛瑞迪尔省的在地居民。他们是狡猾的老油条和商人。他们的作战和魔法技能卓越。一般而言无论何处都有可能找到金币，但帝国人总能找到更多。他们能使用帝王之声使敌人冷静下来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00DemonRace",
+    "form_id": "10000A96|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00DemonRace",
+    "form_id": "10000A96|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "诺德人是天际省的居民，身材高大、髮色金黄。他们犟壮、耐劳又耐寒，是着名的天生战士。只消发出一声战吼，敌人就会吓得逃窜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00ArgonianRace",
+    "form_id": "10000AF8|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00ArgonianRace",
+    "form_id": "10000AF8|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "诺德人是天际省的居民，身材高大、髮色金黄。他们犟壮、耐劳又耐寒，是着名的天生战士。只消发出一声战吼，敌人就会吓得逃窜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00AsheRace",
+    "form_id": "10000B4C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00AsheRace",
+    "form_id": "10000B4C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "诺德人是天际省的居民，身材高大、髮色金黄。他们犟壮、耐劳又耐寒，是着名的天生战士。只消发出一声战吼，敌人就会吓得逃窜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NordRaceSeranya",
+    "form_id": "10000C45|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NordRaceSeranya",
+    "form_id": "10000C45|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "诺德人是天际省的居民，身材高大、髮色金黄。他们犟壮、耐劳又耐寒，是着名的天生战士。只消发出一声战吼，敌人就会吓得逃窜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WoodElfRaceAureliaf",
+    "form_id": "10000C61|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Wood Elf",
+    "string": "木精灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WoodElfRaceAureliaf",
+    "form_id": "10000C61|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "The clanfolk of the Western Valenwood forests, also known as \"Bosmer.\" Wood elves make good scouts and thieves, and there are no finer archers in all of Tamriel. They have natural resistances to both poisons and diseases. They can Command Animals to fight for them.",
+    "string": "作为西威木省森林的氏族，他们也被人称作「波兹莫」。木精灵是优秀的哨兵和盗贼，并且是泰姆瑞尔最好的弓箭手。他们有对毒素和疾病的自然抵抗力，也能指挥动物为他们作战。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NordRaceLyodraf",
+    "form_id": "10000C70|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NordRaceLyodraf",
+    "form_id": "10000C70|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "诺德人是天际省的居民，身材高大、髮色金黄。他们犟壮、耐劳又耐寒，是着名的天生战士。只消发出一声战吼，敌人就会吓得逃窜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DarkElfRaceValestra",
+    "form_id": "10000C8B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dark Elf",
+    "string": "暗精灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DarkElfRaceValestra",
+    "form_id": "10000C8B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Also known as \"Dunmer\" in their homeland of Morrowind, dark elves are noted for their stealth and magic skills. They are naturally resistant to fire and can call upon their Ancestor's Wrath to surround themselves in fire.",
+    "string": "在故乡晨风省，他们被称作「丹莫」。暗精灵的过人之处在于他们的力量和魔法技艺。他们天生对火焰有高抵抗力，并且能召唤先祖之怒，使全身环绕着火焰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NordRaceJordyn",
+    "form_id": "10000C9C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NordRaceJordyn",
+    "form_id": "10000C9C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "诺德人是天际省的居民，身材高大、髮色金黄。他们犟壮、耐劳又耐寒，是着名的天生战士。只消发出一声战吼，敌人就会吓得逃窜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NordRaceVyxf",
+    "form_id": "10000CC3|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NordRaceVyxf",
+    "form_id": "10000CC3|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "诺德人是天际省的居民，身材高大、髮色金黄。他们犟壮、耐劳又耐寒，是着名的天生战士。只消发出一声战吼，敌人就会吓得逃窜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NordRaceLunaf",
+    "form_id": "10000CDE|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NordRaceLunaf",
+    "form_id": "10000CDE|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "诺德人是天际省的居民，身材高大、髮色金黄。他们犟壮、耐劳又耐寒，是着名的天生战士。只消发出一声战吼，敌人就会吓得逃窜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Race_Hayama",
+    "form_id": "10000D29|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Hayama",
+    "string": "叶山",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkadiRace",
+    "form_id": "10000E0D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkadiRace",
+    "form_id": "10000E0D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "诺德人是天际省的居民，身材高大、髮色金黄。他们犟壮、耐劳又耐寒，是着名的天生战士。只消发出一声战吼，敌人就会吓得逃窜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Amira_Race",
+    "form_id": "10000E10|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Amira",
+    "string": "阿米拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_DeliaDLC1AbBatsCloak",
+    "form_id": "10000815|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bats Cloak",
+    "string": "蝙蝠斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_DeliaDLC1AbBatsCloak",
+    "form_id": "10000815|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, opponents in melee range take <mag> points of damage per second.",
+    "string": "近身的敌人每秒受到<mag>点伤害，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_DeliaDLC1BatsAbsorbConcAimed",
+    "form_id": "10000817|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Night Cloak",
+    "string": "黑夜斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailindrick_hollowjack_AB_3_fx",
+    "form_id": "10000836|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ghost Visuals Fire",
+    "string": "鬼魂视界火焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailindrick_hollowjack_AB_2_fx",
+    "form_id": "100008E9|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ghost Visuals Fire",
+    "string": "鬼魂视界火焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailindrick_hollowjack_summonindrik_fx",
+    "form_id": "100008F7|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Conjures a Hollowjack Indrik for <dur> seconds wherever the caster is pointing.",
+    "string": "无论施法者指向何处，召唤一个杰克因德里克（Hollowjack Indrik）持续<持续时间>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_AerithAbsorbMagicka",
+    "form_id": "1000097E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Magicka",
+    "string": "降低法力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_AerithAbsorbMagicka",
+    "form_id": "1000097E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Absorb <mag> points of magicka from the target.",
+    "string": "自目标吸取<mag>点法力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_CandaceMESphere",
+    "form_id": "10000994|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Dwarven Sphere",
+    "string": "召唤矮人机械球 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_CandaceMESphere",
+    "form_id": "10000994|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a Dwarven Sphere for <dur> seconds wherever the caster is pointing.",
+    "string": "在施法者所指之处召唤一颗矮人机械球 ，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00SummonDemonLord",
+    "form_id": "10000AA2|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons the subjugated Demon Lord from the aether",
+    "string": "从以太中召唤被征服的恶魔领主",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BanishDemonLord",
+    "form_id": "10000AB4|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Banishes the subjugated Demon Lord to the aether",
+    "string": "将已被征服的恶魔领主驱逐到以太空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00ConjureDemonLord",
+    "form_id": "10000ABC|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons the subjugated Demon Lord from the aether",
+    "string": "从以太中召唤被征服的恶魔领主",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_crChaurusSpitFFAimed",
+    "form_id": "10000B32|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Chaurus Spit",
+    "string": "巢蚁唾液",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_crChaurusSpitFFAimed",
+    "form_id": "10000B32|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag> points of damage for <dur> seconds.",
+    "string": "对目标造成<mag>点伤害，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BoundBattleAxeFFSelfDUPLICATE001",
+    "form_id": "10000B34|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bound Axe",
+    "string": "召唤斧头",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BoundBattleAxeFFSelfDUPLICATE001",
+    "form_id": "10000B34|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Creates a magic battle axe for <dur> seconds. Sheathe it to dispel.",
+    "string": "制造一柄可以持续<dur>秒的魔法巨斧，收起即消失。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BoundBattleAxeMysticFFSelfDUPLICATE001",
+    "form_id": "10000B35|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Mystic Axe",
+    "string": "秘术斧头",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SummonEncSpriggans",
+    "form_id": "10000B3B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a spriggan for <dur> seconds wherever the caster is pointing.",
+    "string": "在施法者指向的任何位置召唤一个精灵，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_SummonFrostAtronach",
+    "form_id": "10000B3D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Frost Atronach",
+    "string": "召唤寒霜元素",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_SummonFrostAtronach",
+    "form_id": "10000B3D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a Frost Atronach for <dur> seconds wherever the caster is pointing.",
+    "string": "在施法者所指之处召唤一个寒霜元素，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00SummonIceWraith",
+    "form_id": "10000B52|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Ice Wraith",
+    "string": "召唤冰怨灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00SummonIceWraith",
+    "form_id": "10000B52|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a Ice Wraith for <dur> seconds wherever the caster is pointing.",
+    "string": "召唤冰灵，持续<dur>秒，无论施法者指向何处。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1PCVampireAbsorbHealthFFAimed_RD0",
+    "form_id": "10000BFA|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Health",
+    "string": "降低生命力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1PCVampireAbsorbHealthFFAimed_RD0",
+    "form_id": "10000BFA|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Absorb <mag> points of health, magicka, and stamina per second from the target.",
+    "string": "每秒吸取目标<mag>点生命力、法力与精力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceBatFormEffect02_RD0",
+    "form_id": "10000BFB|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Invisibility",
+    "string": "隐形",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceBatFormEffect01_ADRD0",
+    "form_id": "10000BFD|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ethereal",
+    "string": "虚空化",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UnspecifiedDamageFFAimeddvkoiDummy0",
+    "form_id": "10000C07|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Generic Damage",
+    "string": "一般性伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceUnrelentingForceEffect02dvkoi0",
+    "form_id": "10000C08|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Unrelenting Force Middle",
+    "string": "中等冷酷之力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UnspecifiedDamageFFAimeddvkoi0",
+    "form_id": "10000C09|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Generic Damage",
+    "string": "一般性伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceUnrelentingForceEffect03dvkoi0",
+    "form_id": "10000C0A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Unrelenting Force Strong",
+    "string": "超犟冷酷之力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1SeranaAbsorbHealthConcAimed_CopyRD0",
+    "form_id": "10000C0D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Absorbs <mag> health every second. Can only be equipped in the left hand.",
+    "string": "每秒吸收<mag>点生命值。只能装备在左手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1SeranaAbsorbHealthConcAimed_CDummyRD0",
+    "form_id": "10000C0E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Absorbs <mag> health every second. Can only be equipped in the left hand.",
+    "string": "每秒吸收<mag>点生命值。只能装备在左手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1PCVampireAbsorbHealthFFAimed_AD_DummyRD0",
+    "form_id": "10000C0F|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Health",
+    "string": "降低生命力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1PCVampireAbsorbHealthFFAimed_AD_DummyRD0",
+    "form_id": "10000C0F|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Absorb <mag> points of health, magicka, and stamina per second from the target.",
+    "string": "每秒吸取目标<mag>点生命力、法力与精力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1PCVampireAbsorbHealthFFAimed_ADRD0",
+    "form_id": "10000C10|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Absorbs <mag> Health, Magicka, and Stamina every second.",
+    "string": "每秒吸收<mag>的生命值、魔力和耐力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1PCVampireDamageHealthFFAimed_ADRD0",
+    "form_id": "10000C13|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Damage Health",
+    "string": "降低生命力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1PCVampireAbsorbHealthFFAimed_ADDumyRD0",
+    "form_id": "10000C14|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Absorbs <mag> Health, Magicka, and Stamina every second.",
+    "string": "每秒吸收<mag>的生命值、魔力和耐力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SkadiFireEffect",
+    "form_id": "10000E07|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fire breath",
+    "string": "烈焰吐息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000skadiFire2",
+    "form_id": "10000E08|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fire breath",
+    "string": "烈焰吐息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SkadiFire3",
+    "form_id": "10000E09|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fire breath",
+    "string": "烈焰吐息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SkadiStaggerPusheffect",
+    "form_id": "10000E0A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Stagger Push",
+    "string": "击退",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_AerithStaffEnch",
+    "form_id": "10000974|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Firebolt",
+    "string": "火焰箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Healing",
+    "form_id": "00012FCC|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Healing",
+    "string": "治癒术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HealOther",
+    "form_id": "00012FD2|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Heal Other",
+    "string": "治癒他人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ConjureStormAtronach",
+    "form_id": "000204C5|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Storm Atronach",
+    "string": "召唤风暴元素",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BoundSword",
+    "form_id": "000211EB|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bound Sword",
+    "string": "召唤单手剑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BoundBattleAxe",
+    "form_id": "000211EC|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bound Battleaxe",
+    "string": "召唤巨斧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BoundBow",
+    "form_id": "000211ED|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bound Bow",
+    "string": "召唤战弓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WardGreater",
+    "form_id": "000211F0|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Greater Ward",
+    "string": "高级结界术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FastHealing",
+    "form_id": "0002F3B8|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fast Healing",
+    "string": "快速治癒术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WallOfFlames",
+    "form_id": "00035D7F|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Wall of Flames",
+    "string": "烈焰之墙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WallOfFrost",
+    "form_id": "00035D80|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Wall of Frost",
+    "string": "寒霜之墙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WallOfStorms",
+    "form_id": "00035D81|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Wall of Storms",
+    "string": "雷电之墙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "flameCloak",
+    "form_id": "0003AE9F|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flame Cloak",
+    "string": "烈焰斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ChainLightning",
+    "form_id": "00045F9D|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Chain Lightning",
+    "string": "闪电链",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CircleOfProtection",
+    "form_id": "0005312D|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Circle of Protection",
+    "string": "庇佑之环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommandDaedra",
+    "form_id": "0006F953|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Command Daedra",
+    "string": "号令魔族",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GrandHealing",
+    "form_id": "000B62EE|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Grand Healing",
+    "string": "特级治疗术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CloseWounds",
+    "form_id": "000B62EF|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Close Wounds",
+    "string": "伤口癒合术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA02PoisonCloakDmg",
+    "form_id": "000F23C8|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Poison Cloak",
+    "string": "毒药斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ConjureDremoraLord",
+    "form_id": "0010DDEC|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Dremora Lord",
+    "string": "召唤魔人领主",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Thunderbolt",
+    "form_id": "0010F7EE|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Thunderbolt",
+    "string": "雷暴术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_LieselIcySpearLeft",
+    "form_id": "10000820|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Icy Spear",
+    "string": "冰矛术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_LieselFreezeLeft",
+    "form_id": "10000822|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Freeze",
+    "string": "冻结",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_DeliaDLC1BatsDmg",
+    "form_id": "100008B9|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bats",
+    "string": "蝙蝠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_EllaMagicka",
+    "form_id": "1000091F|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "High Elves are born with <50> extra magicka.",
+    "string": "高等精灵天生得到<50>点额外魔法值。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_CandaceSpellSphere",
+    "form_id": "10000993|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Dwarven Sphere",
+    "string": "召唤矮人机械球 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Summon_DemonLord",
+    "form_id": "10000AA3|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Summon the subjugated Demon Lord from the Aether.",
+    "string": "从以太中召唤被征服的恶魔领主。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Banish_DemonLord",
+    "form_id": "10000AB6|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Banish the subjugated Demon Lord to the Aether.",
+    "string": "将征服的恶魔领主驱逐到以太空间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Conjure_DemonLord",
+    "form_id": "10000ABD|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Conjure a weakened imitation of the defeated Demon Lord for 2 minutes.",
+    "string": "召唤一个被击败的恶魔领主的弱化仿制品，持续2分钟。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Conjure_DemonGuard",
+    "form_id": "10000AC5|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Conjure subjugated Demon Guards from the Aether.",
+    "string": "从以太中召唤被征服的恶魔守卫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_DemonsMagica",
+    "form_id": "10000B30|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Highborn",
+    "string": "高贵血统",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_DLC1_BF_ChaurusPoisonSpit",
+    "form_id": "10000B31|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Chaurus Poison",
+    "string": "巢蚁毒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00SummonIceWraithSpell",
+    "form_id": "10000B53|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Summon Ice Wraith",
+    "string": "召唤冰之巫师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00SummonIceWraithSpell",
+    "form_id": "10000B53|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Summon Ice Wraith",
+    "string": "召唤冰之巫师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Dovakoi_VoiceDisarm30",
+    "form_id": "10000C05|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Disarm",
+    "string": "卸载武器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VampireDrain04Seranya",
+    "form_id": "10000C54|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Vampiric Drain",
+    "string": "吸血鬼吸蚀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "123TeleportFollower",
+    "form_id": "10000D1D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Teleports your follower to you.",
+    "string": "将你的随从传送到你身边。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Skadivoice2",
+    "form_id": "10000E0B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fire Breath",
+    "string": "烈焰吐息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Skadivoice3",
+    "form_id": "10000E0C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fire Breath",
+    "string": "烈焰吐息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "123TeleportFollower",
+    "form_id": "10000F4D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Teleports your follower to you.",
+    "string": "将你的随从传送到你身边。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "123TeleportFollower",
+    "form_id": "10000F92|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Teleports your follower to you.",
+    "string": "将你的随从传送到你身边。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EnchCircletConjuration06",
+    "form_id": "000FC011|Skyrim.esm",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Circlet of Peerless Conjuration",
+    "string": "绝代召唤头环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_DeliaArmorVampireArmor",
+    "form_id": "1000081B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Vampire Armor",
+    "string": "吸血鬼护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_DeliaClothesVampireBoots",
+    "form_id": "1000081C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Vampire Boots",
+    "string": "吸血鬼长靴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailindrick_hollowjack_nakedskin",
+    "form_id": "1000082F|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Elkmale",
+    "string": "雄麋鹿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_GirlBody",
+    "form_id": "100008B0|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Forsworn Armor",
+    "string": "弃誓者护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_GirlBody",
+    "form_id": "100008D0|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Forsworn Armor",
+    "string": "弃誓者护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_GirlBody",
+    "form_id": "10000906|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Forsworn Armor",
+    "string": "弃誓者护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_GirlBody",
+    "form_id": "10000916|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Forsworn Armor",
+    "string": "弃誓者护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_GirlBody",
+    "form_id": "10000939|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Forsworn Armor",
+    "string": "弃誓者护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_GirlBody",
+    "form_id": "10000949|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Forsworn Armor",
+    "string": "弃誓者护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_GirlBody",
+    "form_id": "100009C1|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Forsworn Armor",
+    "string": "弃誓者护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorImperialLightBootsVania",
+    "form_id": "10000A21|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Imperial Light Boots",
+    "string": "帝国轻靴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorImperialLightCuirassVania",
+    "form_id": "10000A22|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Imperial Light Armor",
+    "string": "帝国轻甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "11OClothNoSMPChangli",
+    "form_id": "10000A55|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "长离-外套（无物理）",
+    "string": "长离-外套（无物理�?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "11XiuziNoSMPChangli",
+    "form_id": "10000A59|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "长离-衣袖（无物理）",
+    "string": "长离-衣袖（无物理�?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_GirlBody_CBBE",
+    "form_id": "10000B16|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Forsworn Armor",
+    "string": "弃誓者护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAB_GirlBody_Asset",
+    "form_id": "10000B24|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Forsworn Armor",
+    "string": "弃誓者护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBDNiseDovaTop_S",
+    "form_id": "10000B98|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Awfully Tiny Bikini.",
+    "string": "超小比基尼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBDNiseDovaThong_S",
+    "form_id": "10000B99|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Awfully Tiny Bikini.",
+    "string": "超小比基尼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBDNiseDovaTop_m",
+    "form_id": "10000BCA|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Awfully Tiny Bikini.",
+    "string": "超小比基尼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBDNiseDovaThong_m",
+    "form_id": "10000BCB|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Awfully Tiny Bikini.",
+    "string": "超小比基尼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1ArmorVampireArmorGraySeranya",
+    "form_id": "10000C47|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Vampire Armor",
+    "string": "吸血鬼护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1ArmorVampireBootsSeranya",
+    "form_id": "10000C48|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Vampire Boots",
+    "string": "吸血鬼长靴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorSteelCuirassALyodraf",
+    "form_id": "10000C7A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Steel Armor",
+    "string": "钢制护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ValestraBoots",
+    "form_id": "10000C7F|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Boots",
+    "string": "靴子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ClothesCollegeRobesCommonVariant1Valestra",
+    "form_id": "10000C80|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "College Robes",
+    "string": "学院长袍",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ClothesCollegeBootsCommonVariant1Valestra",
+    "form_id": "10000C81|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "College Boots",
+    "string": "学院靴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorSteelCuirassBJordyn",
+    "form_id": "10000C94|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Steel Armor",
+    "string": "钢制护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorSteelBootsAJordyn",
+    "form_id": "10000C95|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Steel Cuffed Boots",
+    "string": "钢制翻口靴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorThievesGuildLeaderBootsVyxf",
+    "form_id": "10000CB9|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Guild Master's Boots",
+    "string": "盗贼公会会长靴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorThievesGuildLeaderCuirassVyxf",
+    "form_id": "10000CBB|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Guild Master's Armor",
+    "string": "盗贼公会会长护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorThievesGuildLeaderGauntletsVyxf",
+    "form_id": "10000CBD|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Guild Master's Gloves",
+    "string": "盗贼公会会长手套",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorSteelCuirassLunaf",
+    "form_id": "10000CD1|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Steel Armor",
+    "string": "钢制护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorSteelBootsLunaf",
+    "form_id": "10000CD3|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Steel Cuffed Boots",
+    "string": "钢制翻口靴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorSteelGauntletsALunaf",
+    "form_id": "10000CD5|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Steel Nordic Gauntlets",
+    "string": "钢制诺德腕甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorSteelBootsALyodraf",
+    "form_id": "10000D6E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Steel Cuffed Boots",
+    "string": "钢制翻口靴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_DressofAlaris_1",
+    "form_id": "10000F66|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "A translucent nightgown, exuding the warm scent of a young girl.",
+    "string": "一件半透明的睡衣，散发着年轻女孩的温暖气息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_GlovesofAlaris_1",
+    "form_id": "10000F67|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "The gauntlets worn by Alaris, enhanced with elven runes, possess a powerful bonus to destructive magic.",
+    "string": "阿拉里斯佩戴的护手，经由精灵符文强化，对毁灭性魔法具有强大的加成效果。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_BootsofAlaris_1",
+    "form_id": "10000F68|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Alaris's boots still emit the warmth of a young girl.",
+    "string": "阿拉里斯的靴子仍然散发着年轻女孩的温暖气息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_HairpartsofAlaris_1",
+    "form_id": "10000F69|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Alaris's hair accessory possesses powerful magical enchantments.",
+    "string": "阿拉里斯的头发饰品拥有强大的魔法加持。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_WingofAlaris_1",
+    "form_id": "10000F6A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Alaris's magical wings are actually wearable items, which is very amazing.",
+    "string": "阿拉里斯的魔法翅膀实际上是可穿戴物品，这非常令人惊叹。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_ShoulderofAlaris_1",
+    "form_id": "10000F6B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "The pauldrons worn by Alaris are quite exquisite, surely the work of a master craftsman.",
+    "string": "阿拉里斯佩戴的护肩非常精致，无疑是出自一位大师级工匠之手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_EarringsofAlaris_1",
+    "form_id": "10000F6C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Alaris's Earrings",
+    "string": "阿拉里斯的耳环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_EarringsofAlaris_1",
+    "form_id": "10000F6C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Alaris's Earrings",
+    "string": "阿拉里斯的耳环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_PantyofAlaris_1",
+    "form_id": "10000F6F|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Translucent underwear, exuding the warm body fragrance of a girl, and transparent brushed liquid on it, what is it?",
+    "string": "半透明的内衣，散发着女孩温暖的体香，上面还涂有透明的拉丝液体，这是什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TitaniaAlexisdefaultArmorElvenBoots",
+    "form_id": "10000F71|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Elven Boots",
+    "string": "精灵靴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailindrick_hollowjack_summonindrik_book",
+    "form_id": "10000824|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Hollowjack Indrik\r\n\r\n\r\n\r\n",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n召唤因德里克·霍洛杰克\r\n\r\n\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00DemonLetter",
+    "form_id": "1000085A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Hello,\r\n      \r\n    To whomever eyes may wonder across these words, I ask you this...\r\nFree me.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>Hello,\r\n      \r\n     对于那些偶然看到这些文字的人，我想请求你们。..\r\n释放我。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_TeleportTomeLiesel",
+    "form_id": "100008FD|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nTeleport Liesel to the player",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n将莉赛尔传送到玩家身边",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_SpellTomeTeleportAerith",
+    "form_id": "1000096B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nTeleport Aerith",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n传送艾瑞斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_SpellTomeTeleportCandace",
+    "form_id": "10000989|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nTeleport Candace",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n传送坎迪斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Demon_SpellTome",
+    "form_id": "10000AA4|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nSummons the subjugated Demon Lord, Lucifer, from the Aether. She is weakened in her controled state, but beware. She was once the strongest being across the realms. Use at your own risk...",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n从以太中召唤被征服的恶魔领主路西法。她在被控制的状态下实力被削弱，但请小心。她曾是整个领域中最强大的存在。使用此技能需自担风险。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Demon_SpellTome2",
+    "form_id": "10000AB7|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nBanishes  the subjugated Demon Lord, Lucifer, to  the Aether. She is weakened in her controled state, but beware. She was once the strongest being across the realms. Use at your own risk...",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n将已被征服的恶魔领主路西法驱逐到以太界。她在被控制的状态下实力有所削弱，但请小心。她曾是跨越所有领域的最强存在。使用此技能需自担风险。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Demon_SpellTome3",
+    "form_id": "10000ABE|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjures a subjugated Demon Lord from the Aether. She is weakened in her controled state, but beware. She was once the strongest being across the realms. Use at your own risk...",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n从以太中召唤出一个被征服的恶魔领主。她在被控制的状态下实力有所削弱，但请小心。她曾是整个领域中最强大的存在。使用需自担风险。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_AerithStaffTemplate",
+    "form_id": "10000976|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Unenchanted Destruction Staff",
+    "string": "未附魔的毁灭法杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SummonAtronachFlame",
+    "form_id": "000204C0|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Flame Atronach",
+    "string": "火焰元素",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "__aaWhiterunG0004",
+    "form_id": "10000008|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rehnqvist",
+    "string": "雷恩奎斯特",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "__aaWhiterunG0004",
+    "form_id": "10000008|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Rehnqvist",
+    "string": "雷恩奎斯特",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "__aaWhiterunG0005",
+    "form_id": "10000009|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wallenquist",
+    "string": "瓦伦奎斯特",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "__aaWhiterunG0005",
+    "form_id": "10000009|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wallenquist",
+    "string": "瓦伦奎斯特",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "__aaWhiterunG0003",
+    "form_id": "1000000A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Karlfeldt",
+    "string": "卡尔夫特",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "__aaWhiterunG0003",
+    "form_id": "1000000A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Karlfeldt",
+    "string": "卡尔夫特",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "__aaWhiterunG0001",
+    "form_id": "1000000B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Christofer",
+    "string": "克里斯托弗",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "__aaWhiterunG0001",
+    "form_id": "1000000B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Christofer",
+    "string": "克里斯托弗",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "__aaWhiterunG0002",
+    "form_id": "1000000C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Tengstrom",
+    "string": "滕斯特罗姆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "__aaWhiterunG0002",
+    "form_id": "1000000C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Tengstrom",
+    "string": "滕斯特罗姆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Somin",
+    "form_id": "10000800|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Somin",
+    "string": "索明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00DemonLordGuard01",
+    "form_id": "10000859|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Demon Guard",
+    "string": "恶魔守卫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00DemonLordGuard01",
+    "form_id": "10000859|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Guard",
+    "string": "卫兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00DemonLordGuard02",
+    "form_id": "10000864|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Demon Guard",
+    "string": "恶魔守卫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00DemonLordGuard02",
+    "form_id": "10000864|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Guard",
+    "string": "卫兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_Feter_1",
+    "form_id": "10000872|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Fetri El",
+    "string": "费特里·埃尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_Feter_1",
+    "form_id": "10000872|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Fetri",
+    "string": "费特里",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Haena",
+    "form_id": "1000088C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Haena",
+    "string": "海娜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_DeliaFollower",
+    "form_id": "100008B1|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Delia",
+    "string": "迪莉娅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaYumi",
+    "form_id": "100008BA|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Yumi",
+    "string": "尤米",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaYumi",
+    "form_id": "100008BA|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Yumi",
+    "string": "尤米",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_EmberFollower",
+    "form_id": "100008D1|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ember",
+    "string": "火焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_LieselFollower",
+    "form_id": "100008E1|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Liesel Klaus",
+    "string": "莉泽尔·克劳斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_LieselFollower",
+    "form_id": "100008E1|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Liesel",
+    "string": "莉泽尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailindrick_hollowjack_NPC_summon",
+    "form_id": "100008E5|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Hollowjack Indrik",
+    "string": "霍洛杰克·因德里克",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_AliceFollower",
+    "form_id": "10000907|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Alice",
+    "string": "爱丽丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_EllaFollower",
+    "form_id": "10000917|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ella",
+    "string": "埃拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_Mola_1",
+    "form_id": "1000092A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "GrayFox Mola",
+    "string": "灰狐莫拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_Mola_1",
+    "form_id": "1000092A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Mola",
+    "string": "莫拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_LilliFollower",
+    "form_id": "1000093A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Lilli",
+    "string": "莉莉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_KyaruFollower",
+    "form_id": "1000094A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Kyaru",
+    "string": "卡亚鲁",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_KarinaNord",
+    "form_id": "10000953|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Karina",
+    "string": "卡琳娜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_KarinaNord",
+    "form_id": "10000953|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Karina",
+    "string": "卡琳娜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_AerithFollower",
+    "form_id": "10000970|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Aerith Mensier",
+    "string": "艾瑞斯·门西尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_AerithFollower",
+    "form_id": "10000970|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Aerith",
+    "string": "爱丽丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_CandaceFollower",
+    "form_id": "10000990|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Candace Birion",
+    "string": "坎迪斯·比里昂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_CandaceFollower",
+    "form_id": "10000990|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Candace",
+    "string": "坎迪斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_CandaceSummon",
+    "form_id": "10000992|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dwarven Sphere Master",
+    "string": "矮人大师级机械球",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_LilithFollower",
+    "form_id": "100009A5|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Lilith of the Storm",
+    "string": "风暴莉莉丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_LilithFollower",
+    "form_id": "100009A5|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Lilith",
+    "string": "莉莉丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_NARUFollower",
+    "form_id": "100009B4|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Naru",
+    "string": "纳鲁",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_NARUFollower",
+    "form_id": "100009B4|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Naru",
+    "string": "纳鲁",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_SidneyFollower",
+    "form_id": "100009C2|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sidney",
+    "string": "西德尼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CK_Joylie",
+    "form_id": "100009EA|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Joylie",
+    "string": "朱丽叶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZckeZcktMariaFollower",
+    "form_id": "100009EE|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Maria",
+    "string": "玛丽亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZckeZcktMariaFollower",
+    "form_id": "100009EE|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Maria",
+    "string": "玛丽亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_Demonyoanna",
+    "form_id": "10000A16|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Demon Yoanna",
+    "string": "恶魔尤安娜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Vaniaf",
+    "form_id": "10000A1C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Vania",
+    "string": "瓦尼亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Vaniaf",
+    "form_id": "10000A1C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Vania",
+    "string": "瓦尼亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00FemalePresetChangli",
+    "form_id": "10000A3E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Prisoner",
+    "string": "囚犯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Metzger_npc",
+    "form_id": "10000A63|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Metzger",
+    "string": "梅茨格",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Metzger_npc",
+    "form_id": "10000A63|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Metz",
+    "string": "梅茨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_RatGirl_1",
+    "form_id": "10000A72|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "RatGirl",
+    "string": "鼠女孩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_RatGirl_1",
+    "form_id": "10000A72|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Rat",
+    "string": "鼠人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_Lansseax_1",
+    "form_id": "10000A82|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Lansseax",
+    "string": "兰塞克斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Demon_lord",
+    "form_id": "10000AA5|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Demon Lord Lucifer",
+    "string": "恶魔领主路西法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Demon_lord",
+    "form_id": "10000AA5|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Luci",
+    "string": "露西",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00SummonBeacon",
+    "form_id": "10000AAE|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Beacon",
+    "string": "指引者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Demon_Lord_Hostile",
+    "form_id": "10000ABA|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Demon Lord Lucifer",
+    "string": "恶魔领主路西法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Demon_Lord_Hostile",
+    "form_id": "10000ABA|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Luci",
+    "string": "露西",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00DemonLordGuardSummon",
+    "form_id": "10000ACA|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Demon Guard",
+    "string": "恶魔守卫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00DemonLordGuardSummon",
+    "form_id": "10000ACA|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Guard",
+    "string": "卫兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Chie",
+    "form_id": "10000AE3|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Chie",
+    "string": "奇耶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "jnpc",
+    "form_id": "10000AEE|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Japhet",
+    "string": "贾菲特",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "jnpc",
+    "form_id": "10000AEE|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Japh",
+    "string": "贾夫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00ArgonianFollower",
+    "form_id": "10000AF5|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Yuna",
+    "string": "尤娜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_SelineFollower",
+    "form_id": "10000B13|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Seline",
+    "string": "塞琳",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SummonEncSpriggan",
+    "form_id": "10000B3A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Spriggan",
+    "string": "树妖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Khana",
+    "form_id": "10000B4D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Khana",
+    "string": "卡纳",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00EncIceWraithSummon",
+    "form_id": "10000B51|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ice Wraith",
+    "string": "冰怨灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaJoGongMi",
+    "form_id": "10000B54|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Jogongmi",
+    "string": "乔贡米",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaJoGongMi",
+    "form_id": "10000B54|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Jogongmi",
+    "string": "乔贡米",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Seol Yi Chan",
+    "form_id": "10000B82|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Seol",
+    "string": "塞欧尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Seol Yi Chan",
+    "form_id": "10000B82|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Seol",
+    "string": "塞欧尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MOKA Chan",
+    "form_id": "10000B9A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mocha",
+    "string": "摩卡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MOKA Chan",
+    "form_id": "10000B9A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Mocha",
+    "string": "摩卡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaMuriel",
+    "form_id": "10000BDC|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Muriel",
+    "string": "穆丽尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaMuriel",
+    "form_id": "10000BDC|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Muriel",
+    "string": "穆丽尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaSelena",
+    "form_id": "10000BE6|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Selena",
+    "string": "塞莱娜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaSelena",
+    "form_id": "10000BE6|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Selena",
+    "string": "塞莱娜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Seranya",
+    "form_id": "10000C49|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Seranya",
+    "string": "塞兰亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Seranya",
+    "form_id": "10000C49|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Seranya",
+    "string": "塞兰亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aureliaf",
+    "form_id": "10000C5E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Aurelia",
+    "string": "奥瑞莉亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aureliaf",
+    "form_id": "10000C5E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Aurelia",
+    "string": "奥瑞莉亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Lyodraf",
+    "form_id": "10000C6B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Lyodra",
+    "string": "利奥德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Lyodraf",
+    "form_id": "10000C6B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Lyodra",
+    "string": "利奥德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Valestra",
+    "form_id": "10000C82|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Valestra",
+    "string": "瓦莱斯特拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Valestra",
+    "form_id": "10000C82|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Valestra",
+    "string": "瓦莱斯特拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Jordyn",
+    "form_id": "10000C96|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Jordyn",
+    "string": "乔丁",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Jordyn",
+    "form_id": "10000C96|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Jordyn",
+    "string": "乔丁",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Yukari_Actor",
+    "form_id": "10000CA8|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Yukari",
+    "string": "尤卡里",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Yukari_Actor",
+    "form_id": "10000CA8|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Yukari",
+    "string": "尤卡里",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Vyxf",
+    "form_id": "10000CBE|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Vyx",
+    "string": "维克斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Vyxf",
+    "form_id": "10000CBE|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Vyx",
+    "string": "维克斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Lunaf",
+    "form_id": "10000CDA|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Luna",
+    "string": "露娜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Lunaf",
+    "form_id": "10000CDA|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Luna",
+    "string": "露娜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Nagisa_Actor",
+    "form_id": "10000CFC|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Nagisa",
+    "string": "大岛渚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Nagisa_Actor",
+    "form_id": "10000CFC|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Nagisa",
+    "string": "大岛渚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TitaniaAlexis123",
+    "form_id": "10000CFD|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Alexis",
+    "string": "亚历克西斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TitaniaAlexis123",
+    "form_id": "10000D0B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Alexis",
+    "string": "亚历克西斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_Hayama_1",
+    "form_id": "10000D20|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Hayama",
+    "string": "叶山",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_Hayama_1",
+    "form_id": "10000D20|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Hayama",
+    "string": "叶山",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MwEsteri",
+    "form_id": "10000D61|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Esteri of the Embers",
+    "string": "余烬之埃斯特里",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MwEsteri",
+    "form_id": "10000D61|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Esteri",
+    "string": "埃斯特里",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MwLise",
+    "form_id": "10000D65|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Lise",
+    "string": "莉斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MwLise",
+    "form_id": "10000D65|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Lise",
+    "string": "莉斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_Kaiba",
+    "form_id": "10000D6A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Kaiba Usagi",
+    "string": "凯巴·乌萨吉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Nafin",
+    "form_id": "10000DA8|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Nafin",
+    "string": "纳芬",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Nafin",
+    "form_id": "10000DA8|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Nafin",
+    "string": "纳芬",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Yoliya",
+    "form_id": "10000DBC|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Yoliya",
+    "string": "尤莉亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Yoliya",
+    "form_id": "10000DBC|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Yoliya",
+    "string": "尤莉亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_Elara_1",
+    "form_id": "10000DDC|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elara",
+    "string": "伊拉瑞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Skadi",
+    "form_id": "10000DE5|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Skadi",
+    "string": "斯卡迪",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Amira",
+    "form_id": "10000E20|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Amira",
+    "string": "阿米拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Ciri_W3_Follower",
+    "form_id": "10000ED1|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ciri",
+    "string": "希里",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Yennefer_W3_Follower",
+    "form_id": "10000F18|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Yennefer",
+    "string": "叶奈法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Triss_W3_Follower",
+    "form_id": "10000F26|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Triss",
+    "string": "特丽丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Friga01",
+    "form_id": "10000F27|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ghost of Friga",
+    "string": "弗里加之魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TitaniaAlexis123",
+    "form_id": "10000F2D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Alexis",
+    "string": "亚历克西斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Alaris",
+    "form_id": "10000F5B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Alaris",
+    "string": "阿拉里斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00DemonItem_KEY",
+    "form_id": "10000860|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Demon Lord's Key",
+    "string": "恶魔领主之钥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenHaelgasBunkhouse",
+    "form_id": "00016BD4|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Haelga's Bunkhouse",
+    "string": "哈尔嘉工棚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiverwoodSleepingGiantInn",
+    "form_id": "000133C6|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "SleepingGiantInn",
+    "string": "沉睡巨人酒馆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DawnstarWindpeakInn",
+    "form_id": "00013A7F|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Windpeak Inn",
+    "string": "风岳客栈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DawnstarBarracks",
+    "form_id": "00013A89|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dawnstar Barracks",
+    "string": "晨星城营地",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenBeeandBarb",
+    "form_id": "00016BDF|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Bee and Barb",
+    "string": "蜂与钩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HighHrothgar",
+    "form_id": "00087764|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "High Hrothgar",
+    "string": "高吼峰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunHalloftheDead",
+    "form_id": "000165AA|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hall of the Dead",
+    "string": "亡者之厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthUnderStoneKeep",
+    "form_id": "00016DF2|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Understone Keep",
+    "string": "石下要塞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WinterholdTheFrozenHearth",
+    "form_id": "00013814|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The FrozenHearth",
+    "string": "冻炉酒馆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccPlaceholder13Interior01",
+    "form_id": "010030EB|Update.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "创意俱乐部空间",
+    "string": "金丘种植园工棚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunJorrvaskr",
+    "form_id": "000165B5|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Jorrvaskr",
+    "string": "勇士之家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthTempleofDibella",
+    "form_id": "00016DF3|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Temple of Dibella",
+    "string": "蒂贝拉神殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccPlaceholder12Interior01",
+    "form_id": "010030EC|Update.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "创意俱乐部空间",
+    "string": "金丘农园",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeTempleoftheDivines",
+    "form_id": "00016A02|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Temple of theDivines",
+    "string": "天神圣殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RoriksteadFrostfruitInn",
+    "form_id": "00013870|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Frostfruit Inn",
+    "string": "霜果旅店",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FalkreathJarlsLonghouse",
+    "form_id": "00013A79|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Jarl's Longhouse",
+    "string": "领主的长屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UnownedCell",
+    "form_id": "000EA28B|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Unowned Cell",
+    "string": "无主牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KynesgroveBraidwoodInn",
+    "form_id": "00013907|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Braidwood Inn",
+    "string": "辫枝客栈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunDragonsreach",
+    "form_id": "000165A3|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dragonsreach",
+    "string": "龙临堡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunDrunkenHuntsman",
+    "form_id": "000165B7|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Drunken Huntsman",
+    "string": "醉猎户",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunBanneredMare",
+    "form_id": "0001605E|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Bannered Mare",
+    "string": "敕旗母马客栈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FalkreathDeadMansDrink",
+    "form_id": "0003A184|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "DeadMans Drink",
+    "string": "亡者之饮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "XTestGrantInt3",
+    "form_id": "00075270|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Magic Visuals Test Hall",
+    "string": "魔法视觉测试大厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeWinkingSkeever",
+    "form_id": "00016A0E|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Winking Skeever",
+    "string": "眨眼恶鼠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WinterholdJarlsLonghouse",
+    "form_id": "00013818|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Jarl's Longhouse",
+    "string": "领主长屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthTreasuryHouse",
+    "form_id": "00016E00|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Treasury House",
+    "string": "珍宝屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeCastleDour",
+    "form_id": "000213A0|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Castle Dour",
+    "string": "阴郁堡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeRadiantRaiment",
+    "form_id": "00016A0F|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Radiant Raiment",
+    "string": "锦衣服饰店",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmHalloftheDead",
+    "form_id": "00016786|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hall of the Dead",
+    "string": "亡者之厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenMistveilKeep",
+    "form_id": "00016BD2|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Mistveil Keep",
+    "string": "雾隐堡垒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MorthalMoorsideInn",
+    "form_id": "000138CE|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Moorside Inn",
+    "string": "坞边旅店",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunWarmaidens",
+    "form_id": "0001DB4E|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Warmaiden's",
+    "string": "女豪杰的店",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WinterholdCollegeArcanaeum",
+    "form_id": "00013810|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Arcanaeum",
+    "string": "奥秘之殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "XTestGrantInt2",
+    "form_id": "0004E227|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Magic Visuals Test Hall",
+    "string": "魔法视觉测试大厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunTempleofKynareth",
+    "form_id": "000165A7|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "TempleofKynareth",
+    "string": "昆亚瑞斯神庙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmWorld",
+    "form_id": "0001691D|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Windhelm",
+    "string": "风舵城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ShadowgreenCavernWorld",
+    "form_id": "0002A9D8|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Shadowgreen Cavern",
+    "string": "绿影洞穴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeWorld",
+    "form_id": "00037EDF|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solitude",
+    "string": "独孤城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAA_Liesel_transformTopic",
+    "form_id": "100008EB|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Would you mind changing into an Indrik?",
+    "string": "请问是否介意变成印度犀牛？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Amira_Follower_FollowTopic",
+    "form_id": "10000E30|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Follow me",
+    "string": "跟着我",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E31|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Amira will walk beside you.",
+    "string": "阿米拉会与你并肩前行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E68|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lead the way, and Amira's eyes will watch your back.",
+    "string": "带路吧，阿米拉会用双眼守护你的安全。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E69|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Together, like twin moons chasing the night sky.",
+    "string": "它们并肩而行，宛如双月追逐夜空。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E74|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Then let us wander together, hmm?",
+    "string": "那我们一起漫游吧，嗯？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E75|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course... where you go, this one goes.",
+    "string": "当然……你去哪，我就跟着去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Amira_follower_WaitTopic",
+    "form_id": "10000E33|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wait here",
+    "string": "在这儿等",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E34|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well.",
+    "string": "好吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E35|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do not keep this one waiting again.",
+    "string": "别再让我等待了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E35|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Follow me",
+    "string": "跟着我",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E6D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one knew you couldn't leave her behind for long.",
+    "string": "我知道你不能把她抛下太久。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E6D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Follow me",
+    "string": "跟着我",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E6E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Finally! Amira thought you forgot her.",
+    "string": "终于！阿米拉还以为你忘了她呢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E6E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Follow me",
+    "string": "跟着我",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E6F|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm, this spot is cozy enough.",
+    "string": "嗯，这个地方够舒服的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E70|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fine, Amira will wait.",
+    "string": "好吧，阿米拉会等的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E71|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one will sharpen her claws while she waits.",
+    "string": "她会在她等待的时候磨砺她的爪子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E72|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Amira will stay... like a loyal kitten.",
+    "string": "阿米拉会像只忠诚的小猫一样待着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E73|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She comes.",
+    "string": "她来了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E73|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Follow me",
+    "string": "跟着我",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Amira_follower_FavorTopic",
+    "form_id": "10000E37|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do something for me",
+    "string": "为我做点什么",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E38|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What is it?",
+    "string": "什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Amira_follower_TradeTopic",
+    "form_id": "10000E3A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need to trade somthing with you.",
+    "string": "我需要和你交换一些东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E3B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You trust this one with your things?",
+    "string": "你把东西托付给这个人吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E6A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let Amira carry your burdens. She is stronger than she looks.",
+    "string": "让阿米拉替你分担重担吧。她远比她看起来要坚强。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E6B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Khajiit knows how to keep secrets... and shiny things.",
+    "string": "猫人知道如何保守秘密……以及保管闪亮的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E6C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You give, this one takes.",
+    "string": "你付出，我索取。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Amira_follower_DismissTopic",
+    "form_id": "10000E3D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is time for us to part ways",
+    "string": "是时候我们分道扬镳了",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E3E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm... fine. But don't forget this one, or she will scratch.",
+    "string": "嗯……好吧。但别忘了这个，不然她会抓伤你的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E66|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do not wander too far without Amira.",
+    "string": "没有阿米拉，不要走得太远。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E67|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one understands' even if she doesn't like it.",
+    "string": "这个理解，即使她并不喜欢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E76|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If that is what you wish, Amira will not argue...",
+    "string": "如果这是你所愿，阿米拉不会反对。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E48|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hu!... do not shove her!",
+    "string": "唿！……别推她！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E81|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "careful!",
+    "string": "小心!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E82|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey! Watch it!",
+    "string": "嘿！注意点！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E49|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Amira will be here.",
+    "string": "阿米拉会来的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E83|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm... until next time.",
+    "string": "嗯……下次见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E84|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph.",
+    "string": "呃。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E91|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm...",
+    "string": "嗯...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E92|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one waits.",
+    "string": "这个需要等待。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E93|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nnn...",
+    "string": "嗯...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E4A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes?",
+    "string": "有事吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E5E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Huh?",
+    "string": "嗯？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E85|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm?",
+    "string": "唔？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E4B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heh... such curious smells around here.",
+    "string": "嘿……这里的气味真奇怪。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E65|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This place smells old... and dangerous.",
+    "string": "这个地方闻起来很陈旧……而且很危险。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E86|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I feel like exploring a new path.",
+    "string": "我想探索一条新的道路。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E87|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These stones... too old, too quiet.",
+    "string": "这些石头……太古老，太寂静。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E88|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one does not like walls so close.",
+    "string": "这个不喜欢靠墙太近。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E89|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Keep your eyes open... and your claws sharper.",
+    "string": "留意...还有你的爪子更锋利了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E8A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The smell of food... distant, but tempting.",
+    "string": "食物的香味……虽遥远，却诱人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E8B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder who walked here before us.",
+    "string": "我想知道在我们之前，是谁走到了这里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E8C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There are so many things to discover here.",
+    "string": "这里有太多东西值得探索了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E8D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm... smell of old bones... interesting.",
+    "string": "嗯……古老尸骨的味道……挺有意思的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E8E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bones, dust... and maybe shiny things.",
+    "string": "骨头、灰尘……或许还有闪闪发光的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E8F|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Curious... undead smell... funny, yes?",
+    "string": "好奇……不死生物的气息……挺有趣的，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E90|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful... one step wrong, trap snaps.",
+    "string": "小心... 一步走错，陷阱就会触发。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E4C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm... this one smells death.",
+    "string": "嗯……这个闻起来有死亡的气息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E46|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph... all quiet now.",
+    "string": "哼……现在安静了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E7B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one rests... for a moment.",
+    "string": "这个就先休息一会儿吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E7C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The hunt is over.",
+    "string": "狩猎结束了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E47|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Eyes open... claws ready.",
+    "string": "睁大眼睛……准备好利爪。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E7D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heh... something smells wrong.",
+    "string": "嘿……似乎有些不对劲。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E7E|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph... not safe here.",
+    "string": "哼……这里不安全。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E45|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes?",
+    "string": "有事吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E1C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sure.",
+    "string": "当然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E44|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one cannot do that.",
+    "string": "这个不能这么做。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E42|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Anything else?",
+    "string": "还有别的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E43|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm... that is not this one's way.",
+    "string": "嗯...这可不是某人的风格。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E2B|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You live today because Amira allows it.",
+    "string": "你之所以能活到今天，是因为阿米拉允许你活下去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E2D|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one will tear you apart like paper!",
+    "string": "这个会像撕纸一样把你撕成碎片！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E77|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You fight Amira now!",
+    "string": "你现在就与阿米拉一战！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E78|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Leave her alone!",
+    "string": "别管她！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E40|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That hurt!",
+    "string": "好痛啊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E94|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It hurts!",
+    "string": "好疼啊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E95|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "*whimpers*",
+    "string": "*呜咽声*",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E96|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hngh!",
+    "string": "哈！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E97|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Argh!",
+    "string": "呀呃！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E98|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah!",
+    "string": "阿！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E41|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Take that!",
+    "string": "接招！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E60|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ugh... O-ouch...",
+    "string": "啊……好痛。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E62|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Claws ready!",
+    "string": "利爪已就绪！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E7F|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your end comes!",
+    "string": "你的末日到了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E80|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Amira attacks!",
+    "string": "阿米拉来袭！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E64|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Claws out! Time to hunt!",
+    "string": "利爪出击！狩猎时间到！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E79|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No escape now!",
+    "string": "现在，无处可逃！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "10000E7A|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The hunt begins!",
+    "string": "狩猎开始！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "100000C1|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "-------------- 1.0 --------------",
+    "string": "-------------- 1.0 --------------",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "100000EC|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "----------- 1.0 ----------- ",
+    "string": "----------- 1.0 ----------- ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "100000FE|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "...",
+    "string": "...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "1000010C|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "------------------ 1 . 0 ------------------",
+    "string": "------------------ 1 . 0 ------------------",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TeleportSkadiSpellQuest",
+    "form_id": "10000E00|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "TeleportSkadiSpellQuest",
+    "string": "传送斯凯迪法术任务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Amira_follower_Quest",
+    "form_id": "10000E2E|Simple Follower AIO.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "<Alias=Custom_Follower_Alias> is waiting for you",
+    "string": "<Alias=Custom_Follower_Alias> 正在等你",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00Unleash_the_Power 30",
+    "form_id": "10000BFF|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "If your level is above 50, the magic damage increases by 50%.",
+    "string": "如果你的等级超过50级，魔法伤害将增加50%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00LimitPower200",
+    "form_id": "10000C00|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "No Friendly Fire",
+    "string": "无友军伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunBanneredMareLocation",
+    "form_id": "0001F86D|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "The Bannered Mare",
+    "string": "敕旗母马客栈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunDragonsreachLocation",
+    "form_id": "0001F871|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Dragonsreach",
+    "string": "龙临堡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunDrunkenHuntsmanLocation",
+    "form_id": "0001F872|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Drunken Huntsman",
+    "string": "醉猎户",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_DemonyoannaHairColor",
+    "form_id": "10000A15|Simple Follower AIO.esp",
+    "index": 1,
+    "type": "CLFM FULL",
+    "original": "Platinum Blond",
+    "string": "淡灰色",
+    "status": "TranslationComplete"
+  }
+]

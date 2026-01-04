@@ -1,0 +1,2765 @@
+[
+  {
+    "editor_id": "FOFWindhelmCampFaction",
+    "form_id": "05000328|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "FACT MNAM",
+    "original": "Champion",
+    "string": "勇士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmCampFaction",
+    "form_id": "05000328|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "FACT FNAM",
+    "original": "Champion",
+    "string": "勇士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRatwayArenaFaction",
+    "form_id": "050000DD|Fists of Fury - Skyrim.esp",
+    "index": 4,
+    "type": "FACT MNAM",
+    "original": "Barkeep",
+    "string": "酒馆老板",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFEnchSummonCaptainGrimm",
+    "form_id": "050002BE|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Captain Grimm",
+    "string": "召唤格林船长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFEnchSummonCaptainGrimm",
+    "form_id": "050002BE|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons Captain Grimm, for <dur> seconds.",
+    "string": "召唤格林船长，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFGhostFXSpell01",
+    "form_id": "0500025F|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Ghost Ability",
+    "string": "鬼魂能力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFChampFXSpell",
+    "form_id": "05000266|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Ghost Ability",
+    "string": "鬼魂能力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFGhostFXSpell03",
+    "form_id": "05000259|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Ghost Ability",
+    "string": "鬼魂能力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFGhostFXSpell02",
+    "form_id": "05000265|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Ghost Ability",
+    "string": "鬼魂能力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFLetterQuestUpdate01",
+    "form_id": "050002C2|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Another Opportunity",
+    "string": "新的机遇",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFLetterQuestUpdate01",
+    "form_id": "050002C2|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont' size = \"18\">\r\nYou've proved yourself pretty well in Riften. If you want more fights, you should talk to Falion in Morthal and Niranye in Windhelm.\r\n\r\n- The Organizer",
+    "string": "<font face='$HandwrittenFont' size = \"18\">\r\n你已经在裂谷城证明了自己的实力。如果还想参与更多战斗，你应该跟莫萨尔城的法利昂，与风舵城的妮兰雅谈谈。\r\n\r\n- 主办者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFLetterQuestStart02",
+    "form_id": "050002C0|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "An Invitation to Fight",
+    "string": "格斗大赛邀请函",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFLetterQuestStart02",
+    "form_id": "050002C0|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont' size = \"18\">\r\nI've heard around that you're quite the fighter in Skyrim. We need more people like you here. Too many milk drinkers these days. Since you seem like the fighting type, I'll let you in on something. If you want some more action, there is a brawling tournament that is happening in Skyrim. We'll see how good you actually are.\r\nIf you want in on the action, talk to any of these people:\r\n\r\n- Maul in Riften\r\n- Falion in Morthal\r\n- Niranye in Windhelm\r\n\r\n- The Organizer",
+    "string": "<font face='$HandwrittenFont' size = \"18\">\r\n我听说你在天际可是个颇有名气的战士。我们这里需要更多像你这样的人，现在太多软弱无能的傢伙。你看起来很喜欢打架，我就告诉你一个好消息吧。如果想接受更多的挑战，天际最近将举办一场格斗大赛。到时候我们就来瞧瞧你到底有多厉害。\r\n如果你想要参一脚，请与下列的其中一位交谈：\r\n\r\n- 裂谷城，摩尔\r\n- 莫萨尔城，法利昂\r\n- 风舵城，妮兰雅\r\n\r\n- 主办者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFLetterQuestStart",
+    "form_id": "050001CC|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "An Invitation to Fight",
+    "string": "格斗大赛邀请函",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFLetterQuestStart",
+    "form_id": "050001CC|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont' size = \"18\">\r\nI've heard around that you're quite the fighter in Skyrim. We need more people like you here. Too many milk drinkers these days. Since you seem like the fighting type, I'll let you in on something. If you want some more action, there is a brawling tournament that is happening in Skyrim. Talk to Maul in Riften if you want to get started. After he tells you where to go, talk to me. We'll see how good you actually are.\r\n\r\n- The Organizer",
+    "string": "<font face='$HandwrittenFont' size = \"18\">\r\n我听说你在天际可是个颇有名气的战士。我们这里需要更多像你这样的人，现在太多软弱无能的傢伙。你看起来很喜欢打架，我就告诉你一个好消息吧。如果想接受更多的挑战，天际最近将举办一场格斗大赛。如果你想要参加的话，可以去裂谷城找摩尔了解详情。在他告诉你该去哪里之后，再来找我。到时候我们就来瞧瞧你到底有多厉害。\r\n\r\n- 主办者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunRatwayFOFBriansNote",
+    "form_id": "050003B5|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Brian the Drunk's Note",
+    "string": "醉鬼布莱恩的笔记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunRatwayFOFBriansNote",
+    "form_id": "050003B5|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face=\"$HandwrittenBold\" size=\"18\">\r\nHow dare they!\r\n\r\nHe thinks I'm not good enough to join their little tournament! The audacity! I've been brawling my whole life. Just because that lizard got a lucky hit on me. I will show them! I will show all those fools!\r\n</font>",
+    "string": "<font face=\"$HandwrittenBold\" size=\"18\">\r\n他们怎么敢！\r\n\r\n他们认为我不够资格参加他们的小比赛！好大的胆子！我打了一辈子的架。那只蜥蜴不过是幸运的打中我一拳而已。我要让他们瞧瞧！让那些蠢货好好见识一下！\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenMerchantChest",
+    "form_id": "050001FC|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFStaffConjureCaptainGrimm",
+    "form_id": "050002BD|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Staff of the Ashen",
+    "string": "灰烬法杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenArenaVIP",
+    "form_id": "050000AD|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Lassiana Alexia",
+    "string": "拉希亚娜·艾利克斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenArenaBarkeep",
+    "form_id": "050000A8|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Verel Doran",
+    "string": "韦雷尔·多兰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenArenaVIPGuards01",
+    "form_id": "050000B2|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "VIP's Guard",
+    "string": "贵宾室卫兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenArenaVIPGuards02",
+    "form_id": "050000B3|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "VIP's Guard",
+    "string": "贵宾室卫兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenOrganizer",
+    "form_id": "050000B4|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "The Organizer",
+    "string": "主办者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenArenaViewer01",
+    "form_id": "050000BA|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Jannik Spera",
+    "string": "詹尼克·斯佩拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenArenaViewer02",
+    "form_id": "050000BC|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Nathaniel",
+    "string": "纳扎尼尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenArenaViewer03",
+    "form_id": "050000C1|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Racc'dan",
+    "string": "拉克丹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenArenaViewer04",
+    "form_id": "050000C2|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Alia",
+    "string": "艾莉亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenArenaViewer05",
+    "form_id": "050000C3|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Darin",
+    "string": "达林",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenArenaFighter01",
+    "form_id": "050000C7|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Barin",
+    "string": "巴宁",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenArenaFighter02",
+    "form_id": "050000C8|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Drackis",
+    "string": "卓拉克斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenArenaFighter03",
+    "form_id": "050000C9|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Fights-With-Fists",
+    "string": "拳斗者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFDeadlandsANewContender",
+    "form_id": "050001C1|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "The Contender",
+    "string": "斗士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenArenaGianTheFist",
+    "form_id": "0500020F|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Gian the Fist",
+    "string": "“铁拳”吉安",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalGhost03",
+    "form_id": "0500025A|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Lost Blade",
+    "string": "迷失的刀锋会",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalGhost01",
+    "form_id": "0500025B|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Erel Pure-Heart",
+    "string": "艾雷尔·净心",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalGhost02",
+    "form_id": "05000261|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Forgotten Commander",
+    "string": "被遗忘的指挥官",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalChampion",
+    "form_id": "05000267|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Captain Grimm",
+    "string": "格林船长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFDeadlandsANewContenderWatching01",
+    "form_id": "050002A6|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "???",
+    "string": "???",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFSummonCaptainGrimm",
+    "form_id": "050002BC|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Captain Grimm",
+    "string": "格林船长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmGuard",
+    "form_id": "05000323|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Reggr",
+    "string": "雷格",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmFighter01",
+    "form_id": "05000324|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Kjer",
+    "string": "凯尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmFighter02",
+    "form_id": "05000325|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Maljorn",
+    "string": "马尔乔恩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmFighter03",
+    "form_id": "05000326|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ulthyn",
+    "string": "乌尔辛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmChampion",
+    "form_id": "05000327|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Erdith The Bear",
+    "string": "巨熊埃尔蒂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunRatwayFOFBrianTheDrunk",
+    "form_id": "050003B4|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brian the Drunk",
+    "string": "醉鬼布莱恩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenDummyKey",
+    "form_id": "05000258|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Locked From The Inside",
+    "string": "从里面上锁",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMissileRatwayArenaKey",
+    "form_id": "05000159|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Ratway Arena Back Door Key",
+    "string": "鼠道竞技场后门钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFPatronKey",
+    "form_id": "0500027C|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "For Patrons Only",
+    "string": "仅供顾客使用",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenRatway01",
+    "form_id": "0003B698|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Ratway",
+    "string": "鼠道",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMissileRatwayArena",
+    "form_id": "05000054|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Ratway Arena",
+    "string": "鼠道，竞技场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenRatway02",
+    "form_id": "000A1BFD|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Ratway Vaults",
+    "string": "鼠道地下室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000333|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "REFR FULL",
+    "original": "Windhelm Brawler's Camp",
+    "string": "风舵城拳手营地",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformMorthalAJarlBranchTopic",
+    "form_id": "0002179D|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I thought you should know Falion's up to something.",
+    "string": "我想你应该知道法利昂在搞什么鬼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0002188A|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, Falion. Always looking where he shouldn't for things he doesn't need.",
+    "string": "啊，法利昂。总是在不该搜寻的地方找他不需要的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0002188A|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "What has he done now?",
+    "string": "他又做了什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0002188B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've never trusted him... what has he done?",
+    "string": "我从不相信他……他干什么了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerContinueFavorState",
+    "form_id": "00026DFF|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes. Let me show you.",
+    "string": "是的。我来告诉你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500037A|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Right.",
+    "string": "好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000379|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did you still need me for something?",
+    "string": "还需要我做些什么吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerFavorStateTopic",
+    "form_id": "00026E0E|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need you to do something.",
+    "string": "我需要你做些事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000377|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Anything, as long as I get to fight.",
+    "string": "什么都行，只要我还打得动。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001BC|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gods... damn you!",
+    "string": "诸神……诅咒你！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001BD|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Azura light your steps.",
+    "string": "愿阿祖拉照亮你的前路。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001BE|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's done is done.",
+    "string": "做了就做了吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001CE|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wait, I can still fight. No, no I can't.",
+    "string": "等等，我还能打。哎，是我输了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500021A|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Boethiah guide your blade.",
+    "string": "愿波耶西亚指引你的刀刃。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000218|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No.... Not again!",
+    "string": "不……别再来了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500021D|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No... not like this...",
+    "string": "不……别再来了……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000219|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That could have turned out better...",
+    "string": "不应该会这样的……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002A2|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mercy!",
+    "string": "饶命！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002A3|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aaaaaargghhhhh!",
+    "string": "啊——！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002A5|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Free... again...",
+    "string": "终于……自由了……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000353|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're tougher than you look. You got me, fair and square.",
+    "string": "你比看上去要强。你已经光明正大地打败我了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000385|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hands off.",
+    "string": "别动。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002A4|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Die, damn you!",
+    "string": "去死吧，混蛋！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000354|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well... that was an unpleasent bit of business.",
+    "string": "嗯……这真是一件不愉快的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000386|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No... not like this...",
+    "string": "不……别再来了……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000355|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This can't be happening!",
+    "string": "不应该是这样的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000387|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Damn you!",
+    "string": "该死的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500035D|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I love a good fight!",
+    "string": "我喜欢战斗！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerDismissTopic",
+    "form_id": "0005C80C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's time for us to part ways.",
+    "string": "我们该分开了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000376|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right, then.",
+    "string": "那就这样吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerTradeTopic",
+    "form_id": "00060020|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need to trade some things with you.",
+    "string": "我想和你交换些东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000375|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No problem, I can carry a good bit of gear.",
+    "string": "没问题，我还能带很多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000649E1|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know you. You in Riften lookin' for trouble?",
+    "string": "我不认识你啊。你是来裂谷城找麻烦的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerFollowTopic",
+    "form_id": "00075083|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Follow me.",
+    "string": "跟着我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000378|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm ready. Let's go.",
+    "string": "准备好了。我们走。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerWaitTopic",
+    "form_id": "00075084|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wait here.",
+    "string": "在这儿等着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000374|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Certainly. Be careful.",
+    "string": "当然可以。小心点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFavorGenericFollowBranchTopic",
+    "form_id": "000B0EE6|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Follow me. I need your help.",
+    "string": "跟我来。我需要你的帮助。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000FE6F6|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm right behind you.",
+    "string": "我紧随在后。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500037C|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm right behind you.",
+    "string": "我紧随在后。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000FE6F7|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You already appear to have someone with you.",
+    "string": "你这不是有人跟着了吗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500037D|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You already appear to have someone with you.",
+    "string": "你这不是有人跟着了吗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "OffersTrainingTopic",
+    "form_id": "000E3A35|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like training in Alchemy.",
+    "string": "我想训练炼金术。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002C6|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's all in the swing. Let me show you.",
+    "string": "一切尽在挥舞中。我来教你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002C6|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Can you train me to improve my Hand to Hand combat?",
+    "string": "你可以教导我徒手战斗的技巧吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500037E|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I think I can teach you a thing or two.",
+    "string": "我可以教你一两招。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500037E|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Can you train me to improve my Hand to Hand combat?",
+    "string": "你可以教导我徒手战斗的技巧吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002C4|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "There's nothing more I can teach you.",
+    "string": "我没什么东西能教你了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002C4|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Can you train me to improve my Hand to Hand combat?",
+    "string": "你可以教导我徒手战斗的技巧吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500037F|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "You've already learned all I can teach you.",
+    "string": "我能教的你都学会了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500037F|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Can you train me to improve my Hand to Hand combat?",
+    "string": "你可以教导我徒手战斗的技巧吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestMaulDialogueBranch01Topic",
+    "form_id": "050001A6|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was told to talk to you about the fighting tourney.",
+    "string": "我被告知要跟你谈谈格斗大赛的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001A7|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So, you're here to fight?",
+    "string": "所以你是来参赛的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001A7|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Down in the Ratway, look around.",
+    "string": "去鼠道那里看看吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestMaulDialogueBranch01Topic02",
+    "form_id": "050001A8|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can I get anymore information?",
+    "string": "我能打听更多消息吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001A9|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No.",
+    "string": "不可能。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestMaulDialogueBranch01Topic03",
+    "form_id": "050001AA|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright, I'll make my way there.",
+    "string": "好吧，我这就过去那里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001AB|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good. Now shut up and get out of my face.",
+    "string": "好。现在闭嘴，赶紧从我面前消失。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestOrganizerDialogueBranch01Topic",
+    "form_id": "050001AE|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you The Organizer?",
+    "string": "你是主办者吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001AF|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I trust you're not planning any trouble. What can I do for you friend.",
+    "string": "我相信你不是来找麻烦的。有什么事能为你效劳吗，朋友？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestOrgTopic02",
+    "form_id": "050001B0|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the fighting tourney.",
+    "string": "我是来参加格斗大赛的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001B1|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sure, provided you have the coin.",
+    "string": "当然，只要你有钱的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestOrgTopic04",
+    "form_id": "050001B2|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't have 150 gold on me.",
+    "string": "我的钱不够。（150枚金币）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001B3|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now that's just sad. Come back later.",
+    "string": "那真是太惨了。晚点再来吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestOrgTopic05",
+    "form_id": "050001B4|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright, here. (Give 150 gold)",
+    "string": "拿去吧。（支付150枚金币）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001B5|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come on. Let's see what you're made of.",
+    "string": "来吧。看看你有什么能耐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestFightersBranch01Topic",
+    "form_id": "050001B8|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Think you can take me on? (Brawl Start)",
+    "string": "你觉得你能打倒我吗？（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001B9|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're nothing!",
+    "string": "你算什么东西！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001BB|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I think you may have wasted your money, friend.",
+    "string": "你的钱可能都被浪费了，朋友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001BA|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm gonna put you down!",
+    "string": "我要宰了你！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestGianBranch01Topic",
+    "form_id": "050001C4|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So, I'm guessing you're the champion?",
+    "string": "那么，我猜你就是冠军？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001C5|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I suppose so, yes.",
+    "string": "我想是的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001C5|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I'm drunk, and it's been a while since I had a good fight.",
+    "string": "我刚喝完，有段时间没好好打一架了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestWinBranchTopic",
+    "form_id": "050001C7|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That was a good fight. I see why you're Riften's Champion.",
+    "string": "精彩的一战。我明白你为什么能成为裂谷城的冠军了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001C8|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You fight well, brother.",
+    "string": "打得好，兄弟。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001C8|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "You know... you aint so bad. Here. Take this...",
+    "string": "你知道吗……其实你也不差。拿去，收下吧……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001F8|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You fight well, sister.",
+    "string": "打得好，姐妹。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001F8|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "You know... you aint so bad. Here. Take this...",
+    "string": "你知道吗……其实你也不差。拿去，收下吧……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestOrgBranch02Topic",
+    "form_id": "050001CA|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like my reward.",
+    "string": "我要拿我的酬劳。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001CB|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very Well.",
+    "string": "那好吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001CB|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Good luck out there.",
+    "string": "祝你好运。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueRiftenMaulFOFAltStart",
+    "form_id": "050001CF|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was told to talk to you about the fighting tourney.",
+    "string": "我被告知要跟你谈谈格斗大赛的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D0|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So, you're here to fight?",
+    "string": "所以你是来参赛的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D0|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Down in the Ratway, look around.",
+    "string": "去鼠道那里看看吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueRiftenMaulSceneFOFContinueTopic",
+    "form_id": "050001D2|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can I get anymore information?",
+    "string": "我能打听更多消息吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D3|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No.",
+    "string": "不可能。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueRiftenMaulSceneFOFContinueTopic02",
+    "form_id": "050001D4|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright, I'll make my way there.",
+    "string": "好吧，我这就过去那里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D5|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good. Now shut up and get out of my face.",
+    "string": "好。现在闭嘴，赶紧从我面前消失。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D8|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good. Now shut up and get out of my face.",
+    "string": "好。现在闭嘴，赶紧从我面前消失。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestGianTopic03",
+    "form_id": "050001E7|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's do this. (Brawl starts)",
+    "string": "我们开始吧。（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001E8|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you're looking for a challenge, you've come to the right place.",
+    "string": "如果你想寻求挑战，那你来对地方了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestGianTopic04",
+    "form_id": "050001E9|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm not ready yet.",
+    "string": "我还没准备好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001EA|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's not waste any time.",
+    "string": "那就别浪费时间了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001EC|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What?",
+    "string": "什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestGianBranch02Topic",
+    "form_id": "050001F0|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm ready (Brawl starts)",
+    "string": "我准备好了。（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001F1|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you're looking for a challenge, you've come to the right place.",
+    "string": "如果你想寻求挑战，那你来对地方了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestOrgBranch01Topic",
+    "form_id": "050001F3|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright, I have the gold. (Give 150 gold)",
+    "string": "好，我有钱。（支付150枚金币）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001F4|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come on. Let's see what you're made of.",
+    "string": "来吧。看看你有什么能耐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001F7|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good. Now shut up and get out of my face.",
+    "string": "好。现在闭嘴，赶紧从我面前消失。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControlFightersSparTopic",
+    "form_id": "05000212|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you want to spar? (Start Brawl)",
+    "string": "你想来打一场吗？（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000213|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right!",
+    "string": "好吧！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000214|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gods! Another fight!",
+    "string": "天啊！又打起来了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000215|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come on!",
+    "string": "快点！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500021C|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey, a fight!",
+    "string": "嘿，打起来了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControlGianPQTopic",
+    "form_id": "05000217|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How long have you been fighting?",
+    "string": "你当斗士很多久了吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500021B|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've been fighting in the Pit for years. That should tell you something.",
+    "string": "我在深坑里战斗了很多年。应该能教你些东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControlGianPQ02Topic",
+    "form_id": "05000256|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why'd you start fighting?",
+    "string": "你为什么会参加格斗大赛？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000257|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not much use at labor or learning, but I can throw a punch with the best of 'em.",
+    "string": "虽然做工、学习都不在行，但我挥出的拳头可不比人差。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuestStartBranchTopic",
+    "form_id": "05000292|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was told to come talk to you.",
+    "string": "有人叫我来跟你谈谈。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000293|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not many come to see me. What do you want?",
+    "string": "很少有人来拜访我。你有何贵干？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002B9|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not now!",
+    "string": "现在不行！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuestStartTopic2",
+    "form_id": "05000294|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the brawling tournament.",
+    "string": "我是来参加格斗大赛的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000295|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, I know just what you mean...",
+    "string": "嗯，我明白你的意思……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuestStartTopic3",
+    "form_id": "05000296|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well... who do I have to fight?",
+    "string": "嗯……我要跟谁打？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000297|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Soon, soon. Meet me at the summoning circle in the marsh.",
+    "string": "很快就知道了。到沼泽内的召唤法阵来找我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuestSummoningStonesBranchTopic",
+    "form_id": "05000299|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well I'm here. I don't see anyone else.",
+    "string": "嗯，我来了。我没有看到其他人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500029A|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh! Um, he he...",
+    "string": "噢！呃……他、他……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500029A|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "There are some experiments the College frowns on. If they're aware of them, of course.",
+    "string": "学院对一些实验是不赞成的。当然，前提是他们看得到。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuestFightersBranchTopic",
+    "form_id": "0500029D|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You ready to fight? (Brawl Start)",
+    "string": "你准备来打了吗？（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500029E|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They will sing stories of this day.",
+    "string": "他们会歌颂今天的故事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500029E|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Am I supposed to fight you? (Brawl Start)",
+    "string": "要跟我对战的是你吗？（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500029F|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Archers!",
+    "string": "弓箭手！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500029F|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Let's get this over with. (Brawl Start)",
+    "string": "我们尽快开始吧。（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002A0|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stupid dog.",
+    "string": "蠢狗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002A1|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You... must... die...",
+    "string": "你……必须……死…………",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002A1|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Lets do this... Champion? (Brawl Start)",
+    "string": "我们开始吧……冠军？（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuestChampionBranchTopic",
+    "form_id": "050002AC|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why didn't you tell me I'd be fighting undead?",
+    "string": "为什么不早点告诉我要跟不死者打的事？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002AD|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't suppose it matters much anymore.",
+    "string": "我想这已经无关紧要了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002AD|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Come on. Let's see what you're made of!",
+    "string": "来吧！来看看你是什么货色！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuestCompletedBranchTopic",
+    "form_id": "050002AF|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you going to summon anything else?",
+    "string": "你还要召唤其他东西吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002B0|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I think I expected more.",
+    "string": "我期望看到更多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002B0|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Well, I'm glad that little unpleasantness is over.",
+    "string": "很好。小不愉快总算过去了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002B0|Fists of Fury - Skyrim.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Here, take this.",
+    "string": "这个给你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050002B8|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes?",
+    "string": "嗯？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuestWinBranch2Topic",
+    "form_id": "050002BB|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That was too easy.",
+    "string": "太简单了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000284|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah yeah...",
+    "string": "好好……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000284|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "You know... you ain't so bad. Here. Take this...",
+    "string": "那个……你真的很不错。来。收下这个。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuestTorbjornQuestStartTopic",
+    "form_id": "0500033B|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was told you were the one to talk to for the fighting tourney here.",
+    "string": "有人告诉我要参加这里格斗大赛要找你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500033C|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, I know. I see in your eyes that you think I jest.",
+    "string": "嗯，我懂了。看的出来，你以为我在开玩笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500033C|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Here, now go away.",
+    "string": "拿去，现在走开。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000340|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well hello.",
+    "string": "你好啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuestGuardTopic02",
+    "form_id": "05000341|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here to participate in the brawling tourney. (100 Gold)",
+    "string": "我是来参加格斗大赛的。（支付100枚金币）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000342|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course!",
+    "string": "当然了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000342|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Look around.",
+    "string": "随便看看吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000347|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hello there.",
+    "string": "你好啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuestErdithStartTopic02",
+    "form_id": "05000348|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is this some sort of brawling camp?",
+    "string": "这是某种格斗营吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000349|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, this camp is small, but it's all we have left.",
+    "string": "对，我知道这营地很小，但我们也没别的了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuestErdithBeginBrawlingBranchTopic",
+    "form_id": "0500034B|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm ready to begin the brawling.",
+    "string": "我准备好开始格斗大赛了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500034C|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right, then.",
+    "string": "那就这样吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuestFightersBranchTopic",
+    "form_id": "0500034F|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Start Brawl)",
+    "string": "（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000350|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha ha! Don't make me laugh!",
+    "string": "哈哈！别逗我了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000350|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm gonna knock you to the ground! (Start Brawl)",
+    "string": "我要把你打的满地找牙！（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000351|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hope you're willing to back those words up with your fists!",
+    "string": "希望你的拳头硬到能支持这些话！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000351|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You're gonna need a healer after this! (Start Brawl)",
+    "string": "结束后你需要去找位治疗师！（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000352|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Never should have come here!",
+    "string": "你根本就不该来这里！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000352|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Let's get this over with! (Start Brawl)",
+    "string": "我们快点开始吧！（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuestPreChampionBrawlTopic",
+    "form_id": "05000357|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've beaten the other challengers.",
+    "string": "我已经击败其他挑战者了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000358|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You look strong.",
+    "string": "你看起来很强。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000358|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The strong and honorable always carry the blessing of the Nine.",
+    "string": "强大而可贵的人总会得到九圣灵的祝福。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuestChampionBrawlTopic",
+    "form_id": "0500035A|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm ready to face the champion (Start Brawl)",
+    "string": "我已经准备好面对冠军了。（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500035B|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well.",
+    "string": "非常好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500035B|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Gods' blessings on you.",
+    "string": "众神保佑你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000360|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Impressive.",
+    "string": "叹为观止。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000360|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "If you ever need aid, just ask.",
+    "string": "如果你需要帮忙，请尽管吩咐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuestRewardBranchTopic",
+    "form_id": "05000362|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for my reward.",
+    "string": "我是来领我的奖赏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000363|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Excelent work!",
+    "string": "做得漂亮！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000363|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Here, this is for you.",
+    "string": "来，这是给你的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControlWindhelmFightersSparTopic",
+    "form_id": "05000381|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Would you like to spar? (Start Brawl)",
+    "string": "你想切磋一下吗？（开始斗殴）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000382|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah, sure.",
+    "string": "好，没问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000383|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right, then.",
+    "string": "那就这样吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000384|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How can I argue with that?",
+    "string": "我有什么可反驳的呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControlWindhelmErdithPostQuestTopic",
+    "form_id": "05000389|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you going to keep brawling?",
+    "string": "你还想继续打吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500038A|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nah. I don't think so.",
+    "string": "不。我不这么想。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500038A|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I enjoy this work well enough, but I'm ready to retire.",
+    "string": "我很喜欢参赛，不过我已经准备好要退休了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControlWindhelmErdithInArenaTopic",
+    "form_id": "0500038C|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you think of this place?",
+    "string": "你觉得这个地方怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500038D|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A truly remarkable place, isn't it?",
+    "string": "真是个了不起的地方，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500038D|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Thank you for this.",
+    "string": "谢谢你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControlWindhelmRiftenErdithPostQuestTopic",
+    "form_id": "0500038F|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you ever fought against Gian?",
+    "string": "你跟“铁拳”吉安打过吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000390|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Indeed, in the Pit",
+    "string": "确实有，在竞技场那。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000390|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The beast was strong.",
+    "string": "那个傢伙相当犟大。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050003A4|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "At last.",
+    "string": "终于。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControl",
+    "form_id": "050001F9|Fists of Fury - Skyrim.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Read the note \"An Invitation to Fight\"",
+    "string": "阅读笔记「格斗大赛邀请函」",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControl",
+    "form_id": "050001F9|Fists of Fury - Skyrim.esp",
+    "index": 6,
+    "type": "QUST NNAM",
+    "original": "Read the note \"Another Opportunity\"",
+    "string": "阅读笔记「新的机遇」",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControl",
+    "form_id": "050001F9|Fists of Fury - Skyrim.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Talk to Maul in Riften about the tournament",
+    "string": "向裂谷城的摩尔询问有关格斗大赛的事",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControl",
+    "form_id": "050001F9|Fists of Fury - Skyrim.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Talk to BLANK in Whiterun about the tournament",
+    "string": "向白漫城的 BLANK 询问有关格斗大赛的事（应该是未来更新用的）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControl",
+    "form_id": "050001F9|Fists of Fury - Skyrim.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Talk to Niranye in Windhelm about the tournament",
+    "string": "向风舵城的妮兰雅询问有关格斗大赛的事",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControl",
+    "form_id": "050001F9|Fists of Fury - Skyrim.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Talk to Falion in Morthal about the tournament",
+    "string": "向莫萨尔城的法利昂雅询问有关格斗大赛的事",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControl",
+    "form_id": "050001F9|Fists of Fury - Skyrim.esp",
+    "index": 41,
+    "type": "QUST NNAM",
+    "original": "Return to Falion once he has cured my vampirism",
+    "string": "在法利昂治好我的吸血鬼病后回去找他",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControl",
+    "form_id": "050001F9|Fists of Fury - Skyrim.esp",
+    "index": 42,
+    "type": "QUST NNAM",
+    "original": "Return to Falion after the Jarl has talked to him",
+    "string": "在领主与法利昂谈完话后回去找他",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControl",
+    "form_id": "050001F9|Fists of Fury - Skyrim.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Talk to BLANK about the tournament",
+    "string": "向 BLANK 询问有关格斗大赛的事（应该是未来更新用的）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFQuestControl",
+    "form_id": "050001F9|Fists of Fury - Skyrim.esp",
+    "index": 200,
+    "type": "QUST NNAM",
+    "original": "Deafeat Skyrim's Champion, BLANK",
+    "string": "击败天际冠军， BLANK （应该是未来更新用的）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Fists of Fury - Hjaalmarch",
+    "string": "愤怒之拳 - 希雅陲领",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've talked to Falion about the brawling tournament. He told me to go to the Summoning Stones outside of Morthal.",
+    "string": "我和法利昂谈过格斗大赛的事了。他要我到莫萨尔城外的召唤石那里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've talked to Falion about the brawling tournament. He told me to go to the Summoning Stones outside of Morthal.",
+    "string": "我和法利昂谈过格斗大赛的事了。他要我到莫萨尔城外的召唤石那里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I have reached the summoning stones. I should talk to Falion about where the other challengers are.",
+    "string": "我已经来到召唤石了。应该和法利昂谈谈其馀的挑战者在哪里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "Falion has summoned some sort of ghost. Is this what I'm supposed to fight?",
+    "string": "法利昂招换了某种鬼魂。这就是我要挑战的对象吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I have beaten three seperate undead. I need to talk to Falion about what is going on.",
+    "string": "我打败了三种不同的不死者。我应该问法利昂究竟是怎么回事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "Falion has summoned another ghost. Is this the Champion? Is he going to summon anything else after this?",
+    "string": "法利昂召唤了另一个鬼魂。这就是冠军吗？这之后他还会召唤其他东西吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I have beaten the Champion, this is by far the weirdest brawling tourney I thing I'll ever participate in.",
+    "string": "我打败了冠军，这是我至今参加过最奇怪的格斗大赛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Go to the Summoning Stones outside of Morthal and talk to Falion there",
+    "string": "在莫萨尔城外的召唤石与法利昂交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Defeat Erel Pure-Heart",
+    "string": "打败艾雷尔·净心",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 21,
+    "type": "QUST NNAM",
+    "original": "Defeat the Forgotten Captain",
+    "string": "打败被遗忘的指挥官",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 22,
+    "type": "QUST NNAM",
+    "original": "Defeat the Lost Blade",
+    "string": "打败迷失的刀锋会",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Talk to Falion",
+    "string": "与法利昂交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Defeat the Champion, Captain Grimm",
+    "string": "打败冠军，格林船长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFMorthalBrawlerQuest",
+    "form_id": "05000270|Fists of Fury - Skyrim.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Talk to Falion",
+    "string": "与法利昂交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Fists of Fury - Eastmarch",
+    "string": "愤怒之拳 - 东陲领",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "There is a brawling tourney taking place in Eastmarch, I was told by Niranye to go to a brawler's camp east of Windhelm.",
+    "string": "东陲领正在举办一场格斗大赛，妮兰雅要我前往风舵城东边的拳手营地。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "There is a brawling tourney taking place in Eastmarch, I was told by Niranye to go to a brawler's camp east of Windhelm.",
+    "string": "东陲领正在举办一场格斗大赛，妮兰雅要我前往风舵城东边的拳手营地。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I have made it to the Brawler's Camp. I should prove my worth against the other challengers.",
+    "string": "我已经到达了拳手营地。我应该向其他挑战者证明自己的实力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I have made it to the Brawler's Camp. I should prove my worth against the other challengers.",
+    "string": "我已经到达了拳手营地。我应该向其他挑战者证明自己的实力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I have made it to the Brawler's Camp. I should prove my worth against the other challengers.",
+    "string": "我已经到达了拳手营地。我应该向其他挑战者证明自己的实力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I have made it to the Brawler's Camp. I should prove my worth against the other challengers.",
+    "string": "我已经到达了拳手营地。我应该向其他挑战者证明自己的实力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I have made it to the Brawler's Camp. I should prove my worth against the other challengers.",
+    "string": "我已经到达了拳手营地。我应该向其他挑战者证明自己的实力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "I have beaten all of the challengers. Now I must show my worth by defeating the Champion of Eastmarch.",
+    "string": "我已经打败所有挑战者。现在我必须击败东陲领的冠军，以证明自己的实力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "I have beaten all of the challengers. Now I must show my worth by defeating the Champion of Eastmarch, Erdith The Bear.",
+    "string": "我已经打败所有挑战者。现在我必须击败东陲领的冠军，巨熊埃尔蒂，以证明自己的实力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "I have defeated Erdith The Bear, the brawling champion of Eastmarch.",
+    "string": "我打败了东陲领的格斗冠军，巨熊埃尔蒂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 11,
+    "type": "QUST CNAM",
+    "original": "I have defeated Erdith The Bear, the brawling champion of Eastmarch.",
+    "string": "我打败了东陲领的格斗冠军，巨熊埃尔蒂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 12,
+    "type": "QUST CNAM",
+    "original": "I have defeated Erdith The Bear, the brawling champion of Eastmarch.",
+    "string": "我打败了东陲领的格斗冠军，巨熊埃尔蒂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Go to the Brawler's Camp East of Windhelm",
+    "string": "前往风舵城拳手营地",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 15,
+    "type": "QUST NNAM",
+    "original": "Talk to Reggr",
+    "string": "与雷格交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Talk to Erdith",
+    "string": "与埃尔蒂交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Defeat Kjer",
+    "string": "打败凯尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 31,
+    "type": "QUST NNAM",
+    "original": "Defeat Maljorn",
+    "string": "打败马尔乔恩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 32,
+    "type": "QUST NNAM",
+    "original": "Defeat Ulthyn",
+    "string": "打败乌尔辛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Talk to Erdith",
+    "string": "与埃尔蒂交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Defeat the Champion, Erdith The Bear",
+    "string": "打败冠军，巨熊埃尔蒂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Talk to Erdith",
+    "string": "与埃尔蒂交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFWindhelmBrawlerQuest",
+    "form_id": "05000322|Fists of Fury - Skyrim.esp",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Get your earnings from Reggr",
+    "string": "向雷格拿取你赚到的钱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Fists of Fury - The Rift",
+    "string": "愤怒之拳 - 裂痕领",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I got a letter about a brawling tournament. One of the locations is in Riften. If I want to learn more about it I need to talk to Maul.",
+    "string": "我收到了一封关于格斗大赛的信。其中一个地点位于裂谷城。如果我想知道更多讯息，我应该和摩尔谈谈。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've talked to Maul, he told me to go down into the Ratway. I should find the Ratway Arena down in the Ratway Vaults.",
+    "string": "我和摩尔谈过了，他要我进入鼠道。我应该能在鼠道地下室找到鼠道竞技场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I have found the Ratway Arena. Now I need to talk to The Organizer to start the Rift's tourney.",
+    "string": "我找到了鼠道竞技场。现在我需要和主办者谈谈，以开始在裂痕领的格斗大赛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I have found the Ratway Arena. Now I need to talk to The Organizer to start the Rift's tourney.",
+    "string": "我找到了鼠道竞技场。现在我需要和主办者谈谈，以开始在裂痕领的格斗大赛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I need to get more gold and return to The Organizer.",
+    "string": "我需要取得更多金币，再回去找主办者。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "The Organizer told me that to fight the Champion, I need to first defeat the other three contenders in a brawl.",
+    "string": "主办者告诉我，想冠军较量，需要击败其他三位竞争者。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "The Organizer told me that to fight the Champion, I need to defeat two more contenders in a brawl.",
+    "string": "主办者告诉我，想冠军较量，需要击败其他两位竞争者。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "The Organizer told me that to fight the Champion, I need to defeat the last contender in a brawl.",
+    "string": "主办者告诉我，想冠军较量，需要击败剩下的最后竞争者。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "I have defeated the three contenders, now it is time to test my strength against the Champoin, Gian the Fist.",
+    "string": "我已经击败三位竞争者，现在是时候与冠军，“铁拳”吉安，考验我的实力了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "I have defeated the three contenders, now it is time to test my strength against the Champoin, Gian the Fist.",
+    "string": "我已经击败三位竞争者，现在是时候与冠军，“铁拳”吉安，考验我的实力了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 11,
+    "type": "QUST CNAM",
+    "original": "I have defeated the three contenders, now it is time to test my strength against the Champoin, Gian the Fist.",
+    "string": "我已经击败三位竞争者，现在是时候与冠军，“铁拳”吉安，考验我的实力了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 12,
+    "type": "QUST CNAM",
+    "original": "I have beaten The Champion, Gian the Fist.",
+    "string": "我已经打败冠军，“铁拳”吉安。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 13,
+    "type": "QUST CNAM",
+    "original": "I have beaten The Champion, Gian the Fist. I should go talk to The Organizer for my reward.",
+    "string": "我打败了冠军，“铁拳”吉安。我应该去找主办者谈谈我的奖励。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Find the Ratway Arena down in the Ratway Vaults",
+    "string": "在鼠道地下室找到鼠道竞技场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Talk to The Organizer",
+    "string": "与主办者交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Defeat the first contender, Drackis",
+    "string": "打败第一位竞争者，卓拉克斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 31,
+    "type": "QUST NNAM",
+    "original": "Defeat the second contender, Fights-With-Fists",
+    "string": "打败第二位竞争者，拳斗者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 32,
+    "type": "QUST NNAM",
+    "original": "Defeat the last contender, Barin",
+    "string": "打败最后一位竞争者，巴宁",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Defeat The Rift's Champion, Gian the Fist",
+    "string": "打败裂痕领的冠军，“铁拳”吉安",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 45,
+    "type": "QUST NNAM",
+    "original": "Come back later and defeat Gian the Fist",
+    "string": "稍后再回来打败“铁拳”吉安",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Talk to Gian",
+    "string": "与“铁拳”吉安交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenBrawlerQuest",
+    "form_id": "050001A1|Fists of Fury - Skyrim.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Talk to The Organizer",
+    "string": "与主办者交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FOFRiftenRatwayArenaLocation",
+    "form_id": "050000F4|Fists of Fury - Skyrim.esp",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Ratway Arena",
+    "string": "鼠道，竞技场",
+    "status": "TranslationComplete"
+  }
+]

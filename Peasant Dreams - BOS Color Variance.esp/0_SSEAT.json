@@ -1,0 +1,326 @@
+[
+  {
+    "editor_id": "CommonBedChild01_red",
+    "form_id": "01000800|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChild01_green",
+    "form_id": "01000801|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChild01_blue",
+    "form_id": "01000802|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChild01L_blue",
+    "form_id": "01000803|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChild01L_green",
+    "form_id": "01000804|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChild01L_red",
+    "form_id": "01000805|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChild01R_blue",
+    "form_id": "01000806|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChild01R_green",
+    "form_id": "01000807|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChild01R_red",
+    "form_id": "01000808|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChildDouble01_blue",
+    "form_id": "01000809|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChildDouble01_green",
+    "form_id": "0100080A|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChildDouble01_red",
+    "form_id": "0100080B|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChildDouble01L_blue",
+    "form_id": "0100080C|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChildDouble01L_green",
+    "form_id": "0100080D|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChildDouble01L_red",
+    "form_id": "0100080E|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChildDouble01R_blue",
+    "form_id": "0100080F|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChildDouble01R_green",
+    "form_id": "01000810|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedChildDouble01R_red",
+    "form_id": "01000811|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBed01_green",
+    "form_id": "01000D62|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBed01_red",
+    "form_id": "01000D63|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBed01_blue",
+    "form_id": "01000D64|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBed01L_green",
+    "form_id": "01000D65|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBed01L_red",
+    "form_id": "01000D66|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBed01L_blue",
+    "form_id": "01000D67|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBed01R_green",
+    "form_id": "01000D68|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBed01R_blue",
+    "form_id": "01000D69|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBed01R_red",
+    "form_id": "01000D6A|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedDouble01_green",
+    "form_id": "01000D6B|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedDouble01_red",
+    "form_id": "01000D6C|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedDouble01_blue",
+    "form_id": "01000D6D|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedDouble01L_green",
+    "form_id": "01000D6E|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedDouble01L_red",
+    "form_id": "01000D6F|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedDouble01L_blue",
+    "form_id": "01000D70|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedDouble01R_green",
+    "form_id": "01000D71|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedDouble01R_red",
+    "form_id": "01000D72|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CommonBedDouble01R_blue",
+    "form_id": "01000D73|Peasant Dreams - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Bed",
+    "string": "床",
+    "status": "TranslationComplete"
+  }
+]

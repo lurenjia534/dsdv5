@@ -1,0 +1,263 @@
+[
+  {
+    "editor_id": "_deepborn_MineFortifyMovSpeedAbEffect01",
+    "form_id": "04000019|deepborn.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Tunnel Skeever",
+    "string": "隧道之鼠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_MineFortifyMovSpeedAbEffect01",
+    "form_id": "04000019|deepborn.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your movement speed is increased by <mag> while in mines.",
+    "string": "在矿井中，你的移动速度会提高 <mag> 。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_MineFortifyCarryWeightAbEffect01",
+    "form_id": "0400002D|deepborn.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Heigh-ho",
+    "string": "嘿哟",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_MineFortifyCarryWeightAbEffect01",
+    "form_id": "0400002D|deepborn.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your carrying capacity increases by <mag> for 10 minutes upon leaving a mine.",
+    "string": "离开矿井后，您的负重将增加 <mag> ，持续10分钟。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_DetectVeinSpellEffect01",
+    "form_id": "04000033|deepborn.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Deep Echo",
+    "string": "深渊回响",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_MineFortifyCarryWeightAb01",
+    "form_id": "0400002E|deepborn.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Heigh-ho",
+    "string": "嘿哟",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_DetectVeinSpell01",
+    "form_id": "04000034|deepborn.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deep Echo",
+    "string": "深渊回响",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_DetectVeinSpell01",
+    "form_id": "04000034|deepborn.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Locates the nearest ore vein.",
+    "string": "定位最近的矿脉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_SkillUpCDSpell",
+    "form_id": "04000011|deepborn.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Skill Up CD Spell",
+    "string": "技能升级冷却",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_MineFortifyMovSpeedAb01",
+    "form_id": "04000016|deepborn.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Tunnel Skeever",
+    "string": "隧道之鼠",
+    "status": "TranslationComplete"
+  },  
+  {
+    "editor_id": "_deepborn_BetterPrice_Perk03",
+    "form_id": "04000004|deepborn.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Rewards from mining quests are increased by 20%.",
+    "string": "挖矿任务的奖励增加20%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_BetterPrice_Perk01",
+    "form_id": "0400000B|deepborn.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Commission Expert",
+    "string": "佣金专家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_BetterPrice_Perk01",
+    "form_id": "0400000B|deepborn.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Rewards from mining quests are increased by 10%.",
+    "string": "挖矿任务的奖励增加10%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_IncreaseGemsChance_Perk01",
+    "form_id": "0400001E|deepborn.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Greedy Strikes",
+    "string": "贪婪击打",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_IncreaseGemsChance_Perk01",
+    "form_id": "0400001E|deepborn.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Increases your chances to find gems by 15% while mining.",
+    "string": "挖矿时，发现宝石的几率增加15%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_IncreaseGemsChance_Perk03",
+    "form_id": "04000020|deepborn.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Increases your chances to find gems by 25% while mining.",
+    "string": "挖矿时，发现宝石的几率增加25%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_MoreIngotSmelt_Perk01",
+    "form_id": "04000021|deepborn.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Smeltmaster",
+    "string": "冶炼大师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_MoreIngotSmelt_Perk01",
+    "form_id": "04000021|deepborn.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Smelting extractable ores provides double the amount of ingots.",
+    "string": "冶炼可提取的矿石可以提供两倍的铸锭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_MineFortifyCarryWeight_Perk01",
+    "form_id": "0400002C|deepborn.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Heigh-ho",
+    "string": "嘿哟",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_MineFortifyCarryWeight_Perk01",
+    "form_id": "0400002C|deepborn.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your carrying capacity increases by 150 for 10 minutes upon leaving a mine.",
+    "string": "离开矿井后，您的负重将在10分钟内增加150。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_MineFortifyMovSpeed_Perk01",
+    "form_id": "04000015|deepborn.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Tunnel Skeever",
+    "string": "隧道之鼠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_MineFortifyMovSpeed_Perk01",
+    "form_id": "04000015|deepborn.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your movement speed is increased by 25 while in mines.",
+    "string": "在矿井中，你的移动速度会提高25。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_IncreaseGemsChance_Perk02",
+    "form_id": "0400000D|deepborn.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Increases your chances to find gems by 20% while mining.",
+    "string": "挖矿时，发现宝石的几率增加20%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_DetectVein_Perk01",
+    "form_id": "04000039|deepborn.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Deep Echo",
+    "string": "深渊回响",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_DetectVein_Perk01",
+    "form_id": "04000039|deepborn.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Concedes you the power to locate the nearest ore vein by sound cues.",
+    "string": "使您能够通过声音线索定位最近的矿脉。",
+    "status": "TranslationComplete"
+  }, 
+  {
+    "editor_id": "_deepborn_DetectVein_Perk02",
+    "form_id": "0400003E|deepborn.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Deep Echo",
+    "string": "深渊回响",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_DetectVein_Perk02",
+    "form_id": "0400003E|deepborn.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Concedes you the power to locate the nearest ore vein by sound and visual cues.",
+    "string": "使您能够通过声音和视觉线索定位最近的矿脉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_BetterPrice_Perk02",
+    "form_id": "04000031|deepborn.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Rewards from mining quests are increased by 15%.",
+    "string": "挖矿任务的奖励增加15%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_deepborn_USKPMiningDepletedGeodeMessage",
+    "form_id": "040000FF|deepborn.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This geode vein is depleted.",
+    "string": "这个地质矿脉已经枯竭。",
+    "status": "TranslationComplete"
+  }
+]

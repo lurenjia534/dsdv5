@@ -1,0 +1,218 @@
+[
+  {
+    "editor_id": "BasBarrelMeat01Alt",
+    "form_id": "03000806|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelFood01Alt",
+    "form_id": "03000807|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelEmpty01Alt",
+    "form_id": "03000808|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelIngredientCommon01Alt",
+    "form_id": "03000809|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelIngredientUncommon01Alt",
+    "form_id": "0300080A|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelFish01Alt",
+    "form_id": "0300080B|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Fish Barrel",
+    "string": "鱼桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasdtaBarrel02Alt01",
+    "form_id": "0300084F|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasdtaBarrel02Alt02",
+    "form_id": "03000850|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasdtaBarrel02Alt03",
+    "form_id": "03000851|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelMeat01Alt03",
+    "form_id": "03000D70|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasMeadBarrel02Alt",
+    "form_id": "03000D71|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Mead Barrel",
+    "string": "酒桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelMeat01Alt02",
+    "form_id": "03000D73|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelFood01Alt02",
+    "form_id": "03000D74|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelEmpty01Alt02",
+    "form_id": "03000D75|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelIngredientCommon01Alt02",
+    "form_id": "03000D76|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelIngredientUncommon01Alt02",
+    "form_id": "03000D77|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelFish01Alt02",
+    "form_id": "03000D78|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Fish Barrel",
+    "string": "鱼桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasMeadBarrel02Alt02",
+    "form_id": "03000D79|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Mead Barrel",
+    "string": "酒桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelFood01Alt03",
+    "form_id": "03000D7A|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelEmpty01Alt03",
+    "form_id": "03000D7B|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelIngredientCommon01Alt03",
+    "form_id": "03000D7C|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelIngredientUncommon01Alt03",
+    "form_id": "03000D7D|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasBarrelFish01Alt03",
+    "form_id": "03000D7E|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Fish Barrel",
+    "string": "鱼桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasMeadBarrel02Alt03",
+    "form_id": "03000D7F|Weathered Barrels - BOS.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Mead Barrel",
+    "string": "酒桶",
+    "status": "TranslationComplete"
+  }
+]

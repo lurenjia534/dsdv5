@@ -1,0 +1,56 @@
+[
+  {
+    "editor_id": "CivilWarCot01_blue",
+    "form_id": "01000D62|Cozy Cots - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Cot",
+    "string": "行军床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CivilWarCot01_green",
+    "form_id": "01000D63|Cozy Cots - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Cot",
+    "string": "行军床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CivilWarCot01_red",
+    "form_id": "01000D64|Cozy Cots - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Cot",
+    "string": "行军床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CivilWarCot01L_blue",
+    "form_id": "01000D65|Cozy Cots - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Cot",
+    "string": "行军床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CivilWarCot01L_green",
+    "form_id": "01000D66|Cozy Cots - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Cot",
+    "string": "行军床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CivilWarCot01L_red",
+    "form_id": "01000D67|Cozy Cots - BOS Color Variance.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Cot",
+    "string": "行军床",
+    "status": "TranslationComplete"
+  }
+]

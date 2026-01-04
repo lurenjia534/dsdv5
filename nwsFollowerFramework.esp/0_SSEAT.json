@@ -1,0 +1,4277 @@
+[
+  {
+    "editor_id": "nwsFF_AutoImport",
+    "form_id": "0550B2A3|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Auto Import  Faction",
+    "string": "自动导入势力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_AutoImport",
+    "form_id": "0550B2A3|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT MNAM",
+    "original": "Do Not Sync",
+    "string": "不同步",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_AutoImport",
+    "form_id": "0550B2A3|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "FACT MNAM",
+    "original": "Sync Teammate Import",
+    "string": "同步队友导入",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_SparFac",
+    "form_id": "05523EA1|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Sparring Faction",
+    "string": "比武势力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_NoImport",
+    "form_id": "055C4445|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "No Import Faction",
+    "string": "非导入派系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_NCRangeFac",
+    "form_id": "05004352|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT MNAM",
+    "original": "Standard",
+    "string": "标准",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_NCRangeFac",
+    "form_id": "05004352|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT FNAM",
+    "original": "Standard",
+    "string": "标准",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_NCRangeFac",
+    "form_id": "05004352|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "FACT MNAM",
+    "original": "Close",
+    "string": "靠近",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_NCRangeFac",
+    "form_id": "05004352|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "FACT FNAM",
+    "original": "Close",
+    "string": "靠近",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_NCRangeFac",
+    "form_id": "05004352|nwsFollowerFramework.esp",
+    "index": 3,
+    "type": "FACT MNAM",
+    "original": "Far",
+    "string": "远",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_NCRangeFac",
+    "form_id": "05004352|nwsFollowerFramework.esp",
+    "index": 3,
+    "type": "FACT FNAM",
+    "original": "Far",
+    "string": "远",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_RangeFac",
+    "form_id": "05007427|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT MNAM",
+    "original": "Standard",
+    "string": "标准",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_RangeFac",
+    "form_id": "05007427|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT FNAM",
+    "original": "Standard",
+    "string": "标准",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_RangeFac",
+    "form_id": "05007427|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "FACT MNAM",
+    "original": "Close",
+    "string": "靠近",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_RangeFac",
+    "form_id": "05007427|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "FACT FNAM",
+    "original": "Close",
+    "string": "靠近",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_RangeFac",
+    "form_id": "05007427|nwsFollowerFramework.esp",
+    "index": 3,
+    "type": "FACT MNAM",
+    "original": "Far",
+    "string": "远",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_RangeFac",
+    "form_id": "05007427|nwsFollowerFramework.esp",
+    "index": 3,
+    "type": "FACT FNAM",
+    "original": "Far",
+    "string": "远",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_CSFac",
+    "form_id": "05081755|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT MNAM",
+    "original": "Mercenary",
+    "string": "佣兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_CSFac",
+    "form_id": "05081755|nwsFollowerFramework.esp",
+    "index": 5,
+    "type": "FACT MNAM",
+    "original": "Ranger",
+    "string": "游侠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_CSFac",
+    "form_id": "05081755|nwsFollowerFramework.esp",
+    "index": 6,
+    "type": "FACT MNAM",
+    "original": "Spellsword",
+    "string": "魔剑士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_CSFac",
+    "form_id": "05081755|nwsFollowerFramework.esp",
+    "index": 7,
+    "type": "FACT MNAM",
+    "original": "Wizard",
+    "string": "法师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_CSFac",
+    "form_id": "05081755|nwsFollowerFramework.esp",
+    "index": 9,
+    "type": "FACT MNAM",
+    "original": "Priest",
+    "string": "牧师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_CSFac",
+    "form_id": "05081755|nwsFollowerFramework.esp",
+    "index": 11,
+    "type": "FACT MNAM",
+    "original": "Arcane Archer",
+    "string": "奥术弓箭手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_CSFac",
+    "form_id": "05081755|nwsFollowerFramework.esp",
+    "index": 12,
+    "type": "FACT MNAM",
+    "original": "Warpriest",
+    "string": "战争祭祀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_TauntSndFac",
+    "form_id": "0509A36C|nwsFollowerFramework.esp",
+    "index": 7,
+    "type": "FACT MNAM",
+    "original": "Neutral",
+    "string": "中立",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_RegardFac",
+    "form_id": "05127683|nwsFollowerFramework.esp",
+    "index": 5,
+    "type": "FACT MNAM",
+    "original": "Loyal",
+    "string": "忠诚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_VoiceFac",
+    "form_id": "0513DB40|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT MNAM",
+    "original": "Frea",
+    "string": "芙丽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_VoiceFac",
+    "form_id": "0513DB40|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT FNAM",
+    "original": "Frea",
+    "string": "芙丽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_ImportSetFac",
+    "form_id": "052305BE|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Import Setting Faction",
+    "string": "导入设置派系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_ImportSetFac",
+    "form_id": "052305BE|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT MNAM",
+    "original": "Light was applied",
+    "string": "照明应用",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_ImportSetFac",
+    "form_id": "052305BE|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "FACT MNAM",
+    "original": "Applied",
+    "string": "应用",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_GatherFac",
+    "form_id": "0541333B|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT MNAM",
+    "original": "Gold",
+    "string": "金币",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_GatherFac",
+    "form_id": "0541333B|nwsFollowerFramework.esp",
+    "index": 4,
+    "type": "FACT MNAM",
+    "original": "Potions",
+    "string": "药剂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_xStoreFac",
+    "form_id": "0542702A|nwsFollowerFramework.esp",
+    "index": 3,
+    "type": "FACT MNAM",
+    "original": "Storage Temporary Disable",
+    "string": "存储临时禁用",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutfitFac",
+    "form_id": "0549BA78|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Follower Outfit Faction",
+    "string": "随从装备派系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutfitFac",
+    "form_id": "0549BA78|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT MNAM",
+    "original": "Base",
+    "string": "基地",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutfitFac",
+    "form_id": "0549BA78|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "FACT MNAM",
+    "original": "Town",
+    "string": "城镇",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutfitFac",
+    "form_id": "0549BA78|nwsFollowerFramework.esp",
+    "index": 3,
+    "type": "FACT MNAM",
+    "original": "Home",
+    "string": "住所",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutfitFac",
+    "form_id": "0549BA78|nwsFollowerFramework.esp",
+    "index": 4,
+    "type": "FACT MNAM",
+    "original": "Base + Town",
+    "string": "基地 + 城镇",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutfitFac",
+    "form_id": "0549BA78|nwsFollowerFramework.esp",
+    "index": 5,
+    "type": "FACT MNAM",
+    "original": "Base + Home",
+    "string": "基地 + 住所",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutfitFac",
+    "form_id": "0549BA78|nwsFollowerFramework.esp",
+    "index": 6,
+    "type": "FACT MNAM",
+    "original": "Town + Home",
+    "string": "城镇 + 住所",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutfitFac",
+    "form_id": "0549BA78|nwsFollowerFramework.esp",
+    "index": 7,
+    "type": "FACT MNAM",
+    "original": "Base + Town + Home",
+    "string": "基地 + 城镇 + 住所",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutfitFac",
+    "form_id": "0549BA78|nwsFollowerFramework.esp",
+    "index": 8,
+    "type": "FACT MNAM",
+    "original": "Ignore",
+    "string": "忽略",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutTypeFac",
+    "form_id": "054A09E1|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Outfit Type Faction",
+    "string": "装备类型派系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutTypeFac",
+    "form_id": "054A09E1|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT MNAM",
+    "original": "Base Outfit",
+    "string": "基地服装",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutTypeFac",
+    "form_id": "054A09E1|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "FACT MNAM",
+    "original": "Town Outfit",
+    "string": "城镇服装",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutTypeFac",
+    "form_id": "054A09E1|nwsFollowerFramework.esp",
+    "index": 3,
+    "type": "FACT MNAM",
+    "original": "Home Outfit",
+    "string": "家庭服饰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_OutTypeFac",
+    "form_id": "054A09E1|nwsFollowerFramework.esp",
+    "index": 4,
+    "type": "FACT MNAM",
+    "original": "Default Outfit",
+    "string": "默认服饰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_MagMod",
+    "form_id": "0550143A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Follower Magnitude Mod",
+    "string": "随从幅度模组",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_AutoExport",
+    "form_id": "0550B29F|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Auto Export Faction",
+    "string": "自动导出势力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_AutoExport",
+    "form_id": "0550B29F|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "FACT MNAM",
+    "original": "Do Not Sync",
+    "string": "不同步",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_AutoExport",
+    "form_id": "0550B29F|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "FACT MNAM",
+    "original": "Sync Teammate Export",
+    "string": "同步队友导出",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSharpenWeapons",
+    "form_id": "050F84CA|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Sharpen Weapons",
+    "string": "锋利武器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFortifyMarksmanFX",
+    "form_id": "05129E1D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Marksman",
+    "string": "强化箭术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRestoreHealthFFActor",
+    "form_id": "0500A4FE|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Restore Health Alt",
+    "string": "回复生命Alt",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRestoreHealthFFActor",
+    "form_id": "0500A4FE|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Heals the target <mag> points. Works on most actors.",
+    "string": "治疗目标 <mag> 点生命。对于大多数人物可用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsPerkRestoreStaminaFFActor",
+    "form_id": "0500A501|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Restore Stamina Alt",
+    "string": "回复体力Alt",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsHealSelfFX",
+    "form_id": "05016EAB|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Restore Health",
+    "string": "回复生命",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsHealSelfFX",
+    "form_id": "05016EAB|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Heals the caster <mag> points.",
+    "string": "治愈施法者<mag>点生命。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCommandAllFX",
+    "form_id": "05025CA5|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Command All FX",
+    "string": "命令所有效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCommandAllFX",
+    "form_id": "05025CA5|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Command Followers.",
+    "string": "命令随从。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCalmAlliesFX",
+    "form_id": "0505C4BF|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Calm Allies FX",
+    "string": "安抚同伴效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCalmAlliesFX",
+    "form_id": "0505C4BF|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Calms all Followers and Teammates for <dur> seconds.",
+    "string": "安抚所有随从和队友 <dur> 秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTauntEnemiesFX",
+    "form_id": "0505EC62|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Taunt Enemies FX",
+    "string": "嘲讽敌人效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTauntBuffFX",
+    "form_id": "05061405|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Taunt Buff FX",
+    "string": "嘲讽Buff效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTauntCDFX",
+    "form_id": "05061406|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Taunt Cooldown FX",
+    "string": "嘲讽冷却效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRechargeFX",
+    "form_id": "05066342|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Recharge FX",
+    "string": "再充能效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRechargeFX",
+    "form_id": "05066342|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Follower has recharged their weapon.",
+    "string": "随从重新给他们的武器充能。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTargetAllyFX",
+    "form_id": "0506B280|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "nwsTargetAllyFX",
+    "string": "标记友军效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTargetAllyFX",
+    "form_id": "0506B280|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Set up a Follower's worn items by pointing at them.",
+    "string": "通过指向随从的磨损物品来设置它们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsGuardCDFX",
+    "form_id": "05075113|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hire Guard Cooldown FX",
+    "string": "雇佣守卫冷却效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsJiltedCDFX",
+    "form_id": "0509CB1E|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Jilted Cooldown FX",
+    "string": "解除冷却效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsStaggerAllFX",
+    "form_id": "050BA682|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Stagger Effect All",
+    "string": "混合所有效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCalmVisualFX",
+    "form_id": "050BCE23|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Calm Visual FX",
+    "string": "平静视觉效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSetBehindFX",
+    "form_id": "053143B2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "nwsSetBehindFX",
+    "string": "设置在后效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSetBehindFX",
+    "form_id": "053143B2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Set up a Follower's worn items by pointing at them.",
+    "string": "通过指向随从的磨损物品来设置它们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsDispelFearFX",
+    "form_id": "0534FA7C|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dispel Influence Effect",
+    "string": "消除恐惧效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFortifyOneHandedFX",
+    "form_id": "05129E1F|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify One Handed",
+    "string": "强化单手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFortifyTwoHandedFX",
+    "form_id": "05129E20|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Two Handed",
+    "string": "强化双手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFortifyDestructionFX",
+    "form_id": "05129E21|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Destruction",
+    "string": "强化毁灭系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFortifyHealthFX",
+    "form_id": "05129E22|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Health",
+    "string": "强化生命",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFortifyStaminaFX",
+    "form_id": "05129E23|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Stamina",
+    "string": "强化体力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSneakEnhFX",
+    "form_id": "051A0C27|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Sneak Enhancement FX",
+    "string": "潜行加强效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSneakEnhFX",
+    "form_id": "051A0C27|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Followers have Stealth Effects greatly increased.",
+    "string": "随从的潜行效果大大提高。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTauntBuffFXAlt",
+    "form_id": "051CD4F0|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Taunt Buff FX Alt",
+    "string": "嘲讽Buff效果Alt",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsStaggerFX",
+    "form_id": "0527F97A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Stagger Effect",
+    "string": "失衡效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsDispelLightFX",
+    "form_id": "052B3947|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dispel Light FX",
+    "string": "驱光效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsLightFFColdFX",
+    "form_id": "052C26F2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Candlelight Cold",
+    "string": "烛光术-冷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsLightFFColdFX",
+    "form_id": "052C26F2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Creates a hovering light that lasts for <dur> seconds.",
+    "string": "制造一个悬浮的光源，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsLightFFWarmFX",
+    "form_id": "052C26F3|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Candlelight Warm",
+    "string": "烛光术-暖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsLightFFWarmFX",
+    "form_id": "052C26F3|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Creates a hovering light that lasts for <dur> seconds.",
+    "string": "制造一个悬浮的光源，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsLightFFGreyFX",
+    "form_id": "052C4E94|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Candlelight Grey",
+    "string": "烛光术-灰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsLightFFGreyFX",
+    "form_id": "052C4E94|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Creates a hovering light that lasts for <dur> seconds.",
+    "string": "制造一个悬浮的光源，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsEvalPackFX",
+    "form_id": "052C9DCB|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Eval Package FX",
+    "string": "评估背包效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsLightFFCastFX",
+    "form_id": "052CED05|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Candlelight Cast FX",
+    "string": "烛光投射",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsLightFFCastFX",
+    "form_id": "052CED05|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Creates a hovering light.",
+    "string": "制造一个悬浮的光源。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTrackLocationFX",
+    "form_id": "05499213|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Track Location FX",
+    "string": "追踪地点效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsPlayerCbtTrackFX",
+    "form_id": "05591A40|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Player Combat Tracker",
+    "string": "玩家战斗追踪器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRetreatAlliesFX",
+    "form_id": "0536AE16|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Allies Retreat",
+    "string": "同伴撤退",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRetreatAlliesFX",
+    "form_id": "0536AE16|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Followers retreat to the player.",
+    "string": "随从向玩家所在地点撤退。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsAttackEnemyFX",
+    "form_id": "0536AE1A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Allies Attack",
+    "string": "同伴攻击",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsAttackEnemyFX",
+    "form_id": "0536AE1A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Followers attack player's target.",
+    "string": "随从攻击玩家的目标。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRetreatConFX",
+    "form_id": "0536AE1C|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Allies Retreat Con",
+    "string": "同伴撤退Con",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsAttackConFX",
+    "form_id": "0536AE1E|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Allies Attack Con",
+    "string": "同伴攻击Con",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFindTargetProjectileFX",
+    "form_id": "0536AE20|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Followers Find Proj",
+    "string": "随从发现Proj",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFindTargetProjectileFX",
+    "form_id": "0536AE20|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Make Followers attack the player's target.",
+    "string": "让随从攻击玩家的目标。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFindTargetFX",
+    "form_id": "0536AE22|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Find Target FX",
+    "string": "发现目标效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFindTargetFX",
+    "form_id": "0536AE22|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Make followers attack player's target.",
+    "string": "让随从攻击玩家的目标。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRetreatCancelFX",
+    "form_id": "053724F0|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Allies Retreat Cancel",
+    "string": "取消同伴撤退",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsStealthMuffleFX",
+    "form_id": "0537EAF1|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Muffle FX",
+    "string": "消声效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsStealthAggDownFX",
+    "form_id": "0537EAF2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Calm",
+    "string": "安抚术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsWerewolfChangeFXEffect",
+    "form_id": "0539002E|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Beast Form",
+    "string": "野兽形态",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsWerewolfChangeFXEffect",
+    "form_id": "0539002E|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Take on the form of the wolf.",
+    "string": "变身成狼人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsAttackAggFX",
+    "form_id": "053D5517|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Combat Sense Aggression",
+    "string": "战斗意识侵略性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTauntNoFlightFX",
+    "form_id": "053DF37D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Taunt Prevent Flying FX",
+    "string": "嘲讽视觉防止飞行效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsPlayerTrackerFX",
+    "form_id": "05494213|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Player Tracker FX",
+    "string": "玩家追踪效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsStaggerAll",
+    "form_id": "0557D627|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Stagger Allies",
+    "string": "让友方失衡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsPlayerCbtTrackSPL",
+    "form_id": "05591A41|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Player Combat Track Spell",
+    "string": "玩家战斗追踪法术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsHealOther",
+    "form_id": "0500A4FD|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Heal Other Alt",
+    "string": "治疗其他人 Alt",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsHealSelf",
+    "form_id": "05016EAA|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Heal Self (Role)",
+    "string": "治愈自己(角色)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCommandAllSpell",
+    "form_id": "05025CA6|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Command Followers",
+    "string": "命令随从",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCalmAllies",
+    "form_id": "0505C4BE|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Calm Followers",
+    "string": "安抚随从",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTauntEnemies",
+    "form_id": "0505EC63|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Taunt Enemies",
+    "string": "嘲讽敌人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTauntCD",
+    "form_id": "05061407|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Taunt Cooldown",
+    "string": "嘲讽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTauntBuff",
+    "form_id": "05061408|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Taunt Buff",
+    "string": "嘲讽BUFF",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRechargeSpell",
+    "form_id": "05066344|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Recharge Spell",
+    "string": "充能术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTargetAllySpell",
+    "form_id": "0506B281|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Target Command Ally",
+    "string": "目标命令友军",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsGuardCD",
+    "form_id": "05075112|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Hire Cooldown",
+    "string": "雇佣冷却",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsJiltedCD",
+    "form_id": "0509CB20|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "JiltedCD",
+    "string": "解除CD",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRestore1",
+    "form_id": "0509CB2C|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Restore Health",
+    "string": "回复生命",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRestore2",
+    "form_id": "0509CB2D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Restore Health 2",
+    "string": "恢复生命力 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRestore3",
+    "form_id": "0509CB2F|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Restore Health 3",
+    "string": "恢复生命力 3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRestore4",
+    "form_id": "0509CB31|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Restore Health 4",
+    "string": "恢复生命力 4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRestore5",
+    "form_id": "0509CB33|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Restore Health 5",
+    "string": "恢复生命力 5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRestore6",
+    "form_id": "0509CB35|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Restore Health 6",
+    "string": "恢复生命力 6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSharpenSpell",
+    "form_id": "050F84CC|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Sharpened Weapons",
+    "string": "锋利武器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRaiseMorale",
+    "form_id": "0511FEDE|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Raise Morale",
+    "string": "提高士气",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRegardInspired",
+    "form_id": "05129E24|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Inspired Presence",
+    "string": "激励在场的人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSneakSpell",
+    "form_id": "051A0C26|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Sneak Enhancement",
+    "string": "潜行增强",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsStaggerAlly",
+    "form_id": "0527F97B|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Stagger Ally",
+    "string": "友军失衡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsDispelLight",
+    "form_id": "052B3946|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dispel Light",
+    "string": "驱散光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCandlelightSpell",
+    "form_id": "052C26F6|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Nether's Candlelight",
+    "string": "烛光术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsLightColdSpell",
+    "form_id": "052CED00|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Light Cold Spell",
+    "string": "冷光法术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsLightWarmSpell",
+    "form_id": "052CED01|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Light Cold Spell",
+    "string": "冷光法术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsLightGreySpell",
+    "form_id": "052CED03|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Light Grey Spell",
+    "string": "灰光法术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSetBehindSpell",
+    "form_id": "053143B3|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Set Allies Behind",
+    "string": "设置同伴跟随在后",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsDispelFear",
+    "form_id": "0534FA7D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dispel Fear",
+    "string": "消除恐惧效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRetreatAllies",
+    "form_id": "0536AE17|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Followers Retreat",
+    "string": "随从撤退",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFindTargetSpell",
+    "form_id": "0536AE1B|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Followers Attack Target",
+    "string": "随从攻击目标",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsAttackTargetSpell",
+    "form_id": "0536AE1F|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Followers Attack Found",
+    "string": "随从攻击发现目标",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFindTargetProjSpell",
+    "form_id": "0536AE23|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Find Enemy Target Proj",
+    "string": "发现敌人目标Proj",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsRetreatCancel",
+    "form_id": "05374C8A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Followers Cancel Retreat",
+    "string": "取消随从撤退",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImpStealthSpell",
+    "form_id": "0537EAF3|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Improved Stealth Effect",
+    "string": "改进的潜行效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsWerewolfChangeFX",
+    "form_id": "0539002D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Beast Form",
+    "string": "野兽形态",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCombatSenseAgg",
+    "form_id": "053D5518|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Combat Sense Aggression",
+    "string": "战斗意识侵略性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsPlayerTrackerSpell",
+    "form_id": "05494212|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Player Tracker Spell",
+    "string": "玩家追踪法术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTrackLocationSPL",
+    "form_id": "05499214|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Track Location Spell",
+    "string": "追踪地点法术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSeranaHoodCraftable",
+    "form_id": "05212A1C|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Serana Hood (Crafted)",
+    "string": "瑟拉娜的兜帽（制作的）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_specialArmor",
+    "form_id": "0521C88C|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Naked",
+    "string": "裸体",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_nakedHelmet",
+    "form_id": "05331F49|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Hidden Helmet",
+    "string": "隐藏的头盔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_nakedHelmet",
+    "form_id": "05331F49|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Naked helmet that can be crafted to help hide outfit helmet if you have issues.",
+    "string": "如果有问题，可以设计裸露头盔以帮助隐藏装备头盔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_hoodieBlocker",
+    "form_id": "054C0E11|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Naked",
+    "string": "裸体",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_silverRing",
+    "form_id": "05208BB4|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Silver Ring",
+    "string": "银戒指",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSpellTomeCandlelight",
+    "form_id": "05363747|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Nether's Candlelight",
+    "string": "法术书：Nether的烛光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSpellTomeCandlelight",
+    "form_id": "05363747|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nCandlelight\r\n\r\n<font size='40'>Once cast, a wizard's light will follow you, illuminating the nearby area. You can set the light style in the MCM.",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n烛光\r\n\r\n<font size='40'>一旦施法，一个术士烛光就会跟随你，照亮附近的区域。你可以在MCM中设置烛光样式。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFFEquipBox",
+    "form_id": "0539EDDA|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Temporary Equipment Box",
+    "string": "临时装备箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFFPlayerChest",
+    "form_id": "053E91E6|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Player's Chest",
+    "string": "保险箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFFOutBox",
+    "form_id": "05473C16|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Follower Outfit",
+    "string": "随从装备",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFFOutBox1",
+    "form_id": "0500F7C1|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Adventuring Gear",
+    "string": "冒险装备",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFFSatchel",
+    "form_id": "054AF77E|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Clothing Satchel",
+    "string": "服装背包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFFXSatchel",
+    "form_id": "054F26A0|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Extra Storage",
+    "string": "额外储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFFViewableStorage",
+    "form_id": "055C4446|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Viewable Storage",
+    "string": "可查看的储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsIgnoreToken",
+    "form_id": "051CFC8D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "NFF Ignore Token",
+    "string": "NFF忽略标志",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_Horse_8",
+    "form_id": "050399E6|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_Horse_11",
+    "form_id": "0539C63E|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_Horse_9",
+    "form_id": "050399E7|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_Horse_10",
+    "form_id": "050399E8|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_container_1",
+    "form_id": "0541F944|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Extra Storage",
+    "string": "额外储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_Horse_1",
+    "form_id": "05034A78|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_Horse_2",
+    "form_id": "05034A84|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_Horse_3",
+    "form_id": "05034A85|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_Horse_4",
+    "form_id": "05034A86|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_Horse_5",
+    "form_id": "05034A87|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_Horse_6",
+    "form_id": "050399E4|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_Horse_7",
+    "form_id": "050399E5|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_Horse_12",
+    "form_id": "053E1B17|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_container_2",
+    "form_id": "0541F945|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Extra Storage",
+    "string": "额外储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_container_3",
+    "form_id": "0541F946|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Extra Storage",
+    "string": "额外储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_container_4",
+    "form_id": "0541F947|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Extra Storage",
+    "string": "额外储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_container_5",
+    "form_id": "0541F948|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Extra Storage",
+    "string": "额外储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_container_6",
+    "form_id": "0541F949|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Extra Storage",
+    "string": "额外储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_container_7",
+    "form_id": "0541F94A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Extra Storage",
+    "string": "额外储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_container_8",
+    "form_id": "0541F94B|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Extra Storage",
+    "string": "额外储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_container_9",
+    "form_id": "0541F94C|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Extra Storage",
+    "string": "额外储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_container_10",
+    "form_id": "0541F94D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Extra Storage",
+    "string": "额外储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFF_StorageCell",
+    "form_id": "0545390D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Follower Storage Cell",
+    "string": "随从储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunWorld",
+    "form_id": "0001A26F|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Whiterun",
+    "string": "白漫城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB2F|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course.",
+    "string": "当然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB30|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you.",
+    "string": "谢谢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB31|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes. Please.",
+    "string": "是的，请吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0558782F|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't do that.",
+    "string": "别那么做。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05587830|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gold solves most problems, doesn't it?",
+    "string": "有钱好办事，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05587831|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How can I argue with that?",
+    "string": "我怎能不同意呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05587832|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How much?",
+    "string": "多少？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05587833|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Huh?",
+    "string": "嗯？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05587834|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't have to take that from you!",
+    "string": "你竟敢对我这么放肆！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05587835|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I understand.",
+    "string": "我明白了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05587836|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you change your mind, you know where to find me.",
+    "string": "如果你改变主意了，你知道在哪里可以找到我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05587837|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nah. I don't think so.",
+    "string": "嗯，我不知道。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05587838|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course.",
+    "string": "当然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05587839|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That doesn't change anything.",
+    "string": "那什么也没有改变。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0558783A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You expect me to believe that?",
+    "string": "你指望我相信那个？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB3B|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you.",
+    "string": "谢谢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB3C|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I do.",
+    "string": "我愿意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB3D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I suppose.",
+    "string": "我想是的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB3E|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I stand beside you. As always.",
+    "string": "我就在你身边，一直在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05167CEB|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Get him!",
+    "string": "拿下他！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05167CEC|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Get him!",
+    "string": "拿下他！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05167CED|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Get Her!",
+    "string": "拿下她！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05167CEE|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Get Her!",
+    "string": "拿下她！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05167CEF|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come on, he's not so tough.",
+    "string": "来吧，他没那么强。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05167CF0|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come on, she's not so tough.",
+    "string": "来吧，她没那么强。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05167CF1|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Twelve septims on the big one!",
+    "string": "十二枚金币赌大只的赢！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05167CF2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fight! Fight!",
+    "string": "打啊！打！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05167CF3|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You just going to stand there and take it? Fight back.",
+    "string": "你就准备傻站那里挨揍？打回去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05167CF4|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Who taught you to fight? Keep those hands up!",
+    "string": "谁教你打架的？把两手举高！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05167CF5|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You want a real fight, eh?",
+    "string": "你想打一架，是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05167CF6|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come on. Let's see what you're made of.",
+    "string": "来吧，看看你有什么本事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05290EB3|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes?",
+    "string": "什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05290EB4|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What would you ask of me?",
+    "string": "你需要我为你做什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05290EB7|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As you wish.",
+    "string": "如你所愿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05290EB8|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right, then.",
+    "string": "那就这样吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05290EB9|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right, then.",
+    "string": "那就这样吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05290EBC|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well... if you say so.",
+    "string": "好吧……既然你这么说的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052BD7B7|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really?",
+    "string": "真的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052E7909|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(hiss)",
+    "string": "（蒸气声）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052E790B|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(hiss)",
+    "string": "（蒸气声）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052E790A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(hiss)",
+    "string": "（蒸气声）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053192EB|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, wow...",
+    "string": "哦，哇...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053192ED|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Would you look at that!",
+    "string": "快来看那个！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053192EC|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh... Wow!",
+    "string": "哦...哇！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053192EF|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've seen better...",
+    "string": "我见过更好的...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053192F0|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's quite a sight...",
+    "string": "那是相当壮观的景象...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053192F1|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Remarkable!",
+    "string": "太棒了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053192F2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Look at that!",
+    "string": "看那个！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053192F3|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Amazing...",
+    "string": "太厉害了……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053192F4|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What a sight!",
+    "string": "真是壮观！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05325906|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Excellent!",
+    "string": "太好了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05325907|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have to admit, I'm impressed.",
+    "string": "不得不承认，我印象深刻。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05325908|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Impressive.",
+    "string": "真是特别。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05325909|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Interesting.",
+    "string": "真有意思。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0532590A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Congratulations.",
+    "string": "恭喜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0532590B|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, splendid!",
+    "string": "哦，太棒了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0532593F|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good job. I can see you know what you're doing.",
+    "string": "做得好。我看得出来，你很在行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E6060|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright, then.",
+    "string": "那就好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E6062|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course.",
+    "string": "当然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E6063|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright.",
+    "string": "好吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E6064|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hah! Piece of cake.",
+    "string": "哈哈！小菜一碟。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E6065|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sure.",
+    "string": "当然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E6066|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ugh. Fine.",
+    "string": "啊。好吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E6067|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mhmm.",
+    "string": "嗯。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E6068|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm.",
+    "string": "嗯。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E6069|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Anything else?",
+    "string": "还有其他事吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E606A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is there something else you need?",
+    "string": "你...还有什么事吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E606B|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you want?",
+    "string": "你想要什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E606C|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What is it?",
+    "string": "什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E606D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It will be done.",
+    "string": "包在我身上。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054E606E|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, of course.",
+    "string": "是，当然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05528E32|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All Right.",
+    "string": "好的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05528E33|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good.",
+    "string": "很好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05528E34|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No Problem.",
+    "string": "没问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05528E35|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That sounds like a good choice to me.",
+    "string": "我觉得这是个不错的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05528E3A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very impressive.",
+    "string": "大开眼界。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05075135|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How can I argue with that?",
+    "string": "我怎能不同意呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507512F|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How much?",
+    "string": "多少？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05075130|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nah. I don't think so.",
+    "string": "嗯，我不知道。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05075102|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She nods)",
+    "string": "(她点头)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05255806|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He nods)",
+    "string": "(他点头)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05075123|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She looks puzzled)",
+    "string": "(她看起来很困惑)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05255807|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He looks puzzled)",
+    "string": "(他看起来很困惑)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05075128|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She looks at you curiously)",
+    "string": "(她好奇地看着你)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05255809|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He looks at you curiously)",
+    "string": "(他好奇地看着你)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05075126|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She nods)",
+    "string": "(她点头)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05255808|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He nods)",
+    "string": "(他点头)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507512E|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I understand.",
+    "string": "我明白了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050750FE|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course.",
+    "string": "当然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFC_GuardRec250",
+    "form_id": "05075104|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can offer <Global=nwsExpCostFull> gold.",
+    "string": "我可以支付 <Global=nwsExpCostFull> 金币。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFC_GuardRec150",
+    "form_id": "05075105|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can offer <Global=nwsExpCostMid> gold.",
+    "string": "我可以支付 <Global=nwsExpCostMid> 金币。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFC_GuardRec75",
+    "form_id": "05075106|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can offer <Global=nwsExpCostLow> gold.",
+    "string": "我可以支付 <Global=nwsExpCostLow> 金币。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05075127|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How can I argue with that?",
+    "string": "我怎能不同意呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507512B|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I understand.",
+    "string": "我明白了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0509CB1B|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She looks surprised)",
+    "string": "(她看起来很惊讶）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05255802|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He looks surprised)",
+    "string": "(他看起来很惊讶）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0509CB1C|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She looks angry)",
+    "string": "(她看起来很生气)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05255803|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He looks angry)",
+    "string": "(他看起来很生气)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0509CB1D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She looks displeased)",
+    "string": "(她看起来很不高兴)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05255804|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He looks displeased)",
+    "string": "(他看起来很不高兴)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0509CB27|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She ignores you)",
+    "string": "(她忽视了你)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0509CB28|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He ignores you)",
+    "string": "(他忽视了你)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050FAC73|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You want a drink?",
+    "string": "想喝点什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB32|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She Nods)",
+    "string": "(她点头)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050FFBE3|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He Nods)",
+    "string": "(他点头)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB34|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She Smiles)",
+    "string": "(她笑了)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050FFBE4|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He Smiles)",
+    "string": "(他笑了)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05165536|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She Smiles)",
+    "string": "(她笑了)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0511FF0A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He Smiles)",
+    "string": "(他笑了)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB37|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She Smiles)",
+    "string": "(她笑了)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0511FF32|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He Smiles)",
+    "string": "(他笑了)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB38|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She Smiles)",
+    "string": "(她笑了)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0511FF5A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He Smiles)",
+    "string": "(他笑了)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB39|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She Smiles)",
+    "string": "(她笑了)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0511FF82|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He Smiles)",
+    "string": "(他笑了)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB3A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She Smiles)",
+    "string": "(她笑了)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0511FFAA|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He Smiles)",
+    "string": "(他笑了)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05016EC7|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "[Remove from Framework]",
+    "string": "[现在按你自己的意志自由活动，you are free]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05512970|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "[Remove from Framework]",
+    "string": "[现在按你自己的意志自由活动，you are free]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05133CC7|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm glad you're here with me.",
+    "string": "我很高兴你跟我在一起。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513DB2E|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(She gives you a gift...)",
+    "string": "(她给了你一件礼物...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05133CC8|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(He gives you a gift...)",
+    "string": "(他给了你一件礼物...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFC_ElopeStoreTopic",
+    "form_id": "053B79DA|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Has the store made any money?",
+    "string": "商店有赚钱吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053B79E0|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course.",
+    "string": "当然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFC_ElopeMealTopic",
+    "form_id": "053B79DC|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Would you mind cooking something for me?",
+    "string": "你介意帮我煮点吃的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053B79DF|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course.",
+    "string": "当然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerXStorageTopic",
+    "form_id": "0542488F|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to see your additional follower inventory.",
+    "string": "我想看看你的额外库存。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollower",
+    "form_id": "000750BA|Skyrim.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "<Alias=Follower> is waiting for you",
+    "string": "<Alias=Follower>在等你",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollower",
+    "form_id": "000750BA|Skyrim.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "<Alias=Animal> is waiting for you",
+    "string": "<Alias=Animal>在等你",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollower",
+    "form_id": "000750BA|Skyrim.esm",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Track Active Followers",
+    "string": "追踪活跃的随从",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerController",
+    "form_id": "0500434F|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Controller Quest",
+    "string": "随从控制器任务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerPlayer",
+    "form_id": "05006950|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Player Quest",
+    "string": "随从玩家任务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerPack",
+    "form_id": "05019662|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Top Packages",
+    "string": "随从装备包裹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerMCM",
+    "form_id": "05034A76|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower MCM",
+    "string": "随从MCM",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerMounts",
+    "form_id": "05034A80|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Mounts",
+    "string": "随从坐骑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerSets",
+    "form_id": "050487C1|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Equip Sets",
+    "string": "随从装备设置",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerHistory",
+    "form_id": "0508B5CB|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower History",
+    "string": "随从历史",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCompSaadia",
+    "form_id": "050B0816|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Saadia",
+    "string": "随从萨蒂亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCompSaadia",
+    "form_id": "050B0816|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Allow Saadia Companion/Spouse",
+    "string": "允许萨蒂亚同伴/配偶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCompSaadia",
+    "form_id": "050B0816|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Quest Completed",
+    "string": "任务完成",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCompWinter",
+    "form_id": "050B2FB2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Winterhold",
+    "string": "冬堡随从",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCompWinter",
+    "form_id": "050B2FB2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Recruit Winterhold Mages",
+    "string": "招募冬堡法师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCompWinter",
+    "form_id": "050B2FB2|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "End Quest",
+    "string": "结束任务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCompYsolda",
+    "form_id": "050BCE24|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Ysolda",
+    "string": "随从伊索尔达",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCompYsolda",
+    "form_id": "050BCE24|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Acquire Ysolda",
+    "string": "收购伊索尔达",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCompYsolda",
+    "form_id": "050BCE24|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Shut Down",
+    "string": "关闭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCompThieves",
+    "form_id": "050C1D5C|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Thieves",
+    "string": "盗贼随从",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCompThieves",
+    "form_id": "050C1D5C|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Companion Thieves",
+    "string": "同伴盗贼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCompThieves",
+    "form_id": "050C1D5C|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Shut Down Quest",
+    "string": "关停任务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCraftTorch",
+    "form_id": "050C44F6|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Followers Craft Torches",
+    "string": "随从制作火把",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerOA",
+    "form_id": "050C44FC|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Object Awareness",
+    "string": "随从物品意识",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCraftArrow",
+    "form_id": "050C9434|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Followers Craft Arrows",
+    "string": "随从制作箭矢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerHomeBase",
+    "form_id": "050CE392|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Home Base Quest",
+    "string": "随从住宅地任务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerProtect",
+    "form_id": "050F5D2B|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Protection Quest",
+    "string": "随从保护任务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerSharpWeapon",
+    "form_id": "050F84CD|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Followers Sharpen Weapon",
+    "string": "随从武器强化",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerTavern",
+    "form_id": "050FAC6E|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Tavern",
+    "string": "旅店随从",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerPhatLoot",
+    "form_id": "0511FEE0|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Phat Loot Quest",
+    "string": "随从战利品搜刮任务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerGift",
+    "form_id": "05133C9D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Gift Quest",
+    "string": "随从礼物任务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerPack_Serana",
+    "form_id": "0514C8F1|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Top Package Serana",
+    "string": "瑟拉娜装备包裹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCraftPotion",
+    "form_id": "0515DE5D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Craft Potions",
+    "string": "随从制作药品",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCrafting",
+    "form_id": "05165534|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Master Craft Quest",
+    "string": "随从工艺大师任务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerSandbox",
+    "form_id": "05179283|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Sandbox Quest",
+    "string": "随从沙盒任务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerCheck",
+    "form_id": "05179284|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Count Check",
+    "string": "随从数量检查",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerPerk",
+    "form_id": "0522B68B|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Perk On Load",
+    "string": "加载随从Perk",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerVariables",
+    "form_id": "0523CBC0|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Variables Script",
+    "string": "随从变量脚本",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerPack_High",
+    "form_id": "0523F35A|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Top Packages High",
+    "string": "随从装备包裹高优先级",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerPack_VHigh",
+    "form_id": "05241AF5|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Top Packages VH",
+    "string": "随从装备包裹极高优先级",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerSell",
+    "form_id": "05257FA4|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Sell Items",
+    "string": "随从出售物品",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerMinion",
+    "form_id": "052DB308|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Find Minion",
+    "string": "随从仆从发现",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerMinion",
+    "form_id": "052DB308|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Start up",
+    "string": "启动",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerMinion",
+    "form_id": "052DB308|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Stop Quest",
+    "string": "停止探索",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerMinions",
+    "form_id": "052DB309|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Minion Storage",
+    "string": "随从微型存储",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerLeveled",
+    "form_id": "05325900|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Player Leveled",
+    "string": "随从协同玩家等级",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerPlayerCraft",
+    "form_id": "05325933|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Player Crafted",
+    "string": "随从协同玩家制作",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerFavs",
+    "form_id": "05345C15|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Favorites",
+    "string": "随从的偏爱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerOwner",
+    "form_id": "053976FB|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Set Ownership",
+    "string": "随从所有权",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerStorage",
+    "form_id": "053E91E8|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Storage Quest",
+    "string": "随从储存任务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerAutoLoot",
+    "form_id": "05415AD7|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Auto Loot Quest",
+    "string": "随从自动搜刮任务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerXStorage",
+    "form_id": "054220F4|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Extra Storage",
+    "string": "随从额外储存空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerSpells",
+    "form_id": "054297C4|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Spell Controller",
+    "string": "随从法术控制器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerAutoSets",
+    "form_id": "054B96D2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Auto Sets",
+    "string": "随从自动设置",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerHomeMarkers",
+    "form_id": "054DE992|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Home Markers",
+    "string": "随从住宅地标记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerSettings",
+    "form_id": "054EAFC9|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Settings",
+    "string": "随从设置",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerAutoImport",
+    "form_id": "0550B2A1|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Auto Import Check",
+    "string": "随从自动导入检查",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerSpar",
+    "form_id": "05523EA0|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Sparring",
+    "string": "随从比武",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerSparHold",
+    "form_id": "05537BE1|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Spar Hold",
+    "string": "随从保持不变",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerEnemies",
+    "form_id": "05541A4D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Follower Enemies",
+    "string": "随从的敌人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFFPerk_MagMod",
+    "form_id": "054F9D6D|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Modify Magnitude Perk",
+    "string": "修改幅度Perk",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFFPerkLinkMAG",
+    "form_id": "05573425|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Link Damage Mult to Magnitude",
+    "string": "关联伤害倍数到幅度",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFFPerk_FriendlyFire",
+    "form_id": "054F9D6C|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Friendly Fire Perk (NFF)",
+    "string": "友方伤害Perk (NFF)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunLocation",
+    "form_id": "00018A56|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Whiterun",
+    "string": "白漫城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdAll_MSG",
+    "form_id": "05025CA4|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Command All Followers",
+    "string": "命令所有随从",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdAll_MSG",
+    "form_id": "05025CA4|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Wait/Follow",
+    "string": "等待/跟随",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdAll_MSG",
+    "form_id": "05025CA4|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Behind Me",
+    "string": "在我后面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdAll_MSG",
+    "form_id": "05025CA4|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Sandbox Toggle",
+    "string": "沙盒切换",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdAll_MSG",
+    "form_id": "05025CA4|nwsFollowerFramework.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Distance",
+    "string": "距离",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdAll_MSG",
+    "form_id": "05025CA4|nwsFollowerFramework.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Summon",
+    "string": "召唤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdAll_MSG",
+    "form_id": "05025CA4|nwsFollowerFramework.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Dismiss",
+    "string": "解雇",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdAll_MSG",
+    "form_id": "05025CA4|nwsFollowerFramework.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "[Exit]",
+    "string": "[退出]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdOne_MSG",
+    "form_id": "05025CA7|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Command <Alias=followerSpeaker>",
+    "string": "命令 <Alias=followerSpeaker>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdOne_MSG",
+    "form_id": "05025CA7|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Wait/Follow",
+    "string": "等待/跟随",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdOne_MSG",
+    "form_id": "05025CA7|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Trade",
+    "string": "交易",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdOne_MSG",
+    "form_id": "05025CA7|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Set Gear",
+    "string": "设置装备",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdOne_MSG",
+    "form_id": "05025CA7|nwsFollowerFramework.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Sell Items",
+    "string": "出售物品",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdOne_MSG",
+    "form_id": "05025CA7|nwsFollowerFramework.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Teach",
+    "string": "训练",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdOne_MSG",
+    "form_id": "05025CA7|nwsFollowerFramework.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Dismiss",
+    "string": "解雇",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdOne_MSG",
+    "form_id": "05025CA7|nwsFollowerFramework.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "[All]",
+    "string": "[全部]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdOne_MSG",
+    "form_id": "05025CA7|nwsFollowerFramework.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "[Exit]",
+    "string": "[退出]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdRange_MSG",
+    "form_id": "05025CA9|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose Range:",
+    "string": "选择范围:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdRange_MSG",
+    "form_id": "05025CA9|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Close",
+    "string": "靠近",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdRange_MSG",
+    "form_id": "05025CA9|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Medium",
+    "string": "中等",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdRange_MSG",
+    "form_id": "05025CA9|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Far",
+    "string": "远处",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdRange_MSG",
+    "form_id": "05025CA9|nwsFollowerFramework.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "[Back]",
+    "string": "[返回]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdDist_MSG",
+    "form_id": "05025CAA|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose Distance:",
+    "string": "选择距离:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdDist_MSG",
+    "form_id": "05025CAA|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Following",
+    "string": "正在跟随",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdDist_MSG",
+    "form_id": "05025CAA|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Combat",
+    "string": "战斗",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdDist_MSG",
+    "form_id": "05025CAA|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "(Main)",
+    "string": "(主要)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdDist_MSG",
+    "form_id": "05025CAA|nwsFollowerFramework.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "[Exit]",
+    "string": "[退出]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdWait_MSG",
+    "form_id": "05025CAC|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Wait or Follow",
+    "string": "等待或跟随",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdWait_MSG",
+    "form_id": "05025CAC|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Wait",
+    "string": "等待",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdWait_MSG",
+    "form_id": "05025CAC|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Follow",
+    "string": "跟随",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdWait_MSG",
+    "form_id": "05025CAC|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Behind Me",
+    "string": "在我后面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdWait_MSG",
+    "form_id": "05025CAC|nwsFollowerFramework.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Behind Me (All)",
+    "string": "在我后面(全部)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdWait_MSG",
+    "form_id": "05025CAC|nwsFollowerFramework.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "(Main)",
+    "string": "(主要)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdSpell_MSG",
+    "form_id": "050F3591|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell in Hand:",
+    "string": "手上法术:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdSpell_MSG",
+    "form_id": "050F3591|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Left Hand",
+    "string": "左手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdSpell_MSG",
+    "form_id": "050F3591|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Right Hand",
+    "string": "右手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdSpell_MSG",
+    "form_id": "050F3591|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "[Main]",
+    "string": "[主要]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsPhatLoot_MSG",
+    "form_id": "0511FEDC|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Global=nwsGoldLooted> Gold... Nice Haul!\r\n\r\nWould you like to share this loot with your followers?",
+    "string": "<Global=nwsGoldLooted> 金币... 干得好！\r\n\r\n你想和你的随从分享这些战利品吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsPhatLoot_MSG",
+    "form_id": "0511FEDC|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "是",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsPhatLoot_MSG",
+    "form_id": "0511FEDC|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "否",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImport_MSG",
+    "form_id": "05156758|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Import <Alias=followerSpeaker> into the Framework?",
+    "string": "将 <Alias=followerSpeaker> 导入框架?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImport_MSG",
+    "form_id": "05156758|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "是",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImport_MSG",
+    "form_id": "05156758|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "否",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsExport_MSG",
+    "form_id": "05156759|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Export <Alias=followerSpeaker> from the Framework?",
+    "string": "将 <Alias=followerSpeaker> 移出框架？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsExport_MSG",
+    "form_id": "05156759|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "是",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsExport_MSG",
+    "form_id": "05156759|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "否",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsStoreGear_MSG",
+    "form_id": "051F9E01|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Would you like to Store the Adventuring Gear for <Alias=followerSpeaker>?\r\n\r\n(Stored Gear is updated automatically and will be re-applied if the follower is recruited later)",
+    "string": "你想把冒险装备放在<Alias=followerSpeaker>身上？\r\n\r\n(储存的装备会自动更新，如果后续招募跟随者，则会重新使用)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsStoreGear_MSG",
+    "form_id": "051F9E01|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "是",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsStoreGear_MSG",
+    "form_id": "051F9E01|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "否",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImportSetCraft_MSG",
+    "form_id": "052305C0|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Remove Crafting/Interactions for <Alias=followerSpeaker>?\r\n\r\n(Doesn't prevent you from making your own changes)",
+    "string": "为 <Alias=followerSpeaker> 移除制作/交互？\r\n\r\n(并不妨碍你做出自己的改变)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImportSetCraft_MSG",
+    "form_id": "052305C0|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "是",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImportSetCraft_MSG",
+    "form_id": "052305C0|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "否",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImportSetGear_MSG",
+    "form_id": "052305C1|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Remove Adventuring Gear for <Alias=followerSpeaker>?\r\n\r\n(Doesn't prevent you from making your own changes)",
+    "string": "为 <Alias=followerSpeaker> 移除冒险装备？\r\n\r\n(并不妨碍你做出自己的改变)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImportSetGear_MSG",
+    "form_id": "052305C1|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "是",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImportSetGear_MSG",
+    "form_id": "052305C1|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "否",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImportSetBehavior_MSG",
+    "form_id": "052305C2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Remove Behaviorial Settings for <Alias=followerSpeaker>?\r\n\r\n(Doesn't prevent you from making your own changes)",
+    "string": "为 <Alias=followerSpeaker> 移除行为设置？\r\n\r\n(并不妨碍你做出自己的改变)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImportSetBehavior_MSG",
+    "form_id": "052305C2|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "是",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImportSetBehavior_MSG",
+    "form_id": "052305C2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "否",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdSpellDlg_MSG",
+    "form_id": "052BB015|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell in Hand:",
+    "string": "手上法术:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdSpellDlg_MSG",
+    "form_id": "052BB015|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Left Hand",
+    "string": "左手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdSpellDlg_MSG",
+    "form_id": "052BB015|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Right Hand",
+    "string": "右手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsCmdSpellDlg_MSG",
+    "form_id": "052BB015|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "[Cancel]",
+    "string": "[取消]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSummon_MSG",
+    "form_id": "052E7908|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=followerSpeaker> is waiting. Summon them to you?",
+    "string": "<Alias=followerSpeaker> 正在等待中。需要把他们召唤过来吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSummon_MSG",
+    "form_id": "052E7908|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "是",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSummon_MSG",
+    "form_id": "052E7908|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "否",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsPurge_MSG",
+    "form_id": "05302E78|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Please choose the type of Follower to remove:\r\n\r\nStandard - Vanilla voiced, 3DNPC or otherwise normal follower.\r\nExpendable - Recruited npc via NFF's hiring dialogue. (Not Vanilla hirelings).\r\nImported - Follower that was imported into NFF. (Serana, Sofia, etc.)",
+    "string": "请选择要删除的随从类型：\r\n\r\n标准 - 原版语音，3DNPC或其他普通的随从。\r\n消耗性 - 通过NFF的招聘对话招募npc。 （非原版雇佣者）。\r\n已导入 - 已导入NFF的随从。 （瑟拉娜，索菲亚等）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsPurge_MSG",
+    "form_id": "05302E78|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Standard",
+    "string": "标准",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsPurge_MSG",
+    "form_id": "05302E78|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Expendable Recruit",
+    "string": "消耗性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsPurge_MSG",
+    "form_id": "05302E78|nwsFollowerFramework.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Imported",
+    "string": "导入",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsPurge_MSG",
+    "form_id": "05302E78|nwsFollowerFramework.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "(Cancel)",
+    "string": "(取消)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsStorageOff_MSG",
+    "form_id": "054B6F1B|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Temporary storage for <Alias=followerSpeaker> will be disabled and any items will be moved to the clothing satchel which can be used as additional storage.\r\n\r\n(This message will only show once)",
+    "string": "<Alias=followerSpeaker>的临时存储空间将被禁用，任何物品都将被移到服装背包中，可以作为附加存储。\r\n\r\n（此消息仅显示一次）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsStorageOff_MSG",
+    "form_id": "054B6F1B|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Ok",
+    "string": "确定",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsSwitchMenu_MSG",
+    "form_id": "054D72C3|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Outfit:",
+    "string": "套装：",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsAutoExport_MSG",
+    "form_id": "0550B2A0|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=followerSpeaker> is no longer flagged as a Player Teammate and may have been dismissed.\r\n\r\nDo you want to automatically Export them from NFF when this happens?",
+    "string": "<Alias=followerSpeaker> 不再被标记为玩家队友，可能已经被开除。\r\n\r\n当这种情况发生时，你想从NFF自动导出它们吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsAutoExport_MSG",
+    "form_id": "0550B2A0|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "是",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsAutoExport_MSG",
+    "form_id": "0550B2A0|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "否",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsAutoImport_MSG",
+    "form_id": "0550B2A2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=checkActor> is currently a Player Teammate.\r\n\r\nDo you want to automatically Import them into NFF when this happens?\r\n\r\n(This will only be asked once per unique NPC)",
+    "string": "<Alias=checkActor> 目前是一名玩家队友。\r\n\r\n当发生这种情况时，你想把它们自动导入NFF吗？\r\n\r\n(每个独特的NPC只会被问到一次。)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsAutoImport_MSG",
+    "form_id": "0550B2A2|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "是",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsAutoImport_MSG",
+    "form_id": "0550B2A2|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "否",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsClearGear_MSG",
+    "form_id": "05208BB3|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=followerSpeaker>'s Adventuring Gear is empty. Do you wish to stop managing gear for this follower?\r\n\r\n(Choosing \"No\" will set Gear to be Naked, giving you the default equipping style without the outfit in the way)",
+    "string": "<Alias=followerSpeaker>的冒险装备是空的。你想停止管理这个随从的装备吗？\r\n\r\n(选择 \"不\" 会将装备设置为“裸装”，使您拥有默认的装备样式，而不会妨碍装备的使用)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsClearGear_MSG",
+    "form_id": "05208BB3|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "是",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsClearGear_MSG",
+    "form_id": "05208BB3|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "否",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImportSet_MSG",
+    "form_id": "052305BF|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Apply Recommended Tweak Settings for <Alias=followerSpeaker>?\r\n\r\n(Doesn't prevent you from making your own changes)",
+    "string": "为 <Alias=followerSpeaker> 应用推荐设置？\r\n\r\n(并不妨碍你做出自己的改变)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImportSet_MSG",
+    "form_id": "052305BF|nwsFollowerFramework.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "是",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsImportSet_MSG",
+    "form_id": "052305BF|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "否",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTut_countMSG",
+    "form_id": "050079A8|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "By default, the Follower Framework checks the current follower count periodically (in real time). This allows maximum compatibility with both vanilla systems and follower mods, which might set the follower count to 1 upon recruiting any follower.\r\n\r\nIf turned off, you can still have the Framework check and adjust the follower count by telling a potential follower that you have room in your party via a dialogue option.",
+    "string": "默认情况下，随从框架定期（实时）检查当前的随从数量。这保证了原版系统和随从mods的最大兼容性，这可能意味着在招募任何随从时会将随从数量设置为1。\r\n\r\n如果关闭，系统仍然可以通过对话选项告诉潜在的随从您的队伍中有空位来检查和调整随从的数量。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsTut_countMSG",
+    "form_id": "050079A8|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Real Time Follower Count",
+    "string": "实时随从数量",
+    "status": "TranslationComplete"
+  }
+]

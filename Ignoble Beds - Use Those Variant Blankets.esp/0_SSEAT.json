@@ -1,0 +1,434 @@
+[
+  {
+    "editor_id": "IndividualNobleBed_BlanketRedIB",
+    "form_id": "0300080F|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleNobleBedBlanket_0RedIB",
+    "form_id": "03000810|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleNobleBedBlanket_1RedIB",
+    "form_id": "03000811|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualNobleBed_Kid_BlanketRedIB",
+    "form_id": "03000812|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleUpperBedBlanket_0RedIB",
+    "form_id": "03000813|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleUpperBedBlanket_1RedIB",
+    "form_id": "03000814|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualUpperBed_Kid_BlanketRedIB",
+    "form_id": "03000815|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualUpperBed_BlanketRedIB",
+    "form_id": "03000816|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualNobleBed_Blanket_HARedIB",
+    "form_id": "03000817|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualUpperBed_Blanket_HARedIB",
+    "form_id": "03000818|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleNobleBedBlanket_0_HARedIB",
+    "form_id": "03000819|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleNobleBedBlanket_1_HARedIB",
+    "form_id": "0300081A|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleUpperBedBlanket_0_HARedIB",
+    "form_id": "0300081B|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleUpperBedBlanket_1_HARedIB",
+    "form_id": "0300081C|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualUpperBed_Blanket_2RedIB",
+    "form_id": "0300081D|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualNobleBed_Blanket_2RedIB",
+    "form_id": "0300081E|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualNobleBed_BlanketBlueIB",
+    "form_id": "0300081F|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleNobleBedBlanket_0BlueIB",
+    "form_id": "03000820|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleNobleBedBlanket_1BlueIB",
+    "form_id": "03000821|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualNobleBed_Kid_BlanketBlueIB",
+    "form_id": "03000822|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleUpperBedBlanket_0BlueIB",
+    "form_id": "03000823|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleUpperBedBlanket_1BlueIB",
+    "form_id": "03000824|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualUpperBed_Kid_BlanketBlueIB",
+    "form_id": "03000825|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualUpperBed_BlanketBlueIB",
+    "form_id": "03000826|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualNobleBed_Blanket_HABlueIB",
+    "form_id": "03000827|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualUpperBed_Blanket_HABlueIB",
+    "form_id": "03000828|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleNobleBedBlanket_0_HABlueIB",
+    "form_id": "03000829|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleNobleBedBlanket_1_HABlueIB",
+    "form_id": "0300082A|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleUpperBedBlanket_0_HABlueIB",
+    "form_id": "0300082B|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleUpperBedBlanket_1_HABlueIB",
+    "form_id": "0300082C|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualUpperBed_Blanket_2BlueIB",
+    "form_id": "0300082D|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualNobleBed_Blanket_2BlueIB",
+    "form_id": "0300082E|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualNobleBed_BlanketGreenIB",
+    "form_id": "0300082F|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleNobleBedBlanket_0GreenIB",
+    "form_id": "03000830|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleNobleBedBlanket_1GreenIB",
+    "form_id": "03000831|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualNobleBed_Kid_BlanketGreenIB",
+    "form_id": "03000832|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleUpperBedBlanket_0GreenIB",
+    "form_id": "03000833|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleUpperBedBlanket_1GreenIB",
+    "form_id": "03000834|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualUpperBed_Kid_BlanketGreenIB",
+    "form_id": "03000835|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualUpperBed_BlanketGreenIB",
+    "form_id": "03000836|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualNobleBed_Blanket_HAGreenIB",
+    "form_id": "03000837|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualUpperBed_Blanket_HAGreenIB",
+    "form_id": "03000838|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleNobleBedBlanket_0_HAGreenIB",
+    "form_id": "03000839|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleNobleBedBlanket_1_HAGreenIB",
+    "form_id": "0300083A|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleUpperBedBlanket_0_HAGreenIB",
+    "form_id": "0300083B|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DoubleUpperBedBlanket_1_HAGreenIB",
+    "form_id": "0300083C|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualUpperBed_Blanket_2GreenIB",
+    "form_id": "0300083D|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fur Blanket",
+    "string": "毛皮毯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IndividualNobleBed_Blanket_2GreenIB",
+    "form_id": "0300083E|Ignoble Beds - Use Those Variant Blankets.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Linen Blanket",
+    "string": "亚麻毯子",
+    "status": "TranslationComplete"
+  }
+]
