@@ -113,7 +113,7 @@
     "index": 1,
     "type": "BOOK DESC",
     "original": "<font face='$HandwrittenFont' size = \"18\">\r\nI've heard around that you're quite the fighter in Skyrim. We need more people like you here. Too many milk drinkers these days. Since you seem like the fighting type, I'll let you in on something. If you want some more action, there is a brawling tournament that is happening in Skyrim. We'll see how good you actually are.\r\nIf you want in on the action, talk to any of these people:\r\n\r\n- Maul in Riften\r\n- Falion in Morthal\r\n- Niranye in Windhelm\r\n\r\n- The Organizer",
-    "string": "<font face='$HandwrittenFont' size = \"18\">\r\n我听说你在天际可是个颇有名气的战士。我们这里需要更多像你这样的人，现在太多软弱无能的傢伙。你看起来很喜欢打架，我就告诉你一个好消息吧。如果想接受更多的挑战，天际最近将举办一场格斗大赛。到时候我们就来瞧瞧你到底有多厉害。\r\n如果你想要参一脚，请与下列的其中一位交谈：\r\n\r\n- 裂谷城，摩尔\r\n- 莫萨尔城，法利昂\r\n- 风舵城，妮兰雅\r\n\r\n- 主办者",
+    "string": "<font face='$HandwrittenFont' size = \"18\">\r\n我听说你在天际可是个颇有名气的战士。我们这里需要更多像你这样的人，现在太多软弱无能的家伙。你看起来很喜欢打架，我就告诉你一个好消息吧。如果想接受更多的挑战，天际最近将举办一场格斗大赛。到时候我们就来瞧瞧你到底有多厉害。\r\n如果你想要参一脚，请与下列的其中一位交谈：\r\n\r\n- 裂谷城，摩尔\r\n- 莫萨尔城，法利昂\r\n- 风舵城，妮兰雅\r\n\r\n- 主办者",
     "status": "TranslationComplete"
   },
   {
@@ -131,7 +131,7 @@
     "index": 1,
     "type": "BOOK DESC",
     "original": "<font face='$HandwrittenFont' size = \"18\">\r\nI've heard around that you're quite the fighter in Skyrim. We need more people like you here. Too many milk drinkers these days. Since you seem like the fighting type, I'll let you in on something. If you want some more action, there is a brawling tournament that is happening in Skyrim. Talk to Maul in Riften if you want to get started. After he tells you where to go, talk to me. We'll see how good you actually are.\r\n\r\n- The Organizer",
-    "string": "<font face='$HandwrittenFont' size = \"18\">\r\n我听说你在天际可是个颇有名气的战士。我们这里需要更多像你这样的人，现在太多软弱无能的傢伙。你看起来很喜欢打架，我就告诉你一个好消息吧。如果想接受更多的挑战，天际最近将举办一场格斗大赛。如果你想要参加的话，可以去裂谷城找摩尔了解详情。在他告诉你该去哪里之后，再来找我。到时候我们就来瞧瞧你到底有多厉害。\r\n\r\n- 主办者",
+    "string": "<font face='$HandwrittenFont' size = \"18\">\r\n我听说你在天际可是个颇有名气的战士。我们这里需要更多像你这样的人，现在太多软弱无能的家伙。你看起来很喜欢打架，我就告诉你一个好消息吧。如果想接受更多的挑战，天际最近将举办一场格斗大赛。如果你想要参加的话，可以去裂谷城找摩尔了解详情。在他告诉你该去哪里之后，再来找我。到时候我们就来瞧瞧你到底有多厉害。\r\n\r\n- 主办者",
     "status": "TranslationComplete"
   },
   {
@@ -2102,7 +2102,7 @@
     "index": 2,
     "type": "INFO NAM1",
     "original": "The beast was strong.",
-    "string": "那个傢伙相当犟大。",
+    "string": "那个家伙相当犟大。",
     "status": "TranslationComplete"
   },
   {

@@ -860,7 +860,7 @@
     "index": 1,
     "type": "BOOK DESC",
     "original": "<font face=\"$HandwrittenFont\" size=\"16\">\r\nRuvi - \r\n\r\nN'chow. I've been captured again. I don't think they'll let me free. Don't pay the bounty. Also please don't kill the bringer of this note. They're the one person who was kind to me in this wretched prison. I hope the Riften guards and the Thieves Guild let them through.\r\n\r\n- Dressa\r\n</font>",
-    "string": "<font face=\"$HandwrittenFont\" size=\"16\">\r\n鲁维 - 呢喲。我又被抓住了。我觉得他们不会释放我。不要付赏金。另外，请不要杀死带这封纸条的人。在这个可恶的监狱里，她是唯一对我好的人。我希望裂谷城的卫兵和窃贼行会让她通过。\r\n\r\n- 德丽莎\r\n</font>",
+    "string": "<font face=\"$HandwrittenFont\" size=\"16\">\r\n鲁维 - 呢哟。我又被抓住了。我觉得他们不会释放我。不要付赏金。另外，请不要杀死带这封纸条的人。在这个可恶的监狱里，她是唯一对我好的人。我希望裂谷城的卫兵和窃贼行会让她通过。\r\n\r\n- 德丽莎\r\n</font>",
     "status": "TranslationComplete"
   },
   {
@@ -13163,7 +13163,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "All this snow makes me want to go curl up with a book and some warm clothes.",
-    "string": "所有这些雪让我想捲缩在一本书和一些温暖的衣服中。",
+    "string": "所有这些雪让我想卷缩在一本书和一些温暖的衣服中。",
     "status": "TranslationComplete"
   },
   {

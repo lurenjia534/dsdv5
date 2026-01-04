@@ -167,7 +167,7 @@
     "index": 1,
     "type": "BOOK FULL",
     "original": "Shadowmarks",
-    "string": "暗影標記",
+    "string": "暗影标记",
     "status": "TranslationComplete"
   },
   {
@@ -194,7 +194,7 @@
     "index": 1,
     "type": "CELL FULL",
     "original": "Irkngthand Grand Cavern",
-    "string": "苦悶之牙廢墟巨型洞窟",
+    "string": "苦闷之牙废墟巨型洞窟",
     "status": "TranslationComplete"
   },
   {
@@ -230,7 +230,7 @@
     "index": 1,
     "type": "CELL FULL",
     "original": "Irkngthand Slave Pens",
-    "string": "苦悶之牙廢墟奴隸圍欄",
+    "string": "苦闷之牙废墟奴隶围栏",
     "status": "TranslationComplete"
   },
   {
@@ -239,7 +239,7 @@
     "index": 1,
     "type": "CELL FULL",
     "original": "Castle Dour Dungeon",
-    "string": "陰鬱堡地牢",
+    "string": "阴郁堡地牢",
     "status": "TranslationComplete"
   },
   {
@@ -257,7 +257,7 @@
     "index": 1,
     "type": "CELL FULL",
     "original": "Glover Mallory's House",
-    "string": "葛羅文．馬洛瑞的家",
+    "string": "葛罗文．马洛瑞的家",
     "status": "TranslationComplete"
   },
   {
@@ -266,7 +266,7 @@
     "index": 1,
     "type": "CELL FULL",
     "original": "Riften Jail",
-    "string": "裂谷城監獄",
+    "string": "裂谷城监狱",
     "status": "TranslationComplete"
   },
   {
@@ -320,7 +320,7 @@
     "index": 1,
     "type": "WRLD FULL",
     "original": "Solitude",
-    "string": "獨孤城",
+    "string": "独孤城",
     "status": "TranslationComplete"
   },
   {

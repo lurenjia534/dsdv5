@@ -248,7 +248,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "What?!",
-    "string": "什麼？！",
+    "string": "什么？！",
     "status": "TranslationComplete"
   },
   {
@@ -941,7 +941,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "What's going on?",
-    "string": "發生什麼事了？",
+    "string": "发生什么事了？",
     "status": "TranslationComplete"
   },
   {
@@ -1058,7 +1058,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "What was that?",
-    "string": "那是什麼？",
+    "string": "那是什么？",
     "status": "TranslationComplete"
   },
   {
@@ -1616,7 +1616,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "I don't think so.",
-    "string": "我不這麼認為。",
+    "string": "我不这么认为。",
     "status": "TranslationComplete"
   },
   {
@@ -1697,7 +1697,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "Go on. I'm listening.",
-    "string": "繼續。我在聽。",
+    "string": "继续。我在听。",
     "status": "TranslationComplete"
   },
   {

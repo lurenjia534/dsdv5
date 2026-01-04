@@ -104,7 +104,7 @@
     "index": 1,
     "type": "MGEF FULL",
     "original": "Fortify Health",
-    "string": "強化生命力",
+    "string": "强化生命力",
     "status": "TranslationComplete"
   },
   {
@@ -122,7 +122,7 @@
     "index": 1,
     "type": "MGEF FULL",
     "original": "Fortify Stamina",
-    "string": "強化精力",
+    "string": "强化精力",
     "status": "TranslationComplete"
   },
   {
@@ -140,7 +140,7 @@
     "index": 1,
     "type": "MGEF FULL",
     "original": "Fortify Magicka",
-    "string": "強化法力",
+    "string": "强化法力",
     "status": "TranslationComplete"
   },
   {
@@ -158,7 +158,7 @@
     "index": 1,
     "type": "MGEF FULL",
     "original": "Fortify Armor Rating",
-    "string": "強化護甲值",
+    "string": "强化护甲值",
     "status": "TranslationComplete"
   },
   {
@@ -230,7 +230,7 @@
     "index": 1,
     "type": "MGEF FULL",
     "original": "Fortify Alteration",
-    "string": "強化變換系",
+    "string": "强化变换系",
     "status": "TranslationComplete"
   },
   {
@@ -248,7 +248,7 @@
     "index": 1,
     "type": "MGEF FULL",
     "original": "Fortify Conjuration",
-    "string": "召喚系法術強化",
+    "string": "召唤系法术强化",
     "status": "TranslationComplete"
   },
   {
@@ -266,7 +266,7 @@
     "index": 1,
     "type": "MGEF FULL",
     "original": "Fortify Destruction",
-    "string": "毀滅系法術強化",
+    "string": "毁灭系法术强化",
     "status": "TranslationComplete"
   },
   {
@@ -284,7 +284,7 @@
     "index": 1,
     "type": "MGEF FULL",
     "original": "Fortify Illusion",
-    "string": "強化幻術系",
+    "string": "强化幻术系",
     "status": "TranslationComplete"
   },
   {
@@ -302,7 +302,7 @@
     "index": 1,
     "type": "MGEF FULL",
     "original": "Fortify Restoration",
-    "string": "強化恢復系",
+    "string": "强化恢复系",
     "status": "TranslationComplete"
   },
   {
@@ -329,7 +329,7 @@
     "index": 1,
     "type": "MGEF DNAM",
     "original": "Carrying capacity increased by <mag> points.",
-    "string": "負重提高<mag>點。",
+    "string": "负重提高<mag>点。",
     "status": "TranslationComplete"
   },
   {
@@ -338,7 +338,7 @@
     "index": 1,
     "type": "MGEF FULL",
     "original": "Fortify Lockpicking",
-    "string": "开锁強化",
+    "string": "开锁强化",
     "status": "TranslationComplete"
   },
   {
@@ -347,7 +347,7 @@
     "index": 1,
     "type": "MGEF DNAM",
     "original": "Lockpicking is <mag>% easier.",
-    "string": "开锁難度減少<mag>%。",
+    "string": "开锁难度减少<mag>%。",
     "status": "TranslationComplete"
   },
   {
@@ -356,7 +356,7 @@
     "index": 1,
     "type": "MGEF FULL",
     "original": "Fortify Archery",
-    "string": "箭術強化",
+    "string": "箭术强化",
     "status": "TranslationComplete"
   },
   {
@@ -365,7 +365,7 @@
     "index": 1,
     "type": "MGEF DNAM",
     "original": "Bows do <mag>% more damage.",
-    "string": "弓箭傷害提高<mag>%。",
+    "string": "弓箭伤害提高<mag>%。",
     "status": "TranslationComplete"
   },
   {
@@ -383,7 +383,7 @@
     "index": 1,
     "type": "MGEF DNAM",
     "original": "One-handed attacks do <mag>% more damage.",
-    "string": "單手攻擊傷害提高<mag>%。",
+    "string": "单手攻击伤害提高<mag>%。",
     "status": "TranslationComplete"
   },
   {
@@ -392,7 +392,7 @@
     "index": 1,
     "type": "MGEF FULL",
     "original": "Fortify Pickpocket",
-    "string": "扒竊強化",
+    "string": "扒窃强化",
     "status": "TranslationComplete"
   },
   {
@@ -437,7 +437,7 @@
     "index": 1,
     "type": "MGEF DNAM",
     "original": "Two-handed attacks do <mag>% more damage.",
-    "string": "雙手攻擊傷害提高<mag>%。",
+    "string": "双手攻击伤害提高<mag>%。",
     "status": "TranslationComplete"
   },
   {
@@ -455,7 +455,7 @@
     "index": 1,
     "type": "MGEF DNAM",
     "original": "Stamina regenerates <mag>% faster.",
-    "string": "精力恢復速度加快<mag>%。",
+    "string": "精力恢复速度加快<mag>%。",
     "status": "TranslationComplete"
   },
   {
@@ -491,7 +491,7 @@
     "index": 1,
     "type": "MGEF DNAM",
     "original": "Can swim underwater without drowning.",
-    "string": "在水下游泳不會溺死。",
+    "string": "在水下游泳不会溺死。",
     "status": "TranslationComplete"
   },
   {
