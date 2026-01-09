@@ -14,7 +14,7 @@
     "index": 1,
     "type": "RACE FULL",
     "original": "Imperial",
-    "string": "帝國人",
+    "string": "帝国人",
     "status": "TranslationComplete"
   },
   {
@@ -23,7 +23,7 @@
     "index": 1,
     "type": "RACE DESC",
     "original": "Natives of Cyrodiil, they have proved to be shrewd diplomats and traders. They are skilled with combat and magic. Anywhere gold coins might be found, Imperials always seem to find a few more. They can call upon the Voice of the Emperor to calm an enemy.",
-    "string": "賽瑞迪爾省的在地居民。他們是狡猾的老油條和商人。他們的作戰和魔法技能卓越。一般而言無論何處都有可能找到金幣，但帝國人總能找到更多。他們能使用帝王之聲使敵人冷靜下來。",
+    "string": "赛瑞迪尔省的在地居民。他们是狡猾的老油条和商人。他们的作战和魔法技能卓越。一般而言无论何处都有可能找到金币，但帝国人总能找到更多。他们能使用帝王之声使敌人冷静下来。",
     "status": "TranslationComplete"
   },
   {
@@ -41,7 +41,7 @@
     "index": 1,
     "type": "RACE DESC",
     "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
-    "string": "居住在天际省的骠悍种族，他们身材魁梧，一头金髮。诺德人的特质是身犟力壮，精于各种战士技巧，且对寒冷天气乃至于寒霜系魔法的抵御能力更是闻名遐迩。此外，他们还能施放战嚎，使敌人惊慌逃跑。",
+    "string": "居住在天际省的骠悍种族，他们身材魁梧，一头金发。诺德人的特质是身犟力壮，精于各种战士技巧，且对寒冷天气乃至于寒霜系魔法的抵御能力更是闻名遐迩。此外，他们还能施放战嚎，使敌人惊慌逃跑。",
     "status": "TranslationComplete"
   },
   {
@@ -86,7 +86,7 @@
     "index": 1,
     "type": "RACE DESC",
     "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
-    "string": "居住在天际省的骠悍种族，他们身材魁梧，一头金髮。诺德人的特质是身犟力壮，精于各种战士技巧，且对寒冷天气乃至于寒霜系魔法的抵御能力更是闻名遐迩。此外，他们还能施放战嚎，使敌人惊慌逃跑。",
+    "string": "居住在天际省的骠悍种族，他们身材魁梧，一头金发。诺德人的特质是身犟力壮，精于各种战士技巧，且对寒冷天气乃至于寒霜系魔法的抵御能力更是闻名遐迩。此外，他们还能施放战嚎，使敌人惊慌逃跑。",
     "status": "TranslationComplete"
   },
   {
@@ -95,7 +95,7 @@
     "index": 1,
     "type": "RACE DESC",
     "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
-    "string": "居住在天际省的骠悍种族，他们身材魁梧，一头金髮。诺德人的特质是身犟力壮，精于各种战士技巧，且对寒冷天气乃至于寒霜系魔法的抵御能力更是闻名遐迩。此外，他们还能施放战嚎，使敌人惊慌逃跑。",
+    "string": "居住在天际省的骠悍种族，他们身材魁梧，一头金发。诺德人的特质是身犟力壮，精于各种战士技巧，且对寒冷天气乃至于寒霜系魔法的抵御能力更是闻名遐迩。此外，他们还能施放战嚎，使敌人惊慌逃跑。",
     "status": "TranslationComplete"
   },
   {
@@ -122,7 +122,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Fine Clothes",
-    "string": "舒適的衣服",
+    "string": "舒适的衣服",
     "status": "TranslationComplete"
   },
   {
@@ -131,7 +131,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Fine Boots",
-    "string": "舒適的短靴",
+    "string": "舒适的短靴",
     "status": "TranslationComplete"
   },
   {
@@ -140,7 +140,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Footwraps",
-    "string": "綁腿",
+    "string": "绑腿",
     "status": "TranslationComplete"
   },
   {
@@ -149,7 +149,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Ragged Trousers",
-    "string": "破爛的褲子",
+    "string": "破烂的裤子",
     "status": "TranslationComplete"
   },
   {
@@ -158,7 +158,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Fine Clothes",
-    "string": "舒適的衣服",
+    "string": "舒适的衣服",
     "status": "TranslationComplete"
   },
   {
@@ -167,7 +167,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Fine Boots",
-    "string": "舒適的短靴",
+    "string": "舒适的短靴",
     "status": "TranslationComplete"
   },
   {
@@ -176,7 +176,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Gilded Wristguards",
-    "string": "鍍金腕甲",
+    "string": "镀金腕甲",
     "status": "TranslationComplete"
   },
   {
@@ -185,7 +185,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Whiterun Guard's Armor",
-    "string": "白漫城衛兵護甲",
+    "string": "白漫城卫兵护甲",
     "status": "TranslationComplete"
   },
   {
@@ -194,7 +194,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Arm Bandages",
-    "string": "綁手帶",
+    "string": "绑手带",
     "status": "TranslationComplete"
   },
   {
@@ -203,7 +203,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Ragged Robes",
-    "string": "破爛的長袍",
+    "string": "破烂的长袍",
     "status": "TranslationComplete"
   },
   {
@@ -212,7 +212,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Ragged Boots",
-    "string": "破爛的靴子",
+    "string": "破烂的靴子",
     "status": "TranslationComplete"
   },
   {
@@ -221,7 +221,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Hide Armor",
-    "string": "皮製護甲",
+    "string": "皮制护甲",
     "status": "TranslationComplete"
   },
   {
@@ -239,7 +239,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Ragged Trousers",
-    "string": "破爛的褲子",
+    "string": "破烂的裤子",
     "status": "TranslationComplete"
   },
   {
@@ -257,7 +257,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Imperial Armor",
-    "string": "帝國護甲",
+    "string": "帝国护甲",
     "status": "TranslationComplete"
   },
   {
@@ -266,7 +266,7 @@
     "index": 1,
     "type": "ARMO FULL",
     "original": "Fine Clothes",
-    "string": "舒適的衣服",
+    "string": "舒适的衣服",
     "status": "TranslationComplete"
   },
   {
@@ -293,7 +293,7 @@
     "index": 1,
     "type": "NPC_ FULL",
     "original": "Redoran Guard",
-    "string": "瑞多然禁衛隊",
+    "string": "瑞多然禁卫队",
     "status": "TranslationComplete"
   },
   {
@@ -356,7 +356,7 @@
     "index": 1,
     "type": "NPC_ FULL",
     "original": "Whiterun Guard",
-    "string": "白漫衛兵",
+    "string": "白漫卫兵",
     "status": "TranslationComplete"
   },
   {
@@ -437,7 +437,7 @@
     "index": 1,
     "type": "CELL FULL",
     "original": "Candlehearth Hall",
-    "string": "燭爐堂客棧",
+    "string": "烛炉堂客栈",
     "status": "TranslationComplete"
   },
   {
@@ -446,7 +446,7 @@
     "index": 1,
     "type": "CELL FULL",
     "original": "Old Hroldan Inn",
-    "string": "古赫洛登客棧",
+    "string": "古赫洛登客栈",
     "status": "TranslationComplete"
   },
   {
@@ -455,7 +455,7 @@
     "index": 1,
     "type": "CELL FULL",
     "original": "The Warrens",
-    "string": "窩棚",
+    "string": "窝棚",
     "status": "TranslationComplete"
   },
   {
@@ -464,7 +464,7 @@
     "index": 1,
     "type": "CELL FULL",
     "original": "The Winking Skeever",
-    "string": "眨眼惡鼠",
+    "string": "眨眼恶鼠",
     "status": "TranslationComplete"
   },
   {
@@ -473,7 +473,7 @@
     "index": 1,
     "type": "CELL FULL",
     "original": "Temple of Kynareth",
-    "string": "凱娜瑞絲神殿",
+    "string": "凯娜瑞丝神殿",
     "status": "TranslationComplete"
   },
   {
@@ -491,7 +491,7 @@
     "index": 1,
     "type": "WRLD FULL",
     "original": "Windhelm",
-    "string": "風舵城",
+    "string": "风舵城",
     "status": "TranslationComplete"
   },
   {

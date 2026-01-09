@@ -86,7 +86,7 @@
     "index": 1,
     "type": "MGEF DNAM",
     "original": "Restores <60> magicka if they die within <dur> seconds.",
-    "string": "若其于 <dur> 秒内死亡，回復 <60> 点魔力",
+    "string": "若其于 <dur> 秒内死亡，回复 <60> 点魔力",
     "status": "TranslationComplete"
   },
   {
@@ -302,7 +302,7 @@
     "index": 1,
     "type": "MGEF DNAM",
     "original": "Deals <mag> disease damage to nearby opponents and restores <60> magicka if they die.",
-    "string": "造成附近敌人 <mag> 点疾病伤害，若其死亡则回復 <60> 点魔力。",
+    "string": "造成附近敌人 <mag> 点疾病伤害，若其死亡则回复 <60> 点魔力。",
     "status": "TranslationComplete"
   },
   {
@@ -824,7 +824,7 @@
     "index": 1,
     "type": "BOOK DESC",
     "original": "<font face='$HandwrittenFont'>Our brethren will occupy Haafingar in due time. They will need supplies.\r\nYou are to smuggle as much as you can from the keep. Mark the sky with the symbol of death once you've crossed the border, and we will be there.",
-    "string": "<font face='$HandwrittenFont'>Our 我们的同袍即将佔领哈芬加。他们将急需补给。\r\n你要从堡垒中尽可能多地偷运物资。越过边境后，在天空刻下死亡的符号——我们便会前来接应。",
+    "string": "<font face='$HandwrittenFont'>Our 我们的同袍即将占领哈芬加。他们将急需补给。\r\n你要从堡垒中尽可能多地偷运物资。越过边境后，在天空刻下死亡的符号——我们便会前来接应。",
     "status": "TranslationComplete"
   },
   {
@@ -887,7 +887,7 @@
     "index": 1,
     "type": "ALCH FULL",
     "original": "Celestial Potion of Healing",
-    "string": "天界治癒药水",
+    "string": "天界治愈药水",
     "status": "TranslationComplete"
   },
   {
