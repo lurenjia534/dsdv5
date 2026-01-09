@@ -1,0 +1,992 @@
+[
+  {
+    "editor_id": "aCPCasualDressC",
+    "form_id": "01000A1A|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Dongtan Dress - Silky",
+    "string": "角色扮演休闲东坦连衣裙 - 丝绸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressD",
+    "form_id": "01000A4B|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Skintight - Snow",
+    "string": "角色扮演休闲高领紧身上衣 - 雪白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDongtanCardigan",
+    "form_id": "01000A4C|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Dongtan Cardigan - Silky",
+    "string": "角色扮演休闲东坦开衫 - 丝绸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualHarness",
+    "form_id": "01000A4D|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Harness",
+    "string": "角色扮演休闲背带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressCLewd",
+    "form_id": "01000A4E|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Dongtan Dress - Silky (Lewd)",
+    "string": "角色扮演休闲东坦连衣裙 - 丝绸（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressDLewd",
+    "form_id": "01000A4F|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Skintight - Snow (Lewd)",
+    "string": "角色扮演休闲高领紧身上衣 - 雪白（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualMask",
+    "form_id": "01000A51|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Facemask - White",
+    "string": "角色扮演休闲面罩 - 白色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualCardigan",
+    "form_id": "01000A59|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Cardigan - Knitted",
+    "string": "角色扮演休闲开衫 - 针织",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressG",
+    "form_id": "01000A5A|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Openchest - Stripe",
+    "string": "角色扮演休闲高领开胸上衣 - 条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressH",
+    "form_id": "01000A5B|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Ao Dai - Pure Silk",
+    "string": "角色扮演休闲越南旗袍 - 纯丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressJ",
+    "form_id": "01000A5C|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Minidress - Cotton",
+    "string": "角色扮演休闲迷你连衣裙 - 棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressGLewd",
+    "form_id": "01000A5D|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Openchest - Stripe (Lewd)",
+    "string": "角色扮演休闲高领开胸上衣 - 条纹（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressHPants",
+    "form_id": "01000A5E|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Ao Dai Pants - Pure Silk",
+    "string": "角色扮演休闲越南旗袍裤 - 纯丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressJLewd",
+    "form_id": "01000A5F|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Minidress - Cotton (Lewd)",
+    "string": "角色扮演休闲迷你连衣裙 - 棉质（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressL",
+    "form_id": "01000A7D|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Killer Sweater - Snow",
+    "string": "角色扮演休闲致命处女毛衣 - 雪白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressM",
+    "form_id": "01000A7E|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Sweater - Snow",
+    "string": "角色扮演休闲毁灭处女毛衣 - 雪白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressN",
+    "form_id": "01000A7F|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Sweater Offshoulder - Cherry",
+    "string": "角色扮演休闲露肩毛衣 - 樱桃红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressO",
+    "form_id": "01000A80|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Cutout - Graphite",
+    "string": "角色扮演休闲高领镂空上衣 - 石墨灰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressLLewd",
+    "form_id": "01000A81|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Killer Sweater - Snow (Lewd)",
+    "string": "角色扮演休闲致命处女毛衣 - 雪白（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressNLewd",
+    "form_id": "01000A83|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Sweater Offshoulder - Cherry (Lewd)",
+    "string": "角色扮演休闲露肩毛衣 - 樱桃红（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressOLewd",
+    "form_id": "01000A84|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Cutout - Graphite (Lewd)",
+    "string": "角色扮演休闲高领镂空上衣 - 石墨灰（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressMSleeves",
+    "form_id": "01000A85|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Armwarmer - Snow",
+    "string": "角色扮演休闲毁灭处女护臂 - 雪白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressMPanty",
+    "form_id": "01000A86|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Panty - Snow",
+    "string": "角色扮演休闲毁灭处女内裤 - 雪白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressMPantyLewd",
+    "form_id": "01000A87|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Panty - Snow (Lewd)",
+    "string": "角色扮演休闲毁灭处女内裤 - 雪白（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualAirpod",
+    "form_id": "01000A88|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Airpod",
+    "string": "角色扮演休闲Airpod耳机",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualBag",
+    "form_id": "01000A89|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Chanel Bag",
+    "string": "角色扮演休闲香奈儿包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualChokerA",
+    "form_id": "01000A8A|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Choker Gems",
+    "string": "角色扮演休闲宝石项圈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualChokerB",
+    "form_id": "01000A8B|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Choker Saint Laurent",
+    "string": "角色扮演休闲圣罗兰项圈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualEarringA",
+    "form_id": "01000A8C|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Earring Hoop",
+    "string": "角色扮演休闲环形耳环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualEarringB",
+    "form_id": "01000A8D|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Earring Chanel",
+    "string": "角色扮演休闲香奈儿耳环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualEarringC",
+    "form_id": "01000A8E|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Earring Gems",
+    "string": "角色扮演休闲宝石耳环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualEarringD",
+    "form_id": "01000A8F|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Earring Cross",
+    "string": "角色扮演休闲十字耳环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualEarringE",
+    "form_id": "01000A90|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Earring Saint Laurent",
+    "string": "角色扮演休闲圣罗兰耳环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualEarringF",
+    "form_id": "01000A91|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Earring Sapphire",
+    "string": "角色扮演休闲蓝宝石耳环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualHeels",
+    "form_id": "01000A92|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Heel Fancy",
+    "string": "角色扮演休闲高跟鞋 - 精致",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualNecklaceA",
+    "form_id": "01000A93|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Necklace Dongtan",
+    "string": "角色扮演休闲东坦项链",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualNecklaceB",
+    "form_id": "01000A94|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Necklace Heartborken",
+    "string": "角色扮演休闲心碎项链",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualNecklaceC",
+    "form_id": "01000A95|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Necklace Sapphire",
+    "string": "角色扮演休闲蓝宝石项链",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualNecklaceD",
+    "form_id": "01000A96|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Necklace Cross",
+    "string": "角色扮演休闲十字项链",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualNecklaceE",
+    "form_id": "01000A97|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Necklace Saint Laurent",
+    "string": "角色扮演休闲圣罗兰项链",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualNecklaceF",
+    "form_id": "01000A98|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Necklace Chanel",
+    "string": "角色扮演休闲香奈儿项链",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualNecklaceG",
+    "form_id": "01000A99|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Necklace Pearls",
+    "string": "角色扮演休闲珍珠项链",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressMLewd",
+    "form_id": "01000A9B|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Sweater - Snow (Lewd)",
+    "string": "角色扮演休闲毁灭处女毛衣 - 雪白（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressC2",
+    "form_id": "01000AD2|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Dongtan Dress - Velvet",
+    "string": "角色扮演休闲东坦连衣裙 - 天鹅绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressC3",
+    "form_id": "01000AD3|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Dongtan Dress - Cotton",
+    "string": "角色扮演休闲东坦连衣裙 - 棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressD2",
+    "form_id": "01000AD4|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Skintight - Stripe",
+    "string": "角色扮演休闲高领紧身上衣 - 条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressD3",
+    "form_id": "01000AD5|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Skintight - Graphite",
+    "string": "角色扮演休闲高领紧身上衣 - 石墨灰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDongtanCardigan2",
+    "form_id": "01000AD6|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Dongtan Cardigan - Midnight",
+    "string": "角色扮演休闲东坦开衫 - 午夜蓝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDongtanCardigan3",
+    "form_id": "01000AD7|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Dongtan Cardigan - Knitted",
+    "string": "角色扮演休闲东坦开衫 - 针织",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressCLewd2",
+    "form_id": "01000AD8|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Dongtan Dress - Velvet (Lewd)",
+    "string": "角色扮演休闲东坦连衣裙 - 天鹅绒（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressCLewd3",
+    "form_id": "01000AD9|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Dongtan Dress - Cotton (Lewd)",
+    "string": "角色扮演休闲东坦连衣裙 - 棉质（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressDLewd2",
+    "form_id": "01000ADA|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Skintight - Stripe (Lewd)",
+    "string": "角色扮演休闲高领紧身上衣 - 条纹（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressDLewd3",
+    "form_id": "01000ADB|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Skintight - Graphite (Lewd)",
+    "string": "角色扮演休闲高领紧身上衣 - 石墨灰（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualMask2",
+    "form_id": "01000ADE|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Facemask - Black",
+    "string": "角色扮演休闲面罩 - 黑色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualCardigan2",
+    "form_id": "01000ADF|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Cardigan - Wool",
+    "string": "角色扮演休闲开衫 - 羊毛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressG2",
+    "form_id": "01000AE0|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Openchest - Cherry",
+    "string": "角色扮演休闲高领开胸上衣 - 樱桃红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressG3",
+    "form_id": "01000AE1|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Openchest - Snow",
+    "string": "角色扮演休闲高领开胸上衣 - 雪白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressH2",
+    "form_id": "01000AE2|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Ao Dai - Vermillion",
+    "string": "角色扮演休闲越南旗袍 - 朱红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressH3",
+    "form_id": "01000AE3|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Ao Dai - Floral",
+    "string": "角色扮演休闲越南旗袍 - 花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressJ2",
+    "form_id": "01000AE4|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Minidress - Velvet",
+    "string": "角色扮演休闲迷你连衣裙 - 天鹅绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressGLewd2",
+    "form_id": "01000AE5|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Openchest - Cherry (Lewd)",
+    "string": "角色扮演休闲高领开胸上衣 - 樱桃红（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressGLewd3",
+    "form_id": "01000AE6|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Openchest - Snow (Lewd)",
+    "string": "角色扮演休闲高领开胸上衣 - 雪白（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressHPants2",
+    "form_id": "01000AE7|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Ao Dai Pants - Vermillion",
+    "string": "角色扮演休闲越南旗袍裤 - 朱红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressHPants3",
+    "form_id": "01000AE8|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Ao Dai Pants - Floral",
+    "string": "角色扮演休闲越南旗袍裤 - 花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressJLewd2",
+    "form_id": "01000AE9|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Minidress - Velvet (Lewd)",
+    "string": "角色扮演休闲迷你连衣裙 - 天鹅绒（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressL2",
+    "form_id": "01000AEA|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Killer Sweater - Graphite",
+    "string": "角色扮演休闲致命处女毛衣 - 石墨灰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressM2",
+    "form_id": "01000AEB|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Sweater - Graphite",
+    "string": "角色扮演休闲毁灭处女毛衣 - 石墨灰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressN2",
+    "form_id": "01000AEC|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Sweater Offshoulder - Snow",
+    "string": "角色扮演休闲露肩毛衣 - 雪白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressN3",
+    "form_id": "01000AED|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Sweater Offshoulder - Wool",
+    "string": "角色扮演休闲露肩毛衣 - 羊毛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressO2",
+    "form_id": "01000AEE|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Cutout - Snow",
+    "string": "角色扮演休闲高领镂空上衣 - 雪白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressO3",
+    "form_id": "01000AEF|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Cutout - Crimson",
+    "string": "角色扮演休闲高领镂空上衣 - 深红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressLLewd2",
+    "form_id": "01000AF0|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Killer Sweater - Graphite (Lewd)",
+    "string": "角色扮演休闲致命处女毛衣 - 石墨灰（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressNLewd2",
+    "form_id": "01000AF1|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Sweater Offshoulder - Snow (Lewd)",
+    "string": "角色扮演休闲露肩毛衣 - 雪白（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressNLewd3",
+    "form_id": "01000AF2|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Sweater Offshoulder - Wool (Lewd)",
+    "string": "角色扮演休闲露肩毛衣 - 羊毛（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressOLewd2",
+    "form_id": "01000AF3|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Cutout - Snow (Lewd)",
+    "string": "角色扮演休闲高领镂空上衣 - 雪白（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressOLewd3",
+    "form_id": "01000AF4|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Cutout - Crimson (Lewd)",
+    "string": "角色扮演休闲高领镂空上衣 - 深红（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressMSleeves2",
+    "form_id": "01000AF5|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Armwarmer - Graphite",
+    "string": "角色扮演休闲毁灭处女护臂 - 石墨灰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressMPanty2",
+    "form_id": "01000AF6|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Panty - Graphite",
+    "string": "角色扮演休闲毁灭处女内裤 - 石墨灰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressMPantyLewd2",
+    "form_id": "01000AF7|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Panty - Graphite (Lewd)",
+    "string": "角色扮演休闲毁灭处女内裤 - 石墨灰（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressMLewd2",
+    "form_id": "01000AF8|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Sweater - Graphite (Lewd)",
+    "string": "角色扮演休闲毁灭处女毛衣 - 石墨灰（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualCardigan3",
+    "form_id": "01000B0B|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Cardigan - Midnight",
+    "string": "角色扮演休闲开衫 - 午夜蓝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressJ3",
+    "form_id": "01000B0C|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Minidress - Scarlet",
+    "string": "角色扮演休闲迷你连衣裙 - 猩红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressJLewd3",
+    "form_id": "01000B0D|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Minidress - Scarlet (Lewd)",
+    "string": "角色扮演休闲迷你连衣裙 - 猩红（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressL3",
+    "form_id": "01000B0E|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Killer Sweater - Cherry",
+    "string": "角色扮演休闲致命处女毛衣 - 樱桃红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressLLewd3",
+    "form_id": "01000B0F|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Killer Sweater - Cherry (Lewd)",
+    "string": "角色扮演休闲致命处女毛衣 - 樱桃红（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressM3",
+    "form_id": "01000B10|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Sweater - Cherry",
+    "string": "角色扮演休闲毁灭处女毛衣 - 樱桃红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressMLewd3",
+    "form_id": "01000B11|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Sweater - Cherry (Lewd)",
+    "string": "角色扮演休闲毁灭处女毛衣 - 樱桃红（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressMPanty3",
+    "form_id": "01000B12|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Panty - Cherry",
+    "string": "角色扮演休闲毁灭处女内裤 - 樱桃红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressMPantyLewd3",
+    "form_id": "01000B13|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Panty - Cherry (Lewd)",
+    "string": "角色扮演休闲毁灭处女内裤 - 樱桃红（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressMSleeves3",
+    "form_id": "01000B14|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Virgin Destroyer Armwarmer - Cherry",
+    "string": "角色扮演休闲毁灭处女护臂 - 樱桃红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualMaskPulled",
+    "form_id": "01000B15|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Facemask - White (Pulled)",
+    "string": "角色扮演休闲面罩 - 白色（拉下）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualMaskPulled2",
+    "form_id": "01000B16|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Facemask - Black (Pulled)",
+    "string": "角色扮演休闲面罩 - 黑色（拉下）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressP",
+    "form_id": "01000B22|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Sleeveless - Snow",
+    "string": "角色扮演休闲无袖高领上衣 - 雪白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressPLewd",
+    "form_id": "01000B23|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Sleeveless - Snow (Lewd)",
+    "string": "角色扮演休闲无袖高领上衣 - 雪白（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressP2",
+    "form_id": "01000B24|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Sleeveless - Graphite",
+    "string": "角色扮演休闲无袖高领上衣 - 石墨灰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressP3",
+    "form_id": "01000B25|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Sleeveless - Cotton",
+    "string": "角色扮演休闲无袖高领上衣 - 棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressPLewd2",
+    "form_id": "01000B26|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Sleeveless - Graphite (Lewd)",
+    "string": "角色扮演休闲无袖高领上衣 - 石墨灰（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressPLewd3",
+    "form_id": "01000B27|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Turtleneck Sleeveless - Cotton (Lewd)",
+    "string": "角色扮演休闲无袖高领上衣 - 棉质（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressQ",
+    "form_id": "01000B38|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Comfy Turtleneck - Cheery",
+    "string": "角色扮演休闲舒适高领毛衣 - 樱桃红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressQLewd",
+    "form_id": "01000B39|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Comfy Turtleneck - Cheery (Lewd)",
+    "string": "角色扮演休闲舒适高领毛衣 - 樱桃红（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressQ2",
+    "form_id": "01000B3A|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Comfy Turtleneck - Canada",
+    "string": "角色扮演休闲舒适高领毛衣 - 加拿大",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressQ3",
+    "form_id": "01000B3B|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Comfy Turtleneck - Knitted",
+    "string": "角色扮演休闲舒适高领毛衣 - 针织",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressQLewd2",
+    "form_id": "01000B3C|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Comfy Turtleneck - Canada (Lewd)",
+    "string": "角色扮演休闲舒适高领毛衣 - 加拿大（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressQLewd3",
+    "form_id": "01000B3D|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Comfy Turtleneck - Knitted (Lewd)",
+    "string": "角色扮演休闲舒适高领毛衣 - 针织（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressR",
+    "form_id": "01000B3E|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Comfy Hoodie - Harvard",
+    "string": "角色扮演休闲舒适连帽衫 - 哈佛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressRLewd",
+    "form_id": "01000B3F|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Comfy Hoodie - Harvard (Lewd)",
+    "string": "角色扮演休闲舒适连帽衫 - 哈佛（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressR2",
+    "form_id": "01000B40|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Comfy Hoodie - Winterhold",
+    "string": "角色扮演休闲舒适连帽衫 - 冬堡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressR3",
+    "form_id": "01000B41|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Comfy Hoodie - Bethesda",
+    "string": "角色扮演休闲舒适连帽衫 - 贝塞斯达",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressRLewd2",
+    "form_id": "01000B42|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Comfy Hoodie - Winterhold (Lewd)",
+    "string": "角色扮演休闲舒适连帽衫 - 冬堡（性感）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPCasualDressRLewd3",
+    "form_id": "01000B43|[Caenarvon] Cosplay Pack Casual.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Casual Comfy Hoodie - Bethesda (Lewd)",
+    "string": "角色扮演休闲舒适连帽衫 - 贝塞斯达（性感）",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,5555 @@
+[
+  {
+    "editor_id": "aaFaraldaLetter",
+    "form_id": "05000A5C|FDE Faralda.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Faralda's Family Letter",
+    "string": "法劳达的家信",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaBrother",
+    "form_id": "0500096B|FDE Faralda.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Thalmor Commander",
+    "string": "梭默指挥官",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaThief",
+    "form_id": "05000A3C|FDE Faralda.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wood Elf",
+    "string": "木精灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaEilonwy",
+    "form_id": "05000A5B|FDE Faralda.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Eilonwy",
+    "string": "艾伦薇",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LostProspectMine01",
+    "form_id": "0005554A|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Lost Prospect Mine",
+    "string": "绝望矿场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeTempleoftheDivines",
+    "form_id": "00016A02|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Temple of the Divines",
+    "string": "圣灵神殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So it was the Dragonborn who redeemed the College from annihilation? I would not have guessed.",
+    "string": "竟是那龙裔从毁灭中拯救了学院？我倒真没料到。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000840|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some \"friend\" this horn thief is. They could have chosen not to waste our time.",
+    "string": "那偷角贼的“朋友”可真会挑时候，尽干些浪费我们时间的蠢事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000841|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have to say, this Delphine is even more insufferable than Nirya, and that's an understatement.",
+    "string": "不得不说，这个叫戴尔芬的，比尼尔雅还让人难以忍受，简直有过之而无不及。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000948|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By Oblivion! That dragon just brought one of his kin back to life!",
+    "string": "湮灭啊！那条龙竟把它的同类复活了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000842|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful in the Embassy. The ambassador, Elenwen... I know her. She has the wits of a fox, and the venom of a snake. Do not underestimate her.",
+    "string": "去大使馆可要小心。那个大使，爱琳雯……我认得她。她狡猾如狐，狠毒似蛇。千万别小看她。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000844|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thalmor? Great. Our contact is even more popular than Nirya in a ball.",
+    "string": "梭默？真是“好”啊。我们的联系人竟比舞会上的尼尔雅还“受欢迎”。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000949|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know what I expected... but Esbern smells worse than one would expect from a scholar. I suppose spending time in the sewer has its drawbacks.",
+    "string": "真不知道我原本在期待什么……但那个伊斯本，简直比一个学者应有的体味还要糟糕。我猜，在污水沟里待久了，总会留下些痕迹。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000845|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Imagine the history this place holds. Ah, if only stone could talk.",
+    "string": "想想这地方承载的历史吧。唉，要是石头能说话就好了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000848|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Paarthurnax seems amiable enough, perhaps even pleasant, if you ignore his kind's history of violence and subjugation - sorry, I don't mean to judge.",
+    "string": "帕图纳克斯看上去倒挺和善，甚至可以说挺愉快——当然，要是你忽略掉他那族类过往的暴力与压迫历史的话。抱歉，我并非有意评判。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084A|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I knew Septimus long ago. There was always a madness behind his eyes - who knows what insane plot holds his mind hostage now.",
+    "string": "我早先就认识塞普蒂默斯。他眼里总藏着一丝疯狂——天知道现在又是什么疯狂的阴谋困住了他的心智。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500094E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Septimus is just as mad as ever. The College was right to expel him.",
+    "string": "塞普蒂默斯还是一如既往地疯狂。学院把他开除，真是做对了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've seen madness that amuses even Sheogorath himself, but this dragon-capture plan has to be top of that list. If anyone can pull it off, it's you.",
+    "string": "我见过连疯神都会觉得有趣的疯狂，但这个抓龙的计划，绝对能排上首位。要是真有人能做到，那也只能是你了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000940|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, Sinderion, you old fool. I told you not to underestimate Blackreach. Gods grant peace to your soul.",
+    "string": "哦，辛德里翁（Sinderion），你这老傻瓜。我早告诉过你别小看黑降。愿神明赐你灵魂安宁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They never stood a chance. Poor fools should've known... There are secrets that no one should attempt to unravel.",
+    "string": "他们根本没机会。可怜的傻瓜们早该明白……有些秘密，是绝不该有人试图揭开的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000874|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's hurry and get back to Winterhold. There's no telling what Ancano has gotten up to in our absence.",
+    "string": "我们得赶紧回冬堡。谁知道我们不在的时候，安卡诺又搞出了什么名堂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000876|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If Ancano's agents can find us even in Labyrinthian, is there any place that their talons cannot pierce?",
+    "string": "要是安卡诺的爪牙连迷城都能找到我们，那还有什么地方是他们无法染指的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That piece of Thalmor filth! I'm going to turn him into dust for this!",
+    "string": "那个梭默的杂碎！我要把他变成尘埃，以泄我心头之恨！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000879|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ancano, you Thalmor bastard! You'll pay for what you did to Mirabelle and Savos!",
+    "string": "安卡诺，你这个梭默的混蛋！你会为你对米拉贝勒和萨沃思所做的一切付出代价！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000852|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Vigilants visited Winterhold a few times, prying into Daedric matters. They were always self-righteous, but hardly deserving of death.",
+    "string": "警戒者们来过冬堡几次，总是对迪德拉的事情刨根问底。他们总是自以为是，但还不至于该死。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000853|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I saw the corpse of the Vigilant back there. Someone of his experience should've known better than to face these bloodsuckers alone. Poor fool.",
+    "string": "我刚才看到那个警戒者的尸体了。以他的经验，本不该独自面对那些吸血鬼的。可怜的傻瓜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000854|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I better wait outside. Anything goes wrong with those vampires, and we'll need a swift exit... Let's hope it'll be a happy reunion.",
+    "string": "我最好在外面等着。要是跟那些吸血鬼起了什么冲突，咱们得赶紧撤……希望这次重逢能顺顺利利。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500095E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Urag has always had a fascination with the Elder Scrolls. If anyone could provide information on those artifacts, I can't think of anyone else.",
+    "string": "乌拉格一直对上古卷轴痴迷不已。若说谁能提供关于那些神器的信息，除了他，我想不出第二个人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500095F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Besides Urag, I know at least one other who knows about the Elder Scrolls... but I'd hate to give him the satisfaction.",
+    "string": "不过，除了乌拉格，我倒还知道一个对上古卷轴颇有了解的家伙……只是，我可不想让他得意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000858|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Harkon's tyranny is no match for us. Together, we will end his dark prophecy.",
+    "string": "哈孔的暴政岂能与我们抗衡？我们定会终结他那黑暗的预言。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000859|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why in Oblivion did these cultists attack you? Who have you managed to anger this time?",
+    "string": "湮灭啊！这些邪教徒为何要攻击你？你这次又惹到谁了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085A|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whoever these cultists are, we'd best figure out who's behind them. This won't be the last time these masked men come after you.",
+    "string": "不管这些邪教徒是谁，我们得尽快查清幕后主使。这些戴面具的家伙不会就此罢休的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085B|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Clearly, Miraak has a very specific aesthetic in mind. No accounting for taste, I suppose.",
+    "string": "显然，米拉克有着自己独特的“审美”。不过，品味这东西，向来是见仁见智。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000952|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Apocrypha is known to twist the minds of men. Count yourself lucky to have returned with your sanity intact.",
+    "string": "湮灭之境可是出了名的能扭曲人心。你能完好无损地回来，算是运气不错了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085C|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Off to meet the famed Master Neloth of House Telvanni! Oh, by the Divines, don't let me make a fool of myself.",
+    "string": "要去见鼎鼎大名的泰尔瓦尼家族的内洛施大师了！诸神在上，千万别让我出丑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000953|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How do I look? Scholarly? My intent is Scholarly. This is my chance to work with one of the most renowned wizards. I won't squander this opportunity.",
+    "string": "我看上去如何？够有学者风范吗？我的目的就是展现学者气质。这可是与最负盛名的法师共事的机会，我可不能浪费。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000954|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I admit, the Dwemer did create marvelous things. Flood control and steam engines... You know, Arniel's fascination with them seems to make sense now.",
+    "string": "我承认，矮人确实创造了无数奇迹。洪水控制、蒸汽机……现在看来，阿内尔对他们的痴迷也不无道理。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000955|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "One trip into Hermaeus Mora's realm is enough to turn a lesser mind into mush, but you've made multiple journeys and still came out sane.",
+    "string": "一般人进一次莫拉的领域，脑子就得变成浆糊，可你去了好几次，居然还能保持清醒，真是不可思议。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500093C|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've never made it down here myself, but tales tell of its beauty and mystery, as well as its danger.",
+    "string": "我自己可从没来过这儿，不过传说中这里既美丽又神秘，当然，也危险重重。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000960|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Imagine how Harkon must have felt - waiting this long to fulfill one singular goal, only to have it destroyed at the last possible moment.",
+    "string": "想想哈孔得有多绝望——等了这么久，就为了实现一个目标，结果却在最后一刻化为泡影。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000961|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As a scholar, I almost pity Harkon - he spent his entire undeath to research on one thing, only to see it brought to ruin.",
+    "string": "身为学者，我几乎要同情哈孔了——他耗尽整个不死生命去研究一件事，结果却毁于一旦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500094D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By the Divines... The summit of Skyrim. Now there's something you don't see everyday.",
+    "string": "诸神在上……天际省的巅峰！这可不是每天都能看到的景象。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000800|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There are worse fates than becoming Hermaeus Mora's champion - Molag Bal, for example. At least the God of Knowledge is indifferent.",
+    "string": "成为莫拉的冠军，总比成为莫拉格·巴尔的玩物强吧。至少，知识之神对我们是漠不关心的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000956|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You never cease to amaze me. Slaying dragons, traversing worlds, communing with gods... You lead quite the extraordinary life, you know?",
+    "string": "你总能让我惊叹不已。屠龙、穿梭异界、与诸神交流……你的生活，可真是非同凡响啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000861|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll never understand your decision to spare Miraak, but at least Solstheim is safe from his schemes now.",
+    "string": "我永远无法理解你为何要放过米拉克，不过至少索瑟姆现在安全了，不用再受他的算计。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000868|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whiterun is not too unpleasant. The people here are generally agreeable, the tavern is well maintained, and the Court Wizard is capable.",
+    "string": "雪漫城倒也不差。这里的人挺和善，酒馆也干净，宫廷法师也颇有能力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000808|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As a fellow scholar in the art of Destruction, the Court Wizard has written to me on numerous occasions.",
+    "string": "作为毁灭法术的同行，那宫廷法师还多次写信与我探讨学术呢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000917|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Such a cozy little home. Sometimes the simple life can be its own reward.",
+    "string": "这小家可真温馨。有时候，简单的生活本身就是一种奖赏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000918|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Gildergreen in Whiterun fascinates me, even as a dead husk. It radiates an ancient, almost primal magic.",
+    "string": "雪漫城那棵镀金树，即便枯萎了也令我着迷。它散发着一种古老、近乎原始的魔力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000919|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Jorrvaskr, home of the Companions. Magic is more my speed, obviously, but I can respect what they do.",
+    "string": "月瓦斯卡，战友团的家园。显然，魔法更合我意，但我对他们的行事风格倒也尊重。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "After the Great Collapse, Arch-Mage Deneth once sought to relocate the College here. Fear of political interference ended such ideas.",
+    "string": "大崩塌之后，大法师丹尼斯曾想把学院迁到这儿来。可惜，怕政治干预的念头让他打消了这主意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000809|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Solitude is a beautiful city. It reminds me of Northpoint, in some ways.",
+    "string": "独孤城真是一座美丽的城市。在某些方面，它让我想起了北角。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000931|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your home is fit for a noble. It suits you well - I wouldn't expect anything less for the one who saved the College.",
+    "string": "你的家，真是有贵族气派。很适合你——对于拯救了学院的人来说，这再合适不过了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000932|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, name your tavern after a giant rat. Why not.",
+    "string": "是啊，用一只恶鼠的名字来命名你的酒馆。有何不可呢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000871|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Windhelm is... fine, I suppose. If you're a fan of cold stone and good old bigotry.",
+    "string": "风盔城嘛……还算可以吧。要是你喜欢冷冰冰的石头和根深蒂固的偏见的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080A|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Windhelm's buildings remind me of Winterhold before the collapse. It's probably the closest we'll get to seeing what it was like back then.",
+    "string": "风盔城的建筑让我想起了崩塌前的冬堡。这大概是我们能最接近看到它昔日风貌的地方了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000933|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Everyone here seems so serious and miserable. We get enough of that from me, we hardly need more.",
+    "string": "这里每个人都显得那么严肃、那么忧郁。我们已经从我这儿得到够多的严肃和忧郁了，可不需要更多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000934|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Just so you know, Wuunferth, is... well, called the \"Unliving\" for a reason. He's not someone I'm keen to socialize with.",
+    "string": "告诉你吧，风盔城宫廷法师……嗯，他被称为“不死人”是有原因的。他可不是我想与之交往的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000875|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Last time I was here, I set fire to a pickpocket who was trying to rob me. Bad timing for me, even worse luck for him.",
+    "string": "上次我来这儿的时候，把一个想偷我东西的扒手给烧了。对我来说时机不对，对他来说更是倒霉透顶。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080B|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Most Nords have little love for magic, even when it's used to scorch a thief. The only time they approve of it? When it's used to sweeten the mead.",
+    "string": "大多数诺德人对魔法都没什么好感，哪怕你是用魔法烧了小偷。他们唯一认可魔法的时候？就是魔法能让蜜酒更甜美的时候。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000935|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Exposure to all those ingredients must have addled the court wizard's mind. She's a kind soul, but conversing with her can be exhausting.",
+    "string": "接触那么多材料，宫廷法师的脑子怕是都糊涂了。她是个善良的人，但跟她聊天可真累人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000936|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This house is... Well, charming. Simple. You know how to make a home feel cozy, I'll give you that.",
+    "string": "这房子……嗯，挺有魅力的。简单。不得不说，你很懂得如何让家变得温馨。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000937|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know what's worse, the smell of the sewage or the smell of rotting skeevers.",
+    "string": "我不知道哪个更难闻，是污水味还是腐烂的鼠尾草味。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000938|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's that smell? It smells like... oh, gods, never mind.",
+    "string": "那是什么味儿？闻起来像……哦，诸神啊，别在意了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087B|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Unless you have some sort of fascination with Dwemer technology, there's not much appeal to Markarth.",
+    "string": "除非你对矮人科技有什么特别的兴趣，否则马卡斯城可没什么吸引力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080C|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I suppose the security offered by the stone is comforting, especially with the dragons about. But more often, the true threat comes from within.",
+    "string": "我想，石头提供的保护还是让人安心的，尤其是在有龙出没的时候。但更多时候，真正的威胁往往来自内部。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000939|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Temple of Dibella here is undoubtedly a popular draw for... specific reasons.",
+    "string": "这座迪贝拉神庙……无疑因其特殊缘由而吸引着特定人群。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500093A|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This house is quite impressive. I'd imagine it's very secure, being built into a mountain - almost like your own personal stronghold.",
+    "string": "这房子相当气派啊。依山而建，想必十分安全——简直就像你自己的私人堡垒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500093B|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The fabled Blackreach. I've heard stories of its brilliance, and of its dangers.",
+    "string": "传说中的黑降。我听过关于它的辉煌传说，也听过其中的危险。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500093D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be cautious; as much as this place is a trove of magical potential, it is equally a death trap.",
+    "string": "小心为上；此地虽蕴藏着巨大的魔法潜力，却也同样是个死亡陷阱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500093E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dwemer automatons are still active here, and the Falmer have made parts of Blackreach their nest. We tread on perilous ground.",
+    "string": "矮人机械守卫仍在此处活跃，雪精灵也将黑降的部分区域作为巢穴。我们正踏在危险的土地上。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500093F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My old friend Sinderion came here ages ago to research Nirnroot. He was never heard from again.",
+    "string": "我的老朋友辛德里昂很久以前就来这里研究奈恩之根了。从此便杳无音讯。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000886|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm glad I don't have to talk to these Thalmor. If I so much as open my mouth around these Thalmor twits... Oh, I can already smell the cooked flesh.",
+    "string": "我很高兴不用跟这些梭默打交道。要是我跟这些梭默蠢货开口……哦，我仿佛已经闻到烤肉的味道了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000887|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can see why the Nords gave Solstheim to the Dunmer, having seen this island myself.",
+    "string": "看过这座岛后，我倒能理解为什么诺德人会把索瑟姆交给暗精灵了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000888|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Solstheim is... exactly as I imagined. Take that to mean what you please.",
+    "string": "索瑟姆……正如我所料。你想怎么理解都行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000889|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Solstheim is a land of treacherous dangers. But have no fear - you were taught by the best.",
+    "string": "索瑟姆是一片充满致命危险之地。但别怕——你可是由最好的人教导出来的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088C|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The ash of Solstheim conceals many secrets.",
+    "string": "索瑟姆的火山灰下隐藏着许多秘密。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Dunmer have settled in here well, I see.",
+    "string": "我看暗精灵们在这儿安顿得不错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000941|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You built this? I'm impressed.",
+    "string": "你建的？真让我佩服。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000942|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Life outside the city does have a certain appeal, I have no doubt. Privacy, for one. No one to interfere. I'm sure I could get used to it.",
+    "string": "我毫不怀疑，城外的生活确实有其独特的吸引力。比如，隐私。没人打扰。我确信我能适应。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000943|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I must say, I love your home. It's so unique. It must have been quite the task to acquire.",
+    "string": "我得说，我很喜欢你的家。太独特了。要得到它，想必费了不少功夫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000944|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, Saarthal. Just as grey and intimidating as I remember.",
+    "string": "哦，萨瑟尔。跟我记忆中一样灰暗、令人敬畏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000945|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "On a clear day, you can see the shrine from the College. It never fails to impress.",
+    "string": "天气晴朗时，从学院就能看到那座神龛。总是那么令人印象深刻。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000946|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear soaking in Eastmarch's hot springs is good for your body and mind.",
+    "string": "我听说在东陲领的温泉里泡一泡，对身心都有好处。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000947|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And I thought the tree in Whiterun was impressive. This is simply magnificent.",
+    "string": "我还以为雪漫城那棵树已经够壮观了。这简直太美了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000892|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Skyrim may not be in the best of times, but reducing one self to banditry only leads to death. At our hands, no less.",
+    "string": "天际省如今虽时局艰难，但沦为强盗只会招来杀身之祸。而且，还是死在我们手里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000893|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The bandits have little appreciation for knowledge and the arcane. All they care about is gold.",
+    "string": "这些强盗对知识和奥术毫无欣赏之情。他们眼里只有金子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000896|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I once studied Forsworn and Hagraven magic out of curiosity. It is actually quite intriguing - disgusting and savage, but intriguing.",
+    "string": "出于好奇，我曾研究过弃誓者和哈格拉文的魔法。实际上，它相当引人入胜——令人作呕且野蛮，但引人入胜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000897|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's see how the Forsworn's savage zeal fares against my elemental arcana, shall we?",
+    "string": "让我们看看弃誓人的野蛮狂热能否抵挡得住我的元素奥术，如何？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000962|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Even with the dark powers it offers, transforming into a grotesque bird-woman is hardly worth the tradeoff.",
+    "string": "即便它能赋予黑暗力量，变成一只丑陋的鸟身女妖也实在不值得。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089A|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Imagine what our civilizations might have accomplished, had the Dwemer's hubris not exceeded their common sense.",
+    "string": "试想，若不是矮人的傲慢超越了他们的理智，我们的文明可能会取得怎样的成就。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089B|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can see why Arniel is so enthralled with these machines. They really are out of this world, wouldn't you say?",
+    "string": "我明白阿内尔为何对这些机器如此着迷了。它们确实超凡脱俗，你说呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Falmer are sad creatures who were reduced to blind abominations.",
+    "string": "雪精灵真是可悲的生物，沦为了失明的怪物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Even if I pity the Falmer for their history, their hatred and venom make it difficult to sympathize.",
+    "string": "即便我同情雪精灵的过往遭遇，可他们的仇恨与毒液却让我实在难以对他们产生怜悯。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A2|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Phinis would have a field day here, digging those Draugr up for studying. But who am I to judge him?",
+    "string": "菲尼斯要是到这儿来，肯定会乐坏了，把这些尸鬼挖出来研究。不过我又有什么资格评判他呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A3|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What woke these Draugr up, I wonder? I doubt it's anything natural.",
+    "string": "我在想，到底是什么唤醒了这些尸鬼呢？我怀疑这绝非自然现象。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A6|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These amateurs call themselves wizards. Let them observe and see what a real master can do.",
+    "string": "这些业余货色居然也敢自称法师。让他们瞧瞧，看看真正的大师能施展出什么手段。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A7|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A little fire and lightning ought to liven things up.",
+    "string": "来点儿火焰与闪电，应该能让这里热闹起来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B0|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've studied the vampires before. Purely out of academic passion, of course.",
+    "string": "我之前就研究过吸血鬼。当然，纯粹是出于学术上的热情。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B1|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't have much love for the vampires. They are unnatural beings created by unholy magicks.",
+    "string": "。他们是由邪恶魔法创造出来的不自然生物，实在令人厌恶。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AB|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Never had I imagined that I'd witness such magnificent and destructive creatures.",
+    "string": "我从未想过，自己竟能亲眼目睹如此壮观却又极具破坏力的生灵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AE|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Keep your distance, and they'll keep theirs. A Giant is not worth provoking.",
+    "string": "跟它们保持距离，它们也会跟你保持距离。巨人可不好惹，千万别去招惹。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000963|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Colette insists that giant toes have remarkable healing properties. Personally, I'd rather die than drink... giant toe juice.",
+    "string": "科莱特坚称巨人的脚趾有着非凡的治愈功效。可就我而言，我宁愿死，也不想喝……巨人脚趾榨的汁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000801|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've always loved the rain. It reminds me of springtime in Cheydinhall.",
+    "string": "我一直都很喜欢下雨天。它让我想起香丁赫尔的春日时光。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000802|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you feel the warm sun touching your face? It almost reminds me of brighter days... in Alinor.",
+    "string": "你能感觉到温暖的阳光轻抚脸庞吗？这几乎让我想起了在艾琳诺度过的那些更美好的日子……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000803|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The clouds are thick with a pallid malice. A blanket of rain and snow.",
+    "string": "天空中乌云密布，带着一股阴森的恶意，仿佛要降下一层雨雪交织的帷幕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000964|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, look... more snow. You'd think I had grown accustomed to it by now, but an Altmer can never get used to it.",
+    "string": "哦，看啊……又下雪了。你或许会觉得，到现在我早该习惯了，但一个高等精灵永远都无法适应这样的天气。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000965|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Having come from a warm climate, the cold really does bother me sometimes. Anyway...",
+    "string": "我来自气候温暖的地方，这寒冷有时真让我难受。不过，言归正传……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000804|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The stars remind us of beauty and wonders beyond our world.",
+    "string": "星星让我们想起了这个世界之外的美丽与奇迹。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000805|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The aurora is truly a miracle from the gods.",
+    "string": "极光真是神明赐予的奇迹。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000967|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The northern lights are the envy of the south.",
+    "string": "北极光让南方人羡慕不已。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000966|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be alert. In snowfall this dense, it's all too easy to get lost and find yourself at the mercy of the elements.",
+    "string": "保持警惕。在这样密集的降雪中，人很容易迷失方向，任由恶劣天气摆布。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG010",
+    "form_id": "05000812|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So, how long have you been at the College?",
+    "string": "所以，你在冬堡学院任职多久了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000813|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I came to Skyrim... oh, almost 90 years ago, I think?",
+    "string": "我来到天际……哦，我想已历九十余载？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000813|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Somewhere around then. I've left a few times, but always seem to find my way back.",
+    "string": "有时我会出访外地，离开学院几次，但最终都会回到这里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG011",
+    "form_id": "05000815|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Were you here during the Great Collapse?",
+    "string": "幽灵海事件爆发时你在学院吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000816|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was.",
+    "string": "我是啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG011a",
+    "form_id": "05000817|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What was it like?",
+    "string": "那是一番什么样的景象？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000818|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Terrifying, to put it simply. I was young, but I remember clearly the day it began like it was only yesterday.",
+    "string": "一言以蔽之，恐怖。那时我还年轻，但那日犹在眼前。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000818|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I saw the skies turning grey, the seas rising to a mountain's height, as the winds go from a howl to a scream - before everything started to shake.",
+    "string": "黎明似黑夜，海洋如山高。随着风从呼啸变为尖叫，一切都开始摇晃。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000818|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "In but a matter of moments, it was as if the gods had come down to judge us, and Oblivion's maws opened under the sea... swallowing the city whole.",
+    "string": "瞬息之间，魔神们好像要来审判我们，湮灭之门在海底打开……大海吞没了整个冬堡。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG011ai",
+    "form_id": "05000819|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It must have left a mark on you.",
+    "string": "这一点让你蒙上了一层阴影。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081A|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Suffice it to say... I still steer clear of the coasts near Winterhold unless I have no other choice.",
+    "string": "可以说直到今日，如果不是必须的话，我也不愿意到海滩边。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081C|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When we took shelter in the Midden, we could hear the chaos, feel the ground shift as the city collapsed around us.",
+    "string": "当我们躲进Midden的庇护所寻求庇护时，能听见外界混乱不堪，脚下大地震颤——整座城市在我们周围轰然崩塌。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081C|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I thought it would never end. I thought we were going to die... but then, in a blink, it just stopped.",
+    "string": "我以为这一切永无止境，我以为我们必死无疑……然而，转瞬之间，一切戛然而止。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081C|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "When we emerged from the College, we found only ruin, death... and contempt.",
+    "string": "当我们从学院中走出时，眼前只有废墟、死亡……还有那无尽的轻蔑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG011ai1",
+    "form_id": "0500081D|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Contempt?",
+    "string": "歧视？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Nords of Winterhold blamed us and our \"unnatural and dark sorceries\". They threw stones at our walls, attacked our novices outside the College...",
+    "string": "冬堡的诺德人将我们视为“异端和黑暗”，他们朝学院扔石头，袭击我们的新生……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081E|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "For a moment, I truly thought the mob would storm the College, repeat the massacre that happened to the Arcane University in Cyrodiil...",
+    "string": "那时，我真的以为暴民会毁掉大学，重复希罗迪尔（Cyrodiil）的奥数大学（Arcane University）大屠杀...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081E|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I suppose they perished that thought when they saw our professors' display of power, what with the wall of fire that surrounded the College.",
+    "string": "我想，当他们看到教授们“展示”在他们周围的火墙时，他们停止了这种想法。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081E|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "But after that dreadful and short-lived conflict, what little warmth existed between mages and the Nords had grown colder than the frozen wastes.",
+    "string": "但是在那令人恐惧和短暂的冲突之后，学院和诺德人之间的关系比冬堡的寒霜更冷。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG011ai2",
+    "form_id": "0500081F|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did the College survive the collapse, actually?",
+    "string": "那么事实上，冬堡学院是如何躲避大塌陷的呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000820|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was just an apprentice at the time, hardly someone the Masters would entrust such knowledge to.",
+    "string": "当时我只是个学徒，教授们几乎没有人会透露这样的知识。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000820|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "There's no doubt the professors did something to save the College - but as far as the how and the what, I've never been privy to any evidence.",
+    "string": "毫无疑问，教授们使用了一些方法拯救大学，但是就“如何做”和“是何物”而言，我从来没有任何头绪。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG011ai3",
+    "form_id": "05000821|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What did the Arch-Mage say about the Great Collapse?",
+    "string": "首席法师对冬堡大塌陷是什么态度？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000822|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nothing. It was a subject of great ire after it all ended, so we were forbidden from discussing it.",
+    "string": "没什么态度。一切结束后，这就成为了禁题，我们被禁止讨论它。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000822|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Arch-Mage Deneth said it was to help quell any rumors, but, personally, I feel as if our silence on the matter only made things worse.",
+    "string": "首席大法师丹尼斯（Arch-Mage Deneth）表示，这有助于平息谣言，但是我个人觉得我们对此事的沉默只会使情况变得更糟。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG011aii",
+    "form_id": "05000823|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds like a sight to behold.",
+    "string": "听起来像是要摆脱过去？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000824|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "For the first few moments, perhaps. But no sight is worth the scars it leaves behind.",
+    "string": "也许在最初的几分钟有效。但任何努力都抹不去它留下的伤痕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaSaarthal0",
+    "form_id": "05000826|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you been to Saarthal?",
+    "string": "你去过萨瑟尔城吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000827|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Once, when I was still an apprentice here. But ever since the Great Collapse, the Jarl didn't even allow us near Saarthal at all. Until now.",
+    "string": "当我是这里的学徒时去过一次。但是自从幽灵海事件以来，领主甚至不允许我们靠近萨瑟尔城，直到最近才放开。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000827|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The local Nords absolutely hate our presence there. Truthfully, I can't say I blame them.",
+    "string": "当地的诺德人极度厌恶我们在那里的存在。说实话，我也不能怪他们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaSaarthal1",
+    "form_id": "05000828|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why don't they want us there?",
+    "string": "为什么他们不想我们这么做？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000829|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, were it the other way, say the Nords were digging their way through the ruins of the Crystal Tower, I'd feel quite the same as they do...",
+    "string": "好吧，如果换另一种语境，比如说诺德人要在水晶塔（译者注：等同于高精灵的“诺德古墓”）的废墟中挖掘，我会和他们有同样的想法……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000829|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But it is what it is.",
+    "string": "这就是实际情况。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaSaarthal2",
+    "form_id": "0500082A|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why does the Jarl allow us to enter Saarthal now?",
+    "string": "为什么领主现在允许我们进入萨瑟尔城了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not sure. Arch-Mage Savos isn't exactly communicative with his staff... but it was not long after Ancano made himself comfortable in the College.",
+    "string": "我不知道，首席法师萨沃思.阿冉（Arch-Mage Savos）并没有我们说过……但是安卡诺（Ancano）进入大学不久后就同意了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082E|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Knowing his kind, I wouldn't be too surprised if he pulled the strings behind this expedition. I'd be careful if I were you.",
+    "string": "我了解他这种人，如果他在这次探险后面耍一些阴招，我不会感到惊讶。如果我是你，我会小心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aazEXITTopic",
+    "form_id": "0500082C|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's talk about something else.",
+    "string": "让我们聊点别的",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaSaarthal2a",
+    "form_id": "0500082F|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You think Ancano is after something in Saarthal.",
+    "string": "您认为安卡诺在萨瑟尔城发掘背后有阴谋？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000830|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He could be. The only time I was in Saarthal, I felt an overwhelming... sorrow, as if the tragedies of the past were pressing down on me all at once.",
+    "string": "也许吧。我在萨瑟尔城中的有过一次经历，我感到一个压倒性的……悲伤，好像过去的悲剧立刻就要发生在我身上。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000830|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Behind all that grief, all that fright... It was as if I could hear something talking to me - promising power, whispering doom.",
+    "string": "在悲伤之后，恐惧就突然袭来……好像能听到一些人与我说话，那是强大的力量在窃窃私语。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000830|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Whatever Ancano is seeking there, it bears no good omen.",
+    "string": "无论安卡诺在萨瑟尔城找什么，这都不是什么好事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaSaarthal2b",
+    "form_id": "05000831|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you voiced your concern to the Arch-Mage?",
+    "string": "您是否向首席大法师表达了您的担忧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000832|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I tried, but it seems Savos was too seduced by the promises of Saarthal's power. Everything I said only fueled his curiosity further.",
+    "string": "我尝试过，但似乎萨沃思被萨瑟尔城的力量所吸引。我说的一切只是加剧了他的好奇心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000832|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But I suppose I've revealed more knowledge than an apprentice should rightfully know. Now, your professor has an assignment for you, yes?",
+    "string": "但是我想我透露的事情远比一个学徒应该知道的更多。现在，您的教授为您准备了一项任务，是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000835|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Barely enrolled in the College, and you're already the talk of the town. What a way to make an entrance, I'd say.",
+    "string": "你才刚加入学院不久，就已然成了全城热议的话题人物。要我说，这出场方式可真够“惊艳”的啊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG021",
+    "form_id": "05000836|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That was not my intention.",
+    "string": "我不是有意为之的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000837|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, don't be modest. I'm sure its not the first time.",
+    "string": "哦，不要那么谦虚。我敢肯定这不是第一次有人这么问了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG022",
+    "form_id": "05000838|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I must say, it's hardly out of the ordinary at this point.",
+    "string": "我得说，这会儿这些事儿都不算稀奇了，教授。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000839|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? I'm sure you have many exciting tales then. Someday you'll have to tell me some.",
+    "string": "哦？看来你倒是有不少见闻。哪天不妨说给我听听。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083B|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If I may, though - do be cautious. Whatever this orb from Saarthal is, it's sure to bring nothing but trouble.",
+    "string": "恕我直言——你可千万要小心。不管萨瑟尔的这个球体是什么，它肯定只会带来麻烦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083B|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Simply by standing near it, you can feel its aura, its pull. Our Thalmor guest has already been unnervingly curious.",
+    "string": "你只要站在它附近，就能感受到它散发的气场，还有那股吸引力。咱们那位梭默客人已经表现出令人不安的好奇心了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG060",
+    "form_id": "05000846|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you know about Mzulft?",
+    "string": "您对姆祖尔夫特（Mzulft）了解多少？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000847|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Another Dwemer ruin, I'm assuming? Frankly, I know very little about it. The Dwemer aren't really my forte.",
+    "string": "又是座矮人遗迹吧，我猜？说实话，我对它知之甚少。矮人的历史（Dwemer）并非我的专长。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000847|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Now, if you'd like to know how to set ablaze or send shockwaves through the animunculi there, well then I'm your mage.",
+    "string": "不过呢，要是你想知道怎么把那些机械守卫点着，或者用闪电把它们劈个七荤八素，那我这个法师就可以派上用场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084C|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I knew that fool Ancano was nothing but trouble. We'll make sure to rain Oblivion upon him! So, I assume you have a plan?",
+    "string": "我就知道安卡诺那个蠢货只会惹是生非。我们定要让他在湮灭之境里遭报应！那么，我猜你已有计划了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000877|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There's no time to waste. Get to Labyrinthian before that treacherous Thalmor triggers a second Great Collapse... or worse!",
+    "string": "没时间浪费了。得在那阴险的梭默人引发第二次大崩塌……或是更糟的事之前赶到迷城！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000878|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We need to get back to the College. Now.",
+    "string": "我们得立刻回学院。现在就走！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG071",
+    "form_id": "0500084D|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm heading to Labrynthian, where the Staff of Magnus is believed to be.",
+    "string": "我正要启程迷城，据说马格努斯之眼就在那。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course. The masters always loved their secrets, and Shalidor was no different.",
+    "string": "那当然。那些大法师向来都爱藏着掖着他们的秘密，沙利多也不例外。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000855|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful. There is no telling what you might face there. We will keep Ancano at bay while you're gone. Good luck.",
+    "string": "务必小心。谁也说不准你在那儿会遭遇什么。你不在时，我们会牵制住安卡诺。祝你好运。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000866|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's a dangerous task you're facing, and I would be remiss if I didn't offer my aid to you. What do you say?",
+    "string": "你面临的任务凶险万分，若我不助你一臂之力，实在有失本分。你怎么看？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There's something I may need your help with... If you have a moment to spare from your other assignments.",
+    "string": "有件事可能需要你搭把手……要是你从其他任务里能抽出点时间的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heading to Saarthal? Well, do try to have fun. There are always so many tedious tasks when we're on field studies.",
+    "string": "要去萨瑟尔？嗯，尽量玩得开心点。我们外出实地研究时，总有一堆烦人的活儿要干。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be on your guard around those Synod mages. They might not be as ruthless as the College of Whispers, but they aren't to be underestimated either.",
+    "string": "对那些议会法师要多留个心眼。他们或许不像静语学院那般冷酷无情，但也绝不可小觑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaFreeformA0",
+    "form_id": "05000857|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Did you need help with something?",
+    "string": "你是有什么事需要我帮忙吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes. It's Nirya - she has been behaving particularly suspiciously these few days. I want to know what she's up to.",
+    "string": "没错。是尼尔雅——这几天她举止特别可疑。我想知道她到底在搞什么鬼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085D|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I'd appreciate it if you could talk to her, see what she's plotting, then come back to me.",
+    "string": "要是你能去跟她聊聊，看看她在谋划什么，然后回来告诉我，我会很感激的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085D|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Can you do this favor for your professor?",
+    "string": "能帮你的教授这个忙吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaFreeformA1",
+    "form_id": "0500085F|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, Professor.",
+    "string": "当然了，教授。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000860|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Excellent. I await your good news.",
+    "string": "好样的，别丢份（TOM！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaFreeformA2",
+    "form_id": "05000862|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wouldn't that get me on Nirya's bad side?",
+    "string": "这样不会让我被尼尔雅记恨上吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000863|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, nothing to worry about. I'm a Professor, and she's just a Research Assist- I mean, I'll help you should there be repercussion.",
+    "string": "别担心。我是教授，她不过是个研究助理——我是说，就算真有麻烦，我也会护着你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaFreeformA3",
+    "form_id": "05000864|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can't right now.",
+    "string": "我现在实在抽不开身。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG071a",
+    "form_id": "05000867|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course. I could use your help.",
+    "string": "当然。我本就需要你的协助。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000869|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good. Let us head off immediately. The sooner we find the staff, the sooner that treacherous Thalmor will get what he deserves.",
+    "string": "好。那我们现在就出发。越早找到魔神杖，就能让那个背信弃义的梭奸付出代价。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG071b",
+    "form_id": "0500086A|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, thank you. I think I can handle it.",
+    "string": "不了，谢谢。我想我能应付。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086B|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As you wish. Do be careful, and good luck to you.",
+    "string": "随你。小心行事，祝你好运。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000872|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Frost specter? I've seen worse in High Rock!",
+    "string": "霜灵？我在高岩见过更吓人的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500094F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Here comes that dragon. Make it count!",
+    "string": "那条龙来了。可别错过机会，好好干一场！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000870|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Prepare yourself! These bony abominations mean business!",
+    "string": "做好准备！这些骨骸怪物可不是闹着玩的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000873|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've had about enough of these damned Draugr to last a lifetime!",
+    "string": "我这辈子受够这些该死的尸鬼了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's done. The Eye is gone... And we're finally rid of that villain Ancano.",
+    "string": "结束了。马格努斯之眼已不复存在……我们也终于摆脱了那个恶棍安卡诺。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG081",
+    "form_id": "0500087F|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It feels strange. Like there's more that should be done.",
+    "string": "总觉得……事情不该就这么结束。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000880|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There is. It may not be today or tomorrow, but one way or another, what transpired here will ripple into our future.",
+    "string": "确实没结束。或许不是今天，也不是明天，但这里发生的一切，终将影响我们的未来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG081a",
+    "form_id": "05000881|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What makes you think that?",
+    "string": "您为什么这么说？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000882|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A Thalmor died at our College, Winterhold was nearly leveled due to his plot - and the Psijics, long vanished, have come and taken a god's artifact?",
+    "string": "赛伊克教团的法师向我保证，他们会处理好后续。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000882|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Trust me. It doesn't end with Ancano.",
+    "string": "相信我，安卡诺的死不代表事情的终点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG082",
+    "form_id": "05000883|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Psijic Monks assured me they'd take care of things.",
+    "string": "赛伊克教团的法师向我保证，他们会处理好后续。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088A|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Even if the Psijics can draw the attention away from us, many in Skyrim are going to demand answers.",
+    "string": "即便赛伊克教团能帮我们转移众人的注意力，但天际仍会有许多人要求我们给出解释。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088A|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Whatever the Eye unleashed... it will come back to haunt us either way, and all of Tamriel will pay the price.",
+    "string": "无论马格努斯之眼释放出了什么……它迟早会回来纠缠我们，整个泰姆瑞尔大陆都将为此付出代价。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088A|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But let tomorrow's problems be tomorrow's. Today, we celebrate - with how admirably you've performed, I am honored to call you Archmage.",
+    "string": "但明日之忧，留待明日再议。今日，我们当欢庆胜利——你表现得如此出色，能尊称你首席法师，我深感荣幸。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG083",
+    "form_id": "0500088B|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I suppose the Monks will do what they can, but you make a good point.",
+    "string": "我想赛伊克教团会尽力而为……不过你也要做出表率。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG084",
+    "form_id": "0500088F|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "True. We can't rely on anyone but ourselves to protect us.",
+    "string": "没错。除了自己，我们谁也不能依赖。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG082a",
+    "form_id": "05000891|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thank you, Faralda.",
+    "string": "谢谢你，法劳达教授。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000894|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It has been a pleasure, Arch-Mage.",
+    "string": "这是我的荣幸，首席大法师。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ0",
+    "form_id": "05000898|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can I ask you something?",
+    "string": "我能问您件事吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaFollow0",
+    "form_id": "0500089D|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Would you be interested in traveling with me?",
+    "string": "您……愿意和我一起旅行吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A0|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mountains of research papers piled up on my desk, dozens of peer evaluation requests I've yet to entertain, and you ask me to travel?",
+    "string": "我桌上堆着几十份研究报告要批改，还有一堆同行评审请求没处理——你让我抛下这些去旅行？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A0|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Why not? As the Akaviri proverb goes - walking a thousand miles is superior to reading a thousand tomes. Now, shall we?",
+    "string": "为何不可？正如阿卡维尔（Akaviri）谚语所说——“行万里路，读万卷书”。现在，走吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMagnus0",
+    "form_id": "050008A4|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you know about the Eye of Magnus?",
+    "string": "您对“玛格努斯之眼”了解多少？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A5|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "According to our religion, Magnus is the God of Magic and Creator of the World. Some ancient cultures took to calling him the \"All-Father.\"",
+    "string": "据我们的信仰，玛格努斯是魔法之神，亦是世界之创造者。某些古文明称他为“万物之父”。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A5|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Magnus guided the gods and our ancestors to create this world. But before he could complete his work, he... just left.",
+    "string": "他引领众神与我们的祖先创造了这个世界。但未等完成……他便离开了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A5|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Whether he left by choice or by necessity, no one knows. What we do know, though, is that the sun is the hole through which he departed.",
+    "string": "是主动离去，还是被迫逃离？无人知晓。但我们确信——太阳正是他离去时留下的裂隙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A5|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "As for the Eye - your guess is as good as mine. Obviously, I don't quite believe the orb to be the actual eye of a god.",
+    "string": "至于“玛格努斯之眼”……你的猜测与我无异。我自然不信那圆球真是神明之眼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMagnus1",
+    "form_id": "050008A8|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you have any guesses, though?",
+    "string": "那您有什么推测吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A9|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It bears no resemblance to the work of any culture we know. But... what if there are civilizations in history that have been lost to time?",
+    "string": "它与我们已知的任何文明造物都毫无相似之处。但……若历史上存在已被遗忘的文明呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A9|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I'm aware of at least one. Some dismiss them as fairy tales utilized by the Thalmor to bring all the elves under their fold, but...",
+    "string": "我至少知道一个。有人认为那不过是梭默编造的童话，用来统合所有精灵族——但……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A9|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I can't shake the feeling that it could be a creation of the Aldmer - the Elder Elves, ancestors of all elven kinds.",
+    "string": "我总觉得，它或许是先祖精灵（Aldmer）——所有精灵族的祖先——的造物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A9|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Ancient folklore mentions that a disaster destroyed the Aldmer and broke them into warring tribes, eventually forming different races.",
+    "string": "古老传说中，一场灾难毁灭了先祖精灵，将他们分裂成互相对立的部族，最终演化成不同种族。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AC|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What if it was no mere folklore, but actual history? What if that disaster was the very orb that now sits in our College?",
+    "string": "倘若那并非单纯的民间传说，而是真实发生过的历史呢？倘若那场灾难正是由如今摆放在我们学院里的那颗球体所引发的呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AD|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What if it was no mere folklore, but actual history? What if that disaster was the very orb that now sits in the Psijics' hands?",
+    "string": "倘若那并非单纯的民间传说，而是确有其事的历史呢？倘若那场灾难正是由如今掌握在赛伊克教团手中的那颗球体所造成的呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaAncano0",
+    "form_id": "050008B2|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you have a problem with Ancano?",
+    "string": "您对安卡诺有意见吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B3|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's not just him. I have a problem with the Thalmor in general.",
+    "string": "不只是他。我对整个梭默都有意见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B3|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The moment he came through that gate meant we had caught the eye of the Eagle. That's bad news for us.",
+    "string": "不只是他。我对整个梭默都有意见。他踏入学院大门的那一刻，就意味着我们已被“锐眼鹰”盯上——这对我们可不是好消息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B4|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The moment he came through that gate meant we had caught the eye of the Eagle. Now that Ancano is dead, the Thalmor won't forgive this slight.",
+    "string": "他踏入学院大门的那一刻，就意味着我们已被“鹰之眼”盯上——这对我们可不是好消息。如今安卡诺已死，梭默绝不会善罢甘休。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B4|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How do you feel, now that Ancano is dead?",
+    "string": "安卡诺死了，您现在作何感想？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaAncano1",
+    "form_id": "050008B5|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "There must be something I can do to help.",
+    "string": "一定有什么我能帮忙的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B6|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not without giving the Justiciars more reasons to come to our doorstep, unfortunately. I appreciate the offer, however.",
+    "string": "除非你想给审判官更多借口找上门来。不过……你的心意我领了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaAncano2",
+    "form_id": "050008B7|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It seems you distrust the Thalmor.",
+    "string": "看来您很不信任梭默。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B8|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They exemplify everything Tamriel already dislike about the Altmer.",
+    "string": "他们把泰姆瑞尔对高精灵的厌恶，演绎得淋漓尽致。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B9|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "After what Ancano had done, why would anyone trust the Thalmor at all?",
+    "string": "安卡诺干出那种事……谁还会信任梭默？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGoodbye",
+    "form_id": "050008BA|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "aaGoodbye",
+    "string": "再见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C2|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's explore the secrets of the arcane.",
+    "string": "让我们去探索奥术的奥秘吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BB|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Use the power well.",
+    "string": "善用这份力量。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BF|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's go, my love.",
+    "string": "我们走吧，亲爱的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BD|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "But ultimately, it's... rather a personal matter. Maybe I'll tell you someday.",
+    "string": "但说到底，这……算是件私事。也许哪天我会告诉你的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaCol0",
+    "form_id": "050008C1|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You must have some thoughts about our other colleagues.",
+    "string": "您对其他同事有什么看法？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaNirya0",
+    "form_id": "050008C5|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You and Nirya don't seem to get along.",
+    "string": "您和尼尔雅似乎合不来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C6|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "\"Get along\"? I hardly acknowledge her, what with that attitude of hers.",
+    "string": "“合不来”？我几乎当她不存在——尤其是她那副高高在上的德行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaNirya1",
+    "form_id": "050008C7|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What gave her that attitude?",
+    "string": "她为什么那样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C8|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I suppose she thought she was the last Altmeri princess or something? She surely sounded like that when she ordered the others around.",
+    "string": "大概以为自己是最后一位高精灵公主吧？她指挥别人时的口气，活像连呼吸都要用附魔空气。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaNirya2",
+    "form_id": "050008C9|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Her attitude isn't likable, that's for sure.",
+    "string": "她的态度确实不讨喜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CA|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now that's quite the understatement. Even for an Altmer, she spoke as if she couldn't breathe in anything but enchanted air.",
+    "string": "这还是轻描淡写了。就算在高精灵里，她也像离了附魔空气就活不了似的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaNirya3",
+    "form_id": "050008CB|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Maybe you two would benefit from just talking it out.",
+    "string": "也许你们该好好谈谈。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CC|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, when the sun rises from the west and the snow of the Throat of the World melts.",
+    "string": "等世界颠倒、世界之喉的雪融化再说吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaNirya4",
+    "form_id": "050008CD|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "She's just jealous of your academic achievements.",
+    "string": "她只是嫉妒您的学术成就。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CE|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, I don't mean to drag myself to her level, but there's a reason why I'm a professor, and she's still a research assistant after all these years.",
+    "string": "我可不想拉低身段跟她计较——但话说回来，我是教授，她这么多年还是研究助理，总有原因的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaArniel0",
+    "form_id": "050008D0|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you think about Professor Arniel Gane?",
+    "string": "那您觉得阿内尔.甘教授怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D1|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Arniel? He's a capable enough wizard, came to us from the College of Whispers some time back.",
+    "string": "阿内尔？他从静语学院来，是位颇有能力的法师。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D1|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "His expertise in Dwemer studies is second to none, but he is a bit... careless, if you ask me.",
+    "string": "他的矮人研究无人能及……不过，要我说，他有点……粗心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D1|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "One time, he even let his Dwemer Spider run around the College and... multiply! I hope it doesn't come back to bite him someday.",
+    "string": "有次他放任矮人蜘蛛在学院里乱跑，还……繁殖了！希望这不会反噬他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaTolfdir0",
+    "form_id": "050008D3|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What are your thoughts on Professor Tolfdir?",
+    "string": "你认为托夫迪尔教授怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D4|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He served as a court wizard for years before taking his position at the College, solved mysteries that troubled hundreds.",
+    "string": "他曾在宫廷担任法师多年，解开了困扰无数人的谜题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D4|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Looks may be misleading, but this kind old man is one of the greatest Alteration Masters to ever walk on Skyrim's soils.",
+    "string": "别被他的外表骗了——这位和蔼的老人，是天际最伟大的变化系大师之一。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaApp0",
+    "form_id": "050008D6|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you think of the other apprentices?",
+    "string": "您对其他学徒怎么看？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D7|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Generally, I don't give them much thought.",
+    "string": "我很少关注他们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D7|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It's nothing personal, but people tend to come and go. You know - thesis, exams, grades, and everything that makes College life exciting.",
+    "string": "并非针对谁——学院生活本就人来人往，论文、考试、成绩……这些才是日常。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D7|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Until they prove they'll last, I try not to get too familiar. You might be the only apprentice I've spoken to outside of classes.",
+    "string": "除非他们证明自己能留下，否则我不会投入太多感情。你大概是唯一一个我在课后愿意多聊几句的学徒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D7|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Honestly, if you hadn't been so eager for after-class conversations, I doubt I'd have spoken to you that much either.",
+    "string": "说真的，要不是你总主动找我搭话，我大概也不会和你说这么多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D8|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We should be proud to have these worthy mages and academics among our ranks. And who knows? Maybe they'll become professors one day.",
+    "string": "不过，能有一群优秀的法师和学者加入我们，总归是件值得骄傲的事。说不定他们未来也会成为教授呢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaSavos0",
+    "form_id": "050008DA|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What were you and Savos's history?",
+    "string": "您和萨沃思院长过去有什么交集吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DB|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I knew him when we were both just apprentices. Truthfully, I know little about his personal life... He's always been an exceedingly private person.",
+    "string": "我们曾是同期的学徒。说实话，我对他的私生活知之甚少……他一直是个非常注重隐私的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DB|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "To be honest, we didn't see eye to eye since the days we were apprentices. He believed in the reckless pursuit of knowledge, and I, the opposite.",
+    "string": "其实，从学徒时代起，我们的观点就合不来。他主张为求知不择手段，而我恰恰相反。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DB|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "When it became clear that Arch-Mage Deneth intended for Savos to take his cloak, I left for Northpoint to serve as King Blanchett's Court Wizard.",
+    "string": "后来，当丹内斯院长明确表示要让萨沃思接任时，我离开了学院，去北角担任布兰切特国王的宫廷法师。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DB|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "With things as they were, I had nothing else to keep me in Winterhold... so it seemed like a good idea at the time.",
+    "string": "当时那种情形，我在冬堡也没别的事可牵挂……所以那时候觉得，这倒是个挺不错的主意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaSavos1",
+    "form_id": "050008DC|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But you came back.",
+    "string": "但您后来又回来了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DD|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Blanchett's ambitions were too great for his own good. He poked the dragon and met the wrath of Emperor Titus - then just a prince.",
+    "string": "布兰切特国王野心太大，最终触怒了提图斯.迈德帝国——当时还是泰特斯王子执政。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DD|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I could not stay in Northpoint, but neither could I return to my homeland. So... Winterhold seemed like the only place left that'd have me.",
+    "string": "我无法继续留在北角，也无法返回故乡……于是，冬堡成了我唯一能去的地方。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaSavos1a",
+    "form_id": "050008DE|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did Savos receive you?",
+    "string": "萨沃思院长怎么看待您的回归？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DF|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Age and wisdom had smoothed our disagreements. He offered me a position in the School of Destruction, along with a very generous research subsidy.",
+    "string": "岁月和智慧淡化了我们的分歧。他邀请我加入毁灭系，还提供了丰厚的科研补贴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E1|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Savos was still his old reclusive self - but it seemed as if something changed him, that he'd outgrown his reckless youth. A welcome change.",
+    "string": "萨沃斯还是像从前那样孤僻寡言——但似乎有什么改变了他，让他摆脱了年少轻狂的莽撞。这变化倒也令人欣慰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E2|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Savos was still his old reclusive self - but it seemed as if something made him outgrow his reckless youth. I suppose we know why, now.",
+    "string": "萨沃斯依旧是那个离群索居的老样子——但似乎有什么让他告别了鲁莽的青春岁月。如今想来，我们大概也明白原因了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMirabelle0",
+    "form_id": "050008E4|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you friends with any professors?",
+    "string": "您有和哪个教授是朋友吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E5|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wouldn't call most of them \"friends\". It's always healthy to maintain a professional boundary, you understand.",
+    "string": "“朋友”算不上。保持专业距离总是有益的，你明白的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E5|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Still, I'm closer to some than others. Mirabelle, for instance - I instructed her in the arcane arts during my time in High Rock.",
+    "string": "不过，我和某些人走得更近一些。比如米拉贝勒——我在高岩时曾指导过她魔法。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMirabelle1",
+    "form_id": "050008E6|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You were Mirabelle's teacher?",
+    "string": "您是米拉贝勒的老师？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E7|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She was the daughter of one of King Blanchett's courtiers. Barely a child, but already, she displayed a talent in the arcane.",
+    "string": "她是布兰切特国王一位廷臣的女儿。那时她还是个孩子，但已展现出惊人的魔法天赋。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E7|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "When King Blanchett rebelled against the Empire, the Ervines begged me to take Mirabelle to Winterhold, for her to grow up away from the wars...",
+    "string": "当布兰切特国王反叛帝国时，埃尔文家族恳求我带米拉贝勒离开北角，让她远离战乱……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E7|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Mirabelle never saw her parents again, but she would find her place in the College, as I had found mine again.",
+    "string": "她再也没见过父母，但在这里，她找到了属于自己的位置——就像我重新找到自己的归宿一样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMirabelle1a",
+    "form_id": "050008E8|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mirabelle could always go back to meet her parents.",
+    "string": "米拉贝勒随时可以回去见父母啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E9|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There wasn't a family for her to return to anymore. When the Imperials defeated Blanchett, General Salvian put his entire court to the sword.",
+    "string": "她已没有家可回了。帝国军击败布兰切特后，萨尔维安将军下令处决了整个宫廷。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMirabelle1b",
+    "form_id": "050008EA|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mirabelle seems to have a good career here.",
+    "string": "但她在学院发展得很好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EB|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She had a good teacher and a bright mind. It came as no surprise when she eventually exceeded me and became the Master Wizard.",
+    "string": "她有个好老师，头脑也很聪慧。她最终超越了我，成为大师级法师，这并不让我意外。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EC|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Her parents trusted me with their little daughter, and I... I'm sorry. I don't think I can continue.",
+    "string": "她的父母将女儿托付给我，而我……抱歉，我……有些难以继续说下去了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EC|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You must miss Mirabelle.",
+    "string": "您一定很思念米拉贝勒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG030",
+    "form_id": "050008EE|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you ever heard of someone called \"the Caller'?",
+    "string": "您听说过“召唤者（the Caller）”吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EF|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Caller? No. Why? What a ridiculous name. \"The Caller\". What would that even mean? Honestly.",
+    "string": "“召唤者”？没听过。怎么了？这名字可真荒谬。“召唤者”……这到底是什么意思？真是莫名其妙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaWinterhold0",
+    "form_id": "050008F1|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you ever considered leaving Winterhold?",
+    "string": "您有没有想过离开冬堡？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F2|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have I ever thought about leaving this frozen wasteland for somewhere else? I think about it even now.",
+    "string": "离开这片冰天雪地，去别的地方？我现在也在想。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaWinterhold1",
+    "form_id": "050008F3|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why don't you?",
+    "string": "那您为什么不走呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F4|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have... a few times, actually, but I always seem to make my way back.",
+    "string": "其实……我确实有过几次这样的念头，但最后总是又回到了这里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F4|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The College has its own perks. Here, we are afforded far more academic freedom than any other organization would allow.",
+    "string": "学院有它独特的优势。在这里，我们享有比其他任何组织都更多的学术自由。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F4|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I think we could even explore necromancy to a small degree, as long as we aren't flagrant about it like those rogue mages are.",
+    "string": "我觉得我们甚至可以小范围地研究一下死灵法术，只要不像那些叛法师那样明目张胆就行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F4|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I would appreciate a warmer climate, of course... But better that I do my research in a blizzard than sing the Thalmor's praises under the sun.",
+    "string": "我当然也喜欢温暖的气候……但与其在阳光下歌颂梭默的功德，我宁愿在暴风雪中做我的研究。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaWizard0",
+    "form_id": "050008F6|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Did you always want to be a Wizard?",
+    "string": "您从小就想成为法师吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F7|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nearly all of my life, yes. My teachers always said I had an affinity for the arcane, and learning the secrets of Aetherius is fascinating for me.",
+    "string": "几乎从我一生下来就是这样。我的老师们总说我有魔法的天赋，而探索艾瑟瑞斯（Aetherius）的奥秘对我来说也充满吸引力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaWizard1",
+    "form_id": "050008F8|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Were there ever anything else?",
+    "string": "您还对其他事情感兴趣过吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F9|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, if you have to know... When I was young, I took an interest in horses.",
+    "string": "嗯……如果你一定要知道的话……我小时候对马很感兴趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaWizard1a",
+    "form_id": "050008FA|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why horses?",
+    "string": "为什么是马？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FB|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They're such majestic, loyal creatures. Take care of them, and they take care of you - on treacherous mountain paths, or in a war's bloodbath.",
+    "string": "它们是如此威严、忠诚的生物。你照顾它们，它们也会照顾你——无论是在险峻的山路上，还是在战场的血雨腥风中。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FB|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Besides, I got to enchant all sorts of fancy horse armors for my pony.",
+    "string": "而且，我还可以给我的小马驹附魔各种华丽的马铠呢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaWizard2",
+    "form_id": "050008FC|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Was Destruction Magic always your passion?",
+    "string": "您一直都对毁灭系魔法感兴趣吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FD|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Actually, no. I come from a long line of Alteration experts, more specifically Transliminal Arts.",
+    "string": "其实不是。我出身于一个世代研究变化系（Alteration）魔法的家族，更具体地说，是超限魔法（Transliminal Arts）。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FD|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "When I was young, I would watch my mother work for hours, always assuming I would follow in her footsteps.",
+    "string": "我小时候常常看母亲工作好几个小时，一直以为自己会追随她的脚步。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FD|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Destruction came naturally to me, however, and it became more practical than simply academic when I fled Alinor.",
+    "string": "然而，毁灭系魔法对我来说却更加得心应手。而且，当我逃离艾琳诺（即夏暮岛，先祖神州称艾琳诺）时，它也变得比单纯的学术研究更加实用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaWizard2a",
+    "form_id": "050008FE|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you mean by that?",
+    "string": "您这话是什么意思？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FF|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nothing. It's not something I feel like discussing at the moment, if it's all the same to you.",
+    "string": "没什么。只是现在不太想讨论这个话题，如果你不介意的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQAlt0",
+    "form_id": "05000901|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can I ask you something else?",
+    "string": "我能再问您点别的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaNiryaResearch0",
+    "form_id": "05000904|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What about your research interested Nirya so much?",
+    "string": "尼尔雅为什么对您的研究这么感兴趣？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000905|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, it's riveting. A real edge-of-your-seat sort of thing.",
+    "string": "哦，那可有意思了，简直让人紧张得坐立不安。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000905|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I've been researching how we could use the Magicka Wells from longer distances, in the hopes of creating an energy source of sorts.",
+    "string": "我一直在研究如何从更远的距离利用魔法井（Magicka Wells），希望能创造出一种能源。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaNiryaResearch1",
+    "form_id": "05000906|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why do you research that?",
+    "string": "您为什么要研究这个？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000907|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "One of my old colleagues in High Rock is hoping for a more accessible supply of heat for towns in the cold months.",
+    "string": "我在高岩时的一位老同事希望为寒冷月份的城镇提供更便捷的热源。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000907|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Ideally, we could make the winters more bearable, with the potential of applying it to agriculture.",
+    "string": "理想情况下，我们可以让冬天变得更加宜人，甚至有可能将其应用于农业。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaNiryaResearch2",
+    "form_id": "05000908|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well, that does sound... like something.",
+    "string": "嗯，这听起来……确实有点意思。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000909|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enough to bore most people to tears. I find it fascinating, but I can assure you that Nirya does not.",
+    "string": "足以让大多数人听得昏昏欲睡。我自己觉得挺有趣，但我可以保证，尼尔雅绝对不这么想。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000909|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "She doesn't care about the research, she cares about discrediting it.",
+    "string": "她根本不关心研究本身，只想着怎么抹黑它。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaNiryaResearch2a",
+    "form_id": "0500090A|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's with Nirya?",
+    "string": "尼尔雅到底怎么回事？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500090B|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A few years back, I was fascinated with the idea of \"Cold Fire\", an ancient magic that originated in Coldharbour. That was much more exciting.",
+    "string": "几年前，我对“冷焰”特别着迷——一种源自冷港的古老魔法。那可比现在有意思多了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500090B|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Especially when I \"accidentally\" left some papers out that she found, and it resulted in her burning her eyebrows off. Good times.",
+    "string": "尤其是那次我“不小心”把一些资料留在桌上，被她发现了，结果她把自己的眉毛给烧没了。真是美好的回忆啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG040",
+    "form_id": "0500090D|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Did your know the Augur before he became... you know.",
+    "string": "您在先知（the Augur）变成……您知道，那团光球之前，就认识他吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500090E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A radiant ball of light? Not well, but we had met.",
+    "string": "那团发光的东西？不算熟，但见过面。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500090E|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I was just a young apprentice, and he was already a highly regarded scholar, keeping to himself and his laboratory most of the time.",
+    "string": "那时候我还是个年轻学徒，他已经是备受尊敬的学者了，大部分时间都待在自己的实验室里，很少与人来往。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG041",
+    "form_id": "0500090F|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He sounds very reclusive.",
+    "string": "听起来他是个很孤僻的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000910|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I only ever saw him emerge when his research took him elsewhere. He was a very secretive individual, like many here.",
+    "string": "我只见过他几次，都是因为研究需要他外出的时候。他非常神秘，就像这里很多人一样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000910|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "He had his \"incident\" not long after I arrived. The explosion was so loud, everyone in Winterhold was awakened in the dead of night!",
+    "string": "我来到学院不久后，他就出了“那件事”。爆炸声震天响，整个冬堡的人都在半夜被惊醒！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000910|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "A few students were caught in the explosion, as I recall. It was a tragedy that few want to remember.",
+    "string": "我记得有几个学生被卷进了爆炸里。那是一场没人愿意回忆的悲剧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG041a",
+    "form_id": "05000911|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds like he was a power-mad wizard.",
+    "string": "听起来他是个被力量冲昏头脑的法师。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000912|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wouldn't disagree. Some knowledge is not meant to be unraveled. When you do... Those around you, and even yourself, pay the price.",
+    "string": "我不否认。有些知识本就不该被揭开。一旦你触碰了……周围的人，甚至你自己，都会付出代价。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaMG041b",
+    "form_id": "05000913|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds like he took a gamble and failed.",
+    "string": "听起来他是在赌一把，结果输了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000914|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's one way to look at it. Many perish on the road to power... and the Augur is but one of the many.",
+    "string": "可以这么说。在追求力量的路上，许多人都会丧命……先知只是其中之一罢了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091C|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Would you give me a few moments here?",
+    "string": "能让我在这儿单独待一会儿吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaTemple1",
+    "form_id": "0500091E|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sure.",
+    "string": "当然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you.",
+    "string": "谢谢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaTemple2",
+    "form_id": "05000920|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Not right now.",
+    "string": "等会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000926|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Honored Mirabelle Ervine and Savos Aren.",
+    "string": "敬爱的米拉贝勒·娥文与萨沃思·阿冉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000928|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As we commend your souls to Aetherius, blessings of the Divines upon you, for you are the salt and earth of Nirn, our beloved and most cherished.",
+    "string": "当我们将你们的灵魂托付于神界之时，愿诸神赐福于你们，因你们是奈恩的基石与守护者，是我们最珍视的存在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092A|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is with regret that we bid you farewell, and with joy in knowing that you join your ancestors in eternity.",
+    "string": "我们怀着悲痛向你们道别，亦怀着欣慰与喜悦，知晓你们将与先祖同享永恒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092C|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your deeds and memory shall live on forevermore in our hearts and tales.",
+    "string": "你们的功绩与精神将永存于我们的心中，流传于世世代代的童话里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By the grace of the Divines, may they grant you eternal peace.",
+    "string": "愿诸神赐予你们永恒的安宁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000930|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm ready to leave whenever you are.",
+    "string": "你若准备好了，我们随时可以启程。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaBlade0",
+    "form_id": "0500094B|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Would you be interested in joining the Blades?",
+    "string": "您有兴趣加入刀锋会吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500094C|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, no. Spending more time in yet another crumbling castle, battling fire-breathing monsters, is hardly on my list of priorities.",
+    "string": "哦，当然不。再待在另一座摇摇欲坠的城堡里，跟喷火怪物搏斗？这可不是我优先考虑的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500094C|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I do it for you, of course, but I do not intend to make a career of it.",
+    "string": "当然，如果是为了你，我或许会帮这个忙，但我可没打算把这当成终身职业。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000951|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We made it! The dragon is all ours. I never doubted us for a second.",
+    "string": "咱们成功啦！这条龙归咱们了。我对咱们可是一点儿都没怀疑过。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500095C|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When I have a chance, I'll see if I can dig up something from the Arcaneum. Something's got to explain this \"Prophecy\".",
+    "string": "等我有机会，就去秘藏馆翻翻看，指定能找到点儿啥来解释这“预言”。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000959|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I haven't seen a Moth Priest since my aunt and I visited the Imperial City years ago. They were a rather solemn and serious group, as I recall.",
+    "string": "自从多年前我和姨妈拜谒帝都，就再没见过蛾祭司了。依我记忆，他们那群人可严肃庄重得很。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500096E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Actually, do you have a moment? I was wondering if you might be willing to do me a favor.",
+    "string": "其实, 你现在方便吗?我在想, 你是否愿意帮我个忙. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2QStart1",
+    "form_id": "0500096F|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Unfortunately, not right now.",
+    "string": "抱歉, 现在不行. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000970|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, well. When you have time, then.",
+    "string": "哦, 那好吧. 等你有空的时候再说. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2QStartDelayed0",
+    "form_id": "05000972|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Did you need help with something?",
+    "string": "你是有什么事需要我帮忙吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000985|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'd be happy to help you get in contact with your aunt.",
+    "string": "我很乐意帮你联系你的姑妈. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2QStart2",
+    "form_id": "05000974|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course. What do you need?",
+    "string": "当然. 什么事?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A67|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We need to get there soon... I fear the worst.",
+    "string": "我们必须尽快赶到那里...我担心会发生最糟的情况",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A18|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I must say, I agree.",
+    "string": "我得说, 我同意你的看法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A17|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear it has its charm, for sure.",
+    "string": "我听说那里确实别有一番风味. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F2|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "For a very long time, I thought I wasn't good enough to be their daughter. That's why they tried everything to push me down.",
+    "string": "很长一段时间里, 我都觉得自己不够资格做他们的女儿. 也正因为如此, 他们才想尽一切办法打压我. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F2|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "They even had me sent to Cheydinhall to stay with my recently widowed Aunt Eilonwy. Some \"backwater ruined by Imperial corruption\", said the Thalmor.",
+    "string": "他们甚至把我送到香丁赫尔, 让我和刚刚守寡的艾伦薇姑妈住在一起. 萨莫特自己说, 那地方是个‘被帝国腐败祸害了的穷乡僻壤’. \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F2|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I remember shouting at my parents before I boarded the ship. As Alinor's harbor grew distant, all I could see were the High University's towers.",
+    "string": "我记得在登船前曾朝父母大声喊叫. 当艾琳诺的港口渐渐远去, 我眼中映入的, 尽是高等大学的塔楼. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F2|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I vowed that when I returned, I'd enroll in there, charm a commissar's son, then graduate with First Honor...",
+    "string": "我立誓, 等我回去, 一定要进入那所大学, 迷住一位执政官的儿子, 然后以优等生的身份毕业...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F2|FDE Faralda.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "That was the last time I saw my parents' faces.",
+    "string": "那，也是我最后一次见到我的父母. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009EC|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Those aren't just rumors. Catch the Eagle's attention, and it'll grab you in your sleeps and drop you into the abyss.",
+    "string": "那可不只是谣言. 一旦梭默盯上了你, 他们会在你熟睡时将你抓走, 然后丢进无尽的深渊. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E7|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I may never know the bloodshed's extent... But I pray for the dead's solace every night, whatever others might say.",
+    "string": "我也许永远无法知晓这场杀戮的惨烈程度...但无论别人怎么说, 我每晚都会为亡者的安宁祈祷. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D9|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "For many, the ends always justify the means... and the Thalmor held true to their words in some ways.",
+    "string": "对许多人而言, 为达目的, 不择手段. . . 而梭默在某种程度上确实言行一致. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D9|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "When the Oblivion Crisis ended, a brutal revolution came next. The execution of the royals, a dictatorship of the people...",
+    "string": "湮灭危机结束后, 紧接着便是一场残酷的革命. 王室成员遭到处决, 人民迎来了独裁统治...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D9|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The death of the old world, and the birth of a new nation. No more kings who rule by royal blood, but commissars elected by the people's will. ",
+    "string": "这是旧日世界的终结, 以及新国度的崛起. 不再是凭神圣血脉执政的君王, 而是由民众意愿选出的执政官. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D1|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Apparently their story was very convincing, some half-truths about ancient, powerful magic connected to our blood that saved the world.",
+    "string": "显然, 他们的说辞极具蛊惑性, 其中夹杂着关于古老而强大的魔法的半真半假之言 --- 声称这种魔法流淌于我们的血脉之中, 曾拯救了世界. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D1|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Who wouldn't be touched? When you witnessed a human Empire leaving your land for the Daedra, and its \"puppet kings\" too weak to save your family?",
+    "string": "谁能不为所动?当你亲眼目睹一个人类帝国将你的土地拱手让给迪德拉, 而那些”傀儡国王“却孱弱无力, 甚至救不了你的家人?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D1|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "With the Thalmor, my people thought they could finally dictate their future. Free of a would-be Emperor who'd let them burn to secure his throne.",
+    "string": "有了梭默, 我族人认为他们终于能主宰自己的未来. 得以摆脱那些为了保住王座, 宁愿让我们饱受战火的野心勃勃的皇帝. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D1|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "When powerful men use fear on the frightened masses, the truth no longer matters. Only safety, or the illusion thereof.",
+    "string": "当高踞权力之位者将恐惧震慑惶恐不安的凡人时, 真相便不再重要. 世人所求, 不过是片刻的安宁, 或是一场自欺的幻梦. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009C9|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some were born to it like I was, the others joined them as they rose to power.",
+    "string": "有些人生来就属于其中, 就如同我一样；而其他人则是在他们权柄渐盛之时, 加入了梭默. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009C9|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The Thalmor gave a sense of purpose to those who felt small in the old order, and those who felt their leaders had failed them.",
+    "string": "梭默为那些在旧秩序中感到卑微之人, 以及那些认为领袖辜负了他们的人, 提供了一种使命感. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009C9|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Now, that was long before I was born... but many Altmer from Alinor do believe the Thalmor to have saved the world from Mehrunes Dagon.",
+    "string": "当然, 那件事发生在我出生之前很久了...但是许多来自艾琳诺的高精灵确实相信, 梭默曾将整个世界从梅鲁涅斯·大衮的魔爪中拯救出来. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009C3|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You've proven yourself someone worthy of my trust time and time again, so I suppose it's only fair you know.",
+    "string": "你已一次又一次证明了你值得我的信任, 所以我想让你知晓这些, 也是理所应当. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009C3|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "All this secrecy... It's to avoid the eye of the Thalmor. You know why I have such a problem with them? It's because I know them well.",
+    "string": "搞得这么隐秘...都是为了避开梭默的耳目. 你知道我为何对他们有这么大的芥蒂吗?那是因为我对他们了如指掌. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009C3|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I used to be one - or rather, lived under their rule - long ago.",
+    "string": "我以前也曾是他们中的一员 --- 或者说, 很久以前, 我曾在他们的统治下生活. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000986|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wonderful! I knew I could count on you.",
+    "string": "太棒了!我就知道我能指望你. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000986|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "So, there's a man in Riften that runs a tavern called the Ragged Flagon. His name is Vekel.",
+    "string": "是这样, 在裂谷城里有个经营着一间叫\"漏壶\"的酒馆的男人. 他名叫威克尔. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000986|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "People call him \"Vekel the Man\". I haven't a clue why, but he has a penchant for getting important things to where they need to go.",
+    "string": "人们都叫他‘大丈夫’威克尔. 我也不知道为什么, 但此人特别擅长把重要的东西送到该去的地方. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500097B|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's... a little more complicated than that, unfortunately.",
+    "string": "只是, 事情...要比这复杂那么一点. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500097B|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Please, I wouldn't ask if it wasn't important. You're really one of the few I would trust with something this important to me.",
+    "string": "拜托, 若非事关重大, 我绝不会开口. 你是少数我能托付这件对我如此重要之事的人. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000977|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I would like your help with a personal matter. It's my aunt, you see.",
+    "string": "我想请你帮我处理一件私事. 你知道, 是关于我的姑妈. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000977|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "She and I correspond from time to time... but its been quite a while since we last spoke.",
+    "string": "我们偶尔会互通书信...但自从我们上一次交谈，已经过去相当长一段时间了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000977|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "With all the troubles in Tamriel these days, I can't stop worrying for my kin's safety. I wonder if you could help me deliver a letter to her?",
+    "string": "如今泰姆瑞尔大陆纷扰不断, 我实在无法停止对亲人的安危感到忧虑. 我想知道, 不知道你能不能帮我将一封信送到她手中?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2QStart2a",
+    "form_id": "05000978|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wouldn't it be easier to use a courier?",
+    "string": "找个信使不是更方便吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2QStart2b",
+    "form_id": "0500097A|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why not use telepathy?",
+    "string": "为什么不使用心灵感应 (法术) 呢?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2QStart2c",
+    "form_id": "0500097D|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I really can't right now.",
+    "string": "我现在实在走不开. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500097E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I understand. Let me know if you change your mind... I'd be grateful for the help.",
+    "string": "我明白. 如果你改变主意的话，请告诉我一声...我将感激不尽. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2QStart2d",
+    "form_id": "0500097F|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd be happy to help you get in contact with your aunt.",
+    "string": "我很乐意帮你联系你的姑妈. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2QStart2di",
+    "form_id": "05000981|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So, Vekel will get your letter to your aunt?",
+    "string": "所以, 威克尔会把你的信送到你姑妈手里?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000982|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Vekel will find someone who can get my letter to my aunt.",
+    "string": "威克尔会找人把我的信送给我姑妈. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000982|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Hopefully, it won't prove too difficult. Riften's sewers can be quite hazardous to any who's used to the north's crisp, clean air.",
+    "string": "希望这事不会太难. 裂谷城的下水道对那些习惯北方清爽空气的人来说可是相当危险的. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000982|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "When speaking with Vekel, ask him if he knows where you can \"find a two Septim wench\".",
+    "string": "和威克尔说话时, 问他知不知道哪里能“找到只要两个赛普汀的姑娘”. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2QStart2di1",
+    "form_id": "05000983|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Really?",
+    "string": "真的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000984|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A code word of sorts. I suppose the \"man\" finds that funny. But after that, it should be fairly straightforward.",
+    "string": "算是一种暗号吧. 我想那位“大丈夫”觉得这么说很有趣. 之后的事就应该相当简单了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000988|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I think I'll let you speak to Vekel. The last time I talked to him, things didn't quite end in a civil manner.",
+    "string": "我想这次还是由你去和威克尔说话吧. 上次我和他谈话时, 可没能在体面友好的气氛中结束. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ1Vekel100",
+    "form_id": "0500098A|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you... know where I can find a two Septim wench?",
+    "string": "你知道...我能去哪里找只要两个塞普汀的娘们吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500098B|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Two, you say... Maybe try the bunkhouse. Heard Haelga does that even for free.",
+    "string": "两个塞普汀, 是吧. . . 也许可以去工棚碰碰运气. 听说哈尔嘉免费都会干这事. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500098B|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Got you there, didn't I? You must be with our Altmer friend. Don't think I've forgotten what she did to my nephew, boy has scars from his burns now.",
+    "string": "哈哈, 逮到你了吧?你一定是和我们那位高精灵朋友在一起的. 我可没忘记她对我侄子做的好事, 那小子现在身上还有烧伤的疤痕呢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500098B|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Not saying he didn't have it coming, but still. Anyway, you got something going out, I reckon?",
+    "string": "我倒不是说他这不是自找的, 但那也说不过去. 话说回来, 我猜你是有什么东西要送出去, 对吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ1Vekel101",
+    "form_id": "0500098C|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Hand him the letter)",
+    "string": "(把信给他)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500098D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Perfect. I'll see to it that it gets where it should be. Pleasure doing business with you, and tell her she still owes me for my nephew.",
+    "string": "太好了. 我会确保它送到该去的地方. 很高兴和你做这笔交易, 顺便告诉她, 她还欠我一笔, 为了我那外甥的事. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q2401",
+    "form_id": "0500098E|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm sorry for your loss. He didn't give us a choice.",
+    "string": "对他的离去我感到遗憾. 但我们别无选择. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500098F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You only wanted to protect me. If not for you, I... I don't know if I had what it took to strike him.",
+    "string": "你只是想保护我. 如果不是你, 我. . . 我不知道自己是否有勇气出手. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q2402",
+    "form_id": "05000990|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He was a bloody Thalmor. Death was a mercy to him.",
+    "string": "他是个该死的梭默. 死亡对他来说反而是一种仁慈. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000991|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If only I could change his mind... No, he wouldn't have given me the chance.",
+    "string": "要是我能让他回心转意就好了. . . 不, 他根本不会给我这个机会. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q2403",
+    "form_id": "05000992|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happens now?",
+    "string": "现在怎么办？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000993|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now, we save what's left of my family... I won't allow more harm to come to Aunt Eilonwy.",
+    "string": "现在, 我们要保护我家仅存的人. . . 我绝不会再让艾伦薇姑妈受到任何伤害. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000995|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That was no longer the gentle boy I knew, just another creature twisted by the Eagle's bloodlust.",
+    "string": "那已经不再是我认识的那个温柔男孩了, 只是又一个被梭默那象征雄鹰的嗜血欲望扭曲的可怜生物. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000998|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aunt Eilonwy... It's me, Faralda. Are you alright?",
+    "string": "艾伦薇姑妈. . . 是我, 法劳达. 你还好吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500099B|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Faralda? Who... who are you? I... don't know where I am. I... I want to go home, but I don't know where it is. Please... help me...",
+    "string": "法劳达?你...你是谁?我...我不知道我在哪里. 我...我想回家, 但我不知道家在哪里. 求你...帮帮我...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500099D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, Eilonwy... What did they do to you?",
+    "string": "哦, 艾伦薇...他们到底对你做了什么?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500099F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Everything will be alright, I promise. I'm going to take you to someone we can trust, okay?",
+    "string": "一切都会好起来的, 我向你发誓. 我这就带你去找一个我们可以信任的人, 好吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A1|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I will take my aunt back to the College and seek help. Please, come find me after I've settled her in.",
+    "string": "我要带我姑妈回冬堡学院寻求帮助. 等我安顿好她之后, 请你来找我. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A5|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've heard of such a thing, but typically mind magic is the method of the vampires. To think the Thalmor have mastered such sorcery...",
+    "string": "我听过这种事, 但操控心智向来是吸血鬼的拿手把戏. 没想到梭默竟也把这种邪术练到了炉火纯青...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A7|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Indeed. They must've learned how to warp someone's mind, like the vampires. Soon as the magic is broken, it'd leave the victim a husk without mind.",
+    "string": "确实. 他们想必是学会了跟那些吸血鬼一样的手段, 把人的神智彻底扭曲. 一旦法术被打破, 受术者就会变成一具没有灵魂的空壳. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A9|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A vampire thrall is seldom curable. But what happened to your aunt? I'm not even sure what kind of magic that is.",
+    "string": "吸血鬼的奴仆几乎无药可救. 可你姑妈这是中了什么邪术?我连这是哪一门的魔法都看不透. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009AB|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She's still in there, I know it. I can still see care and warmth in her eyes. She remembers me... she just doesn't know how to conjure those memories",
+    "string": "她还有神智, 我感觉得到. 我仍能从她的眼中看到关怀和温情. 她记得我...只是她不知道如何唤起那些回忆. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009AD|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well, Faralda. I can't promise a cure... But I'd turn the Arcaneum upside down before I gave up on your aunt.",
+    "string": "好吧, 法劳达. 我不敢打包票一定能治好她...但在放弃你的姑妈之前, 会把秘藏馆翻个底朝天. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009AF|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you, Colette.",
+    "string": "谢谢你, 柯莱特. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009B1|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And thank you too.",
+    "string": "也谢谢你. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009B4|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You grew from being my student, to an equal, to the Arch-Mage... And now, a true friend I can trust.",
+    "string": "你从我的学生, 成长为与我比肩的同伴, 后来成为了大法师...而现在, 你是我可以信赖的挚友. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009B4|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I guess you just kept growing on me. Whatever happens, I'll always appreciate all you've done.",
+    "string": "我想, 你就是这样一点一点走进了我的心里. 无论发生什么, 我都会感激你为我所做的一切. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009B4|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Anyway, she's now in the most capable hands I can think of. I doubt there's much I can do just by hanging around here.",
+    "string": "总之, 她现在在我所能想到的最可靠的人手中. 我待在这里恐怕也帮不上什么忙. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009B4|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "When you're ready, I would be happy to get back on the road. I could use a little distraction. Shall we?",
+    "string": "当你准备好了, 我很乐意重新踏上旅途. 我正需要一些让自己分心的事情. 我们走吧?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009BD|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I knew I could count on you - thank you. Now, I suppose you're curious about all the secrecy.",
+    "string": "我就知道可以依靠你, 谢谢你. 现在, 我想你一定很好奇, 为什么要弄得这么神秘. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1201",
+    "form_id": "050009BE|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've just come to accept you are a fascinating and mysterious woman.",
+    "string": "我已经习惯了，你本来就是个迷人而又神秘的女人. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009BF|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Funny as it is, you have no idea how correct you are.",
+    "string": "说来也好笑, 你根本不知道自己有多说对了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1202",
+    "form_id": "050009C0|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A bit, I'll be honest.",
+    "string": "确实有点好奇, 我得承认. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1203",
+    "form_id": "050009C2|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Its none of my business.",
+    "string": "与我无关. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1202a",
+    "form_id": "050009C5|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wait, you were with the Thalmor?!",
+    "string": "等一下, 你以前在梭默?!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009C6|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes... Unfortunately.",
+    "string": "很不幸. . . . 是的. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Thalmor0",
+    "form_id": "050009C8|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You said you were with the Thalmor?",
+    "string": "你说你以前在梭默?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1202b",
+    "form_id": "050009CB|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I didn't realize you used to be a Thalmor.",
+    "string": "我没发现你以前是个梭默. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009CC|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And I'm grateful that you never linked me to them.",
+    "string": "我很感激你从未把我和他们联系在一起. \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1202c",
+    "form_id": "050009CD|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I expected as much.",
+    "string": "我早就料到了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009CE|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I suppose you were more observant than you knew.",
+    "string": "我想你比自己以为的更敏锐. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Thalmor1",
+    "form_id": "050009CF|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It was stupid for anyone to believe those zealots.",
+    "string": "任何人相信那些狂热分子都是愚蠢的. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Thalmor2",
+    "form_id": "050009D2|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I suppose with the right story, anything can be believed.",
+    "string": "我想, 只要说得够动人, 再荒诞的事也能让人信以为真. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Thalmor3",
+    "form_id": "050009D4|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can see how people would want to put their trust in something after all that.",
+    "string": "经历了那些事，我能理解人们为何会渴望将信任寄托于某样东西. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Thalmor1a",
+    "form_id": "050009D6|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "And they trusted the Thalmor despite their violence.",
+    "string": "而他们竟然在目睹了梭默的暴行后仍然选择信任他们. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Thalmor1b",
+    "form_id": "050009D8|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Promises of a bright future can sway almost anyone.",
+    "string": "对美好未来的承诺几乎能让任何人动心. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Thalmor1ai",
+    "form_id": "050009DB|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "They have elections in Alinor?",
+    "string": "艾琳诺也有选举吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009DC|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's how they call it, and what they promised in the beginning. Although you will never find a commissar who questions our supreme leader's will.",
+    "string": "他们是这么说的, 也是最初所承诺的. 不过你永远不会看到有执政官质疑我们至高领袖的意志. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2zExit0",
+    "form_id": "050009DE|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's talk about something else.",
+    "string": "我们来聊点别的吧. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily0",
+    "form_id": "050009E1|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What was your family's role in the Thalmor?",
+    "string": "你们家族在梭默中扮演什么角色?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E2|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Prior to the Eagle's rise, my family was hardly a footnote in the annals of history.",
+    "string": "在梭默崛起之前, 我的家族在历史记载中不过是微不足道的一笔. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E2|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But when the revolution began? My grandfather saw a future we deserved... He was quick to bloody his hands for the Leader, anything to win her favor.",
+    "string": "但当革命开始后呢?我的祖父看到了我们应得的未来...他迅速为那位领袖血染双手, 不惜一切代价来赢得她的青睐. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E2|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "And with that... our clan thrived.",
+    "string": "也正是因为如此...我们的家族才得以兴盛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily1",
+    "form_id": "050009E3|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How can you live with your conscience knowing that?",
+    "string": "你知道这些事，良心上过得去吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E4|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Because I wasn't even born when my grandfather killed all those people?",
+    "string": "因为在我祖父杀掉那些人的时候，我甚至还没出生?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily2",
+    "form_id": "050009E5|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It can't be easy living with your ancestors' sins.",
+    "string": "背负着你先祖的罪孽而活，想必一定很不好受. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily3",
+    "form_id": "050009E8|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Did no one in your family question him?",
+    "string": "你家族里就没有人质疑过他吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E9|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "At the time, many believed as my grandfather did. The scars from the Oblivion Crisis were fresh... and they had long grown sick of Cyrodiil's regime.",
+    "string": "在那个时候, 很多人都和我的祖父想法一样. 湮灭危机留下的创伤仍未痊愈. . . 而且他们早已对希罗帝尔的政权感到厌倦",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009E9|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Good, evil, neutrality - they all seem muddy when everyone you know is chanting the same name.",
+    "string": "当所有你认识的人都在高呼同一个名字时, 善良、邪恶、中立 --- 所有这些都变得模糊不清了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily4",
+    "form_id": "050009EA|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How aren't you a Thalmor then?",
+    "string": "那你为什么不是梭默了?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009EB|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My mother eventually saw the blood on the Eagle's talons, and more so, the ghosts that haunted our clan's name.",
+    "string": "我的母亲最终看清了梭默手上的鲜血, 更看到了那些缠绕着我们家族名号的幽魂. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009EB|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "As commissars in the College of Sapiarchs, she and my father did everything in their power to keep me from receiving state-sanctioned education.",
+    "string": "作为贤者学院 (论晶智学院) 的执政官, 她和我的父亲竭尽所能, 阻止我接受国家认可的教育. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009EB|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Instead of the Thalmor's doctrines and how to serve the Eagle, they taught me about the world, its peoples - and of course, magic. ",
+    "string": "他们没有教导我梭默的教条以及如何侍奉梭默, 而是教导我关于这个世界、关于世间万物 --- 当然, 还有魔法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily4a",
+    "form_id": "050009ED|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds like you were close to your parents.",
+    "string": "听起来你和你的父母关系很亲近. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009EE|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Was I? All my friends went to the High University and had their romance, societies, drama, while I was stuck learning spells from my parents.",
+    "string": "是吗?我所有的朋友都去了高等大学, 享受着他们的爱情、社团和戏剧, 而我却被困在家里, 跟父母学习法术. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009EE|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I was jealous of them. Their college life, their loving families... Mine never much showed me warmth. Most of our memories revolved around books.",
+    "string": "我嫉妒他们. 嫉妒他们的大学生活, 还有他们那些温馨的家庭...我的父母从未对我表现出太多的温情. 我们大部分的回忆都围绕着书本转. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009EE|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "If only I knew how lucky I was... How my parents were really trying to protect me.",
+    "string": "如果那时我能知道自己有多幸运就好了...我的父母其实是在尽力保护我. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily4aii",
+    "form_id": "050009EF|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We all had that phrase.",
+    "string": "我们都有过那样的感受. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily4ai",
+    "form_id": "050009F0|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You were a spoiled girl.",
+    "string": "你就是个被宠坏的小丫头. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily4aiii",
+    "form_id": "050009F4|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's not as if you could've known.",
+    "string": "你当时又怎么可能知道呢. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily4ai1",
+    "form_id": "050009F6|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened to your parents?",
+    "string": "你的父母发生了什么事?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F7|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They knew the Justiciars were after them somehow, and they did what they could to save me and my brother.",
+    "string": "他们不知从哪儿得知审判者已经盯上了他们, 便拼尽全力要把我和哥哥救出去. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F7|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "As weeks became months, months turned into seasons, my return to Alinor grew unlikely. But I... I never readied myself to hear my parents' death.",
+    "string": "随着光阴流逝, 我回艾琳诺的希望越来越渺茫. 但我...我始终没准备好听到父母的死讯. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F7|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Accused of \"dangerous thoughts\" by the Altmer supremacists, they were sent to the labor camps in Elsweyr after quick trials.",
+    "string": "他们被高精灵至上主义者指控犯有‘危险思想’, 经过草率的审判后, 被送往艾斯维尔的劳改营. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F7|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Worked to the death above those grueling sands... The labor was never the point. The torture was.",
+    "string": "他们在炙热的沙地上被活活累死...劳役从来不是目的，折磨才是. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily4ai1a",
+    "form_id": "050009F8|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm sorry about your parents.",
+    "string": "我很遗憾...你父母的事. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009F9|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As am I.",
+    "string": "我也是。.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily4ai1b",
+    "form_id": "050009FA|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "They made a gambit against the Thalmor, and they paid the price.",
+    "string": "他们孤注一掷, 对抗了梭默 (Thalmor) , 并付出了代价. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009FB|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As do all.",
+    "string": "所有反抗者都是如此. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily4ai1c",
+    "form_id": "050009FC|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How about your brother?",
+    "string": "你哥哥呢?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009FD|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aunt Eilonwy said they sent him to another trusted relative, but she didn't know who.",
+    "string": "艾伦薇姑妈说, 他们把他送到了另一位值得信赖的亲戚那里, 但她并不知道是谁. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009FD|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I've lost contact with my brother ever since. I hope he's doing fine... Though I've prepared myself for the worst.",
+    "string": "从那以后，我就彻底和他断了联系. 我只希望他还好好活着...虽然我也早已做好了最坏的打算. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily4ai1d",
+    "form_id": "050009FE|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where is your aunt Eilonwy?",
+    "string": "你的艾伦薇姑妈现在在哪里?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009FF|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She used to be in a remote village in Hammerfell, doing what she could to save those battered by wars... Though that was many years ago.",
+    "string": "她以前在落锤省一个偏远的村庄里, 尽其所能救助那些饱受战争摧残的人...不过那是很多年前的事了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009FF|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Ever since the Alik'r Warrior's rise, it became increasingly difficult for an elf to survive in Hammerfell, not to mention the Thalmor raiders.",
+    "string": "自从阿里克'尔战士崛起以来, 落锤省对精灵越来越不友善, 更别提还有梭默的掠袭队四处作恶. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009FF|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "We used to correspond frequently. Every few months or so, she'd keep me updated as to where she was, but there's been fewer letters these years.",
+    "string": "我们以前书信还算频繁. 每隔几个月, 她总会寄信告诉我她搬到了哪里, 可这些年来信越来越少. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009FF|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "It's been almost a year since her last letter. Naturally, I'm a bit concerned.",
+    "string": "距离她最后一封信, 已经快整整一年了. 我当然...有些担心. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily4ai1di",
+    "form_id": "05000A00|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm sure everything's fine.",
+    "string": "我敢肯定一切都会没事的. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A01|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you. Anyway, now you know more about me than anyone else in Skyrim, so do feel privileged for that honor.",
+    "string": "谢谢你. 总之, 现在你比天际的任何人都更了解我了, 所以请为这份殊荣感到荣幸吧. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2ThalmorFamily4ai1dii",
+    "form_id": "05000A02|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Could the Thalmor have taken her?",
+    "string": "梭默有没有可能把她抓走了?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A03|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope not, but... Well, let's hope I hear my aunt's reply soon.",
+    "string": "我宁愿相信没有, 可...唉, 但愿姑妈的回信快点到吧. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Elenwen0",
+    "form_id": "05000A05|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you know about Elenwen, the Thalmor Ambassador?",
+    "string": "你对梭默大使爱琳温了解多少?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A06|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Her family and mine used to be close friends. But after what she's done...",
+    "string": "她的家族和我家曾经是亲密的朋友. 可如今她做出那些事. . . ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A06|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Well, that's the past. I don't want to talk about her anymore.",
+    "string": "算了, 往事不提也罢. 我不想再谈她. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A07|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do I know about her? For my entire childhood, she pretended to be my friendly, gentle \"auntie\".",
+    "string": "我对她了解多少?整个童年, 她都装成那位和蔼温柔的‘姑妈’, 在我面前笑得比谁都甜. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A07|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My family gave hers all our trust, but it turns out no bond was too great to endure our Leader's favor.",
+    "string": "我父母把全部信任都给了她家, 却没想到再深的交情, 也敌不过她对领袖的忠诚. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A07|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Looking back, I should've picked up the signs... She looked at all we owned and accomplished with such envious eyes.",
+    "string": "现在回想起来, 我早该看出端倪...她看着我们所拥有和达成的一切成就, 眼神里充满了嫉妒. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A07|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "If only my parents knew better and saw the snake she was.",
+    "string": "可惜当初父母被蒙住了眼，没能看穿她那条毒蛇的真面目. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Elenwen1",
+    "form_id": "05000A08|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's the past.",
+    "string": "那都是过去的事了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A09|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes... It is. The dead now rest, even if the devils still walk.",
+    "string": "是啊...都过去了. 逝者如今可以安息了, 即使恶魔仍在人间游荡. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Elenwen2",
+    "form_id": "05000A0A|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Want me to take care of Elenwen?",
+    "string": "要我去对付爱琳温吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0B|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Only on the premise that you won't get hurt.",
+    "string": "除非你能保证自己一根头发都不会少. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0B|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But seeing how well-guarded the Thalmor Embassy is, I doubt you'll have much luck reaching her before she's alerted.",
+    "string": "可那座梭默大使馆守卫森严, 我怀疑你还没摸到她跟前, 她早就得到风声了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0B|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "There will always be a chance, just not today.",
+    "string": "机会总会有的, 但不是今天. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Elenwen3",
+    "form_id": "05000A0C|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Elenwen is dead.",
+    "string": "爱琳温死了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good riddance then, I suppose. All the Altmer she's betrayed, all the lives she's ruined... They'll have some small justice.",
+    "string": "那我想, 真是大快人心. 所有被她背叛的高精灵, 所有被她毁掉的生命. . . 现在都能得到一点小小的公道了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Elenwen4",
+    "form_id": "05000A0E|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How do you know Elenwen was involved in your parents' death?",
+    "string": "你如何知道爱琳温参与了你父母的死?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I knew enough to see why she'd do that to us.",
+    "string": "我了解的已经足够让我明白，她为什么非要置我们于死地. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0F|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But even if my parents' ghosts don't beckon her from the beyond, I believe the thousands who perished in the Great War would.",
+    "string": "可就算我父母的亡魂不从彼界向她索命, 我想那些在浩大战争中死在她手里的成千上万人, 也早就把她拽进地狱去了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A12|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's a letter from my aunt Eilonwy, thank the gods! She says she's doing well. Laying low in Morrowind, of all places.",
+    "string": "是艾伦薇姑妈的信!感谢众神!她说她一切安好. 而且居然躲在了晨风, 真是出乎意料. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1501",
+    "form_id": "05000A13|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've always loved Morrowind, even now.",
+    "string": "我一直都很喜欢晨风, 即使是现在也一样. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1502",
+    "form_id": "05000A15|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Morrowind has certainly seen better days.",
+    "string": "晨风当然也曾有过更好的日子. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1503",
+    "form_id": "05000A19|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Morrowind is a wasteland. Why anyone would want to go there is beyond me.",
+    "string": "晨风就是一片荒原. 为什么会有人想去那里，我实在想不通. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1504",
+    "form_id": "05000A1B|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I lived in Morrowind. Despite its issues, it'll always have a place in my heart.",
+    "string": "我曾经在晨风生活过. 尽管它有很多问题, 但在我心里, 它永远占有一席之地. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1505",
+    "form_id": "05000A1D|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I never knew much about Morrowind.",
+    "string": "我对晨风知之甚少. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A1E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Neither do I. A lot of ash since the Red Mountain erupted, from what I hear.",
+    "string": "我也是. 听说红山喷发后, 那里到处都是火山灰. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A20|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She apologizes for not writing sooner, says she's been busy helping the locals, and it was hard to find reliable people after she left Hammerfell.",
+    "string": "她为没有早点写信致歉, 说她一直忙着帮助当地人, 而且在离开落锤省后很难找到可靠的信使. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A20|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My aunt felt... adrift and hollow for a long time - oh poor woman! But she has since found purpose in Morrowind, aiding the locals to purify the air.",
+    "string": "我的姑妈曾有一段时间感到...无所适从和空虚 --- 哦, 可怜的女人!但她后来在晨风找到了新的目标, 帮助当地人净化空气. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A20|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Sounds like Eilonwy's putting her alchemical knowledge to good use. And... there's more. She's met a strapping soldier! My auntie's still got it!",
+    "string": "听起来艾伦薇正将她的炼金知识物尽其用. 而且...还有别的. 她遇到了一个身强体壮的战士!我的姑妈魅力不减啊!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A20|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I know she had difficulty finding happiness ever since Uncle Orintur passed. He was her true love... losing him took so much out of her.",
+    "string": "自从奥林图 (Orintur) 姑父去世后，她就再没真正开心过. 那是她一生的挚爱...失去他几乎把她整个人都掏空了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A20|FDE Faralda.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "But her happiness is all that matters. I do wish she hadn't kept me worried for so long, but still.",
+    "string": "不过只要她现在能幸福, 这就比什么都强. 我真希望她没有让我担心了这么久...不过, 算了, 只要她好好的就好. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1501a",
+    "form_id": "05000A21|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Looks like she is doing well.",
+    "string": "看起来她过得很好. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A22|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, I guess I worried too much.",
+    "string": "是的, 我想我是太过于担心了",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1501b",
+    "form_id": "05000A23|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Maybe it's your family tradition to meet interesting people.",
+    "string": "也许结识有趣的灵魂是你家的传统. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A24|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha! I think you might be right.",
+    "string": "哈!你说的可能没错. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1501c",
+    "form_id": "05000A25|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Did she say anything else about this new man?",
+    "string": "她还提了那个新男人别的什么吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A26|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not really. It's the first time she mentioned anyone else in her letter. For so many decades, she had never let go of my uncle.",
+    "string": "没有. 这是她在信中第一次提到别人. 在这么多年里, 她从未放下我的姑父. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A26|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "An Altmer does not give the vow of matrimony lightly, especially for one of her age. This man must be truly special.",
+    "string": "高精灵不会轻易许下婚誓, 尤其对她这个年纪的人来说. 这个男人一定非常特别. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A28|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There's just one thing that... oh, its probably nothing.",
+    "string": "只有一件事...哦, 可能没什么. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2Q1501ai",
+    "form_id": "05000A29|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is it?",
+    "string": "什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A2A|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When she sends a letter to me, she'd always end it with \"With Love, Eilonwy\". But not this time. Nearly a century, always with the same signature...",
+    "string": "她每次给我写信, 结尾永远是『爱你的, 艾隆薇』 (With Love,  Eilonwy) . 可这回没有. 快一个世纪了, 每次都一模一样的落款. . . ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A2A|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Well, no matter. She likely simply forgot. She has had... let's just say, quite the tenure after all.",
+    "string": "算了, 多半是她忘了. 毕竟她经历了...这么漫长的岁月. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A2A|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Now, shall we continue? I'm in quite the pleasant mood for more adventures, as you can probably note.",
+    "string": "好了, 我们继续旅程?你可能已经注意到了, 我现在心情非常好, 很想继续我们的冒险. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A2D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Actually, would you mind if we return to the College sometime soon? Just wanted to grab a few of my favorite books for the roads.",
+    "string": "其实, 我们能不能尽快回一趟冬堡学院?我只是想带几本自己最喜欢的书上路. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A30|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Faralda. There you are!",
+    "string": "法劳达，你在这啊!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A32|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, Colette. If it's about the peer evaluation again, I think I've made myself pretty clear.",
+    "string": "啊, 柯莱特. 如果又是为了同僚评议那件事, 我想我的态度已经非常明确了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A34|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No, not that. Although it would do my School wonders if you were a bit more lenient on my sources...",
+    "string": "不, 不是那件事. 不过, 要是你对我的论证引据能宽容一些, 那对我的恢复系学院将大有裨益...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A36|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Anyway, a strange fellow delivered you a letter from Morrowind.",
+    "string": "总之, 有个行迹古怪的家伙给你送来了一封来自晨风的信件. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A38|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Seriously, why haven't we started to use magical means to communicate?",
+    "string": "说真的, 我们为什么还没开始使用魔法来通讯呢?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A3A|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you, Colette. Now, I'm sure Urag will be delighted to find you sources that assist your research - or, you know, prove what you believe.",
+    "string": "谢谢你, 柯莱特. 我相信乌拉格一定会非常乐意为你找到能辅助你的研究的资料 --- 或者, 你知道的, 证明你所相信的那些东西. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A3F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see it now. The letter was a ruse, so cleverly orchestrated to lower my guard and lure me into this trap.",
+    "string": "我现在明白了. 那封信只是诱饵, 编得天衣无缝, 就是为了让我放下戒心, 自己走进你们设下的陷阱. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaralda2NameNelya0",
+    "form_id": "05000A42|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why did your brother call you Nelya? Is Faralda your real name?",
+    "string": "为什么你哥哥叫你娜莉亚?法劳达是你的真名吗?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A43|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "For the past century, my name has been Faralda, and it will remain so for the rest of my life. But... no, that wasn't the name I was born with.",
+    "string": "在过去的一个世纪里, 我的名字一直是法劳达, 往后余生也永远是. 不过. . . 不, 这确实不是我生来就有的名字. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A43|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My birth name was Arannelya. Named after an Altmer Kinlady from the past - an attempt by my grandfather to cling to ancient glories.",
+    "string": "我出生时的名字是艾兰娜莉亚 (Arannelya)  - 取自一位古老的高精灵领主夫人，那是我祖父想固守昔日荣光的徒劳之举. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A43|FDE Faralda.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The very name is shared by the Thalmor general who butchered her way through Hammerfell. So all I'll say is this - let their false glory rot.",
+    "string": "这个名字也跟那位在落锤省一路屠戮的梭默将军同名. 所以，我只想说一句话 --- 让他们的虚假荣耀腐烂吧. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A43|FDE Faralda.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I am Faralda. Always will be.",
+    "string": "我是法劳达. 永远都是. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A47|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Took me forever to find you, Miss Faralda!",
+    "string": "法劳达 (Faralda) 小姐, 我可算找到你了!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A49|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And you are...?",
+    "string": "而你是……？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A4B|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm a friend of Eilonwy's. She needs to meet you urgently - something concerning your brother.",
+    "string": "我是艾伦薇的朋友. 她急着见您 --- 跟你哥哥有关. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A4D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He's still alive, and they're coming to Skyrim to escape the Thalmor pursuers... You're their only chance to survive.",
+    "string": "他还活着, 他们为了甩掉梭默的追兵, 正往天际逃...你是他们唯一的活路. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A4F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My brother... He's still alive? And they're in danger? Where are they - I need to see them now!",
+    "string": "我哥哥...他真的还活着?!他们现在有危险?他们在哪儿 --- 我要立刻去见他们!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A51|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They've taken shelter in Lost Prospect Mine - some cave near the border of Morrowind.",
+    "string": "他们躲在绝望矿场，就在晨风边境附近的一个山洞里. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A55|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My Bosmeri legs are faster than theirs, so they sent me ahead for you. Please, hurry - they need us now!",
+    "string": "我木精灵的腿脚比他们的快, 所以他们让我先来找你. 请快点 --- 他们现在就需要我们!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A60|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Please. Let us talk once I've settled my aunt in.",
+    "string": "求你了. 等我把姑妈安顿好，我们再好好谈. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A63|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By the gods! Not only is my brother still alive, he and my aunt are in great peril!",
+    "string": "诸神在上!我不但哥哥还活着, 他和姑妈现在还陷在极度危险之中!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A63|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "They may have taken shelter in that mine, but how long until the Thalmor manage to find them? Please, we have to go there at once!",
+    "string": "他们或许暂时躲进了那座矿场, 可梭默迟早会找到他们!求你了, 我们必须立刻动身!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A69|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Please, we must hurry to Aunt Eilonwy's refuge.",
+    "string": "快, 我们得马上去艾伦薇姑妈的避难所!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2Faralda11",
+    "form_id": "05000A64|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's get there at once!",
+    "string": "我们立即赶过去!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2Faralda12",
+    "form_id": "05000A66|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We'll go there once we finish the matters at hand.",
+    "string": "等我们处理完手头上的事情，就立刻赶过去. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A6C|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aunt Eilonwy! Can it really be you? After so long?",
+    "string": "艾伦薇姑妈!真的是你吗?隔了这么久...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A6E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, my dear sweet niece! How long I've waited to see you again!",
+    "string": "哎呀, 我亲亲的小侄女!我等了多久才等到再次见到你!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A70|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As do I... You said you've found my brother? Where is he, is he alright?",
+    "string": "我也想你……你说你找到我哥哥了？他现在在哪儿？他还好吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A72|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, yes child. He's very much alive and has so been waiting for the chance to see you! We're all coming home, back to Alinor's embrace!",
+    "string": "哦, 是的, 孩子. 他活得好好的, 而且一直在等着见你!我们都要回家了, 回到艾琳诺的怀抱!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A74|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wait... What?! What happened to you?",
+    "string": "等等...?!你到底怎么了?!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A7D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nelya - or what do you call yourself now? Faralda? It matters not. You can't imagine... how long I've waited for this moment.",
+    "string": "娜莉亚 (Nelya)  - 或者说，你现在自称什么?法劳达?那不重要. 你无法想象. . . 我等这一刻等了多久. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A7F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By Auriel...",
+    "string": "奥瑞艾尔在上...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A81|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Merandil.",
+    "string": "梅兰迪尔. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A83|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's \"Justiciar Merandil\" for you.",
+    "string": "对你而言，要叫“审判者 梅兰迪尔”. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A85|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come with us, my lovely niece. It will all be wonderful in Alinor as Little Meran promised!",
+    "string": "跟我们走吧, 我亲爱的小侄女. 正如小梅兰承诺的那样, 回到艾琳诺, 一切都会变得美好!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A87|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Merandil! What did you do to our aunt?!",
+    "string": "梅兰迪尔!你到底对我们姑妈做了什么?!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A89|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I showed her the truth. The absolute will of the Thalmor. She resisted at first... but there's nothing our magic cannot warp.",
+    "string": "我只是让她看见了真相. 梭默的绝对意志. 她一开始还抗拒...但世上没有我们的魔法扭曲不了的东西. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A8C|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I thought you were dead... But a Thalmor? You've joined the evil that destroyed our family!",
+    "string": "我一直以为你死了...可你居然投靠了梭默?!你竟加入了那个毁了我们全家的邪恶政权!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A8E|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Our traitorous parents destroyed our family! We could've thrived beneath the Eagle's light, but their folly drove us to the abyss!",
+    "string": "是我们的叛徒父母摧毁了我们的家庭!我们本可以在梭默之光 (Eagle's light) 下兴盛繁荣, 但他们的愚蠢将我们推向了深渊!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A90|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When our father sent you to Eilonwy, he also sent me to someone he trusted. One whom he foolishly believed had the same traitorous thoughts as his.",
+    "string": "当我们父亲把你送到艾伦薇那里时, 他也把我送到了一个他信任的人身边. 一个他愚蠢地以为会和他有同样反叛思想的人. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A92|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "But Comrade Elenwen remained true to the Eagle all along. She sheltered me, taught me true Altmeri honor. I am better because of her.",
+    "string": "爱琳温始终忠于梭默. 她庇护了我, 教导了我真正的高精灵荣耀. 我因她而变得更优秀. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A94|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "But why... Why now?",
+    "string": "可为什么...为什么偏偏是现在?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A96|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I could have made Commissar, helping our Leader design the Great Machine of States and ensure our kind's prosperity.",
+    "string": "我本可以成为执政官, 协助我们的领袖设计国家这台庞大机器, 确保我们族群的千秋昌盛. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A98|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And yet, the taint in my clan will forever be that invisible ceiling. Those treasonous parents, aunt, and sister of mine...",
+    "string": "然而, 家族中的污点将永远是我无形的桎梏. 叛国的父母、姑妈, 还有我的妹妹...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A9A|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My father and mother paid for their sins in Elsweyr. Now, with my only sister brought back to the Thalmor's fold, I will redeem my family's honor!",
+    "string": "我的父母已经在艾斯维尔为他们的罪行付出了代价. 如今, 只要把唯一的妹妹也带回梭默的怀抱, 我就能洗刷家族的耻辱, 重新赢得荣耀!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A9D|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And you... What should we do about you? The one who slew that fool Ancano, and removed my road block in so doing...",
+    "string": "而你...该拿你怎么办才好呢?正是你亲手宰了那个蠢货安卡诺, 还顺手替我扫清了最大的绊脚石...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2Merandil221",
+    "form_id": "05000A9E|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're insane. Faralda would never submit to the Thalmor.",
+    "string": "你疯了. 法劳达绝不会向梭默屈服的. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A9F|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's nothing a few decades of re-education cannot change.",
+    "string": "那不过是几十年“再教育”就能改过来的小事. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A9F|FDE Faralda.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Failing that, then I will just repeat what methods I used on our aunt. More crude, but much more effective in a pinch.",
+    "string": "若是还改不过来...那我就只好对她重施一次当年用在我们姑妈身上的手段. 或许更粗暴些, 但在紧要关头, 却比什么都管用. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2Merandil222",
+    "form_id": "05000AA0|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Very well, do what you must, I won't stop you.",
+    "string": "好吧, 做你该做的吧, 我不会阻止你. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000AA1|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're smarter than you realize. Perhaps in our new world, there will be a special place for you.",
+    "string": "你比自己想的更聪明. 也许在我们的新世界里, 会为你留一个特别的位置. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2Merandil223",
+    "form_id": "05000AA2|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's never too late, trust me. Return to your sister's side. Leave the Thalmor.",
+    "string": "回头是岸, 相信我. 回到你姐妹的身边去. 离开梭默. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000AA3|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And suffer the shame that our parents forced upon my name? I almost admire your naivety.",
+    "string": "然后承受我们父母强加在我名号上的耻辱吗?我简直要佩服你的天真了. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2Merandil224",
+    "form_id": "05000AA4|FDE Faralda.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I won't let you harm Faralda!",
+    "string": "我不会让你伤害法劳达!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000AA5|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How sweet - that's the answer I hoped for. Maybe I'll spare your life then make you a thrall, just to remind myself this victory!",
+    "string": "多么动听 --- 这正是我想要的答案. 也许我会饶你一命, 然后把你变成一个奴仆, 以此来时时提醒我这场胜利!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000AA7|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We've talked enough!",
+    "string": "废话够多了!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000AAC|FDE Faralda.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So it's done. My brother is gone... just as I once thought he was.",
+    "string": "就这样了...我哥哥走了. 就跟我当年以为的一样. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformWinterholdCollegeA",
+    "form_id": "0005D2E9|Skyrim.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Research Thief",
+    "string": "研究盗贼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformWinterholdCollegeA",
+    "form_id": "0005D2E9|Skyrim.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Talk to Nirya to see what she's plotting",
+    "string": "和尼尔雅谈谈她在盘算什么",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformWinterholdCollegeA",
+    "form_id": "0005D2E9|Skyrim.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Help Nirya steal the notes or tell Faralda the plot",
+    "string": "帮尼尔雅偷笔记或告诉法劳达尼尔雅的阴谋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformWinterholdCollegeA",
+    "form_id": "0005D2E9|Skyrim.esm",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Bring the notes to Nirya or tell Faralda the plot",
+    "string": "把笔记带给尼尔雅或告诉法劳达尼尔雅的阴谋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ1",
+    "form_id": "0500096A|FDE Faralda.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "With Love, Eilonwy, Part 1",
+    "string": "以爱之名, 艾伦薇,  其一",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ1",
+    "form_id": "0500096A|FDE Faralda.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Faralda, the Professor of Destruction School in the College of Winterhold, wants  me to bring a letter from her to Vekel the Man in the Ragged Flagon in Riften. He will help deliver it to her aunt Eilonwy.",
+    "string": "法劳达 --- 冬堡学院破坏系的教授 --- 希望我替她把一封信送到裂谷城漏壶中的“大丈夫“威克尔手中. 他会负责将信转交给她的姑妈艾伦薇. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ1",
+    "form_id": "0500096A|FDE Faralda.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Vekel the Man will help Faralda deliver her family letter to her aunt. We can continue traveling and see if her aunt sends any reply.",
+    "string": "“大丈夫”威克尔会帮法劳达把家书送到她的姑妈手中. 我们可以继续旅程，看看她的姑妈是否会回信. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ1",
+    "form_id": "0500096A|FDE Faralda.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Faralda has received her aunt's reply to her family letter, and she seems quite pleased to hear back from her.",
+    "string": "法劳达已经收到了姑妈回覆家书的信件, 看起来她对能得到回应十分高兴. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ1",
+    "form_id": "0500096A|FDE Faralda.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Bring Faralda's family letter to Vekel the Man",
+    "string": "将法劳达的家书交给“大丈夫”威克尔. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ1",
+    "form_id": "0500096A|FDE Faralda.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Talk to Faralda",
+    "string": "跟法劳达交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ1",
+    "form_id": "0500096A|FDE Faralda.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Continue traveling with Faralda",
+    "string": "与法劳达继续旅行",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ1",
+    "form_id": "0500096A|FDE Faralda.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Return to the College of Winterhold with Faralda",
+    "string": "和法劳达返回冬堡学院",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ1",
+    "form_id": "0500096A|FDE Faralda.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Talk to Faralda",
+    "string": "跟法劳达交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ1",
+    "form_id": "0500096A|FDE Faralda.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Continue traveling with Faralda",
+    "string": "与法劳达继续旅行",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "With Love, Eilonwy, Part 2",
+    "string": "以爱之名, 艾伦薇,  其二",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Faralda's brother and aunt may be in danger. We need to talk about what to do.",
+    "string": "法劳达的哥哥与姑妈可能身陷险境. 我们得商量下一步该怎么做. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Faralda's brother and aunt may be in danger. She wants us to meet them now in Lost Prospect Mine.",
+    "string": "法劳达的哥哥和姑妈可能身处危险之中. 她希望我们立即前往绝望矿场与他们会合. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I've brought Faralda to Lost Prospect Mine to meet Eilonwy.",
+    "string": "我带了法劳达来绝望矿场见艾伦薇. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "Faralda's brother Merandil is actually a Thalmor. He wants to force Faralda to return to Alinor with him.",
+    "string": "法劳达的哥哥梅兰迪尔竟然是一个梭默. 他想强迫法劳达随他一同返回艾琳诺. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "Faralda's brother Merandil is actually a Thalmor. He wants to force Faralda to return to Alinor with him, and attacks us while making the attempt.",
+    "string": "法劳达的哥哥梅兰迪尔竟然是一个梭默. 他想强迫法劳达随他一同返回艾琳诺, 并在行动中对我们发起了攻击. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "Faralda's brother Merandil was actually a Thalmor. He wanted to force Faralda to return to Alinor with him, and attacked us while making the attempt. I killed him.",
+    "string": "法劳达的哥哥梅兰迪尔竟然是一个梭默. 他想强迫法劳达随他一同返回艾琳诺, 并在行动中对我们发起了攻击. 我杀了他. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I let Faralda's brother take her back to Alinor.",
+    "string": "我让法劳达的哥哥带她返回艾琳诺. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Talk to Faralda",
+    "string": "跟法劳达交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Meet Faralda's aunt at Lost Prospect Mine",
+    "string": "在绝望矿场和法劳达的姑妈会合",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "(Optional) Attack Merandil now",
+    "string": "(可选) 攻击梅兰迪尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Kill Merandil",
+    "string": "杀死梅兰迪尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Talk to Faralda",
+    "string": "跟法劳达交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaraldaQ2",
+    "form_id": "05000A40|FDE Faralda.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Meet Faralda back at the College of Winterhold",
+    "string": "在冬堡学院与法劳达会合. ",
+    "status": "TranslationComplete"
+  }
+]

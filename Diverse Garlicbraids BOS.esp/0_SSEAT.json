@@ -1,0 +1,128 @@
+[
+  {
+    "editor_id": "HangingGarlicBraid01_F",
+    "form_id": "02000001|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Garlic Braid",
+    "string": "蒜串",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HangingGarlicBraid01_F",
+    "form_id": "02000001|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Harvest",
+    "string": "收获",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HangingGarlicBraid01_G",
+    "form_id": "02000002|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Garlic Braid",
+    "string": "蒜串",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HangingGarlicBraid01_G",
+    "form_id": "02000002|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Harvest",
+    "string": "收获",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HangingGarlicBraid01_H",
+    "form_id": "02000003|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Garlic Braid",
+    "string": "蒜串",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HangingGarlicBraid01_H",
+    "form_id": "02000003|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Harvest",
+    "string": "收获",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HangingGarlicBraid01_B",
+    "form_id": "02000D61|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Garlic Braid",
+    "string": "蒜串",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HangingGarlicBraid01_B",
+    "form_id": "02000D61|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Harvest",
+    "string": "收获",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HangingGarlicBraid01_C",
+    "form_id": "02000D62|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Garlic Braid",
+    "string": "蒜串",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HangingGarlicBraid01_C",
+    "form_id": "02000D62|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Harvest",
+    "string": "收获",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HangingGarlicBraid01_D",
+    "form_id": "02000D63|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Garlic Braid",
+    "string": "蒜串",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HangingGarlicBraid01_D",
+    "form_id": "02000D63|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Harvest",
+    "string": "收获",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HangingGarlicBraid01_E",
+    "form_id": "02000D64|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Garlic Braid",
+    "string": "蒜串",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HangingGarlicBraid01_E",
+    "form_id": "02000D64|Diverse Garlicbraids BOS.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Harvest",
+    "string": "收获",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,4511 @@
+[
+  {
+    "editor_id": "aspCPBunnyStaffPower",
+    "form_id": "03000DFD|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bunny Power",
+    "string": "兔之力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aspCPBunnyStaffPower",
+    "form_id": "03000DFD|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Invoke the ancient bunny power, turns foe into bunny!",
+    "string": "召唤古兔之力，将敌人化为兔形！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aspCPslowtime",
+    "form_id": "03000E20|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Slow Time Effect",
+    "string": "减缓时间效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aspCPslowtime",
+    "form_id": "03000E20|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Slows time for <dur> seconds.",
+    "string": "减缓时间流逝<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "amSelfDamage",
+    "form_id": "03000F7A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Damage Health",
+    "string": "减损生命",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "amSelfDamage",
+    "form_id": "03000F7A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Each hit will hurt the wielder",
+    "string": "杀敌一千，自损八百。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aEnchBunnyStaffPower",
+    "form_id": "03000DFC|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Bunny Power",
+    "string": "兔之力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aEnchMaidWatchPower",
+    "form_id": "03000E21|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Time Stop",
+    "string": "时停",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aEnchSelfDamage",
+    "form_id": "03000F7B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Counter Edge",
+    "string": "逆刃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderTopLewd2",
+    "form_id": "03000803|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Bra - Pink (Lewd)",
+    "string": "拉拉队员文胸 - 粉色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderTop3",
+    "form_id": "03000804|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Bra - Golden",
+    "string": "拉拉队员文胸 - 金色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderTopLewd3",
+    "form_id": "03000805|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Bra - Golden (Lewd)",
+    "string": "拉拉队员文胸 - 金色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderTopAlt2",
+    "form_id": "03000806|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Top - Pink",
+    "string": "拉拉队员上衣 - 粉色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderTopAltLewd2",
+    "form_id": "03000807|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Top - Pink (Lewd)",
+    "string": "拉拉队员上衣 - 粉色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderTopAlt3",
+    "form_id": "03000808|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Top - Golden",
+    "string": "拉拉队员上衣 - 金色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderTopAltLewd3",
+    "form_id": "03000809|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Top - Golden (Lewd)",
+    "string": "拉拉队员上衣 - 金色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderSkirt2",
+    "form_id": "0300080A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Miniskirt - Pink",
+    "string": "拉拉队员超短裙 - 粉色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderSkirt3",
+    "form_id": "0300080B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Miniskirt - Golden",
+    "string": "拉拉队员超短裙 - 金色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderCollar2",
+    "form_id": "0300080C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar - Blue Tag",
+    "string": "假领 - 蓝色标签",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderCollar3",
+    "form_id": "0300080D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar - Gold Tag",
+    "string": "假领 - 金色标签",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderStickers2",
+    "form_id": "0300080E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Stickers - Heart",
+    "string": "拉拉队员贴纸 - 红桃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderStickers3",
+    "form_id": "03000810|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Stickers - Spade",
+    "string": "拉拉队员贴纸 - 黑桃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportSwimComp2",
+    "form_id": "03000811|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Swimsuit Competitive - Mizuno",
+    "string": "竞赛泳衣 - 美津浓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportFlops2",
+    "form_id": "03000812|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Flipflops - Red",
+    "string": "人字拖 - 红色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportHeadband2",
+    "form_id": "03000813|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Headband - Black",
+    "string": "头带 - 黑色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportJacket2",
+    "form_id": "03000814|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Jacket Track - Adidas",
+    "string": "运动夹克 - 阿迪达斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportJacket3",
+    "form_id": "03000815|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Jacket Track - Squid",
+    "string": "运动夹克 - 鱿鱼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportLanyard2",
+    "form_id": "03000816|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Necklace Lanyard - Name Tag",
+    "string": "挂绳项链 - 名牌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportLanyard3",
+    "form_id": "03000817|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Necklace Lanyard - Social",
+    "string": "挂绳项链 - 社交",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotard",
+    "form_id": "03000818|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Classic",
+    "string": "兔女郎紧身衣 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportLegwarmer2",
+    "form_id": "03000819|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legwarmers - Black",
+    "string": "腿套 - 黑色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportLegwarmer3",
+    "form_id": "0300081A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legwarmers - Nylon",
+    "string": "腿套 - 尼龙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsALewd3",
+    "form_id": "0300081E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bloomers - Black (Lewd)",
+    "string": "布鲁玛 - 黑色（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsB2",
+    "form_id": "0300081F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Hotpants - Red",
+    "string": "热裤 - 红色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsBLewd2",
+    "form_id": "03000820|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Hotpants - Red (Lewd)",
+    "string": "热裤 - 红色（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsB3",
+    "form_id": "03000821|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Hotpants - Black",
+    "string": "热裤 - 黑色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsBLewd3",
+    "form_id": "03000822|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Hotpants - Black (Lewd)",
+    "string": "热裤 - 黑色（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsC2",
+    "form_id": "03000823|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Sportpanty - Red",
+    "string": "运动内裤 - 红色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsCLewd2",
+    "form_id": "03000824|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Sportpanty - Red (Lewd)",
+    "string": "运动内裤 - 红色（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsC3",
+    "form_id": "03000825|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Sportpanty - Black",
+    "string": "运动内裤 - 黑色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsCLewd3",
+    "form_id": "03000826|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Sportpanty - Black (Lewd)",
+    "string": "运动内裤 - 黑色（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsD2",
+    "form_id": "03000827|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Dolphine Shorts - Pluma",
+    "string": "海豚短裤 - 羽量级",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsDLewd2",
+    "form_id": "03000828|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Dolphine Shorts - Pluma (Lewd)",
+    "string": "海豚短裤 - 羽量级（及膝）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsD3",
+    "form_id": "03000829|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Dolphine Shorts - Muay Thai",
+    "string": "海豚短裤 - 泰拳",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsDLewd3",
+    "form_id": "0300082A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Dolphine Shorts - Muay Thai (Lewd)",
+    "string": "海豚短裤 - 泰拳（及膝）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPom2",
+    "form_id": "0300082B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Pom Pom - Pink",
+    "string": "拉拉队彩球 - 粉色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPom3",
+    "form_id": "0300082C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Pom Pom - Aquamarine",
+    "string": "拉拉队彩球 - 海蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportShoes2",
+    "form_id": "0300082D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Trainers - Maison Margiela",
+    "string": "运动鞋 - 梅森·马吉拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportShoes3",
+    "form_id": "0300082E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Trainers - Golden Goose",
+    "string": "运动鞋 - 黄金鹅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVolleyTop2",
+    "form_id": "0300082F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Volleyball Shirt - Kansai",
+    "string": "排球服 - 关西",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVolleyLewd2",
+    "form_id": "03000830|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Volleyball Shirt - Kansai (Lewd)",
+    "string": "排球服 - 关西（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVolleyLewd462",
+    "form_id": "03000831|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Volleyball Shirt - Kansai (Lewd) [Slot46]",
+    "string": "排球服 - 关西（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVolleyElbow2",
+    "form_id": "03000832|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Volleyball Elbowpad - Cotton",
+    "string": "排球护肘 - 棉制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVolleyKnee2",
+    "form_id": "03000833|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Volleyball Kneepad - Cotton",
+    "string": "排球护膝 - 棉制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportWhistle2",
+    "form_id": "03000834|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Necklace Whistle - Plastic",
+    "string": "项链口哨 - 塑料",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportBra2",
+    "form_id": "03000835|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Sportbra - Red",
+    "string": "运动内衣 - 红色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportBraLewd2",
+    "form_id": "03000836|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Sportbra - Red (Lewd)",
+    "string": "运动内衣 - 红色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportBra3",
+    "form_id": "03000837|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Sportbra - Black",
+    "string": "运动内衣 - 黑色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportBraLewd3",
+    "form_id": "03000838|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Sportbra - Black (Lewd)",
+    "string": "运动内衣 - 黑色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotardTR",
+    "form_id": "0300084B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Peekaboo",
+    "string": "兔女郎紧身衣 - 躲猫猫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotardLewdTR",
+    "form_id": "0300084C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Peekaboo (Lewd)",
+    "string": "兔女郎紧身衣 - 躲猫猫（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotard5",
+    "form_id": "03000873|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Queen of Heart",
+    "string": "兔女郎紧身衣 - 红桃女王",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotardLewd5",
+    "form_id": "03000874|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Queen of Heart (Lewd)",
+    "string": "兔女郎紧身衣 - 红桃女王（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotard6",
+    "form_id": "03000875|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Velvet",
+    "string": "兔女郎紧身衣 - 丝绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotardLewd6",
+    "form_id": "03000876|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Velvet (Lewd)",
+    "string": "兔女郎紧身衣 - 丝绒（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyBodystocking2",
+    "form_id": "03000877|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Bodystocking - Fishnet",
+    "string": "连体袜 - 渔网",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyBoots2",
+    "form_id": "03000878|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Thighboots - Velvet",
+    "string": "长筒靴 - 丝绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyCollarC2",
+    "form_id": "03000879|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Scarf - Checker",
+    "string": "领巾 - 棋盘格",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyCollarC3",
+    "form_id": "0300087A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Scarf - Club",
+    "string": "领巾 - 俱乐部",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyCollarD2",
+    "form_id": "0300087B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Necktie Short - Imperial",
+    "string": "小领带 - 帝国",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyCollarD3",
+    "form_id": "0300087C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Necktie Short - Aquamarine",
+    "string": "小领带 - 海蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyEar2",
+    "form_id": "0300087D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Ears - Peekaboo",
+    "string": "兔耳朵 - 躲猫猫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyEar3",
+    "form_id": "0300087E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Ears - Iridescent",
+    "string": "兔耳朵 - 彩虹色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyEar4",
+    "form_id": "0300087F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Ears - Snow",
+    "string": "兔耳朵 - 雪白色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyEar5",
+    "form_id": "03000880|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Ears - Queen of Heart",
+    "string": "兔耳朵 - 红桃女王",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyEar6",
+    "form_id": "03000881|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Ears - Velvet",
+    "string": "兔耳朵 - 丝绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyGarterbelt2",
+    "form_id": "03000882|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Garterbelt - Floral",
+    "string": "吊袜带 - 花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyGarterbelt3",
+    "form_id": "03000883|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Garterbelt - Bride",
+    "string": "吊袜带 - 新娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyGlovesATR",
+    "form_id": "03000884|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Long - Sheer",
+    "string": "长手套 - 薄纱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyGlovesA3",
+    "form_id": "03000885|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Long - Black",
+    "string": "长手套 - 黑色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyGlovesBTR",
+    "form_id": "03000886|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Short - Sheer",
+    "string": "短手套 - 薄纱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyGlovesB3",
+    "form_id": "03000887|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Short - Black",
+    "string": "短手套 - 黑色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyGlovesC2",
+    "form_id": "03000888|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Outter - Velvet",
+    "string": "手套外罩 - 丝绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyGlovesC3",
+    "form_id": "03000889|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Outter - Iridescent",
+    "string": "手套外罩 - 彩虹色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyHat2",
+    "form_id": "0300088A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Hat Tophat - Redvelvet",
+    "string": "礼帽 - 红丝绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyHeelsA2",
+    "form_id": "0300088B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Ankle - Sapphire",
+    "string": "系踝奥赛鞋 - 天蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyHeelsA3",
+    "form_id": "0300088C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Ankle - Bling",
+    "string": "系踝奥赛鞋 - 闪亮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyHeelsB2",
+    "form_id": "0300088D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Pumps - Ruby",
+    "string": "粗跟高跟鞋 - 深红色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyHeelsB3",
+    "form_id": "0300088E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Pumps - Pure",
+    "string": "粗跟高跟鞋 - 纯色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyStocking2",
+    "form_id": "0300088F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Garter Stockings - Fishnet",
+    "string": "吊带袜 - 渔网",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyStocking3",
+    "form_id": "03000890|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Garter Stockings - Stripe",
+    "string": "吊带袜 - 条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyTuxedo2",
+    "form_id": "03000891|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Jacket Tuxedo - Redvelvet",
+    "string": "燕尾服 - 红丝绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyPantyhose2",
+    "form_id": "03000892|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Pantyhose - Fishnet",
+    "string": "裤袜 - 渔网",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyPantyhose3",
+    "form_id": "03000893|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Pantyhose - Stripe",
+    "string": "裤袜 - 条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTop",
+    "form_id": "03000897|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Kanto",
+    "string": "冬季水手服 - 关东",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorChoker",
+    "form_id": "030008A1|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Choker - Simple Dark",
+    "string": "项圈 - 简约深色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorShoesHeel",
+    "form_id": "030008A2|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Loafers Highheel - Gloss",
+    "string": "高跟乐福鞋 - 锃亮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorSock",
+    "form_id": "030008A3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Socks Knee-High - Wool",
+    "string": "小腿袜 - 羊绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopLewd",
+    "form_id": "030008A4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Kanto (Lewd)",
+    "string": "冬季水手服 - 关东（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShortLewd",
+    "form_id": "030008A5|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Kanto (Lewd)",
+    "string": "夏季水手服 - 关东（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTop2",
+    "form_id": "030008C2|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Kansai",
+    "string": "冬季水手服 - 关西",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorSkirt2",
+    "form_id": "030008C3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt - Kansai",
+    "string": "百褶裙 - 关西",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorPanty2",
+    "form_id": "030008C4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Side-tie Lace",
+    "string": "侧系带内裤 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorPantyhose2",
+    "form_id": "030008C5|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Pantyhose - High Denier",
+    "string": "裤袜 - 高旦",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorStocking2",
+    "form_id": "030008C6|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Socks Thigh-High - Sporty",
+    "string": "长筒袜 - 运动型",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorShoes2",
+    "form_id": "030008C7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Loafers - Leather",
+    "string": "乐福鞋 - 真皮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShort2",
+    "form_id": "030008C8|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Kansai",
+    "string": "夏季水手服 - 关西",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorSkirtShort2",
+    "form_id": "030008C9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt Mini - Kansai",
+    "string": "齐屄小短裙 - 关西",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorGarter2",
+    "form_id": "030008CA|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Garter Stockings - Silk",
+    "string": "吊带袜 - 丝质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorCap2",
+    "form_id": "030008CB|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Hat Cap - Navy",
+    "string": "制服帽 - 海军",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorHat2",
+    "form_id": "030008CC|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Hat Sailor - Kansai",
+    "string": "水手帽 - 关西",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorChoker2",
+    "form_id": "030008CD|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Choker - Simple White",
+    "string": "项圈 - 简约白色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorShoesHeel2",
+    "form_id": "030008CE|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Loafers Highheel - Leather",
+    "string": "高跟乐福鞋 - 真皮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorSock2",
+    "form_id": "030008CF|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Socks Knee-High - Sporty",
+    "string": "小腿袜 - 运动型",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopLewd2",
+    "form_id": "030008D0|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Kansai (Lewd)",
+    "string": "冬季水手服 - 关西（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShortLewd2",
+    "form_id": "030008D1|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Kansai (Lewd)",
+    "string": "夏季水手服 - 关西（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTop3",
+    "form_id": "030008D2|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Nagoya",
+    "string": "冬季水手服 - 名古屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorSkirt3",
+    "form_id": "030008D3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt - Nagoya",
+    "string": "百褶裙 - 名古屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorPanty3",
+    "form_id": "030008D4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Side-tie Violet",
+    "string": "侧系带内裤 - 蓝紫色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShort3",
+    "form_id": "030008D5|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Nagoya",
+    "string": "夏季水手服 - 名古屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorSkirtShort3",
+    "form_id": "030008D6|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt Mini - Nagoya",
+    "string": "齐屄小短裙 - 名古屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopLewd3",
+    "form_id": "030008D7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Nagoya (Lewd)",
+    "string": "冬季水手服 - 名古屋（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShortLewd3",
+    "form_id": "030008D8|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Nagoya (Lewd)",
+    "string": "夏季水手服 - 名古屋（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorPantyhose3",
+    "form_id": "030008DE|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Pantyhose - Silky",
+    "string": "裤袜 - 丝质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorStocking3",
+    "form_id": "030008DF|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Socks Thigh-High - Silky",
+    "string": "长筒袜 - 丝质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorShoes3",
+    "form_id": "030008E0|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Loafers - White",
+    "string": "乐福鞋 - 白色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorShoesHeel3",
+    "form_id": "030008E1|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Loafers Highheel - White",
+    "string": "高跟乐福鞋 - 白色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorSock3",
+    "form_id": "030008E2|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Socks Knee-High - Silky",
+    "string": "小腿袜 - 丝质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTop4",
+    "form_id": "030008E7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Kanto Blue Scarf",
+    "string": "冬季水手服 - 关东配蓝围巾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShort4",
+    "form_id": "030008E8|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Kanto Blue Scarf",
+    "string": "夏季水手服 - 关东配蓝围巾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopLewd4",
+    "form_id": "030008E9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Kanto Blue Scarf (Lewd)",
+    "string": "冬季水手服 - 关东配蓝围巾（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShortLewd4",
+    "form_id": "030008EA|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Kanto Blue Scarf (Lewd)",
+    "string": "夏季水手服 - 关东配蓝围巾（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorPantyhoseRipped",
+    "form_id": "030008F1|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Pantyhose - Sheer (Ripped)",
+    "string": "裤袜 - 薄纱（破损）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorPantyhose2Ripped",
+    "form_id": "030008F2|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Pantyhose - High Denier (Ripped)",
+    "string": "裤袜 - 高旦（破损）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorPantyhose3Ripped",
+    "form_id": "030008F3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Pantyhose - Silky (Ripped)",
+    "string": "裤袜 - 丝质（破损）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTop5",
+    "form_id": "030008F8|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Nagoya Red Scarf",
+    "string": "冬季水手服 - 名古屋配红围巾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShort5",
+    "form_id": "030008F9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Nagoya Red Scarf",
+    "string": "夏季水手服 - 名古屋配红围巾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopLewd5",
+    "form_id": "030008FA|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Nagoya Red Scarf (Lewd)",
+    "string": "冬季水手服 - 名古屋配红围巾（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShortLewd5",
+    "form_id": "030008FB|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Nagoya Red Scarf (Lewd)",
+    "string": "夏季水手服 - 名古屋配红围巾（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirt",
+    "form_id": "03000907|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt",
+    "string": "衬衫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolCardigan",
+    "form_id": "03000908|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cardigan - Wool",
+    "string": "开襟毛衣 - 羊绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirt",
+    "form_id": "03000909|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Navy",
+    "string": "藏青色西装外套配衬衫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerCardigan",
+    "form_id": "0300090A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Navy with Cardigan - Wool",
+    "string": "藏青色西装外套配开襟毛衣 - 羊绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBowtie",
+    "form_id": "0300090B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Bowtie School - Royal",
+    "string": "平角领结 - 皇家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolNecktie",
+    "form_id": "0300090C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Necktie Long - Royal",
+    "string": "长领带 - 皇家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBra",
+    "form_id": "0300090D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Side-tie Violet",
+    "string": "文胸 - 蓝紫色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolSkirt",
+    "form_id": "0300090E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt - Checker",
+    "string": "百褶裙 - 棋盘格",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolSkirtShort",
+    "form_id": "0300090F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt Mini - Checker",
+    "string": "齐屄小短裙 - 棋盘格",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolPenSkirt",
+    "form_id": "03000910|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt Pencil - Silky",
+    "string": "铅笔裙 - 丝质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolNecklace",
+    "form_id": "03000913|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Necklace - Silver",
+    "string": "项链 - 银",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolScrunchie",
+    "form_id": "03000914|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bracelet Scrunchie - Fur",
+    "string": "大肠发圈手链 - 黑白条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirtB",
+    "form_id": "03000935|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Navy (Unbuttoned)",
+    "string": "藏青色西装外套配衬衫（解扣）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirtB2",
+    "form_id": "03000936|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Navy - Striped (Unbuttoned)",
+    "string": "藏青色西装外套配衬衫 - 条纹（解扣）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtop",
+    "form_id": "03000938|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - Dark",
+    "string": "V领T恤 - 深色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsA2",
+    "form_id": "03000939|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bloomers - Red",
+    "string": "布鲁玛 - 红色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsALewd2",
+    "form_id": "0300093A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bloomers - Red (Lewd)",
+    "string": "布鲁玛 - 红色（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsA3",
+    "form_id": "0300093B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bloomers - Black",
+    "string": "布鲁玛 - 黑色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopLewd",
+    "form_id": "0300095A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - Dark (Lewd)",
+    "string": "V领T恤 - 深色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportRtopLewd",
+    "form_id": "0300095B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt Round-Neck - Classic (Lewd)",
+    "string": "圆领T恤 - 经典（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportBracelet",
+    "form_id": "0300095C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bracelet - Neon",
+    "string": "手链 - 霓虹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderTop",
+    "form_id": "0300095D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Bra - Aquamarine",
+    "string": "拉拉队员文胸 - 海蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderSkirt",
+    "form_id": "0300095E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Miniskirt - Aquamarine",
+    "string": "拉拉队员超短裙 - 海蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderCollar",
+    "form_id": "0300095F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar - Red Tag",
+    "string": "假领 - 红色标签",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderCuffs",
+    "form_id": "03000960|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cuffs - Simple",
+    "string": "袖口 - 简约",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderStickers",
+    "form_id": "03000961|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Stickers - Stars",
+    "string": "拉拉队员贴纸 - 星星",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportSwimComp",
+    "form_id": "03000962|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Swimsuit Competitive - Asics",
+    "string": "竞赛泳衣 - 亚瑟士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportSwimOld",
+    "form_id": "03000963|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Swimsuit Oldschool",
+    "string": "死库水 - 老式",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportSwimNew",
+    "form_id": "03000964|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Swimsuit Newschool",
+    "string": "死库水 - 新式",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportFlops",
+    "form_id": "03000965|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Flipflops - Navy",
+    "string": "人字拖 - 海军蓝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportHeadband",
+    "form_id": "03000966|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Headband - White",
+    "string": "头带 - 白色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportJacket",
+    "form_id": "03000967|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Jacket Track - Classic",
+    "string": "运动夹克 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportLanyard",
+    "form_id": "03000968|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Necklace Lanyard - Link",
+    "string": "挂绳项链 - 链接",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportLegwarmer",
+    "form_id": "03000969|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legwarmers - Cotton",
+    "string": "腿套 - 棉制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsA",
+    "form_id": "0300096A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bloomers - Classic",
+    "string": "布鲁玛 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsB",
+    "form_id": "0300096B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Hotpants - Classic",
+    "string": "热裤 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsC",
+    "form_id": "0300096C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Sportpanty - Classic",
+    "string": "运动内裤 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsD",
+    "form_id": "0300096D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Dolphine Shorts - Black",
+    "string": "海豚短裤 - 黑色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPom",
+    "form_id": "0300096E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Pom Pom - Golden",
+    "string": "拉拉队彩球 - 金色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportShoes",
+    "form_id": "0300096F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Trainers - Onitsuka Tiger",
+    "string": "运动鞋 - 鬼冢虎",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVolleyTop",
+    "form_id": "03000970|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Volleyball Shirt - Kanto",
+    "string": "排球服 - 关东",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVolleyElbow",
+    "form_id": "03000971|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Volleyball Elbowpad - Nylon",
+    "string": "排球护肘 - 尼龙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVolleyKnee",
+    "form_id": "03000972|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Volleyball Kneepad - Nylon",
+    "string": "排球护膝 - 尼龙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVolleyLewd",
+    "form_id": "03000973|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Volleyball Shirt - Kanto (Lewd)",
+    "string": "排球服 - 关东（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportWhistle",
+    "form_id": "03000974|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Necklace Whistle - Steel",
+    "string": "项链口哨 - 钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderTopLewd",
+    "form_id": "03000975|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Bra - Aquamarine (Lewd)",
+    "string": "拉拉队员文胸 - 海蓝色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsALewd",
+    "form_id": "03000976|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bloomers - Classic (Lewd)",
+    "string": "布鲁玛 - 经典（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsCLewd",
+    "form_id": "03000977|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Sportpanty - Classic (Lewd)",
+    "string": "运动内裤 - 经典（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopLewd46",
+    "form_id": "0300097E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - Dark (Lewd) [Slot46]",
+    "string": "V领T恤 - 深色（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportRtopLewd46",
+    "form_id": "0300097F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt Round-Neck - Classic (Lewd) [Slot46]",
+    "string": "圆领T恤 - 经典（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVolleyLewd46",
+    "form_id": "03000980|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Volleyball Shirt - Kanto (Lewd) [Slot46]",
+    "string": "排球服 - 关东（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderTopAlt",
+    "form_id": "03000987|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Top - Aquamarine",
+    "string": "拉拉队员上衣 - 海蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderTopAltLewd",
+    "form_id": "03000988|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Top - Aquamarine (Lewd)",
+    "string": "拉拉队员上衣 - 海蓝色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraA",
+    "form_id": "03000993|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Sapphire",
+    "string": "文胸 - 天蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraB",
+    "form_id": "03000996|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Lace Strapped",
+    "string": "文胸 - 蕾丝系带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraC",
+    "form_id": "03000997|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Pure Lace",
+    "string": "文胸 - 蕾丝纯色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyA",
+    "form_id": "03000998|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Sapphire",
+    "string": "三角裤 - 天蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyB",
+    "form_id": "0300099C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Lace Strapped",
+    "string": "三角裤 - 蕾丝系带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyC",
+    "form_id": "0300099D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Pure Lace",
+    "string": "三角裤 - 蕾丝纯色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraLewdA",
+    "form_id": "030009A4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Sapphire (Lewd)",
+    "string": "文胸 - 天蓝色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraLewdB",
+    "form_id": "030009A5|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Lace Strapped (Lewd)",
+    "string": "文胸 - 蕾丝系带（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraLewdC",
+    "form_id": "030009A6|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Pure Lace (Lewd)",
+    "string": "文胸 - 蕾丝纯色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyLewdA",
+    "form_id": "030009A7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Sapphire (Lewd)",
+    "string": "三角裤 - 天蓝色（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyLewdB",
+    "form_id": "030009A8|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Lace Strapped (Lewd)",
+    "string": "三角裤 - 蕾丝系带（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyLewdC",
+    "form_id": "030009A9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Pure Lace (Lewd)",
+    "string": "三角裤 - 蕾丝纯色（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraA2",
+    "form_id": "030009D7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Oreo",
+    "string": "文胸 - 奥利奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraLewdA2",
+    "form_id": "030009D8|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Oreo (Lewd)",
+    "string": "文胸 - 奥利奥（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraA3",
+    "form_id": "030009D9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Bride",
+    "string": "文胸 - 新娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraLewdA3",
+    "form_id": "030009DA|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Bride (Lewd)",
+    "string": "文胸 - 新娘（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraA4",
+    "form_id": "030009DB|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Floral",
+    "string": "文胸 - 花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraLewdA4",
+    "form_id": "030009DC|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Floral (Lewd)",
+    "string": "文胸 - 花卉（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraA5",
+    "form_id": "030009DD|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Verdant",
+    "string": "文胸 - 翠绿色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraLewdA5",
+    "form_id": "030009DE|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Verdant (Lewd)",
+    "string": "文胸 - 翠绿色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraA6",
+    "form_id": "030009DF|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Black Lace",
+    "string": "文胸 - 黑色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraLewdA6",
+    "form_id": "030009E0|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Black Lace (Lewd)",
+    "string": "文胸 - 黑色蕾丝（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyA2",
+    "form_id": "030009E1|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Oreo",
+    "string": "三角裤 - 奥利奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyLewdA2",
+    "form_id": "030009E2|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Oreo (Lewd)",
+    "string": "三角裤 - 奥利奥（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyA3",
+    "form_id": "030009E3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Bride",
+    "string": "三角裤 - 新娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyLewdA3",
+    "form_id": "030009E4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Bride (Lewd)",
+    "string": "三角裤 - 新娘（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyA4",
+    "form_id": "030009E5|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Floral",
+    "string": "三角裤 - 花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyLewdA4",
+    "form_id": "030009E6|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Floral (Lewd)",
+    "string": "三角裤 - 花卉（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyA5",
+    "form_id": "030009E7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Verdant",
+    "string": "三角裤 - 翠绿色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyLewdA5",
+    "form_id": "030009E8|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Verdant (Lewd)",
+    "string": "三角裤 - 翠绿色（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyA6",
+    "form_id": "030009E9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Black Lace",
+    "string": "三角裤 - 黑色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyLewdA6",
+    "form_id": "030009EA|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Black Lace (Lewd)",
+    "string": "三角裤 - 黑色蕾丝（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraB2",
+    "form_id": "030009EB|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Crimson",
+    "string": "文胸 - 深红色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraLewdB2",
+    "form_id": "030009EC|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Crimson (Lewd)",
+    "string": "文胸 - 深红色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraB3",
+    "form_id": "030009ED|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Leopard",
+    "string": "文胸 - 豹纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndieBraLewdB3",
+    "form_id": "030009EE|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Leopard (Lewd)",
+    "string": "文胸 - 豹纹（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyB2",
+    "form_id": "030009F3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Crimson",
+    "string": "三角裤 - 深红色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyLewdB2",
+    "form_id": "030009F4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Crimson (Lewd)",
+    "string": "三角裤 - 深红色（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyB3",
+    "form_id": "030009F5|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Leopard",
+    "string": "三角裤 - 豹纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPUndiePantyLewdB3",
+    "form_id": "030009F6|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Leopard (Lewd)",
+    "string": "三角裤 - 豹纹（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedBikini3",
+    "form_id": "03000A10|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bikini - Chrome",
+    "string": "比基尼 - 铬合金",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedBikini3Lewd",
+    "form_id": "03000A11|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bikini - Chrome (Lewd)",
+    "string": "比基尼 - 铬合金（露三点）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedCollar3",
+    "form_id": "03000A12|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar - Chrome",
+    "string": "项圈 - 铬合金",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedGloves3",
+    "form_id": "03000A13|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Tight - Chrome",
+    "string": "紧手套 - 铬合金",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedBikini1",
+    "form_id": "03000A1A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bikini - Latex",
+    "string": "比基尼 - 乳胶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedCollar1",
+    "form_id": "03000A1B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar - Latex",
+    "string": "项圈 - 乳胶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedGloves1",
+    "form_id": "03000A1C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Tight - Latex",
+    "string": "紧手套 - 乳胶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedPiercingBelly1",
+    "form_id": "03000A1D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Piercing Navel - Light",
+    "string": "肚脐钉 - 浅色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedPiercingNipp1",
+    "form_id": "03000A1E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Piercing Nipple - Light",
+    "string": "乳钉 - 浅色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedStocking1",
+    "form_id": "03000A1F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Stockings - Latex",
+    "string": "长筒袜 - 乳胶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedPiercingBelly3",
+    "form_id": "03000A22|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Piercing Navel - Golden",
+    "string": "肚脐钉 - 金色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedBikini2",
+    "form_id": "03000A29|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bikini - Ghosted",
+    "string": "比基尼 - 鬼魅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedCollar2",
+    "form_id": "03000A2A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar - Ghosted",
+    "string": "项圈 - 鬼魅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedGloves2",
+    "form_id": "03000A2B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Tight - Sheer",
+    "string": "紧手套 - 薄纱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedPiercingBelly2",
+    "form_id": "03000A2C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Piercing Navel - Dark",
+    "string": "肚脐钉 - 深色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedPiercingNipp2",
+    "form_id": "03000A2D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Piercing Nipple - Dark",
+    "string": "乳钉 - 深色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedStocking2",
+    "form_id": "03000A2E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Stockings - Sheer",
+    "string": "长筒袜 - 薄纱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedBikini1Lewd",
+    "form_id": "03000A31|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bikini - Latex (Lewd)",
+    "string": "比基尼 - 乳胶（露三点）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedBikini2Lewd",
+    "form_id": "03000A32|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bikini - Ghosted (Lewd)",
+    "string": "比基尼 - 鬼魅（露三点）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedPiercingNipp3",
+    "form_id": "03000A33|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Piercing Nipple - Golden",
+    "string": "乳钉 - 金色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGhostedStocking3",
+    "form_id": "03000A34|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Stockings - Chrome",
+    "string": "长筒袜 - 铬合金",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidBikini3",
+    "form_id": "03000A38|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bikini - Golden",
+    "string": "比基尼 - 金色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidBikiniLewd3",
+    "form_id": "03000A39|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bikini - Golden (Lewd)",
+    "string": "比基尼 - 金色（露三点）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyPantyhoseTorn",
+    "form_id": "03000A43|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Pantyhose - Meshed (Ripped)",
+    "string": "裤袜 - 网格（破损）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyPantyhoseTorn2",
+    "form_id": "03000A44|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Pantyhose - Fishnet (Ripped)",
+    "string": "裤袜 - 渔网（破损）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyPantyhoseTorn3",
+    "form_id": "03000A45|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Pantyhose - Stripe (Ripped)",
+    "string": "裤袜 - 条纹（破损）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyPantyhose4",
+    "form_id": "03000A4A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Pantyhose - Floral",
+    "string": "裤袜 - 花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyStocking4",
+    "form_id": "03000A4B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Garter Stockings - Bride",
+    "string": "吊带袜 - 新娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyEar7",
+    "form_id": "03000A53|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Ears - Aquamarine",
+    "string": "兔耳朵 - 海蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotardTR2",
+    "form_id": "03000A54|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Aquamarine",
+    "string": "兔女郎紧身衣 - 海蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotardLewdTR2",
+    "form_id": "03000A55|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Aquamarine (Lewd)",
+    "string": "兔女郎紧身衣 - 海蓝色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyHat3",
+    "form_id": "03000A5B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Hat Tophat - Snow",
+    "string": "礼帽 - 雪白色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyTuxedo3",
+    "form_id": "03000A5C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Jacket Tuxedo - Snow",
+    "string": "燕尾服 - 雪白色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorSkirt",
+    "form_id": "03000D98|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt - Kanto",
+    "string": "百褶裙 - 关东",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorPanty",
+    "form_id": "03000D9A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Side-tie Shima",
+    "string": "侧系带内裤 - 蓝白条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorPantyhose",
+    "form_id": "03000D9C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Pantyhose - Sheer",
+    "string": "裤袜 - 薄纱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorStocking",
+    "form_id": "03000DA4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Socks Thigh-High - Wool",
+    "string": "长筒袜 - 羊绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorShoes",
+    "form_id": "03000DA5|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Loafers - Gloss",
+    "string": "乐福鞋 - 锃亮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyArmbelt",
+    "form_id": "03000DDD|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Armband - Belt",
+    "string": "臂环 - 皮带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyBodystocking",
+    "form_id": "03000DDE|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Bodystocking - Sheer",
+    "string": "连体袜 - 薄纱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyBoots",
+    "form_id": "03000DDF|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Thighboots - Classic",
+    "string": "长筒靴 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyCollarA",
+    "form_id": "03000DE0|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar - Bunny",
+    "string": "项圈 - 兔女郎",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyCollarB",
+    "form_id": "03000DE1|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Bowtie - Spade",
+    "string": "领结 - 黑桃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyCollarC",
+    "form_id": "03000DE2|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Scarf - Diamond",
+    "string": "领巾 - 菱形条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyCollarD",
+    "form_id": "03000DE3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Necktie Short - Bunny",
+    "string": "小领带 - 兔子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyChoker",
+    "form_id": "03000DE4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Necklace - Heart Choker",
+    "string": "项链 - 心形项圈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyCuffs",
+    "form_id": "03000DE5|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cuffs - Buttoned",
+    "string": "袖口 - 纽扣式",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyEar",
+    "form_id": "03000DE6|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Ears - Classic",
+    "string": "兔耳朵 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyGarterbelt",
+    "form_id": "03000DE7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Garterbelt - Lace",
+    "string": "吊袜带 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyGlovesA",
+    "form_id": "03000DE8|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Long - White",
+    "string": "长手套 - 白色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyGlovesB",
+    "form_id": "03000DE9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Short - White",
+    "string": "短手套 - 白色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyGlovesC",
+    "form_id": "03000DEA|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Outter - Classic",
+    "string": "手套外罩 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyHarness",
+    "form_id": "03000DEB|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Harness",
+    "string": "背带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyHat",
+    "form_id": "03000DEC|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Hat Tophat - Classic",
+    "string": "礼帽 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyHeelsA",
+    "form_id": "03000DED|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Ankle - Gloss",
+    "string": "系踝奥赛鞋 - 锃亮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyHeelsB",
+    "form_id": "03000DEE|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Pumps - Gloss",
+    "string": "粗跟高跟鞋 - 锃亮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyHeelsC",
+    "form_id": "03000DEF|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Strapped - Gloss",
+    "string": "系踝高跟鞋 - 锃亮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyMedal",
+    "form_id": "03000DF0|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunnyclub Medal",
+    "string": "兔女郎俱乐部奖章",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyStocking",
+    "form_id": "03000DF1|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Garter Stockings - Lace",
+    "string": "吊带袜 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyThighstrap",
+    "form_id": "03000DF2|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Thighstrap",
+    "string": "腿带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyTuxedo",
+    "form_id": "03000DF3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Jacket Tuxedo - Classic",
+    "string": "燕尾服 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyPantyhose",
+    "form_id": "03000DF4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Pantyhose - Meshed",
+    "string": "裤袜 - 网格",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyTail",
+    "form_id": "03000DF6|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Fluffy Tail",
+    "string": "兔女郎毛绒尾巴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotardLewd",
+    "form_id": "03000E03|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Classic (Lewd)",
+    "string": "兔女郎紧身衣 - 经典（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyTailLewd",
+    "form_id": "03000E06|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Fluffy Tail (Lewd)",
+    "string": "兔女郎毛绒尾巴（肛塞）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyThighstrapLewd",
+    "form_id": "03000E07|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Thighstrap (Lewd)",
+    "string": "腿带（避孕套）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCafeBlouse",
+    "form_id": "03000E08|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Cafe Blouse - Classic",
+    "string": "咖啡馆女仆衬衫 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShort",
+    "form_id": "03000E0A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Kanto",
+    "string": "夏季水手服 - 关东",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorSkirtShort",
+    "form_id": "03000E0B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt Mini - Kanto",
+    "string": "齐屄小短裙 - 关东",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorGarter",
+    "form_id": "03000E0C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Garter Stockings - Sheer",
+    "string": "吊带袜 - 薄纱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorCap",
+    "form_id": "03000E0D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Hat Cap - Newsman",
+    "string": "制服帽 - 新闻记者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorHat",
+    "form_id": "03000E0E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Hat Sailor - Kanto",
+    "string": "水手帽 - 关东",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCafeSkirt",
+    "form_id": "03000E3E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Cafe Skirt - Classic",
+    "string": "咖啡馆女仆裙 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCafeApron",
+    "form_id": "03000E3F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Cafe Apron - Frill",
+    "string": "咖啡馆女仆围裙 - 褶边",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCosplayBlouse",
+    "form_id": "03000E40|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Coser Blouse - Classic",
+    "string": "女仆短上衣 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCosplaySkirt",
+    "form_id": "03000E41|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Coser Skirt - Classic",
+    "string": "女仆裙 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCosplayApron",
+    "form_id": "03000E42|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Coser Apron - Frill",
+    "string": "女仆围裙 - 褶边",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidArmlets",
+    "form_id": "03000E43|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Armband - Frill",
+    "string": "臂环 - 褶边",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidBikini",
+    "form_id": "03000E44|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bikini - Frill",
+    "string": "比基尼 - 褶边",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidBoots",
+    "form_id": "03000E45|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Airwair - Gloss",
+    "string": "马丁靴 - 锃亮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidBowtie",
+    "form_id": "03000E46|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Bowtie Puffy - Dark",
+    "string": "小长柄领结 - 深色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCatEarA",
+    "form_id": "03000E47|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cat Ear - Furry",
+    "string": "猫耳 - 多毛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCatEarB",
+    "form_id": "03000E48|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cat Ear - Fluffy",
+    "string": "猫耳 - 毛茸茸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCatTail",
+    "form_id": "03000E49|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cat Tail",
+    "string": "猫尾巴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidChoker",
+    "form_id": "03000E4A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Choker - Frill",
+    "string": "项圈 - 褶边",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCollarA",
+    "form_id": "03000E4B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar - Maid",
+    "string": "项圈 - 女仆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCollarB",
+    "form_id": "03000E4C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Belt - Leather",
+    "string": "皮带项圈 - 真皮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCollarC",
+    "form_id": "03000E4D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Belt Bell - Leather",
+    "string": "皮带项圈与铃铛 - 真皮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCollarD",
+    "form_id": "03000E4E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Belt Cross - Leather",
+    "string": "皮带项圈与十字架 - 真皮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCollarE",
+    "form_id": "03000E4F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Belt Pet - Leather",
+    "string": "皮带宠物项圈 - 真皮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCuffs",
+    "form_id": "03000E50|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cuffs - Frill",
+    "string": "袖口 - 褶边",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidGloves",
+    "form_id": "03000E51|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Half - Leather",
+    "string": "半掌手套 - 真皮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidHeaddressA",
+    "form_id": "03000E52|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Headdress A - Frill",
+    "string": "头饰 A - 褶边",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidHeaddressB",
+    "form_id": "03000E53|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Headdress B - Frill",
+    "string": "头饰 B - 褶边",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidHeels",
+    "form_id": "03000E54|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Maryjanes - Gloss",
+    "string": "玛丽珍鞋 - 锃亮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidKnife",
+    "form_id": "03000E55|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Thigh Knife",
+    "string": "腿刀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidRibbon",
+    "form_id": "03000E56|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Ribbon - Dark",
+    "string": "丝带项圈 - 深色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidSocks",
+    "form_id": "03000E57|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Socks - Frill",
+    "string": "短袜 - 褶边",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidStockings",
+    "form_id": "03000E58|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Stockings - Frill",
+    "string": "长筒袜 - 褶边",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidWatch",
+    "form_id": "03000E59|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pocket Watch",
+    "string": "怀表",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotard3",
+    "form_id": "03000E5C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Iridescent",
+    "string": "兔女郎紧身衣 - 彩虹色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotardLewd3",
+    "form_id": "03000E5D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Iridescent (Lewd)",
+    "string": "兔女郎紧身衣 - 彩虹色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotard4",
+    "form_id": "03000E5E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Snow",
+    "string": "兔女郎紧身衣 - 雪白色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyLeotardLewd4",
+    "form_id": "03000E5F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bunny Leotard - Snow (Lewd)",
+    "string": "兔女郎紧身衣 - 雪白色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyBoots3",
+    "form_id": "03000E66|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Thighboots - Iridescent",
+    "string": "长筒靴 - 彩虹色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyCollarB2",
+    "form_id": "03000E67|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Bowtie - Heart",
+    "string": "领结 - 菱形条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPBunnyCollarB3",
+    "form_id": "03000E68|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Bowtie - Aquamarine",
+    "string": "领结 - 海蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aHDTMop",
+    "form_id": "03000E6A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Mop HDT",
+    "string": "拖把（HDT）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCafeApronSkirt",
+    "form_id": "03000E6F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Cafe Skirt with Apron - Classic Frill",
+    "string": "带围裙的咖啡馆女仆裙 - 褶边经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCosplayApronSkirt",
+    "form_id": "03000E70|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Coser Skirt with Apron - Classic Frill",
+    "string": "带围裙的女仆裙 - 褶边经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCafeBlouseLewd",
+    "form_id": "03000E71|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Cafe Blouse - Classic (Lewd)",
+    "string": "咖啡馆女仆衬衫 - 经典（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCosplayBlouseLewd",
+    "form_id": "03000E72|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Coser Blouse - Classic (Lewd)",
+    "string": "女仆短上衣 - 经典（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidBikiniLewd",
+    "form_id": "03000E74|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bikini - Frill (Lewd)",
+    "string": "比基尼 - 褶边（露三点）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCafeBlouse2",
+    "form_id": "03000EA1|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Cafe Blouse - Pure",
+    "string": "咖啡馆女仆衬衫 - 纯色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCafeBlouseLewd2",
+    "form_id": "03000EA2|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Cafe Blouse - Pure (Lewd)",
+    "string": "咖啡馆女仆衬衫 - 纯色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCafeSkirt2",
+    "form_id": "03000EA3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Cafe Skirt - Pure",
+    "string": "咖啡馆女仆裙 - 纯色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCafeApron2",
+    "form_id": "03000EA4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Cafe Apron - Lace",
+    "string": "咖啡馆女仆围裙 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCafeApronSkirt2",
+    "form_id": "03000EA5|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Cafe Skirt with Apron - Pure Lace",
+    "string": "带围裙的咖啡馆女仆裙 - 蕾丝纯色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCosplayBlouse2",
+    "form_id": "03000EA6|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Coser Blouse - Dirndl",
+    "string": "女仆短上衣 - 阿尔卑斯村姑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCosplayBlouseLewd2",
+    "form_id": "03000EA7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Coser Blouse - Dirndl (Lewd)",
+    "string": "女仆短上衣 - 阿尔卑斯村姑（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCosplaySkirt2",
+    "form_id": "03000EA8|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Coser Skirt - Dirndl",
+    "string": "女仆裙 - 阿尔卑斯村姑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCosplayApron2",
+    "form_id": "03000EA9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Coser Apron - Lace",
+    "string": "女仆围裙 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCosplayApronSkirt2",
+    "form_id": "03000EAA|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Coser Skirt with Apron - Dirndl Lace",
+    "string": "带围裙的女仆裙 - 蕾丝阿尔卑斯村姑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidArmlets2",
+    "form_id": "03000EAB|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Armband - Lace",
+    "string": "臂环 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidBikini2",
+    "form_id": "03000EAC|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bikini - Lace",
+    "string": "比基尼 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidBikiniLewd2",
+    "form_id": "03000EAD|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bikini - Lace (Lewd)",
+    "string": "比基尼 - 蕾丝（露三点）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidBoots2",
+    "form_id": "03000EAE|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Airwair - Leather",
+    "string": "马丁靴 - 真皮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidBowtie2",
+    "form_id": "03000EAF|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Bowtie Puffy - Aquamarine",
+    "string": "小长柄领结 - 海蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidChoker2",
+    "form_id": "03000EB0|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Choker - Lace",
+    "string": "项圈 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCollarB2",
+    "form_id": "03000EB1|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Belt - Faux",
+    "string": "皮带项圈 - 人造革",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCollarC2",
+    "form_id": "03000EB2|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Belt Bell - Faux",
+    "string": "皮带项圈与铃铛 - 人造革",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCollarD2",
+    "form_id": "03000EB3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Belt Cross - Faux",
+    "string": "皮带项圈与十字架 - 人造革",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCollarE2",
+    "form_id": "03000EB4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Belt Pet - Faux",
+    "string": "皮带宠物项圈 - 人造革",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCuffs2",
+    "form_id": "03000EB5|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cuffs - Lace",
+    "string": "袖口 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidGloves2",
+    "form_id": "03000EB6|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Half - White",
+    "string": "半掌手套 - 白色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidHeaddressA2",
+    "form_id": "03000EB7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Headdress A - Lace",
+    "string": "头饰 A - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidHeaddressB2",
+    "form_id": "03000EB8|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Headdress B - Lace",
+    "string": "头饰 B - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidHeels2",
+    "form_id": "03000EB9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shoes Maryjanes - Old Fashion",
+    "string": "玛丽珍鞋 - 老式",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidRibbon2",
+    "form_id": "03000EBA|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Ribbon - Crimson",
+    "string": "丝带项圈 - 深红色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidSocks2",
+    "form_id": "03000EBB|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Socks - Lace",
+    "string": "短袜 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidStockings2",
+    "form_id": "03000EBC|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Stockings - Lace",
+    "string": "长筒袜 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCafeApronSkirt3",
+    "form_id": "03000EC1|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Cafe Skirt with Apron - Classic Lace",
+    "string": "带围裙的咖啡馆女仆裙 - 蕾丝经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCosplayApronSkirt3",
+    "form_id": "03000EC2|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Coser Skirt with Apron - Classic Lace",
+    "string": "带围裙的女仆裙 - 蕾丝经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCafeApronSkirt4",
+    "form_id": "03000EC3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Cafe Skirt with Apron - Pure Frill",
+    "string": "带围裙的咖啡馆女仆裙 - 褶边纯色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPMaidCosplayApronSkirt4",
+    "form_id": "03000EC4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Maid Coser Skirt with Apron - Dirndl Frill",
+    "string": "带围裙的女仆裙 - 褶边阿尔卑斯村姑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirt2",
+    "form_id": "03000ECC|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt - Striped",
+    "string": "衬衫 - 条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirt3",
+    "form_id": "03000ECD|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt - Lace",
+    "string": "衬衫 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolCardigan2",
+    "form_id": "03000ED0|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cardigan - Knitted",
+    "string": "开襟毛衣 - 针织",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirt2",
+    "form_id": "03000ED3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Navy - Striped",
+    "string": "藏青色西装外套配衬衫 - 条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirt3",
+    "form_id": "03000ED4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Navy - Lace",
+    "string": "藏青色西装外套配衬衫 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirt4",
+    "form_id": "03000ED5|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Khaki",
+    "string": "卡其色西装外套配衬衫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirt5",
+    "form_id": "03000ED6|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Khaki - Striped",
+    "string": "卡其色西装外套配衬衫 - 条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirt6",
+    "form_id": "03000ED7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Khaki - Lace",
+    "string": "卡其色西装外套配衬衫 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerCardigan2",
+    "form_id": "03000EDA|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Khaki with Cardigan - Wool",
+    "string": "卡其色西装外套配开襟毛衣 - 羊绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerCardigan3",
+    "form_id": "03000EDD|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Khaki with Cardigan - Knitted",
+    "string": "卡其色西装外套配开襟毛衣 - 针织",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBowtie2",
+    "form_id": "03000EE0|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Bowtie School - Striped",
+    "string": "平角领结 - 条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBowtie3",
+    "form_id": "03000EE1|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Bowtie School - Aquamarine",
+    "string": "平角领结 - 海蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolNecktie2",
+    "form_id": "03000EE2|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Necktie Long - Business",
+    "string": "长领带 - 商务",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolNecktie3",
+    "form_id": "03000EE3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Collar Necktie Long - Noel",
+    "string": "长领带 - 圣诞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBra2",
+    "form_id": "03000EE4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Side-tie Shima",
+    "string": "文胸 - 蓝白条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBra3",
+    "form_id": "03000EE5|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Side-tie Lace",
+    "string": "文胸 - 蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolSkirt2",
+    "form_id": "03000EE6|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt - Tartan",
+    "string": "百褶裙 - 格子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolSkirt3",
+    "form_id": "03000EE7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt - Wool",
+    "string": "百褶裙 - 羊绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolSkirtShort2",
+    "form_id": "03000EE8|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt Mini - Tartan",
+    "string": "齐屄小短裙 - 格子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolSkirtShort3",
+    "form_id": "03000EE9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt Mini - Wool",
+    "string": "齐屄小短裙 - 羊绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolPenSkirt2",
+    "form_id": "03000EEA|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt Pencil - Tartan",
+    "string": "铅笔裙 - 格子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolNecklace2",
+    "form_id": "03000EEB|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Necklace - Cobalt",
+    "string": "项链 - 钴蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolScrunchie2",
+    "form_id": "03000EEC|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bracelet Scrunchie - Aquamarine",
+    "string": "大肠发圈手链 - 海蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtB",
+    "form_id": "03000EF6|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt (Unbuttoned)",
+    "string": "衬衫（解扣）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtB2",
+    "form_id": "03000EF7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt - Striped (Unbuttoned)",
+    "string": "衬衫 - 条纹（解扣）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtB3",
+    "form_id": "03000EF8|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt - Lace (Unbuttoned)",
+    "string": "衬衫 - 蕾丝（解扣）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtC",
+    "form_id": "03000EF9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt (Opened)",
+    "string": "衬衫（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtC2",
+    "form_id": "03000EFA|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt - Striped (Opened)",
+    "string": "衬衫 - 条纹（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtC3",
+    "form_id": "03000EFB|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt - Lace (Opened)",
+    "string": "衬衫 - 蕾丝（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolCardiganTie",
+    "form_id": "03000EFC|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cardigan Waist-Tied - Wool",
+    "string": "开襟毛衣（系腰） - 羊绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolCardiganTie2",
+    "form_id": "03000EFD|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cardigan Waist-Tied - Knitted",
+    "string": "开襟毛衣（系腰） - 针织",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerCardigan4",
+    "form_id": "03000EFF|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Navy with Cardigan - Knitted",
+    "string": "藏青色西装外套配开襟毛衣 - 针织",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirtB3",
+    "form_id": "03000F0E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Navy - Lace (Unbuttoned)",
+    "string": "藏青色西装外套配衬衫 - 蕾丝（解扣）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirtB4",
+    "form_id": "03000F0F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Khaki (Unbuttoned)",
+    "string": "卡其色西装外套配衬衫（解扣）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirtB5",
+    "form_id": "03000F10|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Khaki - Striped (Unbuttoned)",
+    "string": "卡其色西装外套配衬衫 - 条纹（解扣）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirtB6",
+    "form_id": "03000F11|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Khaki - Lace (Unbuttoned)",
+    "string": "卡其色西装外套配衬衫 - 蕾丝（解扣）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirtC",
+    "form_id": "03000F12|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Navy (Opened)",
+    "string": "藏青色西装外套配衬衫（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirtC2",
+    "form_id": "03000F13|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Navy - Striped (Opened)",
+    "string": "藏青色西装外套配衬衫 - 条纹（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirtC3",
+    "form_id": "03000F14|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Navy - Lace (Opened)",
+    "string": "藏青色西装外套配衬衫 - 蕾丝（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirtC4",
+    "form_id": "03000F15|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Khaki (Opened)",
+    "string": "卡其色西装外套配衬衫（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirtC5",
+    "form_id": "03000F16|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Khaki - Striped (Opened)",
+    "string": "卡其色西装外套配衬衫 - 条纹（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazerShirtC6",
+    "form_id": "03000F17|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Blazer Khaki - Lace (Opened)",
+    "string": "卡其色西装外套配衬衫 - 蕾丝（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtD",
+    "form_id": "03000F1B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt (Loose)",
+    "string": "衬衫（袒胸）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtD2",
+    "form_id": "03000F1C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt - Striped (Loose)",
+    "string": "衬衫 - 条纹（袒胸）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtD3",
+    "form_id": "03000F1D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt - Lace (Loose)",
+    "string": "衬衫 - 蕾丝（袒胸）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorCrewSock",
+    "form_id": "03000F34|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Socks Crew - Wool",
+    "string": "中筒袜 - 羊绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorCrewSock2",
+    "form_id": "03000F35|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Socks Crew - Sporty",
+    "string": "中筒袜 - 运动型",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorCrewSock3",
+    "form_id": "03000F36|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Legs Socks Crew - Silky",
+    "string": "中筒袜 - 丝质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopLewd46",
+    "form_id": "03000F37|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Kanto (Lewd) [Slot46]",
+    "string": "冬季水手服 - 关东（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShortLewd46",
+    "form_id": "03000F38|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Kanto (Lewd) [Slot46]",
+    "string": "夏季水手服 - 关东（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopLewd462",
+    "form_id": "03000F39|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Kansai (Lewd) [Slot46]",
+    "string": "冬季水手服 - 关西（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShortLewd462",
+    "form_id": "03000F3A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Kansai (Lewd) [Slot46]",
+    "string": "夏季水手服 - 关西（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopLewd463",
+    "form_id": "03000F3B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Nagoya (Lewd) [Slot46]",
+    "string": "冬季水手服 - 名古屋（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShortLewd463",
+    "form_id": "03000F3C|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Nagoya (Lewd) [Slot46]",
+    "string": "夏季水手服 - 名古屋（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopT",
+    "form_id": "03000F3D|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - Dark (Tuck-in)",
+    "string": "V领T恤 - 深色（塞裤腰）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportRtop",
+    "form_id": "03000F3E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt Round-Neck - Classic",
+    "string": "圆领T恤 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopLewd464",
+    "form_id": "03000F3F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Kanto Blue Scarf (Lewd) [Slot46]",
+    "string": "冬季水手服 - 关东配蓝围巾（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShortLewd464",
+    "form_id": "03000F40|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Kanto Blue Scarf (Lewd) [Slot46]",
+    "string": "夏季水手服 - 关东配蓝围巾（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopLewd465",
+    "form_id": "03000F41|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Winter - Nagoya Red Scarf (Lewd) [Slot46]",
+    "string": "冬季水手服 - 名古屋配红围巾（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorTopShortLewd465",
+    "form_id": "03000F42|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Sailor Blouse Summer - Nagoya Red Scarf (Lewd) [Slot46]",
+    "string": "夏季水手服 - 名古屋配红围巾（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazer",
+    "form_id": "03000F43|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Jacket Blazer Navy",
+    "string": "藏青色西装外套",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBlazer2",
+    "form_id": "03000F44|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Jacket Blazer Khaki",
+    "string": "卡其色西装外套",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtC46",
+    "form_id": "03000F45|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt (Opened) [Slot46]",
+    "string": "衬衫（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtC462",
+    "form_id": "03000F46|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt - Striped (Opened) [Slot46]",
+    "string": "衬衫 - 条纹（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtC463",
+    "form_id": "03000F47|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt - Lace (Opened) [Slot46]",
+    "string": "衬衫 - 蕾丝（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtD46",
+    "form_id": "03000F48|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt (Loose) [Slot46]",
+    "string": "衬衫（袒胸）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtD462",
+    "form_id": "03000F49|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt - Striped (Loose) [Slot46]",
+    "string": "衬衫 - 条纹（袒胸）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolShirtD463",
+    "form_id": "03000F4A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Shirt - Lace (Loose) [Slot46]",
+    "string": "衬衫 - 蕾丝（袒胸）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorSkirtLewd",
+    "form_id": "03000F52|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt - Kanto (Lewd)",
+    "string": "百褶裙 - 关东（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorSkirtLewd2",
+    "form_id": "03000F53|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt - Kansai (Lewd)",
+    "string": "百褶裙 - 关西（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorSkirtLewd3",
+    "form_id": "03000F54|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt - Nagoya (Lewd)",
+    "string": "百褶裙 - 名古屋（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolSkirtLewd",
+    "form_id": "03000F55|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt - Checker (Lewd)",
+    "string": "百褶裙 - 棋盘格（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolSkirtLewd2",
+    "form_id": "03000F56|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt - Tartan (Lewd)",
+    "string": "百褶裙 - 格子（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolSkirtLewd3",
+    "form_id": "03000F57|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt - Wool (Lewd)",
+    "string": "百褶裙 - 羊绒（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolPenSkirtLewd",
+    "form_id": "03000F5A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt Pencil - Silky (Lewd)",
+    "string": "铅笔裙 - 丝质（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolPenSkirtLewd2",
+    "form_id": "03000F5B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Skirt Pencil - Tartan (Lewd)",
+    "string": "铅笔裙 - 格子（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorPantyLewd",
+    "form_id": "03000F62|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Side-tie Shima (Lewd)",
+    "string": "侧系带内裤 - 蓝白条纹（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorPantyLewd2",
+    "form_id": "03000F63|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Side-tie Lace (Lewd)",
+    "string": "侧系带内裤 - 蕾丝（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSailorPantyLewd3",
+    "form_id": "03000F64|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Panty - Side-tie Violet (Lewd)",
+    "string": "侧系带内裤 - 蓝紫色（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBraLewd",
+    "form_id": "03000F65|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Side-tie Violet (Lewd)",
+    "string": "文胸 - 蓝紫色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBraLewd2",
+    "form_id": "03000F66|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Side-tie Shima (Lewd)",
+    "string": "文胸 - 蓝白条纹（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSchoolBraLewd3",
+    "form_id": "03000F67|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Bra - Side-tie Lace (Lewd)",
+    "string": "文胸 - 蕾丝（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopTR",
+    "form_id": "03000F69|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - Dark (Translucent)",
+    "string": "V领T恤 - 深色（半透明）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopTTR",
+    "form_id": "03000F6A|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - Dark (Tuck-in Translucent)",
+    "string": "V领T恤 - 深色（半透明塞裤腰）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportRtopTR",
+    "form_id": "03000F6B|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt Round-Neck - Classic (Translucent)",
+    "string": "圆领T恤 - 经典（半透明）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportBra",
+    "form_id": "03000F70|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Sportbra - Classic",
+    "string": "运动内衣 - 经典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportBraLewd",
+    "form_id": "03000F72|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Sportbra - Classic (Lewd)",
+    "string": "运动内衣 - 经典（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSChaosBladeScb",
+    "form_id": "03000F73|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Chaos Blade - Scabbard",
+    "string": "无序之斩 - 刀鞘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsBLewd",
+    "form_id": "03000F76|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Hotpants - Classic (Lewd)",
+    "string": "热裤 - 经典（露屄）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportPantsDLewd",
+    "form_id": "03000F77|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Undies Dolphine Shorts - Black (Lewd)",
+    "string": "海豚短裤 - 黑色（及膝）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtop2",
+    "form_id": "03000FE9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - CCCP",
+    "string": "V领T恤 - 苏联",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopLewd2",
+    "form_id": "03000FEA|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - CCCP (Lewd)",
+    "string": "V领T恤 - 苏联（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopT2",
+    "form_id": "03000FEB|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - CCCP (Tuck-in)",
+    "string": "V领T恤 - 苏联（塞裤腰）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopLewd462",
+    "form_id": "03000FEC|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - CCCP (Lewd) [Slot46]",
+    "string": "V领T恤 - 苏联（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopTR2",
+    "form_id": "03000FED|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - CCCP (Translucent)",
+    "string": "V领T恤 - 苏联（半透明）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopTTR2",
+    "form_id": "03000FEE|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - CCCP (Tuck-in Translucent)",
+    "string": "V领T恤 - 苏联（半透明塞裤腰）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtop3",
+    "form_id": "03000FEF|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - Ribcage",
+    "string": "V领T恤 - 胸腔骨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopLewd3",
+    "form_id": "03000FF0|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - Ribcage (Lewd)",
+    "string": "V领T恤 - 胸腔骨（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopT3",
+    "form_id": "03000FF1|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - Ribcage (Tuck-in)",
+    "string": "V领T恤 - 胸腔骨（塞裤腰）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopLewd463",
+    "form_id": "03000FF2|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - Ribcage (Lewd) [Slot46]",
+    "string": "V领T恤 - 胸腔骨（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopTR3",
+    "form_id": "03000FF3|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - Ribcage (Translucent)",
+    "string": "V领T恤 - 胸腔骨（半透明）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportVtopTTR3",
+    "form_id": "03000FF4|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt V-Neck - Ribcage (Tuck-in Translucent)",
+    "string": "V领T恤 - 胸腔骨（半透明塞裤腰）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportRtop2",
+    "form_id": "03000FF5|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt Round-Neck - Red",
+    "string": "圆领T恤 - 红色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportRtopLewd2",
+    "form_id": "03000FF6|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt Round-Neck - Red (Lewd)",
+    "string": "圆领T恤 - 红色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportRtopLewd462",
+    "form_id": "03000FF7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt Round-Neck - Red (Lewd) [Slot46]",
+    "string": "圆领T恤 - 红色（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportRtopTR2",
+    "form_id": "03000FF8|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt Round-Neck - Red (Translucent)",
+    "string": "圆领T恤 - 红色（半透明）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportRtop3",
+    "form_id": "03000FF9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt Round-Neck - Black",
+    "string": "圆领T恤 - 黑色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportRtopLewd3",
+    "form_id": "03000FFA|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt Round-Neck - Black (Lewd)",
+    "string": "圆领T恤 - 黑色（露乳）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportRtopLewd463",
+    "form_id": "03000FFB|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt Round-Neck - Black (Lewd) [Slot46]",
+    "string": "圆领T恤 - 黑色（露乳）[46槽]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportRtopTR3",
+    "form_id": "03000FFC|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Tshirt Round-Neck - Black (Translucent)",
+    "string": "圆领T恤 - 黑色（半透明）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportBracelet2",
+    "form_id": "03000FFD|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bracelet - Pink",
+    "string": "手链 - 粉色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportBracelet3",
+    "form_id": "03000FFE|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bracelet - Game Over",
+    "string": "手链 - 游戏结束",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPSportCheerleaderTop2",
+    "form_id": "03000FFF|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Cheerleader Bra - Pink",
+    "string": "拉拉队员文胸 - 粉色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "awCPBunnyBottle",
+    "form_id": "03000DF7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dom Perignon",
+    "string": "唐培里侬香槟王",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "awCPBunnyBottle",
+    "form_id": "03000DF7|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "WEAP DESC",
+    "original": "3rd era vintage",
+    "string": "第三纪元的古董。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "awCPBunnyStaff",
+    "form_id": "03000DF9|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Maide Coinin",
+    "string": "兔子手杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "awCPMaidWatch",
+    "form_id": "03000E61|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Relativistic Device",
+    "string": "相对论仪器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "awCPMaidMop",
+    "form_id": "03000E64|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Mopping Up",
+    "string": "拖把",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "awCPMaidMop",
+    "form_id": "03000E64|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "WEAP DESC",
+    "original": "Must be spotless",
+    "string": "必须纤尘不染。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "awCPMaidKnife",
+    "form_id": "03000E65|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Myriad Edges",
+    "string": "万刃之锋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "awCPMaidKnife",
+    "form_id": "03000E65|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "WEAP DESC",
+    "original": "Facy and expensive kitchen knife",
+    "string": "一把精致昂贵的菜刀。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "awCPSailorKatana",
+    "form_id": "03000F6E|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Chaos Blade",
+    "string": "无序之斩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "awCPSailorGuitar",
+    "form_id": "03000F6F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ibanez Artcore",
+    "string": "依班娜空心爵士电吉他",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "awCPSailorGuitar",
+    "form_id": "03000F6F|[Caenarvon] Cosplay Pack.esp",
+    "index": 1,
+    "type": "WEAP DESC",
+    "original": "Electric semihollow",
+    "string": "半空心电吉他。",
+    "status": "TranslationComplete"
+  }
+]

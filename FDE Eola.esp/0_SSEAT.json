@@ -1,0 +1,2576 @@
+[
+  {
+    "editor_id": "aaEolaAbout0",
+    "form_id": "05000801|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about you, Eola.",
+    "string": "告诉我更多关于你的事，爱欧拉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000802|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why, of course, Champion of Namira.",
+    "string": "好啊，当然可以，娜米拉的冠军大人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout1",
+    "form_id": "05000804|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where did you come from?",
+    "string": "你从哪里来？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000805|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "High Rock. A land of strife and death, masked by the faint note of chivalric knights and elegant nobles.",
+    "string": "高岩。那片被骑士精神与贵族优雅粉饰着的纷争之地。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000805|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It is a place where men consume one another from the inside; the peasants for survival; and the nobles, power.",
+    "string": "人类在那里相互啃食——农民为生存，贵族为权柄。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout1a",
+    "form_id": "05000806|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds horrible.",
+    "string": "听起来很可怕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000807|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Perhaps that's true for the weak. But such a land is a perfect feeding ground for the children of Namira.",
+    "string": "对弱者而言或许如此。但对娜米拉的子民来说，那是最完美的猎场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout1b",
+    "form_id": "05000808|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds intriguing.",
+    "string": "听起来很有意思。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000809|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Indeed. A perfect feeding ground for the children of Namira.",
+    "string": "的确。对娜米拉的子民而言，这里是最完美的猎场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout1c",
+    "form_id": "0500080A|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "\"Consume\"? Do you mean the men there are cannibals too?",
+    "string": "“享用”？你是说那里的人也吃人肉？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080B|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It was merely a figure of speech - unless we're discussing a city under siege or a village recently plundered.",
+    "string": "这只是个比喻罢了——除非我们讨论的是被围困的城池或刚遭洗劫的村庄。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout1d",
+    "form_id": "0500080C|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why is High Rock in such a way?",
+    "string": "高岩怎么会变成这样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080D|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Those in power do what they must to seize control, and the strong will always devour the weak. It's in their nature.",
+    "string": "当权者为夺取控制权不择手段，强者永远在吞噬弱者。这就是他们的天性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080D|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Once the Empire lost its hold on the Breton nobles, it was only a matter of time until they began eating the province inside out.",
+    "string": "自从帝国失去了对布莱顿贵族的掌控，这个行省从内部被蚕食殆尽就只是时间问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout1e",
+    "form_id": "0500080E|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did you become Namira's follower?",
+    "string": "你是怎么成为娜米拉信徒的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2",
+    "form_id": "05000812|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did you become Namira's follower?",
+    "string": "你是怎么成为娜米拉信徒的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000813|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She is the goddess of the outcast. In a sense, she has been my patron long before I had my first feast, even if I was not aware.",
+    "string": "她是被遗弃之人的守护神。某种意义上，早在我首次盛宴前，她就早已是我的庇护者了——即便当时我并未察觉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2a",
+    "form_id": "05000814|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Were you an outcast?",
+    "string": "你曾是个流亡者？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000815|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was.",
+    "string": "我是啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000815|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Care to guess how I lost my eye?",
+    "string": "想猜猜看我的眼睛是怎么失去的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2ai",
+    "form_id": "05000816|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Someone took it from you.",
+    "string": "它被某些东西夺走了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000817|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Perhaps you're not entirely mistaken. The gods played a cruel jest on my life by taking it from me.",
+    "string": "你猜的倒也不算全错。诸神对我开了个残忍的玩笑，硬生生把它夺走了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2aii",
+    "form_id": "05000818|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You gouged it out to satisfy Namira.",
+    "string": "是你自己挖出来献给娜米拉的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000819|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now, aren't we dramatic? But no, Namira doesn't demand her children to sacrifice what little they have; they are already steeped in misery.",
+    "string": "呵，你说得可真骇人哪。不过错了，娜米拉从不要信徒献上仅剩的东西——他们本就活在苦难里了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2aiii",
+    "form_id": "0500081A|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You were born this way.",
+    "string": "你天生就这样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081B|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Correct.",
+    "string": "说得没错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081B|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "In the village where I was born, such... disabilities were seen as a curse from the gods, bringing only ill omens to their families.",
+    "string": "在我出生的村子，这种……残缺被视为神罚，会给全家带来厄运。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081B|FDE Eola.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "If not for a Priest of Stendarr's intervention, I would have been left by a river, perhaps meeting a swift end at the jaws of wolves.",
+    "string": "要不是斯丹达尔祭司插手，我早被扔在河边喂狼了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2aiii1",
+    "form_id": "0500081C|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I doubt the village showed you much love afterwards.",
+    "string": "我猜你也没在村里感受过爱吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081D|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Love? Love is for the weak. Not for the strong, and least of all for the outcast.",
+    "string": "爱？那是弱者才信的玩意儿。就连强者都不屑于这个，更别说我们这种被唾弃的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081D|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My parents provided me with food and shelter, though we never shared a table. Perhaps they loved me as a cursed child is meant to be loved.",
+    "string": "父母给我饭吃给我屋住，却从不让我上桌。大概这就是受诅咒孩子配得到的\"爱\"吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2aiii2",
+    "form_id": "0500081E|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Was that when you found Namira? As a child?",
+    "string": "你那时就皈依娜米拉了？在童年时？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081F|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That was not long after I experienced my first bleeding.",
+    "string": "那是我初潮后不久的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081F|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It was when the prince of Evermore clashed with a duke near my village - a bloody battle lasting two days, where the crows feasted well.",
+    "string": "当时永恒城的王子正与某位领主在我村庄附近交战——持续两日的血战让乌鸦饱餐了一顿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081F|FDE Eola.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The survivors of that battle descended upon my village: hungry, lustful, and armed. Once they had their fill, they left only smoldering ruins.",
+    "string": "那些溃败的残兵涌进村庄：他们饥肠辘辘，欲火焚身，顷刻间刀光血影……待他们发泄完离开时，就只剩下冒着烟的断壁残垣了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2aiii2a",
+    "form_id": "05000820|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "They were monstrous.",
+    "string": "他们简直禽兽不如。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000821|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They were strong.",
+    "string": "他们只是强者。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2aiii2b",
+    "form_id": "05000822|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's the way it is in war times.",
+    "string": "战争向来如此。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000823|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Precisely, Champion. The strong will always devour the weak, just as the wolf must consume the lamb.",
+    "string": "正是如此，冠军。强者永远吞噬弱者，就像狼注定要吃羊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000823|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It's in our nature.",
+    "string": "这是我们的天性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2aiii2c",
+    "form_id": "05000824|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Did Namira save you from the soldiers?",
+    "string": "是娜米拉从士兵手中救了你吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000825|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No.",
+    "string": "不。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000825|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "If I lacked the strength to protect myself in the future, why would she bother saving me this once?",
+    "string": "如果我将来仍然无力自保，她何必多此一举救我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2aiii2d",
+    "form_id": "05000826|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened after the soldiers destroyed the village?",
+    "string": "村子被毁后发生了什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000827|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There was nothing left for my parents and me. When winter arrived, the cold or the hunger would finish us off.",
+    "string": "我和父母早已断绝了生路。等到寒冬来临，大概不是冻死就是饿死。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000827|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "So we set out for the city of Evermore, believing its walls and provisions could sustain us.",
+    "string": "于是我们动身前往永恒城，期盼着高墙与存粮能给我们一条活路。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2aiii2di",
+    "form_id": "05000828|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I thought the soldiers of Evermore burned down your village.",
+    "string": "可烧毁你们村子的不就是永恒城的士兵？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000829|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As could the soldiers of Wayrest, Daggerfall, or Shornhelm. Any knight or saint would have acted this way, if not watched by a higher authority.",
+    "string": "但也可能是途歇城、匕落城或是啸盔城的士兵。若是无人监管，任何骑士或圣徒都会这么做。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000829|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And yet, these grand cities, with their virtuous knights, were the ones with walls and gold.",
+    "string": "偏偏这些大城邦，连同他们高贵的骑士，都坐拥着高墙与黄金。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2aiii2dii",
+    "form_id": "0500082A|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Your parents didn't abandon you. Maybe they loved you after all.",
+    "string": "你父母没有抛弃你。或许他们终究是爱你的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082E|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In times of war, young women are the most valuable currency, even for one who bears scars.",
+    "string": "战乱年代，年轻的女性就是最值钱的货物——即便带着伤疤。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aazEXITTopicDUPLICATE001",
+    "form_id": "0500082C|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's talk about something else.",
+    "string": "让我们聊点别的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2aiii2diii",
+    "form_id": "0500082F|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But the knights - didn't they fear the gods' wrath?",
+    "string": "但那些骑士……难道不怕神明降罪？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000830|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gods?",
+    "string": "神明？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000830|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "There is no god in High Rock, not in a land where love is deceitful, and beauty is brutalized.",
+    "string": "高岩没有神明，这片土地上的爱意尽是谎言，一切美丽都终将遭受摧残。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout2aiii2div",
+    "form_id": "05000831|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened after you and you parents made it to Evermore?",
+    "string": "你们一家到了永恒城后又发生了什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000834|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's a long story. Perhaps we can continue this topic another time, Champion.",
+    "string": "说来话长……改日再继续吧，冠军。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3",
+    "form_id": "05000836|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened after you and you parents made it to Evermore?",
+    "string": "你们一家到了永恒城后又发生了什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000837|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Evermore was mourning the loss of its crown prince, while the king fell ill in his grief.",
+    "string": "永恒城正为战死的王储举哀，老国王悲痛成疾。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000837|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And already, the nobles were plotting to play kingmakers.",
+    "string": "贵族们却已开始谋划拥立新君。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3a",
+    "form_id": "05000838|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "As always, the nobles only care about their benefits.",
+    "string": "贵族从来都只在乎自身利益。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000839|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And what's wrong with that? They only acted according to their nature.",
+    "string": "这有何不妥？他们不过顺应本性行事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3b",
+    "form_id": "0500083A|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No better time to seize power.",
+    "string": "没有比这更好的夺权机会了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083B|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Precisely. You're beginning to understand the ways of our world.",
+    "string": "没错。你开始有些明白这世道的法则了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3c",
+    "form_id": "0500083C|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did that affect you?",
+    "string": "这对你有什么影响？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083D|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In the beginning? Not at all.",
+    "string": "起初么？毫无影响。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083D|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But eventually, one of the nobles would bring the army of Northpoint to the gates of Evermore, having sold his daughter to Northpoint's king.",
+    "string": "但最终，某位贵族把女儿卖给了北据城的领主，还把北据城的大军带到城下。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083D|FDE Eola.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The siege that followed would last a year.",
+    "string": "随之而来的围城持续了整整一年。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083D|FDE Eola.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "And the walls we once desperately sought for our protection would turn out to be a death trap.",
+    "string": "我们曾经拼命寻求庇护的城墙，最终成了死亡的牢笼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3ci",
+    "form_id": "0500083E|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why? Didn't the walls protect you from Northpoint's army?",
+    "string": "为什么？城墙不是能阻挡住北据城的军队吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083F|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And they did exactly that. The attackers were kept outside, and we were safe from the soldiers' blades.",
+    "string": "确实挡住了。进攻者被拦在城外，我们免于刀兵之祸。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083F|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But just as they barred the attackers, they confined the civilians within, with dwindling food supplies. Each day, rations grew smaller.",
+    "string": "但城墙在阻挡敌人的同时，也把平民困在了城内，食物一天比一天少。每天的配给分量不断缩减。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083F|FDE Eola.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "In my dreams, I still see the panic in the streets, the fights that erupted over a single loaf of bread.",
+    "string": "直到现在，我还会梦到街上恐慌的景象——人们为了一块面包大打出手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083F|FDE Eola.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "As weeks dragged on, hunger became a constant, gnawing ache. The people's eyes, once bright, turned hollow.",
+    "string": "几周过去后，饥饿变成持续不断的折磨。人们曾经明亮的眼睛，渐渐变得空洞。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083F|FDE Eola.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "A man can survive without wealth, loved ones, faith, even dignity... but never without food.",
+    "string": "人可以没有财富、亲人、信仰，甚至尊严……但绝不能没有食物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3ci1",
+    "form_id": "05000840|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I disagree. There are more important things than life and food.",
+    "string": "我不同意。世上还有比性命和食物更重要的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000841|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "But have you ever been hungry?",
+    "string": "那你挨过饿吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000841|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Have you felt your stomach twist in desperation, gnawing at your insides while hope fades?",
+    "string": "你可曾感受过胃袋在绝望中痉挛，啃噬内脏的剧痛，而希望正一点点熄灭？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000841|FDE Eola.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Life and food are all that matter when the world closes in. Until you've faced that darkness, your words mean nothing.",
+    "string": "当整个世界向你压来，活着和吃饱就是唯一重要的事。没经历过那种黑暗，这些话便毫无意义。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3ci2",
+    "form_id": "05000842|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've tasted that kind of hunger before... It changed me forever.",
+    "string": "我尝过那种饥饿……它永远改变了我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000843|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It drove you into Namira's embrace.",
+    "string": "所以你将灵魂献给了娜米拉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3ci3",
+    "form_id": "05000844|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened next?",
+    "string": "接下来又发生了什么？  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000845|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My neighbors, once smiling, friendly faces, had shed their masks and become wolves scouring for food.",
+    "string": "那些曾经笑脸相迎的邻居们，全都撕下伪装变成了觅食的饿狼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000845|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "With no one to trust, I clung to those closest to me. My parents, despite their meager affection, were my only shield.",
+    "string": "无人可信的我只能紧抓着父母——即便他们吝于施舍温情，却是我唯一的护盾。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000845|FDE Eola.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "It was then... I overheard their whispers.",
+    "string": "就在那时...我听见了他们的密谈。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3ci3a",
+    "form_id": "05000846|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What did they whisper?",
+    "string": "他们当时怎么说的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000847|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They planned to trade their daughter for the neighbor's boy.",
+    "string": "他们打算用女儿换邻居家的男孩。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000847|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "We weighed about the same. It would be a fair exchange... more bearable for their souls.",
+    "string": "我俩体重差不多。很公平的交易……至少能让他们的良心好过些。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3ci3ai",
+    "form_id": "05000848|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Disgusting. A parent would die before sacrificing their own child.",
+    "string": "恶心。为人父母宁可死也不会牺牲自己的孩子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000849|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Would they? If not for that Priest of Stendarr, the wolves would have claimed me long ago.",
+    "string": "真的吗？要不是那位斯丹达尔的祭司，我早就被喂了野狼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3ci3aii",
+    "form_id": "0500084A|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tragic, but understandable for people starved for weeks.",
+    "string": "可悲，但对饿了数周的人来说可以理解。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084B|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see you're becoming more acquainted with Namira's ways.",
+    "string": "看来你越来越理解娜米拉的教义了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3ci3aiii",
+    "form_id": "0500084C|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did you react to your parents' plan?",
+    "string": "当时你怎么应对父母的计划？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084D|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I had learned that unless I saved myself, no one would pity me. Not my parents, not the gods... And most certainly not Namira.",
+    "string": "我早就明白，如果不自救，没人会怜悯我。父母不会，诸神不会……娜米拉更不会。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084D|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I would be forgotten by all, even by those who offered me away.",
+    "string": "所有人都会忘记我，包括那些把我当祭品的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084D|FDE Eola.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "So, I stole a knife from a neighbor, and on the eve of the planned exchange, I drove it into their throats.",
+    "string": "所以我偷了邻居的刀，在交易前夜割开了他们的喉咙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084D|FDE Eola.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Then this hunger... It set in. For so long I had denied it, for so long I had hated those who would gladly let me die for their own comfort-",
+    "string": "然后这份饥饿……终于得到了满足。长久以来我压抑它，憎恨那些为自保宁愿让我去死的人——",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084D|FDE Eola.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "And now, for the first time, they had fed me well. The void in my body was finally filled.",
+    "string": "而此刻，他们第一次让我饱餐了一顿。我身体里的空洞终于被填满了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3ci3aiii1",
+    "form_id": "0500084E|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You are a monster, Eola.",
+    "string": "你是个怪物，爱欧拉.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084F|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As much a monster as you are, Champion of Namira.",
+    "string": "和娜米拉冠军相比，彼此彼此吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3ci3aiii2",
+    "form_id": "05000850|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You did what you had to to save yourself.",
+    "string": "你只是为了活命迫不得已。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000852|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I did. But that was not the end.",
+    "string": "是啊，但故事还没完。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout3ci3aiii3",
+    "form_id": "05000853|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "There was still the siege. How did you survive that?",
+    "string": "围城期间你是怎么活下来的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000854|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We've had too long a conversation. Maybe we can continue this topic another time, Champion.",
+    "string": "我们聊得太久了。或许改天再继续这个话题吧，冠军。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout4",
+    "form_id": "05000856|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did you survive the siege of Evermore?",
+    "string": "告诉我，你究竟怎么撑过永恒之城的围城战？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000857|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "After I've had my first meal, I had become the strong predator that Namira expected me to be, worthy of hearing the Lady of Death's voice.",
+    "string": "自从那次“进食”后，我便成了娜米拉期待的掠食者——终于能聆听死亡女士的低语。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000857|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The city was rife with enemies, dangers, and others who shared my... appetite.",
+    "string": "整座城市充斥着敌人、危险……以及与我“志趣相投”的同类。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000857|FDE Eola.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But Namira guided me through those perils... allowing me to feast whenever hunger struck.",
+    "string": "但娜米拉指引我穿过危机……允许我在每次饥饿来袭时尽情享用美餐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000857|FDE Eola.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I evaded the strong and consumed the weak until I grew powerful enough to devour those I once feared.",
+    "string": "我避开强者，吞噬弱者，直到能吃掉那些曾让我战栗的存在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout4a",
+    "form_id": "05000858|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What did Namira want from you?",
+    "string": "娜米拉对你有什么企图？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000859|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She wanted the wretched one-eyed girl to survive, like a loving mother would.",
+    "string": "她就像慈母般，只想让我这个独眼的可怜女孩活下去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000859|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But when the siege was over, she would have a plan for me yet.",
+    "string": "不过围城结束时，她早已为我准备了新的命运。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout4ai",
+    "form_id": "0500085A|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So you kept feeding until the siege was over?",
+    "string": "所以你就一直吃……直到围城结束？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085B|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I did. If there was one good thing about big cities such as Evermore... It's that it never lacked food.",
+    "string": "没错。像永恒城这样的大都市有个好处——永远不缺“食材”。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085B|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "That was one reason my parents took me there, after all.",
+    "string": "这本来也是父母带我进城的原因。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout4aii",
+    "form_id": "0500085C|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened when the siege was over?",
+    "string": "围城结束后发生了什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085D|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The noble who conspired with Northpoint succumbed to the plague, along with one-fifth of the attackers.",
+    "string": "勾结北据城的贵族染病身亡，五分之一的攻城士兵随之陪葬。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085D|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The others, vainly attempting to crown themselves kings, became nothing but ripe prey for the starving guards.",
+    "string": "剩下那些妄想称王的蠢货，全都成了饥饿守卫的盘中餐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085D|FDE Eola.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "As the Northpoint army came to claim a city of death, I made my way to Skyrim, as commanded by Namira.",
+    "string": "当北据城来接收这座死亡之城时，我遵照娜米拉的神谕，踏上了前往天际的旅途。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout4aii1",
+    "form_id": "0500085E|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why Skyrim?",
+    "string": "为什么是天际？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085F|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "High Rock was already steeped in death and decay, and Namira's hold there was strong.",
+    "string": "高岩早已浸透死亡与腐朽，娜米拉的信仰在那里根深蒂固。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085F|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But Skyrim - a land plagued by civil wars, Forsworn, and dragons - so much misery, yet Namira's name remained unheard.",
+    "string": "但天际——这片被内战、弃誓者和巨龙蹂躏的土地，明明充满苦难，却无人知晓娜米拉的圣名。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085F|FDE Eola.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "So I must come here and spread her voice. I am her Chosen, and I will grow her cult and find her Champion.",
+    "string": "所以我必须来此传颂她的福音。作为她的神选者，我将壮大教派，为她物色冠军。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout4aii1a",
+    "form_id": "05000860|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You found me.",
+    "string": "你找到了我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000861|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And so I did, pleasing Namira with my choice.",
+    "string": "确实，我的选择让娜米拉十分愉悦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaAbout4aii1b",
+    "form_id": "05000862|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What does it mean for Namira to spread her voice here?",
+    "string": "在天际传播她的教义意味着什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000863|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Namira would claim dominion over the death and fear in Skyrim. All this misery and chaos would be guided.",
+    "string": "娜米拉将主宰这片土地上的死亡与恐惧。所有苦难与混乱都将得到指引。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000863|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It is a beautiful future where outcasts like you and I will rule. We will feed as we wish, while those who judge will be devoured.",
+    "string": "那是个美好的未来——像你我这样的弃民将会统治一切。我们可以随心所欲地进食，而那些审判者终将成为盘中餐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000863|FDE Eola.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "No longer need the wolves fear the lamb.",
+    "string": "从此狼群不必再畏惧羔羊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaMarkarth0",
+    "form_id": "05000865|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What were you doing in Markarth?",
+    "string": "你在马卡斯城做什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000866|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was forced to feed on the dead in Markarth after the Draugr awakened in our sanctum.",
+    "string": "尸鬼惊醒了我们的圣所后，我被迫以城中的死者为食。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaMarkarth1",
+    "form_id": "05000867|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why not feed on the living?",
+    "string": "为何不直接猎杀活人呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000868|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Who do you think made the \"living\" dead?",
+    "string": "你猜那些“活人”是怎么变成死尸的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000868|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It is far safer to kill the prey and have them sent to the catacombs before the feast. Doing so on the spot only alerts the world to our existence.",
+    "string": "把猎物杀死后送进墓穴再享用更安全。当场进食只会暴露我们的存在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000868|FDE Eola.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "As chaotic and miserable as Markarth is... It's no High Rock. Yet.",
+    "string": "尽管马卡斯城足够混乱悲惨……但还比不上高岩。暂且来说。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaMarkarth2",
+    "form_id": "05000869|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But Verulus still found you.",
+    "string": "但维鲁鲁斯还是发现了你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086A|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Almost. But he led you to me, Champion of Namira.",
+    "string": "差一点。不过正因他的多事，才把你引到了我面前，娜米拉的冠军。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086A|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "His meddling was why he must be killed. With him dead, Markarth has one fewer obstacle to Namira's reign.",
+    "string": "这种碍事者必须清除。他一死，马卡斯城就少了一个阻碍娜米拉统治的绊脚石。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaCultist0",
+    "form_id": "0500086C|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about the other cultists.",
+    "string": "说说其他教徒的情况。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086D|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course. After all, a general must know their soldiers.",
+    "string": "当然，毕竟将领需要了解自己的士兵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086D|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The cultists were unaware of their... potential at first. But through Namira's love and my enforcing hand, they realized what they could be.",
+    "string": "他们起初并未意识到自己的……潜能。但在娜米拉的慈爱和我的调教下，都觉醒成了真正的掠食者。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaCultist1",
+    "form_id": "0500086E|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me about Lisbet.",
+    "string": "聊聊利斯拜特吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086F|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The merchant never thought that the beatings would end. She was a slave chained to his bed simply because he had gold.",
+    "string": "那个商人从没想过施暴的日子会终结。仅仅因为他手握黄金，就能把她当床奴囚禁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086F|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But imagine how a starved, bruised and furious wolf would react, when her prey is injured by the Forsworn.",
+    "string": "但你想象一下，当这头饥饿带伤、暴怒的母狼发现猎物已被弃誓者重伤时……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaCultist2",
+    "form_id": "05000870|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me about Hogni.",
+    "string": "说说霍尼的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000871|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "\"The bloodiest meat in the Reach\"... They say Blood and Silver is the only truth in Markarth, yes? But take away the silver, and it's just blood.",
+    "string": "“瑞驰最腥膻的肉”……人们总说马卡斯城只认血与银，不是吗？但若抽走银币，剩下的就只剩鲜血了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000871|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And Thongvor still thought it was the Forsworn who killed that brat of a little brother of his.",
+    "string": "而松瓦至今还以为是他弟弟那个小混蛋被弃誓者所杀。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaEolaCultist3",
+    "form_id": "05000872|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me about Banning.",
+    "string": "和我聊聊班宁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000873|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The hound trainer was once stranded in a storm with two friends and five loyal hounds.",
+    "string": "那位驯犬人曾带着两条忠犬与两位朋友在暴风雪中受困。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000873|FDE Eola.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "When their stomachs began to rumble, the friends butchered the first hound.",
+    "string": "当饥肠辘辘时，他们宰杀了第一只猎犬。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000873|FDE Eola.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But eventually, the hound trainer would find out that hounds are far more useful to keep than the fickle men he called friends.",
+    "string": "可最终驯犬人才明白——比起所谓的朋友，留着猎犬要有用得多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000876|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That dragon thinks itself invincible, yet if it had but a single dark thought, it would've made itself Namira's slave.",
+    "string": "我血肉中的腐臭骗过了灵魂石冢。它把我当作死亡化身...这倒没错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000877|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Instead of whispering Namira's darkness, you may now shout it for the world to hear.",
+    "string": "如今你已不必低语娜米拉的黑暗教义，大可向全世界宣告。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000875|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You bear the gift of both Akatosh and Namira - the light and the dark.",
+    "string": "你同时承载着阿卡托什的赠礼与娜米拉的恩赐——光与暗的双生子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000878|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Jurgen Windcaller was revered as a saint among the Nords, but even he had committed sins of his own.",
+    "string": "“唤风者”约根在诺德人心中是圣者，可他同样犯下过不可告人的罪孽。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000879|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can already taste the flesh of this thief who stole the horn. It will be a glorious feast yet.",
+    "string": "我已经能尝到那个偷走号角的小贼血肉的滋味了……那必将是一场盛宴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087A|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's a pity I cannot savor this thief's flesh... yet.",
+    "string": "可惜现在还无法享用这个小偷的血肉……暂时而已。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087B|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Thalmor have sated Lady Namira well through all their atrocities, even if they do not understand the way of the feast themselves.",
+    "string": "梭莫人的暴行为娜米拉女士提供了丰盛祭品，尽管他们自己并不懂何为真正的盛宴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087C|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How do you think Esbern had survived the Ratway, and what flesh do you think he had consumed to sate his hunger?",
+    "string": "你以为伊思本是怎么在鼠道活下来的？他究竟吞食过什么血肉来果腹？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087D|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Akaviri were masters of war. Their invasion of Tamriel millennia ago had... pleased Namira well.",
+    "string": "阿卡维尔人曾是战争大师。千年前他们对泰姆瑞尔的入侵...让娜米拉十分愉悦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087E|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Greybeards believe they are free of this world's sins, and its destruction inconsequential to them... They are the food of their own weakness.",
+    "string": "灰胡子们自以为超脱世俗罪孽，即便世界毁灭也与他们无关……他们终将被自己的软弱反噬。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087F|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Paarthurnax pretends to be a saint, yet his breath still smells of human flesh. He isn't unlike us, Champion.",
+    "string": "帕图纳克斯假装圣洁，可他呼出的气息仍带着人肉腥气。他和我们并无不同，冠军。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000881|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you not wish to savor Alduin's flesh? It will taste of destruction, immortality... and defeat.",
+    "string": "难道你不想尝尝奥杜因的肉吗？那滋味必然混合着毁灭、不朽……与败亡。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000882|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Namira would appreciate a slave dragon of her own. Let us tame this Odahviing and chain him for good.",
+    "string": "娜米拉会很高兴拥有一条巨龙奴仆。让我们驯服傲达威英，永远禁锢他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000883|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It would have been glorious to put all these lords to sleep, then summon our coven for a feast... The blue blood tastes different, after all.",
+    "string": "我们本可以把这些领主都迷晕，再召唤教众来场盛宴……毕竟蓝血贵族的味道可与众不同。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000884|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Framing a man of petty theft? That reminds me of my younger days... Except I was the framed.",
+    "string": "诬陷他人盗窃？这让我想起了年少的时光……只不过当年被诬陷的是我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000885|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Beat the merchants to submission. They all fear power.",
+    "string": "用武力让商人屈服。他们都畏惧强权。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000886|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There will be a great feast in Goldenglow Estate yet... The honey ought to be a fine appetizer.",
+    "string": "金色光辉庄园迟早要举办盛大宴会……蜂蜜会是绝佳的开胃菜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000887|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can you smell the sweet aroma? Not from the mead, but from the rot here.",
+    "string": "闻到甜香了吗？不是蜜酒，而是这里腐烂的气息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000888|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Argonians make for fine chops, especially when consumed raw.",
+    "string": "阿尔贡的肉排最是鲜美，尤其是生食的时候。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000889|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mercer Frey walks with the shadows, but he is blind to the great darkness behind us.",
+    "string": "墨瑟·弗雷与阴影同行，却对我们背后真正的黑暗视而不见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088A|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Judgment will come to Mercer Frey yet, in the most raw, gruesome form permitted by Lady Namira.",
+    "string": "审判终将降临在墨瑟·弗雷身上，以娜米拉女士允许的最原始、最血腥的方式。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088B|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It seems Mercer Frey intends to brave a Dwemer ruin. The spinning blades will chop him to pieces, if not the Centurions' hammers.",
+    "string": "看来墨瑟·弗雷打算勇闯矮人遗迹。就算不被百夫长的铁锤砸碎，也会被旋转刀刃切成肉块。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088C|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nocturnal toys with the shadows and pretends she is the Dark Mistress. She should shiver when her eyes meet the darkness behind us.",
+    "string": "诺克图娜尔玩弄阴影，自诩黑暗女主人。当她的目光触及我们背后的黑暗时，定会战栗不已。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088D|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mercer Frey is no more. Or perhaps he still is... in your stomach?",
+    "string": "墨瑟·弗雷已经不复存在了。或者说……他正在你的胃里？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088E|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Dark Brotherhood's work pleases our lady.",
+    "string": "黑暗兄弟会的工作取悦了我们的女士。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088F|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sister against sister, friend against friend... We all consume those we know at some point.",
+    "string": "姐妹相残，朋友互噬……我们终将吞食相识之人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000890|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Emperor will be a glorious feast... And for a man of his age, the stench will add to the flavor.",
+    "string": "皇帝将成为一场辉煌的盛宴……以他的年纪，腐朽的气息反而会增添风味。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000891|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "People say there will be a great feast at Vittoria Vici's wedding. They have no idea what kind of feast awaits them.",
+    "string": "人们说维托利亚·维齐的婚礼会有盛大宴会。他们根本不知道等待的是怎样的\"盛宴\"。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000892|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Young man, brave, zealous - loved... The finest delicacy of all Tamriel.",
+    "string": "年轻、勇敢、狂热——还被众人爱戴……这才是泰姆瑞尔最极致的珍馐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000893|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll leave the clown to you. He must taste... funny.",
+    "string": "那个小丑就交给你了。他的肉想必很……滑稽。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000894|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see you didn't have the stomach for a clown's flesh... and I don't blame you.",
+    "string": "看来你对小丑的肉没什么胃口……这倒不能怪你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000895|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So, did the clown taste funny? Surely, you knew I'd ask this question, no?",
+    "string": "所以，那小丑的肉尝起来很滑稽吗？你早料到我会这么问吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000896|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Gourmet writes about food, but he hasn't the faintest idea of true delicacy. He is about to learn the true essence of food.",
+    "string": "美食家写尽珍馐，却对真正的美味一无所知。他即将领悟食物的本质。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000897|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I would advise against poisoning the old man - you wouldn't want to eat the Jarin Root back in, no?",
+    "string": "我建议别给那老头下毒——你总不想把加林根也吃进肚子里吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000898|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Penitus Oculatus strikes effectively. Their flesh will be a worthy prize.",
+    "string": "洞察眼确实干练，他们的血肉会是不错的战利品。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000899|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "At last, the Emperor will meet his end, and Namira may savor his flesh through us, as Sithis claims his soul.",
+    "string": "皇帝终将迎来末日，当西帝斯收割他灵魂时，娜米拉将通过我们品尝他的血肉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089A|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Emperor is dead, and the Dark Ones have their prize. You have served them well, Champion.",
+    "string": "皇帝已死，黑暗兄弟会得到了奖赏。你为他们效劳得很出色，冠军。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089B|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Companions are a worthy feast. Now, you run their errands, but tomorrow, they will serve at your table.",
+    "string": "战友团是场像样的盛宴。今日你为他们跑腿，明日他们就会成为你的盘中餐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089C|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ysgramor was a great conqueror and a brutal slayer. His exploits had entertained the Divines, and Namira was pleased with his slaughter.",
+    "string": "伊斯格拉默既是伟大的征服者，也是残暴的屠夫。他的功绩取悦了圣灵，而他的杀戮让娜米拉欢欣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089D|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "With that reveal, it seems the Companions will dine at our table... rather than serving as food.",
+    "string": "照此看来，战友团很快就要成为我们的座上宾...而非食材了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089E|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Kodlak Whitemane would choose to be food, rather than hunter. Entertain his wish if you must... but he is meant for the feast, not for the calm.",
+    "string": "“白鬃”克拉科宁愿当猎物也不愿做猎手。若你执意成全他……但记住他注定属于盛宴，而非安眠。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089F|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bandit flesh may have grown old at this point, but these Silver Hand's zeal will add a few flavors to it.",
+    "string": "强盗肉或许吃腻了，但白银之手狂热者的血肉能添些新风味。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A0|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I would have a bite of Ysgramor's flesh if you'd allow me... but we might want to get rid of the other Companions first.",
+    "string": "若您允许，我倒想尝尝伊斯格拉默的肉……不过得先解决其他战友团成员。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A1|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The vampires scramble for the same prey as ours. You're wise to use these Dawnguard to remove our competition.",
+    "string": "吸血鬼与我们争夺同样的猎物。利用黎明守卫铲除竞争这确实明智。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A2|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The vampires seek their doom in Dimhollow Crypt. Namira's darkness will spell their death.",
+    "string": "吸血鬼在幽窟地穴自寻死路。娜米拉的黑暗将宣告他们的终结。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A3|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aiding Serana gains us little. She is a spawn of Molag Bal, and she will never hear Namira's words.",
+    "string": "帮助瑟拉娜可得不到什么好处。她是莫拉格·巴尔的造物，永远也听不懂娜米拉的箴言。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A6|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Even vampires once knew the love between parents and child. Mine only saw theirs as a curse.",
+    "string": "吸血鬼也曾懂得亲子之爱。而我的父母却只将我视为诅咒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A7|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The rot in my flesh must have fooled the Soul Cairn. It sees me as a being of Death... and I do not blame it.",
+    "string": "我血肉中的腐臭骗过了灵魂石冢。它把我当作死亡化身……这倒没错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A8|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lady Namira is not inclined to see the vampire lord succeed. In his darkness, only Molag Bal's spawn will thrive - not her children.",
+    "string": "娜米拉女士可不愿看到吸血鬼大君得逞。在他的黑暗里，只有莫拉格·巴尔的孽种才能繁衍——而非她的子嗣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A9|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Slay Harkon, and the children of Namira will hold dominion over the darkness of Skyrim - not the creatures of Coldharbor.",
+    "string": "斩杀哈孔，娜米拉的孩子们将主宰天际的黑暗——而非冷港的造物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AA|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Miraak lurks behind these cultists' masks, but little does he know - darkness is our lady's weapon.",
+    "string": "米拉克藏在这些信徒面具之后，可他岂知——黑暗本就是我主的武器。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AB|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very soon, we'll feast on Miraak's flesh.",
+    "string": "很快，我们就能享用米拉克的血肉盛宴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AC|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Miraak preys on this island's people and numbs their minds. Now, their minds will be yours.",
+    "string": "米拉克榨取岛上居民，麻痹他们的心智。如今，这些心智都将归你所有。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AD|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Telvanni know their ways around domination. The Argonians and the Khajiit should know their ways well.",
+    "string": "泰尔瓦尼精通奴役之道。阿尔贡和卡吉特对此应该深有体会。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AE|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The God of Knowledge stands ready to spout his final secret... Miraak will have nothing to stand against us with.",
+    "string": "知识之神即将吐露他最后的秘密……米拉克再无可依仗之物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AF|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your voice now dominates men and dragons. Whatever your teeth lust for, they will just have to present themselves.",
+    "string": "你的声音已能支配凡人乃至巨龙。但凡你齿尖渴求之物，都只能乖乖献上。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B3|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful, my love - one misstep, and I just might bite.",
+    "string": "当心点，亲爱的——稍有不慎，我可能会忍不住咬上一口。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B5|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alduin is gone, and darkness can spread without the disturbance from the dragon flame's light.",
+    "string": "奥杜因已逝，黑暗终将蔓延，再无龙焰之光的干扰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B6|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hermaeus Mora makes an enticing offer with his Black Books. If I wasn't already dedicated to Lady Namira, he might even make a good master.",
+    "string": "赫麦尤斯·莫拉用黑书开出了诱人的条件。若不是我早已效忠娜米拉女士，他说不定能当个好主子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B7|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Miraak thought he could prey on Solstheim as an overlord, but Mora's pawn could never outmatch Namira's Champion.",
+    "string": "米拉克妄想作为霸主掠夺索瑟海姆，可莫拉的棋子岂能匹敌娜米拉的冠军？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B8|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Saving Miraak was an interesting choice. If he could be... made to follow Lady Namira, perhaps our goddess would have use for him yet.",
+    "string": "拯救米拉克倒是个有趣选择。若能让他……皈依娜米拉女士，或许女神会对他另眼相待。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B9|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Raven Rock is bustling again. So many delicacies are being imported from all over Tamriel... aren't they?",
+    "string": "鸦石镇又热闹起来了。这么多来自泰姆瑞尔各地的“美味”源源不断运来……不是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BC|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These Companions chew with their mouths open, their breaths containing nothing but the rot. We'll fit in fine here.",
+    "string": "战友团这群野兽咀嚼时从不闭嘴，呼出的满是腐臭。我们在此倒是如鱼得水。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C0|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now that you are these beasts' overlord, it's only a matter of time that they learn Lady Namira's ways from you.",
+    "string": "既然你已成为这些野兽的主宰，它们从你身上习得娜米拉的教义不过是时间问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C1|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Winterhold's mages toy with fire and ice. When they witness Namira's darkness, they should all kneel before her Champion.",
+    "string": "冬堡的法师们玩弄冰火的把戏。待他们目睹娜米拉的黑暗时，都该跪拜在她的冠军脚下。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C3|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Thalmor thought to manipulate the artifact of a god, but he proved himself to be meat in the end.",
+    "string": "那个梭莫妄想操纵神的圣器，但最终不过证明了自己仍是血肉凡胎。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C4|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Dark Brothers serve the dark ones. They may not feast as we do, but their deeds please Lady Namira nonetheless.",
+    "string": "黑暗兄弟会侍奉着暗影之主。他们虽然并不像我们这般享受盛宴，但他们同样取悦着娜米拉女士。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C5|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Our consumption of the Emperor's flesh will sate Lady Namira for the ages to come... Let the Void Father take his soul.",
+    "string": "分食皇帝血肉的盛宴将令娜米拉女士永世餍足……至于灵魂，就交由虚空之父收下吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C6|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Most resent the Ratway's stench, yet the rot feels... welcoming and endearing. I hope you feel the same.",
+    "string": "多数人厌恶鼠道腐臭，但这腐朽的气息……却令人倍感亲切。希望你也有同样的感觉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C7|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You have assumed the coven of Riften. In time, you may yet teach them the true meaning of shadows.",
+    "string": "你既然已经接管了裂谷城的公会，假以时日，或许可以传授阴影的真谛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C8|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whiterun's people never had to worry for hunger... and so neither need we.",
+    "string": "白漫的猎人们正盯着苔原上的猎物……而我们则盯着城里的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C9|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All the riches this city provides, and still its people hunger for more.",
+    "string": "这座城市如此富庶，可在这的居民却仍然贪得无厌。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CA|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whiterun's hunters have their eyes on the tundra's game... and we have ours on the city's.",
+    "string": "你看到那些贵族肥得流油的内脏了吗？在这儿我们永远不用为食物发愁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CB|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This city's people know their way around food... Feeding on them would be such joy.",
+    "string": "这座城里的人可真懂美食……吃掉他们一定很痛快。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CC|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did you see all the fat innards of this city's nobles? We'll never have to worry for food here.",
+    "string": "你看到那些贵族肥得流油的内脏了吗？在这儿我们永远不用为食物发愁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CD|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The bards sing of their past heroes' glory. All I hear is men who concealed their sins so well that the world only remembers their pride.",
+    "string": "吟游诗人唱着他们昔日英雄的荣耀，但我听到的，不过是些把罪行藏得太好的人，世人只记住了他们的骄傲。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CE|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ysgramor built this city above Falmer bones. All the blood he shed, the rot he caused... They pleased Lady Namira for centuries.",
+    "string": "伊斯格拉默在伐莫的尸骨上建了这座城。他流的血，制造的腐烂……几百年来一直取悦着娜米拉女士。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CF|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you think happened to the Falmer who built this city? Killed? Drowned? Or... consumed?",
+    "string": "你觉得当年建造这座城的伐莫都遭遇了什么？被杀？淹死？还是……被吃掉了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D0|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In winter months, Windhelm's people must do whatever they can to survive... even those who could not afford a meal.",
+    "string": "寒冬时节，风盔城的人为了活命什么都干得出来……就连那些连饭都吃不起的也一样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D1|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Riften has the aroma of rot and decay. It is... pleasing.",
+    "string": "裂谷城弥漫着腐烂的气息，闻着……真舒服。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D2|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thieves own this city, yet the rot of mankind defines it.",
+    "string": "这座城归盗贼所有，但真正定义它的，是人性的腐朽。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D3|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Given the chance, each person in Riften would stab and devour one another if it meant survival and riches.",
+    "string": "如果有机会，裂谷城的每个人都会为了生存和财富捅刀子、吃掉对方。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D4|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The city looks imposing and all, yet even the worms can smell its rot.",
+    "string": "这城市看着气势恢宏，但就连虫子都闻得出它的腐烂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D5|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Markarth's towers cast long shadows. Its greatness only serves to further the darkness.",
+    "string": "马卡斯城的高塔投下长长的阴影。它的伟大，只会让黑暗更加深邃。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D6|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you thought stone could not rot, then Markarth would prove you wrong.",
+    "string": "如果你以为石头不会腐烂，马卡斯城会证明你错了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D7|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If anyone were to bring the Dragon Bridge down, then Solitude would starve... and Lady Namira would be sated.",
+    "string": "如果有人把龙桥弄塌，独孤城就会陷入饥荒……而娜米拉女士也将饱餐一顿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D8|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Such a simple, harmonious town. It's sickening.",
+    "string": "这么简单和谐的小镇，真叫人反胃。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D9|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What would the Greybeards ever eat if no one brought them supplies? Ivarstead is in more danger than it realized.",
+    "string": "要是没人送补给，灰胡子们吃什么呢？伊瓦尔镇的处境可比他们想象的更危险。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DA|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Thalmor despise the Daedra and cleansed our followers in the south. Perhaps they need a reminder that even the great Altmer are just meat.",
+    "string": "梭莫憎恶魔神，在南方清剿我们的信徒。或许该提醒他们——再高贵的精灵也不过是肉块罢了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DB|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "With these harsh lands, what do the people of Solstheim survive on, I wonder?",
+    "string": "这片严酷的土地上，索瑟海姆的居民靠什么活命？我很好奇。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DC|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The power of the Daedra is strong on Solstheim. Perhaps it's time we add Lady Namira's grace to the mix.",
+    "string": "索瑟海姆充斥着强烈的魔神之力，是时候让娜米拉女士的恩泽也加入其中了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DD|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This island, so far removed from the rest of the world, is the perfect place to start a new coven...",
+    "string": "这座与世隔绝的岛屿，正是建立新教派的绝佳之地……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DE|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This island breeds tough warriors, and tough warriors make for the best diet.",
+    "string": "岛上盛产强悍的战士，而强悍的战士……正是最上等的食材。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E0|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The ash covers bones long chewed and forsaken.",
+    "string": "灰烬掩埋着被啃噬殆尽的遗骨。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E1|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Monsters arise from the ashes, but they come in many forms. Most are not unlike you and I.",
+    "string": "怪物从灰烬中诞生，但它们形态各异——大多与你我并无不同。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E2|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Telvanni claim to be masters of the arcane, yet how many earned their power without dealings with the Daedra?",
+    "string": "泰尔瓦尼自称奥术大师，可他们中有几个不是靠与魔神交易获得力量的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E3|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The bandits don't always have bountiful plunders. First bad raid in a year? And mutiny is a certainty.",
+    "string": "强盗们并非每次劫掠都能丰收。只要一年遭遇首次失利，内讧就不可避免。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E4|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The rot is strong in these bandits' hearts. Their existence is an attestment to Lady Namira's doctrine.",
+    "string": "这些强盗心中滋长着强烈的腐朽，他们的存在本身就是对娜米拉教义的印证。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E5|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Even if we kill these bandits, the corruption that drove them will continue to turn wretches into monsters.",
+    "string": "即使我们杀光这些强盗，催生他们的腐化仍会将更多可怜虫变成怪物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E6|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Reachmen of old worshipped Lady Namira. It's pleasing to see these Forsworn maintain their oath, even if we must destroy them.",
+    "string": "瑞驰的弃誓者曾信奉娜米拉女士。虽然现在必须消灭他们，但看到这些新弃誓者坚守誓言仍令人欣慰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E7|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In a better world, the Forsworn would have joined our cult and taken the Reach in Namira's name.",
+    "string": "若在更好的时代，这些弃誓者本该加入我们教派，以娜米拉之名夺回瑞驰领。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E8|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You may be tempted to taste Forsworn flesh, but I'd advise against that. Their blood contains Namira's rot, too.",
+    "string": "你或许想尝尝弃誓者的血肉，但我劝你别这么做——他们的血液里也流淌着娜米拉的腐化。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E9|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The ancient Dwemer rejected our gods. Look where they are now?",
+    "string": "古矮人曾背弃我们的神祇。看看他们如今的下场？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EA|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Dwemer left behind these machines to execute any who dare invade their halls. But no invention can stop Namira's Chosen.",
+    "string": "矮人留下这些机械守卫诛杀入侵者。但任何造物都阻挡不了娜米拉的选民。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EB|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Dwemer automatons can slice a Nord brute in mere moments. You be careful now.",
+    "string": "矮人机械能在瞬间肢解诺德壮汉，你最好当心点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EC|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Falmer do not consume humans, even with how bestial their kind was made. It's another evidence of their weakness.",
+    "string": "伐莫即便堕落至此也不食人肉，这再次证明了他们的软弱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008ED|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "To think, the Falmer were once elven - whatever we were, deep down, we're only beasts after all.",
+    "string": "想想看，伐莫曾是精灵——无论我们自诩为何物，骨子里终究只是野兽。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EE|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Falmer were meek against the Nords, and gentle towards the Dwemer. That's why they became monsters.",
+    "string": "伐莫对诺德人卑躬屈膝，对矮人温顺服从，所以他们才变成了怪物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EF|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Draugr are partly sustained by Lady Namira's rot. She sends her unholy magicks into this realm to test her followers, and to butcher the rest.",
+    "string": "尸鬼得以存续，部分要归功于娜米拉女士的腐化之力。她将亵渎的魔法注入现世，既为考验信徒，也为屠戮异端。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F0|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How many of these Nord ancestors lived a life of sin? And how many more sinned, but still were remembered as heroes?",
+    "string": "这些诺德先祖中有多少人满身罪孽？又有多少恶徒仍被后世奉为英雄？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F1|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Draugr see only corruption in the living, yet they themselves are beings of the rot.",
+    "string": "尸鬼只看得见生者的腐朽，殊不知自己才是腐烂的化身。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F2|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These mages may toy with magic, yet darkness will be the only witness of their power.",
+    "string": "这些法师或许能玩弄魔法，但黑暗终将成为他们力量的唯一见证。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F3|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fire and ice mean little before the rot.",
+    "string": "在腐朽面前，火焰与寒冰都不值一提。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F4|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Those little mages boast about their magic... yet even with all their knowledge, they're still meat in the end.",
+    "string": "那些小法师总吹嘘自己的魔法……可即便学识再渊博，他们终究只是肉块罢了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F5|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The vampires scorn Lady Namira's rot. Let us show them who truly rule the dark.",
+    "string": "吸血鬼竟敢蔑视娜米拉女士的腐朽之力，就让我们来教教他们谁才是黑暗的主宰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F6|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All the wars we wage just for a bite... The vampires have something in common with us, you know.",
+    "string": "我们都为一口吃食征战不休……说来吸血鬼倒和我们有几分相似。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F7|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A bloodless corpse makes for a poor meal, wouldn't you agree?",
+    "string": "一具没血的尸体可难以下咽，你说是不是？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F8|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do dragons taste like, I wonder? If only their meat didn't dissipate after their deaths.",
+    "string": "不知道龙肉是什么滋味……可惜它们死后身躯就会消散。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F9|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The dragons fashion themselves as the summit of the food chain, but we'll prove them wrong.",
+    "string": "巨龙自诩食物链的顶端，但我们会证明他们错了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FB|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A giant may seem like a great feast, but what's the point in feeding on a being as simple as animals?",
+    "string": "巨人看似是场盛宴，但啃食这种与野兽无异的生物有何意义？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FC|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Leave the giants to rot... the wolves will take care of the rest.",
+    "string": "就让巨人慢慢腐烂吧……狼群自会处理残局。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FD|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The rain hastens the rot. All's better for Lady Namira's gift.",
+    "string": "雨水加速着腐败的蔓延……娜米拉女士的恩赐正滋养万物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FE|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can you feel it? Kynareth herself weeps for the sins you will commit for our lady.",
+    "string": "你可感受到了？连凯娜瑞丝都在为你即将为女神犯下的罪孽而哭泣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FF|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The sun gives our food a flavor of sweat. It's... hardly pleasing.",
+    "string": "阳光给猎物添了股汗腥味。这……实在是倒胃口。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000900|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The skies are blue... and the rot dark as always.",
+    "string": "天空如此湛蓝…而腐朽依旧漆黑如夜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000880|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Where the light touches... there is darkness.",
+    "string": "凡光明所至之处……必有阴影相随。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000901|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The sun will not bear witness to our sins today.",
+    "string": "今日我们的罪行，将无需烈日见证。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000902|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The stars hide themselves, so that they do not have to witness our sins.",
+    "string": "群星隐匿身形……只为回避这场渎神之宴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000903|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I often wonder what's in the worlds beyond the stars - are they as sinful as ours?",
+    "string": "我常想，星辰之外的世界的可会如我们这般……充满罪孽？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000905|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The aurora looks gentle... like the gods are having a nibble on our world.",
+    "string": "极光温柔流转……恍若众神正在轻啄我们的世界。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B4|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I do wonder how the Elder Scroll would change a Moth Priest's eyes. Maybe I could... \"sample\" that, when you have no more use for him.",
+    "string": "我倒很好奇上古卷轴会如何改变蛾祭司的眼睛……或许等你用完他之后，我可以……取样“研究”一下。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGoodbyeDUPLICATE001",
+    "form_id": "050008BA|FDE Eola.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "aaGoodbye",
+    "string": "再见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C2|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We will spread Namira's voice across these lands.",
+    "string": "我们将让娜米拉的低语响彻这片大地。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BD|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Skyrim is ripe for the taking.",
+    "string": "天际正等待着被征服……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BF|FDE Eola.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's go, my love.",
+    "string": "走吧，吾爱。  ",
+    "status": "TranslationComplete"
+  }
+]

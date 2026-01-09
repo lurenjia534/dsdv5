@@ -1,0 +1,4025 @@
+[
+  {
+    "editor_id": "DialogueDarRakki",
+    "form_id": "01002912|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Conspiracy of the 7000 Steps",
+    "string": "七千阶的阴谋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueDarRakki",
+    "form_id": "01002912|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Dar'Rakki asked me to count High Hrothgar's steps one by one. Seeming to believe there was a conspiracy at work regarding their number. And if there was less than 7000 it would prove there was no integrity in the world. Maybe I should humor him? ",
+    "string": "达'瑞奇让我逐一清点高吼峰的台阶。他似乎相信台阶的数量背后隐藏着一个阴谋。而如果台阶少于7000级，就证明这世上没有诚信可言。也许我该迁就他一下？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueDarRakki",
+    "form_id": "01002912|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Dar'Rakki tasked you with finding out if there are really seven thousand steps up High Hrothgar.",
+    "string": "达'瑞奇叫你去看看高吼峰是不是真的有七千级台阶。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueDarRakki",
+    "form_id": "01002912|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "You told Dar'Rakki a white lie, telling him there were indeed 7000 thousand steps to High Hrothgar despite no evidence to show it.  It has reaffirmed his faith, however, and he has found new hope through your assistance.",
+    "string": "你对达'瑞奇说了个善意的谎言，尽管没有确凿的证据，但告诉他去往高吼峰的台阶真的有7000级，这重振了他的信心，通过你的帮助使他找到新的希望。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueDarRakki",
+    "form_id": "01002912|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "You successfully helped Dar'Rakki with his query regarding the seven thousand steps of High Hrothgar. Unfortunately the perils of the hard truth are many, as Dar'Rakki has taken the news hard, and imbibed a poisoned drink that proved fatal.",
+    "string": "你帮助了达'瑞奇解答了他的关于高吼峰是否真的有7000台阶的疑问。不幸的是事实真相总是很残酷，达'瑞奇一没想开就喝下了毒药。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueDarRakki",
+    "form_id": "01002912|3DNPC.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "You failed to help Dar'Rakki in his query regarding the seven thousand steps of High Hrothgar.",
+    "string": "你没能帮达'瑞奇攀上七千级台阶去高吼峰朝圣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueDarRakki",
+    "form_id": "01002912|3DNPC.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Count the Steps",
+    "string": "数数有多少个台阶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueDarRakki",
+    "form_id": "01002912|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Return to Dar'Rakki",
+    "string": "回去找达'瑞奇",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueDarRakki",
+    "form_id": "01002912|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "(Optional) Find the Book that Unravels the Conspiracy",
+    "string": "(可选)找到解开阴谋的书",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Loudest Whisper",
+    "string": "最响亮的耳语",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I found a book written by an anonymous author about a treasure hunter and his follower, an Orc afraid of heights. Something tells me there's more to this story. ",
+    "string": "我发现了一本匿名作者写的书，讲述了一位宝藏猎人和他的追随者，一个恐高的兽人。直觉告诉我这故事背后还有更多内容。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "According to Jaspar Gaerston, Adonato Leotelli told him his manuscript read like a blacksmith had written it. Regardless of the merit of Jaspar's work, it is obvious no blacksmith would use such prose, and it implies Adonato never bothered to read the book. I have agreed to seek a second opinion.",
+    "string": "按照贾斯帕·盖尔斯顿的说法，阿多纳托·莱奥特利告诉他说他的手稿读起来就像是个打铁匠写的。就算完全不管加斯帕作品的种种亮点，显然也没有哪个铁匠能写出这样的散文，这表明阿多纳托从未读过那本书。我对找其他人来评价表示赞同。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "In exchange for some clarification, Nythriel has informed me about a scout working for a publisher. I should show him a copy of the Stone Hand and get his honest critique.",
+    "string": "为了证明自己的清白，奈瑞儿告诉我他为一个出版商人做商业间谍。我最好给他展示出一份《石拳》的副本，取得他的中肯评论。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I failed to get Jaspar's work published.",
+    "string": "我没能让贾斯帕的作品出版。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 17,
+    "type": "QUST NNAM",
+    "original": "Find the Author of the Manuscript",
+    "string": "找到手稿的作者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Find the Gossip Nythriel for Information on a Publisher",
+    "string": "找到那个包打听奈瑞儿并从其嘴里挖出关于出版商的信息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 25,
+    "type": "QUST NNAM",
+    "original": "Sit at the barstool at the Winking Skeever",
+    "string": "坐在眨眼恶鼠的高脚凳上。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 27,
+    "type": "QUST NNAM",
+    "original": "Wait for the Publisher to Arrive",
+    "string": "等待着发行人的到来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Meet Flin Horstad and Get a Critique of Jaspar's Book",
+    "string": "与福林·豪斯泰德见面，评价下贾斯帕的书",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Return to Jaspar with Flin's Suggestions",
+    "string": "带着福林的建议回去找贾斯珀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Check Back with Jaspar Periodically to See if the Book is Finished",
+    "string": "定期去探访贾斯帕，以确认书的完成进度。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Take Jaspar's book to Flin to Get Published",
+    "string": "把贾斯帕的书带给福林来发表。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueJasparGaerston",
+    "form_id": "01025759|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Return to Jaspar with his Advance",
+    "string": "带着预付款回去找贾斯帕",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueYtharil",
+    "form_id": "010CB644|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Carver and The Collector",
+    "string": "雕刻师和收藏家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueYtharil",
+    "form_id": "010CB644|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "A Breton man in Solitude told me I could find a legendary face sculptor in the Reach. Maybe I should seek her out?",
+    "string": "一个在独孤城的布莱顿人告诉我，在边塞领可以找到一位传奇的整容师。也许我应该去找她？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueYtharil",
+    "form_id": "010CB644|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I met a face sculptor named Y'tharil, who had some of her work stolen from her.  I agreed to help her by investigating the area south of Sleeping Giant Inn.",
+    "string": "我遇见一个名叫艾'瑟卓的脸部雕塑家，她有东西被偷了。我答应去沉睡巨人客栈以南的区域帮她调查此事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueYtharil",
+    "form_id": "010CB644|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "While investigating the camp, I found a strange man in possession of Y'tharil's sculpted hip bone.  I should return the item to her for my reward.",
+    "string": "我在调查营地的时候，发现一个奇怪的人带着艾'瑟卓的髋骨。我最好把这个东西还给艾'瑟卓以获取报酬。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueYtharil",
+    "form_id": "010CB644|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I've returned Y'tharil's Hip Bone.  In exchange she provided me with an Orc Skull that has been sculpted to look like a human's.  She claims it's very valuable, but who knows if anyone will buy it.",
+    "string": "我还给了艾'瑟卓她的东西。作为报酬她给了我一个被雕刻成类似人骨的兽人骷髅。她说这个东西很值钱……但是谁买啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueYtharil",
+    "form_id": "010CB644|3DNPC.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Find the Face Sculptor",
+    "string": "找到脸部雕塑家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueYtharil",
+    "form_id": "010CB644|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Investigate the Camp Overlooking the Sleeping Giant Inn",
+    "string": "调查俯视沉睡巨人客栈的营地。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueYtharil",
+    "form_id": "010CB644|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Return the Sculpted Hip Bone to Y'tharil",
+    "string": "归还雕刻骨盆给艾'瑟卓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueSkjel",
+    "form_id": "010D54B6|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Tailor Made",
+    "string": "量身定制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueSkjel",
+    "form_id": "010D54B6|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Skjel claims to know of a mage who can restore his flesh. I could seek him out in Riften.",
+    "string": "斯克尔声称认识一位能恢复他血肉的法师。我可以去裂谷城找到他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueSkjel",
+    "form_id": "010D54B6|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Take Skjel to the Tailor in Riften",
+    "string": "带斯克尔前往裂谷城的裁缝处",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueSkjel",
+    "form_id": "010D54B6|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Kill Korrilan",
+    "string": "杀死科里兰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Way to a Big Oaf's Heart",
+    "string": "如何进入大笨蛋的心",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Callen wants to make up with an old friend. I've agreed to help her kill an oversized Horker. Last seen somewhere along the northern coast. We should head there.",
+    "string": "凯能想和一个老朋友和解。我同意帮她杀死一只超大的海象。最后一次出现在北海岸的某个地方。我们应该去那里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "It is time to slay the Legendary Horker. Callen smells something wafting in from a small island to the west of the Brinehammer. It bears investigating.",
+    "string": "是时候杀掉传说中的三牙海象了。凯能嗅到海洋之锤号西边的小岛上有异样的气息。那里需要调查。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I have vanquished Tusky, the Legendary Horker that legends say sunk the mighty Brinehammer.  I should now speak to Callen about our next move.",
+    "string": "我已经征服了獠牙，传说中击沉了强大的盐水锤子号的传奇三牙海象。我应该和凯能交谈我们的下一步。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "We slew the legendary horker, Tusky and retrieved the well marbled meat. However, it still needs to be cooked.  Callen knows of a chef in Markarth crazy enough to heed our request.",
+    "string": "我们宰了那只传说中的三牙海象，拔牙割肉，不过还得烹调一下。凯能认识一位够疯狂的马卡斯城的厨师，肯定会接受我们的委托的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "We met Clario Moorsley, and he had no interest in cooking for us.  However, after some coaxing from Callen and a display of the fine horker meat, his interest has been piqued.",
+    "string": "我们见到了克拉里奥·莫斯雷，他没什么兴趣为我们展现厨艺。但是在凯能的劝说下以及我们炫耀了一大块上好的海象肉之后，他又有了兴趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "Clario has asked I gather ingredients for his special horker stew.  I am to retrieve a lavender, a tomato, a potion of resist frost, fire salts, carrots, and a scroll of repel undead.  I should bring him all the items at once to ensure they are fresh.  I should check with Callen as she may have some ingredients on hand.",
+    "string": "克拉里奥请求我为他的海象汤收集些配料。我需要找来一棵薰衣草、一个番茄、一瓶霜抗药剂、火盐、胡萝卜以及一个对抗不死生物卷轴。这些玩意都要一次性带来以确保它们新鲜。我该问问凯能，她手头兴许有存货。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "Clario has cooked the special horker stew, and the smell has blanketed the kitchen like a fat, overweight breeze.  I should speak with Callen as to how to proceed from here.",
+    "string": "克拉里奥做了一锅很特别的……三牙海象肉汤，这个气味狠狠地覆盖在了每个人的鼻腔里，瞬间让我们食欲大开。九圣灵在上，我得跟凯能交谈了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "Clario has cooked up a special horker stew.  A masterpiece of culinary weirdness, it's time to deliver it to Callen's friend Gorr.",
+    "string": "克拉里奥做了一种特别的三牙海豚汤。这个可是厨房天才的杰作，是该给凯能的朋友戈尔尝尝看的时候了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "I've brought the horker stew to Gorr, and renewed his friendship with Callen.",
+    "string": "我带着海象炖肉去见了戈尔，并且使他和凯能的友谊得到了修复。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "I failed to reconcile Callen and Gorr.",
+    "string": "我调解凯能和戈尔失败了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Follow Callen to the Wreck of the Brinehammer",
+    "string": "跟随凯能到海锤号沉船地",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Speak to Callen",
+    "string": "和凯能说话",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 15,
+    "type": "QUST NNAM",
+    "original": "Find and Kill the Legendary Horker",
+    "string": "寻找并猎杀那只传奇的海象",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Salvage the Meat and Speak to Callen",
+    "string": "割掉肉后和凯能交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 25,
+    "type": "QUST NNAM",
+    "original": "Meet with the Cook in Markath",
+    "string": "去马卡斯城见见那个厨子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Speak with Clario Moorsley",
+    "string": "和克拉里奥·莫斯雷交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 35,
+    "type": "QUST NNAM",
+    "original": "Gather a Lavender, Tomato, Fire Salts, Carrot, Resist Frost, and a Repel or Bane Undead Scroll for Clario",
+    "string": "为克拉里奥收集一棵薰衣草、一个番茄、一瓶寒霜抗性药剂、火盐、胡萝卜以及一卷驱逐亡灵卷轴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 45,
+    "type": "QUST NNAM",
+    "original": "Speak to Callen",
+    "string": "和凯能说话",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerQuest",
+    "form_id": "0112E107|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Bring the Horker Stew to Gorr",
+    "string": "把海象汤带给戈尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BeatriceQuest",
+    "form_id": "0115A1BD|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Mogo's Mead",
+    "string": "莫古的蜜酒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BeatriceQuest",
+    "form_id": "0115A1BD|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Beatrice. An unusually articulate skooma addict. Has tasked me with replacing the case of Mogo's mead from Black-Briar Meadery with their own special blend.",
+    "string": "比阿特丽斯，一位异常健谈的斯库玛成瘾者，委托我用黑荆棘蜜酒厂的特殊混合酒替换他们的莫古蜜酒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BeatriceQuest",
+    "form_id": "0115A1BD|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Devran seeming to believe I was the porter. Took the case of Beatrice's Mogo's Mead without question. I should follow him to see how things play out.",
+    "string": "戴弗伦似乎以为我是搬运工，毫不犹豫地拿走了比阿特丽斯的莫古蜜酒。我应该跟着他，看看事情会如何发展。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BeatriceQuest",
+    "form_id": "0115A1BD|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Beatrice and Urzub fled when their ruse was discovered. They'll probably be back at their camp in the Reach. I should talk to them.",
+    "string": "比阿特丽斯和乌祖在欺骗败露后逃走了。他们可能会回到他们在瑞驰的营地。我应该去找他们谈谈。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BeatriceQuest",
+    "form_id": "0115A1BD|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "Maven has shut down production of her brand of Mogo's mead. Beatrice seems happy with the result and promises to begin promises to begin production of her own version of the famous drink.",
+    "string": "玛雯已经停止了她品牌的莫古蜜酒的生产。比阿特丽斯似乎对这个结果感到高兴，并承诺开始生产她自己版本的这种著名饮品。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BeatriceQuest",
+    "form_id": "0115A1BD|3DNPC.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Remove the Mogo's Mead case from the Black-Briar Meadery",
+    "string": "移走黑棘蜜酒庄的莫古的蜜酒箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BeatriceQuest",
+    "form_id": "0115A1BD|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Follow Devran and attend Maven's Soiree",
+    "string": "跟着戴弗伦参加玛雯的晚会",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BeatriceQuest",
+    "form_id": "0115A1BD|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Talk to Beatrice",
+    "string": "与比阿特丽丝交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BeatriceQuest",
+    "form_id": "0115A1BD|3DNPC.esp",
+    "index": 85,
+    "type": "QUST NNAM",
+    "original": "Speak to Devran",
+    "string": "和戴弗伦交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BeatriceQuest",
+    "form_id": "0115A1BD|3DNPC.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Return to Beatrice in the Reach",
+    "string": "回到边塞领去找比阿特丽丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Raven of Anvil",
+    "string": "铁砧城的乌鸦",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Asteria has paid me 300 gold up front. To pass along a letter to one of Markarth's guards named Lundvar. And convince him to add her name on a list of candidate bards. Who are being considered to preform before the Jarl. She's promised me the other half o",
+    "string": "阿斯特里亚提前支付了我300金币，让我把一封信交给马卡斯城卫兵伦德瓦，并说服他把她的名字列入候选吟游诗人的名单。这些候选人将被考虑为领主表演。她承诺事成后再支付我另一半。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I stole the list after Lundvar refused to put her name on it. I should report back to Asteria to figure out what to do next.",
+    "string": "我偷了这份名单，因为伦德瓦拒绝把她的名字写上去。我应该回去向阿斯特里亚汇报，看看接下来该怎么做。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Rumarin says he knows a forger who could do the job. But he's currently imprisoned by bandits. We should save him.",
+    "string": "罗米勒说他认识一个能完成这项任务的伪造师。但他目前被强盗囚禁。我们应该去救他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I finally have a convincing forgery of her name on the list. I should return it to Yngvar before he realizes it's missing.",
+    "string": "我终于伪造了一份足以以假乱真的名单签名。我应该把它还给英瓦，免得他发现丢失了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "Asteria wants me to break into the Jarl's quarters while she distracts the guard, and find a document locked in a safe. She says the safe also contains a large number of jewels that will serve as the second half of my payment. ",
+    "string": "阿斯特里亚要我闯入领主的房间，在她分散守卫注意力时，找到锁在保险箱里的一份文件。她说保险箱里还有大量珠宝，将作为我报酬的另一半。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "The Job's done. I'm unlikely to ever see her again.",
+    "string": "工作完成了。我可能再也见不到她了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Listen for the Bard Who Plays \"Dusk on Anvil Harbor\"",
+    "string": "欣赏那个吟游诗人所演奏的“铁砧港的黄昏”",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Talk to Guardsman About Helping Asteria",
+    "string": "跟卫兵们交谈该如何帮助阿斯特里亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Steal Yngvar's Journal",
+    "string": "偷走英瓦的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Return to Asteria with the Journal",
+    "string": "将日记带回到阿斯特里亚身边",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Talk to the Forger's Contact",
+    "string": "跟铁匠的熟人聊聊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 41,
+    "type": "QUST NNAM",
+    "original": "Escort Rumarin to Knifepoint Ridge to Rescue the Argonian Forger",
+    "string": "护送罗米勒前往刀尖山脊并救出那名亚龙人伪造者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 47,
+    "type": "QUST NNAM",
+    "original": "Take Sunken-Roots to the Bandit Cabin to Fetch His Belongings",
+    "string": "把桑肯‧树根带到强盗小屋以获取他的财物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Slip the Altered Journal Back in Yngvar's Pocket",
+    "string": "把修改过的日记放回到英瓦的口袋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Return to Asteria and Await News from the Jarl",
+    "string": "回去找阿斯特里亚并等待领主的消息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 75,
+    "type": "QUST NNAM",
+    "original": "Head to Markarth and Wait for the Courier's Arrival",
+    "string": "前往马卡斯等候信使的到来",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 77,
+    "type": "QUST NNAM",
+    "original": "Rent a Room and Wait for Asteria at the Silver-Blood Inn",
+    "string": "在银血客栈租个房间等待阿斯特里亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 78,
+    "type": "QUST NNAM",
+    "original": "Sleep at the Silver-Blood Inn",
+    "string": "在银血客栈里住下",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Attend Asteria's Performance Between 3pm and 5pm",
+    "string": "参加阿斯特里亚下午3点到5点的演出",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 85,
+    "type": "QUST NNAM",
+    "original": "Wait for Asteria to Play \"Dusk on Anvil Harbor\"",
+    "string": "等待阿斯特里亚演奏“铁砧港的黄昏”",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 86,
+    "type": "QUST NNAM",
+    "original": "Wait for the Sellswords to clear the Jarl's Chamber and Steal the Document",
+    "string": "等待佣兵们清理完领主的房间，而后偷走文件",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 87,
+    "type": "QUST NNAM",
+    "original": "Steal the Document",
+    "string": "偷走文件",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Avoid the Jarl's Mercs and Flee the Understone Keep",
+    "string": "躲避领主的佣兵们然后逃出石下要塞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AsteriaQuest",
+    "form_id": "0115E47E|3DNPC.esp",
+    "index": 95,
+    "type": "QUST NNAM",
+    "original": "Meet Asteria at the Old Hroldan Inn",
+    "string": "在古赫洛登客栈与阿斯特里亚会面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KjoliQuest",
+    "form_id": "011626B4|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "To Warm Sands",
+    "string": "暖沙之处",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KjoliQuest",
+    "form_id": "011626B4|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I met a Nord poet near Shor's stone. Who's planning to travel to Riften to adopt a child with his love. Maybe I'll see them there.",
+    "string": "我在朔尔之石附近遇到了一位诺德诗人，他计划前往裂谷城与爱人一起领养一个孩子。也许我们会在那里见到他们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KjoliQuest",
+    "form_id": "011626B4|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Inari was unhappy with Kjoli's adoption plans. He asked me to talk to her for him. Find out what's wrong. ",
+    "string": "伊娜莉对卡欧里的收养计划不满意。他让我去和她谈谈，找出问题所在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KjoliQuest",
+    "form_id": "011626B4|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Kjoli and Inari made up and are now happily married. ",
+    "string": "卡欧里和伊娜莉和好了，现在过得很幸福。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KjoliQuest",
+    "form_id": "011626B4|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Visit the Couple After They Arrive in Riften",
+    "string": "在那对夫妻抵达裂谷城之后他们见面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KjoliQuest",
+    "form_id": "011626B4|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Speak with Inari",
+    "string": "和伊娜莉交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KjoliQuest",
+    "form_id": "011626B4|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Go to the Temple and Ask Jade to Arrange the Ceremony",
+    "string": "前往神殿让绿宝石来安排仪式。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KjoliQuest",
+    "form_id": "011626B4|3DNPC.esp",
+    "index": 85,
+    "type": "QUST NNAM",
+    "original": "(Optional) Have Jade let Maramal Conduct the Ceremony",
+    "string": "(可选)设法使绿宝石同意玛拉莫主持仪式。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaynesGriffithQuest",
+    "form_id": "01164D86|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Brother and Keeper",
+    "string": "兄弟与守护者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaynesGriffithQuest",
+    "form_id": "01164D86|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Raynes is always on the lookout for law breakers to bring to justice. As Riften is a known epicenter for criminal activity. He's suggested we head to the Bee and Barb. ",
+    "string": "瑞纳斯总是寻找违法者来伸张正义。因为裂谷是犯罪活动的中心。他建议我们去蜂与钩客栈。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaynesGriffithQuest",
+    "form_id": "01164D86|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Raynes have gotten word that a lawbreaker is on the loose. He was a bit sketchy on the details, but promised the crime was significant. He thinks we can find the perpetrator at Nightgate Inn.",
+    "string": "瑞纳斯收到消息说一个逃犯正在四处游荡。他不太清楚细节，但很确定这个罪犯很重要。他觉得我们能在夜扉客栈抓住他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaynesGriffithQuest",
+    "form_id": "01164D86|3DNPC.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Listen for News of Gabania",
+    "string": "听取有关卡贝尼亚的消息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaynesGriffithQuest",
+    "form_id": "01164D86|3DNPC.esp",
+    "index": 2,
+    "type": "QUST NNAM",
+    "original": "Find the Vigilante",
+    "string": "找到那个警戒者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaynesGriffithQuest",
+    "form_id": "01164D86|3DNPC.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Take Raynes to the Bee and Barb",
+    "string": "把瑞纳斯带到蜂与钩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaynesGriffithQuest",
+    "form_id": "01164D86|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Track Down the Lawbreaker at Nightgate Inn",
+    "string": "去夜扉客栈追踪那个违法者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaynesGriffithQuest",
+    "form_id": "01164D86|3DNPC.esp",
+    "index": 55,
+    "type": "QUST NNAM",
+    "original": "Devise a Strategy with Griffith",
+    "string": "和格里菲斯商定策略",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaynesGriffithQuest",
+    "form_id": "01164D86|3DNPC.esp",
+    "index": 56,
+    "type": "QUST NNAM",
+    "original": "(Optional) Leave Raynes with Morrigan",
+    "string": "(可选)将茉莉甘留给瑞纳斯照顾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaynesGriffithQuest",
+    "form_id": "01164D86|3DNPC.esp",
+    "index": 57,
+    "type": "QUST NNAM",
+    "original": "(Optional) Give Morrigan a Novice Spell Tome (Clairvoyance, Frostbite, Candlelight, Familiar, Lesser Ward)",
+    "string": "(可选)给茉莉甘一本新手法术书(洞察术、霜噬术、烛光术、召唤幽灵魔狼、次级结界术)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaynesGriffithQuest",
+    "form_id": "01164D86|3DNPC.esp",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Travel to Gabania's ship docked in Windhelm",
+    "string": "前往停泊在风舵城的卡贝尼亚的船",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaynesGriffithQuest",
+    "form_id": "01164D86|3DNPC.esp",
+    "index": 86,
+    "type": "QUST NNAM",
+    "original": "Take Griffith to the Captain's Quarters",
+    "string": "带格里菲斯去船长室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaynesGriffithQuest",
+    "form_id": "01164D86|3DNPC.esp",
+    "index": 95,
+    "type": "QUST NNAM",
+    "original": "Return to Morrigan at the Nightgate Inn",
+    "string": "回到夜扉客栈去找茉莉甘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmaleeQuest",
+    "form_id": "0116E34D|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Bards, Beasts, and Beauties",
+    "string": "吟游诗人，野兽，与美人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmaleeQuest",
+    "form_id": "0116E34D|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Amalee has asked me to take her to the bard's college to help her write a song she can give as a gift to one of her distant relatives. ",
+    "string": "艾米莉请我带她去吟游诗人学院，帮助她写一首歌，作为礼物送给她的远房亲戚。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmaleeQuest",
+    "form_id": "0116E34D|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "With Skjarn and Edwayne busy trying to kill each other. Amalee has requested being taken to Handsome Man's Grotto. So, she can be inspired by the beauty of nature.",
+    "string": "由于史卡盎和艾德维正忙着互相残杀，艾米莉请求我带她去傲慢者石窟，以便她能受到大自然美景的启发。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmaleeQuest",
+    "form_id": "0116E34D|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Amalee has written her first song! I hope her sister's fiance's cousin likes it as a gift!",
+    "string": "艾米莉写了她的第一首歌！我希望她姐姐未婚夫的表亲会喜欢它作为礼物！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmaleeQuest",
+    "form_id": "0116E34D|3DNPC.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Take Amalee to the Bards College in Solitude",
+    "string": "把艾米莉带去独孤城的吟游诗人学院。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmaleeQuest",
+    "form_id": "0116E34D|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Find the Nord and Relay Edwayne's Challenge",
+    "string": "找到那个诺德人并传达艾德维的挑战。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmaleeQuest",
+    "form_id": "0116E34D|3DNPC.esp",
+    "index": 25,
+    "type": "QUST NNAM",
+    "original": "Bring Skjarn to Solitude to Duel Edwayne",
+    "string": "带史卡盎去独孤城，与艾德维决斗",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmaleeQuest",
+    "form_id": "0116E34D|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Speak with Amalee",
+    "string": "和艾米莉交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmaleeQuest",
+    "form_id": "0116E34D|3DNPC.esp",
+    "index": 55,
+    "type": "QUST NNAM",
+    "original": "Take Amalee to Bloated Man's Grotto",
+    "string": "带艾米莉去傲慢者石窟",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmaleeQuest",
+    "form_id": "0116E34D|3DNPC.esp",
+    "index": 67,
+    "type": "QUST NNAM",
+    "original": "Take Amalee on a Tour of Bloated Man's Grotto",
+    "string": "将艾米莉带到傲慢者石窟",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmaleeQuest",
+    "form_id": "0116E34D|3DNPC.esp",
+    "index": 68,
+    "type": "QUST NNAM",
+    "original": "Return to Camp",
+    "string": "回到营地",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmaleeQuest",
+    "form_id": "0116E34D|3DNPC.esp",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Spend the Night at Handsome Man's Grotto",
+    "string": "在傲慢者石窟度过一晚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmaleeQuest",
+    "form_id": "0116E34D|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Speak with Amalee",
+    "string": "和艾米莉交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Pit Dogs",
+    "string": "斗犬",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Zora meet a shady Khajitt who was heading to Whiterun, who Gorr believes is connected to an underground arena. That is using his name to advertise their particular flavor of blood sport. Gorr would like to speak to them and wash his name from their mouth.",
+    "string": "佐拉遇到了一位可疑的虎人，他正前往白漫城。戈尔认为他与一个地下竞技场有关，而这家竞技场正在用他的名字宣传他们的血腥娱乐。戈尔想与他们谈谈，洗清他的名字。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "J'Sharr double crossed us. Zora is missing. J'Sharr said he would tell us where she is after we participate in a single fight. Gorr has already won his. Now it's my turn.",
+    "string": "杰'沙尔背叛了我们。佐拉失踪了。杰'沙尔说在我们参加一场战斗后会告诉我们她的下落。戈尔已经赢了他的战斗，现在轮到我了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Help Zora Find Gorr",
+    "string": "帮助佐拉找到戈尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Track Down the Suspicious Character at the Bannered Mare in Whiterun",
+    "string": "在白漫城的敕旗母马客栈客栈客栈追踪可疑人物",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Meet J'Sharr Outside of the Cave Under Fort Sungard",
+    "string": "在森加德堡垒下的洞穴外与杰'沙尔碰头",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Mingle or Talk to the Fair Lady to Proceed with the Match",
+    "string": "与窈窕淑女联系或聊天来推动比赛的进程",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 75,
+    "type": "QUST NNAM",
+    "original": "Follow JSharr into the Cage and Prepare for the Match",
+    "string": "跟着杰夏尔进入笼子并为比赛做好准备",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 81,
+    "type": "QUST NNAM",
+    "original": "Defeat the Warriors from Hammerfell",
+    "string": "打败落锤的战士们",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Attend Zora Fair-Child's Match at Skytemple Ruins",
+    "string": "出席在天佑神殿遗址进行的与佐拉的比赛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 101,
+    "type": "QUST NNAM",
+    "original": "Attend Zora Fair-Child's Match at Skytemple Ruins",
+    "string": "出席在天佑神殿遗址进行的与佐拉的比赛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 105,
+    "type": "QUST NNAM",
+    "original": "Kill J'Sharr",
+    "string": "杀死杰'沙尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 115,
+    "type": "QUST NNAM",
+    "original": "Kill the Corpse Buyer and His Henchmen",
+    "string": "杀尸体买家和他的手下",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 135,
+    "type": "QUST NNAM",
+    "original": "Find information on J'Sharr's Whereabouts",
+    "string": "打探杰'沙尔的下落",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GorrQuest",
+    "form_id": "01171FD5|3DNPC.esp",
+    "index": 140,
+    "type": "QUST NNAM",
+    "original": "Find J'Sharr in Orotheim",
+    "string": "去奥瑟姆找到杰'沙尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Vigilance and Virtue",
+    "string": "警戒与贞洁",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Viranya believes Cronvangr Cave is a possible stronghold of vampires. But is worried it could be a possible trap meant to divide the vigilants numbers. She has asked you for help so the other vigilants can stay behind at guard the Beacon. ",
+    "string": "维兰雅认为克隆万格洞穴可能是吸血鬼的据点，但担心这可能是分散警戒者力量的陷阱。她请求你提供帮助，以便其他警戒者可以留守灯塔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Before his death. Feldas revealed the rest of the vampire clan operates out of Mara's pound.",
+    "string": "在他去世之前，芬达斯透露了吸血鬼家族的其他成员在玛拉之眼活动。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "We've decided Rinori's story makes little sense. And that she was most likely playing Among-the-Hist. The three of us will put her down.",
+    "string": "我们已经认定瑞诺丽的故事不靠谱。她很可能在玩“与希树同在”的游戏。我们三个会解决她。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "Among-the-Hist gave his life to cure Rinori. May she use the second chance he gave her well. ",
+    "string": "与希树同在用他的生命治愈了瑞诺丽。愿她能好好利用他给予她的第二次机会。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Escort Viranya to Cronvangr Cave",
+    "string": "护送维兰雅到克隆万格洞穴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 45,
+    "type": "QUST NNAM",
+    "original": "Search Mara's Eye Pond",
+    "string": "搜寻玛拉之眼池塘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 65,
+    "type": "QUST NNAM",
+    "original": "Locate the Trap Door to the Vampire Tunnel",
+    "string": "找到去吸血鬼隧道的暗门。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Search the New Gnisis Cornerclub",
+    "string": "探索新格尼西斯街角吧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 91,
+    "type": "QUST NNAM",
+    "original": "Find Rinori Imaryn",
+    "string": "找到瑞诺丽·玛瑞恩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 95,
+    "type": "QUST NNAM",
+    "original": "Kill the Dunmer Twins",
+    "string": "杀死暗精灵双胞胎",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 96,
+    "type": "QUST NNAM",
+    "original": "Kill Rinori Imaryn",
+    "string": "杀死瑞诺丽·玛瑞恩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 98,
+    "type": "QUST NNAM",
+    "original": "Speak to Viranya",
+    "string": "和维兰雅交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 99,
+    "type": "QUST NNAM",
+    "original": "Speak to Among-the-Hist",
+    "string": "和与希树同在交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Speak with Rinori Imaryn",
+    "string": "和瑞诺丽·玛瑞恩交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ViranyaQuest",
+    "form_id": "0117A1F7|3DNPC.esp",
+    "index": 110,
+    "type": "QUST NNAM",
+    "original": "Bring Rinori to the Summoning Circle During the Light Hours",
+    "string": "在日间将瑞诺丽带到召唤阵去",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RumarinQuest2",
+    "form_id": "01185B23|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Sleeping Giant",
+    "string": "沉睡巨人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RumarinQuest2",
+    "form_id": "01185B23|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Rumarin heard a legend about a giant that could be lulled to sleep. by a bard's song. And the treasure it guards. He wants to find a bard to do the lulling and a legendary knight just in case the Giant doesn't go to sleep.",
+    "string": "罗米勒听说了一个关于一个能被吟游诗人的歌声催眠的巨人的传说，以及它守护的宝藏。他想找一个吟游诗人来催眠巨人，还有一个传奇骑士以防巨人没有睡着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RumarinQuest2",
+    "form_id": "01185B23|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "With our Knight, Bard, and Half a half-wit assembled. We're ready to find the giant!",
+    "string": "随着我们的骑士、吟游诗人和半个傻瓜集结完毕，我们准备好去寻找巨人了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RumarinQuest2",
+    "form_id": "01185B23|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "We ended up saving an elf. Who declared me her love and says were married now. I should probably just leave. ",
+    "string": "我们最终救了一位精灵，她宣布我是她的爱人，并说我们现在结婚了。我或许应该直接离开。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RumarinQuest2",
+    "form_id": "01185B23|3DNPC.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Investigate Rumors of Strange Noises Coming From Greywater Grotto",
+    "string": "调查从灰水石窟传出奇怪的声音的传闻",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RumarinQuest2",
+    "form_id": "01185B23|3DNPC.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Find the Bard to Soothe the Giant to Sleep",
+    "string": "找到吟游诗人去安抚那个巨人入睡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RumarinQuest2",
+    "form_id": "01185B23|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Find the Hero in Morthal at the Moorside Inn",
+    "string": "在墨索尔的坞边客栈找到那个英雄",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RumarinQuest2",
+    "form_id": "01185B23|3DNPC.esp",
+    "index": 11,
+    "type": "QUST NNAM",
+    "original": "Find the Hero in Morthal",
+    "string": "在墨索尔找到那个英雄",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RumarinQuest2",
+    "form_id": "01185B23|3DNPC.esp",
+    "index": 25,
+    "type": "QUST NNAM",
+    "original": "Locate the Sleeping Giant in Moss Mother Cavern",
+    "string": "去沼泽之母洞窟找到沉睡巨人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RumarinQuest2",
+    "form_id": "01185B23|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Kill the Frenzied Giant",
+    "string": "杀死疯狂的巨人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RumarinQuest2",
+    "form_id": "01185B23|3DNPC.esp",
+    "index": 75,
+    "type": "QUST NNAM",
+    "original": "Search the Lake for Treasure",
+    "string": "在湖里寻找宝藏",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RumarinQuest2",
+    "form_id": "01185B23|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Return the Treasure to Rumarin",
+    "string": "把宝藏送回给罗米勒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AldiQuest",
+    "form_id": "0118BAC1|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Teleportation Machine",
+    "string": "传送机",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AldiQuest",
+    "form_id": "0118BAC1|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Adventurers are being offered a job in Gloomreach cave that apparently starts now? If I'm interested in the unspecified pay, I could check it out.",
+    "string": "探险者们被提供了一份在阴郁河段洞窟的工作，显然现在开始？如果我对未明确的报酬感兴趣，可以去看看。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AldiQuest",
+    "form_id": "0118BAC1|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Aldi informed me of the possible existence of a special Dwemer Lexicon used to power teleportation chambers. The records indicate the artifact may be stored in a location known as the War Quarters in the deep caverns of Blackreach.",
+    "string": "爱尔迪告诉我有一种锻莫词典可以给传送室充能。据说这种锻模遗物就存放在黑境的战区里面。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AldiQuest",
+    "form_id": "0118BAC1|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I've found the Lexicon Aldi was looking for. I should meet up with her in Stonehills.",
+    "string": "我已经找到了爱尔迪一直在寻找的典籍。我应该在石山与她见面。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AldiQuest",
+    "form_id": "0118BAC1|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "It seems  Camaron body guard is the eccentric argonian I meet eralier. And is now trying to kill both women. ",
+    "string": "似乎卡马隆的保镖是我之前遇到的古怪亚龙人，现在正试图杀死这两个女人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AldiQuest",
+    "form_id": "0118BAC1|3DNPC.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Find the Explorer Aldi in Gloomreach",
+    "string": "在阴郁河段找到探险家爱尔迪",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AldiQuest",
+    "form_id": "0118BAC1|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Escort Aldi to the Bottom of the Cave and Search for the Artifact",
+    "string": "护送爱尔迪到洞穴深处，然后寻找到锻模遗物",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AldiQuest",
+    "form_id": "0118BAC1|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Read the Note and Speak to Aldi",
+    "string": "阅读纸条并与爱尔迪交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AldiQuest",
+    "form_id": "0118BAC1|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Find the Artifact in Blackreach",
+    "string": "在黑境找到锻模遗物",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AldiQuest",
+    "form_id": "0118BAC1|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Rendezvous with Aldi Outside of Stonehills",
+    "string": "在石山外与爱尔迪会合",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AldiQuest",
+    "form_id": "0118BAC1|3DNPC.esp",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Meet Camaron and Scotti Outside of Alftand",
+    "string": "在精灵之牙外和卡马隆、斯科蒂见面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AldiQuest",
+    "form_id": "0118BAC1|3DNPC.esp",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Pull the Lever",
+    "string": "拉动杠杆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AldiQuest",
+    "form_id": "0118BAC1|3DNPC.esp",
+    "index": 150,
+    "type": "QUST NNAM",
+    "original": "Help the Dwarvenborn or the Servants of Mzanauch",
+    "string": "帮助锻莫裔或马瑟诺迟的仆人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BookQuest3DNPC",
+    "form_id": "01191004|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Paper Mirror",
+    "string": "纸镜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BookQuest3DNPC",
+    "form_id": "01191004|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "A skittish Bretons in Solitude. Told me an old woman living near Riverwood is secretly a Witch. And that the evidence of it is in her basement. Maybe I should investigate?",
+    "string": "一个在独孤城神经兮兮的布莱顿人告诉我，居住在河木镇附近的一个老妇人是个女巫，证据就在她的地下室。也许我应该去调查一下？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BookQuest3DNPC",
+    "form_id": "01191004|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I found a book in Anise's Cabin which seemed to know I was reading it. Addressing me by name and recounting my actions. It pointed me towards the Windpeak Inn. And a man named Theron.",
+    "string": "我在安尼斯的小屋里找到了一本书，它似乎知道我在读它。它叫出了我的名字，并讲述了我的行动。它指引我前往风岳客栈，和一个叫塞隆的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BookQuest3DNPC",
+    "form_id": "01191004|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Theron seems to believe I was sent by a man named \"Argis.\" And wants to hire me for a job to retake his old hide out from his former gang.   ",
+    "string": "塞隆似乎认为我是被一个叫“阿吉斯”的人派来的。他想雇佣我为他夺回他以前的藏身处，从他的前帮派手中。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BookQuest3DNPC",
+    "form_id": "01191004|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "Theron paid me for my work clearing out his old hide out and we parted ways peacefully. He warned me not to return however, unless I wish to join his gang. ",
+    "string": "塞隆为清理他旧藏身处的工作支付了报酬，我们和平分手。不过他警告我不要回来，除非我想加入他的帮派。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BookQuest3DNPC",
+    "form_id": "01191004|3DNPC.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "Theron tried to kill me after revealing he found out I didn't work for Argis.",
+    "string": "塞隆发现我并没有为阿吉斯工作后，试图杀我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BookQuest3DNPC",
+    "form_id": "01191004|3DNPC.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Investigate Anise's Cabin Cellar",
+    "string": "调查安尼斯的小屋地窖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BookQuest3DNPC",
+    "form_id": "01191004|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Follow the Book's Story to the Windpeak Inn",
+    "string": "按照书中的故事去风岳客栈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BookQuest3DNPC",
+    "form_id": "01191004|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Meet Theron at the Entrance to Redoran's Retreat",
+    "string": "去瑞多然的休息处入口与塞隆见面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BookQuest3DNPC",
+    "form_id": "01191004|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Kill the Bandit Chief",
+    "string": "杀死强盗头子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BookQuest3DNPC",
+    "form_id": "01191004|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Read Volume III of The Paper Mirror",
+    "string": "阅读《纸镜》第三卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BookQuest3DNPC",
+    "form_id": "01191004|3DNPC.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Kill Theron",
+    "string": "杀死塞隆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BookQuest3DNPC",
+    "form_id": "01191004|3DNPC.esp",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Find Volume IV of The Paper Mirror",
+    "string": "找到《纸镜》第四卷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "From the Blood of Kings",
+    "string": "循着诸王之血脉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "A Soothsayer pointed me the direction of an important meeting soon to take place at Hunter's Rest. It could be worth investigating.",
+    "string": "一位预言家指引我前往猎人休息处，即将在那里举行一场重要会议。这可能值得调查。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Larsdon wants me to interrogate a thief currently held in Castle Dour. On the location of a journal, he hired her to steal. Which he believes will point him in the direction of the Axe of Forgotten Kings.",
+    "string": "劳斯登让我审问一名目前被关在独孤城城堡的盗贼，关于他雇佣她偷走的那本日记的下落。他认为那本日记会指向被遗忘的诸王之斧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Without the journal we're chasing long shots. Larsdon thinks we may find what we're looking for near Orphan Rock based on an account he heard in Rorikstead.",
+    "string": "没有那本日记，我们只能靠运气了。劳斯登认为我们可能会在孤儿岩附近找到我们想要的东西，基于他在洛利克镇听到的一个传闻。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Investigate Rumors of a Mage in Whiterun",
+    "string": "调查白漫城法师的传言",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Attend the Secret Meeting at Hunter's Rest",
+    "string": "参加猎人休息处的秘密会议",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Interrogate the Prisoner in Castle Dour Dungeon",
+    "string": "审问阴郁堡地牢里的囚犯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Recruit Morndas as a Follower and Lead Her through the Hidden Passageway",
+    "string": "把星期一招为随从，带她通过暗道",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Distract the Guard and Meet Morndas in the Passageway",
+    "string": "避开卫兵，在暗道与星期一见面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 120,
+    "type": "QUST NNAM",
+    "original": "Speak to Morndas",
+    "string": "和星期一交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 130,
+    "type": "QUST NNAM",
+    "original": "Return to Falatild",
+    "string": "回去找菲拉缇儿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 150,
+    "type": "QUST NNAM",
+    "original": "Meet with the Adventurers",
+    "string": "与探险者见面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 170,
+    "type": "QUST NNAM",
+    "original": "Spend the Night at Riverwood",
+    "string": "在河木镇过夜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 176,
+    "type": "QUST NNAM",
+    "original": "Read the Letter Under the Counter",
+    "string": "阅读柜台下的信",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 177,
+    "type": "QUST NNAM",
+    "original": "Kill the Dragonborn",
+    "string": "杀死龙裔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 200,
+    "type": "QUST NNAM",
+    "original": "Travel to Orphan Rock",
+    "string": "前往孤儿岩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 230,
+    "type": "QUST NNAM",
+    "original": "Read the Soldier's Journal",
+    "string": "阅读士兵的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 270,
+    "type": "QUST NNAM",
+    "original": "Retrieve the Axe of Kings",
+    "string": "取回诸王之斧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ1",
+    "form_id": "01196D2D|3DNPC.esp",
+    "index": 300,
+    "type": "QUST NNAM",
+    "original": "Speak to Falathil",
+    "string": "和菲拉罗交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ2",
+    "form_id": "0119B9CD|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Faces and Names",
+    "string": "面孔和名字",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ2",
+    "form_id": "0119B9CD|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "We have two leads. We can either travel west towards Bilegulch Tower where Blood of Kings mysterious mage is believed to be. Or go east to peruse their leader.",
+    "string": "我们有两个线索。我们可以向西前往胆汁峡谷高塔，那里据信有王者之血的神秘法师，或者向东去追踪他们的领袖。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ2",
+    "form_id": "0119B9CD|3DNPC.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Talk to Zora Fair-Child about Orphan Rock",
+    "string": "与佐拉·丽童交谈关于孤儿岩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ2",
+    "form_id": "0119B9CD|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Go East to Nilheim to Search for Clues",
+    "string": "向东去尼尔海姆寻找线索",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ2",
+    "form_id": "0119B9CD|3DNPC.esp",
+    "index": 45,
+    "type": "QUST NNAM",
+    "original": "Follow Uldvar West to Bilegulch Tower",
+    "string": "跟随欧特法去胆汁峡谷高塔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ2",
+    "form_id": "0119B9CD|3DNPC.esp",
+    "index": 55,
+    "type": "QUST NNAM",
+    "original": "Investigate Bilegulch Tower for Information",
+    "string": "调查胆汁峡谷高塔以获取信息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ2",
+    "form_id": "0119B9CD|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Find Olfrim's Research Notes in Snapleg Cave",
+    "string": "在断腿洞穴找到欧弗瑞的研究笔记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ2",
+    "form_id": "0119B9CD|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Speak to Olfrim",
+    "string": "与欧弗瑞对话",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ4",
+    "form_id": "011A0BD4|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Harbinger of Us All",
+    "string": "我们所有人的先驱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ4",
+    "form_id": "011A0BD4|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I received a disturbing letter from Larsdon. He's asked me to meet him at the old abandoned shack south of Falkreath. But believes he may be dead before I arrive. I should hurry.",
+    "string": "我收到了劳斯登的一封令人不安的信。他让我在佛克瑞斯南边一座废弃的旧棚屋与他见面。但他认为我到达时他可能已经死了。我应该快点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ4",
+    "form_id": "011A0BD4|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Larsdon has been kidnapped. I should find out what I can about his wereabouts in Gren's camp.",
+    "string": "劳斯登被绑架了。我应该在格伦的营地里找到关于他下落的信息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ4",
+    "form_id": "011A0BD4|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Larsdon is alive. In bad shape, but alive. Valgus will look after him.",
+    "string": "劳斯登还活着。虽然情况很糟，但还活着。威尔格斯会照顾他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ4",
+    "form_id": "011A0BD4|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "The war teacher escaped and Falatild has been exiled from our group. But at least we're all still breathing.",
+    "string": "战争导师逃跑了，菲拉缇儿被逐出了我们的团队。但至少我们都还活着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ4",
+    "form_id": "011A0BD4|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Wait for a Message from Thane Larsdon",
+    "string": "等待劳斯登武卫发来的消息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ4",
+    "form_id": "011A0BD4|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Find the Hideout in Falkreath Hold",
+    "string": "找出在佛克瑞斯的藏身处",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ4",
+    "form_id": "011A0BD4|3DNPC.esp",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Meet with Gren and Speak with His Subordinates",
+    "string": "与格伦见面并和他的下属交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ4",
+    "form_id": "011A0BD4|3DNPC.esp",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Travel to Heartwood Mill and Look Around for Clues",
+    "string": "前往心木磨坊并寻找线索",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ4",
+    "form_id": "011A0BD4|3DNPC.esp",
+    "index": 150,
+    "type": "QUST NNAM",
+    "original": "Explore the Ruins of Angarvunde",
+    "string": "探索安佳翁德遗迹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ4",
+    "form_id": "011A0BD4|3DNPC.esp",
+    "index": 170,
+    "type": "QUST NNAM",
+    "original": "Find Thane Larsdon",
+    "string": "找到劳斯登武卫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ4",
+    "form_id": "011A0BD4|3DNPC.esp",
+    "index": 250,
+    "type": "QUST NNAM",
+    "original": "Find Eldritch's Journal",
+    "string": "找到艾卓曲的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ4",
+    "form_id": "011A0BD4|3DNPC.esp",
+    "index": 270,
+    "type": "QUST NNAM",
+    "original": "Return Larsdon to the Greenwood Shack",
+    "string": "把劳斯登送回绿木小屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ3",
+    "form_id": "011A63C4|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Bloodsmith",
+    "string": "血匠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ3",
+    "form_id": "011A63C4|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Isobel has ordered a shipment of bloodgrass from her home in Anvil. That she needs to fulfill our request to reforge the Axe of Forgotten Kings. But the shipment is running very late. I should head to Windhelm and see what happened to it.",
+    "string": "伊莎贝尔从她在铁砧城的家乡订购了一批血草，她需要这些来满足我们重铸被遗忘的诸王之斧的请求。但货物迟迟未到。我应该去风舵城看看发生了什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ3",
+    "form_id": "011A63C4|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've finally got the bloodgrass back. I should return to Isobel.",
+    "string": "我终于拿到了血草。我应该把它交给伊莎贝尔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ3",
+    "form_id": "011A63C4|3DNPC.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Find the Blacksmith to Forge the Axe",
+    "string": "找到铁匠去锻造那把斧子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ3",
+    "form_id": "011A63C4|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Meet Isobel's Contact at the East Empire Company Office in Windhelm",
+    "string": "在风舵城东帝国贸易公司办公室与伊莎贝尔的熟人见面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ3",
+    "form_id": "011A63C4|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Place the Dagger By the Burial Cairn",
+    "string": "将匕首放在埋葬石塚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ3",
+    "form_id": "011A63C4|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Wait for the Fence to Arrive at the Graveyard",
+    "string": "等待销赃者抵达墓地",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ3",
+    "form_id": "011A63C4|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Shadow the Fence or Find Another Way to Learn the Meet Location",
+    "string": "跟踪销赃者或想别的办法找到见面的地点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ3",
+    "form_id": "011A63C4|3DNPC.esp",
+    "index": 45,
+    "type": "QUST NNAM",
+    "original": "Follow the Letter Trail to the Location of the Bloodgrass",
+    "string": "跟随字母的线索找到血草的位置",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ3",
+    "form_id": "011A63C4|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Retrieve the Bloodgrass",
+    "string": "取回血草",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ3",
+    "form_id": "011A63C4|3DNPC.esp",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Return to Cyrus",
+    "string": "回去找赛勒斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ3",
+    "form_id": "011A63C4|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Return to Isobel",
+    "string": "回去找伊莎贝尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ5",
+    "form_id": "011ADAFB|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Blood and Bones",
+    "string": "血与骨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ5",
+    "form_id": "011ADAFB|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Now that the right has been completed. I should track down the others and find out what happened to them.",
+    "string": "既然审判已经完成，我应该追踪其他人，找出他们发生了什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ5",
+    "form_id": "011ADAFB|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "The War Teacher seems to have turned on Gren. Gren gave us his location. Hopefully he won't be able to slip away this time.",
+    "string": "战争导师似乎已经对格伦翻脸了。格伦告诉了我们他的位置。希望这次他能逃不掉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ5",
+    "form_id": "011ADAFB|3DNPC.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Find Out What Happened to the Others",
+    "string": "查出其他人发生了什么",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ5",
+    "form_id": "011ADAFB|3DNPC.esp",
+    "index": 6,
+    "type": "QUST NNAM",
+    "original": "Investigate the Frostfruit Inn",
+    "string": "调查霜果客栈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ5",
+    "form_id": "011ADAFB|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Travel to the War-Teacher's Hideout in Bleakcoast Cave",
+    "string": "前往战争导师在阴冷海岸洞穴的藏身处",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ5",
+    "form_id": "011ADAFB|3DNPC.esp",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Search Eldritch's Body",
+    "string": "寻找艾卓曲的尸体",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ5",
+    "form_id": "011ADAFB|3DNPC.esp",
+    "index": 120,
+    "type": "QUST NNAM",
+    "original": "(Optional) Find the Spell Tome to Conjure the Spirit Wolf",
+    "string": "(可选)寻找法术书来召唤狼灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ5",
+    "form_id": "011ADAFB|3DNPC.esp",
+    "index": 121,
+    "type": "QUST NNAM",
+    "original": "Retrieve the Spell Tome of Transfusion",
+    "string": "取回那本生命虹吸法术书",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ5",
+    "form_id": "011ADAFB|3DNPC.esp",
+    "index": 130,
+    "type": "QUST NNAM",
+    "original": "Steal the Blood Spell from Falatild",
+    "string": "从菲拉缇儿那里偷取血魔法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ6",
+    "form_id": "011B2911|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Beast Who Cannot Be Slain",
+    "string": "无法杀死的野兽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ6",
+    "form_id": "011B2911|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "The right doesn't crown a king. It turns one into a monster. If we reach Larsdon before he transforms, a simple blood transfusion could save him. We should hurry!",
+    "string": "审判不会加冕国王，而是会把一个人变成怪物。如果我们在劳斯登变形前找到他，简单的输血就能救他。我们应该赶快！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ6",
+    "form_id": "011B2911|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "We're to late. Like Martin Septim the boy turned into a dragon. He's flying towards Rorikstead. Towards Gren and his men. This will get messy. Maybe I should recruit some help before I leave.",
+    "string": "我们来得太晚了。就像马丁·赛普汀那样，男孩变成了一条龙。他正飞向洛利克镇，朝着格伦和他的手下飞去。这会变得很混乱。也许我离开前应该招募一些帮手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ6",
+    "form_id": "011B2911|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Return to Greenwood",
+    "string": "回到绿木",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ6",
+    "form_id": "011B2911|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Find the Beast",
+    "string": "找到野兽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ6",
+    "form_id": "011B2911|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Speak with Karras",
+    "string": "和卡拉斯交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ6",
+    "form_id": "011B2911|3DNPC.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Travel to Rorikstead and Slay the Beast",
+    "string": "前往洛利克镇然后杀死野兽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ6",
+    "form_id": "011B2911|3DNPC.esp",
+    "index": 91,
+    "type": "QUST NNAM",
+    "original": "(Optional) Use the Drain Blood Spell on Larsdon",
+    "string": "(可选)对劳斯登用吸取鲜血的法术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ6",
+    "form_id": "011B2911|3DNPC.esp",
+    "index": 92,
+    "type": "QUST NNAM",
+    "original": "Defeat the Beast to Return Larsdon to Mortal Form",
+    "string": "击败野兽使劳斯登恢复人形",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ6",
+    "form_id": "011B2911|3DNPC.esp",
+    "index": 95,
+    "type": "QUST NNAM",
+    "original": "(Optional) Recruit Karras' Guards",
+    "string": "(可选)招募卡拉斯的卫兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ7",
+    "form_id": "011B462D|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "An End to Keep",
+    "string": "固守的终焉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ7",
+    "form_id": "011B462D|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Apparently, I saved the day? I should just go to the party and pretend I know what's going on.",
+    "string": "显然，我拯救了这一天？我应该去参加聚会，假装我知道发生了什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ7",
+    "form_id": "011B462D|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Kill or Persuade Larsdon to Remain in Whiterun or Return to Bed and Sacrifice Yourself",
+    "string": "杀死劳斯登或者说服他留在白漫城，或者回到床上牺牲你自己",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ7",
+    "form_id": "011B462D|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Return to Bed",
+    "string": "回到床上",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ7",
+    "form_id": "011B462D|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Attend the Party and Mingle with Guests",
+    "string": "参加聚会混入客人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ7",
+    "form_id": "011B462D|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Speak to Thane Larsdon",
+    "string": "与劳斯登武卫交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ7",
+    "form_id": "011B462D|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Meet the Potential Housecarl",
+    "string": "与有潜力成为侍卫的人见面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DNPCMQ7",
+    "form_id": "011B462D|3DNPC.esp",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Speak to Zora About Wrapping Up the Party",
+    "string": "与佐拉交谈结束聚会",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LurgokQuest",
+    "form_id": "011BD1F8|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Bite the Hand That Feeds You",
+    "string": "恩将仇报",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LurgokQuest",
+    "form_id": "011BD1F8|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "We were attacked by an Orc named Karg after he discovered Morndas was cheating in a game of cards. Morndas considers Krag's brother, Lurgok, Blood-Kin. We should tell Lurgok of his brother's passing.",
+    "string": "我们被一个叫卡格的兽人袭击了，因为他发现星期一在玩牌时作弊。星期一视卡格的兄弟勒高克为血亲。我们应该告诉勒高克他兄弟的死讯。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LurgokQuest",
+    "form_id": "011BD1F8|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I should speak to the chief if I want to stop Lurgok from paying blood price.",
+    "string": "如果我想阻止勒高克支付血债，我应该和酋长谈谈。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LurgokQuest",
+    "form_id": "011BD1F8|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I've saved Lurgok from execution. Much to his disappointment. But at least Morndas likes the outcome. Lurgok has offered to fight by my side. So, I may be able count on him in the future. So long as he doesn't get arrested for murder or cannibalism first.",
+    "string": "我从处决中救下了勒高克。这让他非常失望。但至少星期一对结果感到满意。勒高克提出要在我身边战斗。因此，我将来或许可以依靠他，只要他别再因为谋杀或食人被捕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LurgokQuest",
+    "form_id": "011BD1F8|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I've decided not to help Lurgok. Leaving him to be executed. Morndas doesn't seem happy.",
+    "string": "我决定不帮助勒高克。让他被处决。星期一似乎不太高兴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LurgokQuest",
+    "form_id": "011BD1F8|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Travel to Largashbur and Find Lurgok",
+    "string": "前往拉加施布尔找勒高克",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LurgokQuest",
+    "form_id": "011BD1F8|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Speak to Lurgok",
+    "string": "与勒高克交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LurgokQuest",
+    "form_id": "011BD1F8|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Talk to the Chief and Gain Lurgok's Freedom",
+    "string": "与首领交谈并说服首领放了勒高克",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LurgokQuest",
+    "form_id": "011BD1F8|3DNPC.esp",
+    "index": 51,
+    "type": "QUST NNAM",
+    "original": "(Optional) Exit the Stronghold and Leave Lurgok to His Fate",
+    "string": "(可选) 离开城寨并丢下勒高克任其自生自灭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LurgokQuest",
+    "form_id": "011BD1F8|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Return to Lurgok",
+    "string": "回去找勒高克",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "hagquest",
+    "form_id": "011D094E|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Birds of a Feather",
+    "string": "一丘之貉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "hagquest",
+    "form_id": "011D094E|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Misha an is planning a ritual to become a Hag Raven. She's requested I collect body parts from a nearby family. To use as sacrifices. ",
+    "string": "米莎计划进行一次成为乌鸦鬼婆的仪式。她要求我从附近的家庭收集身体部位，作为祭品。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "hagquest",
+    "form_id": "011D094E|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Misha's dreams of becoming a Hag Raven died with her. ",
+    "string": "米莎变成乌鸦鬼婆的梦想随着她的死亡而破灭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "hagquest",
+    "form_id": "011D094E|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Misha is now the hideous, powerful, monster she's always wanted to be.",
+    "string": "米莎现在变成了她一直想成为的可怕而强大的怪物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "hagquest",
+    "form_id": "011D094E|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Visit the Cottage Across from Lost Echo Cave",
+    "string": "拜访失落之声洞穴对面的小屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "hagquest",
+    "form_id": "011D094E|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Find a Way to Harvest the Family's Organs",
+    "string": "想办法去收集这家人的器官",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "hagquest",
+    "form_id": "011D094E|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "(Optional) Return to Misha with a Human Heart, a Giant's Toe, and a Charred Skeever Hide Instead",
+    "string": "（可选）拿着人类心脏、巨人脚趾和恶鼠毛皮冒充材料送给米莎",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "hagquest",
+    "form_id": "011D094E|3DNPC.esp",
+    "index": 35,
+    "type": "QUST NNAM",
+    "original": "Poison the Stew with Nightshade",
+    "string": "用龙葵在汤里下毒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "hagquest",
+    "form_id": "011D094E|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Take a Seat at the Head of the Table",
+    "string": "坐在桌子的最前面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "hagquest",
+    "form_id": "011D094E|3DNPC.esp",
+    "index": 120,
+    "type": "QUST NNAM",
+    "original": "Toss 3 Ingredients into the Cauldron",
+    "string": "往大锅里放入3种原料",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Darkened Steel",
+    "string": "漆黑之钢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "The Jarl has protested Illegal salvaging operations near Orphan's Tear. Maybe I should investigate. ",
+    "string": "领主抗议了孤儿之泪附近的非法打捞行动。也许我应该调查一下。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I found a strange Journal describing men walking out of the sea of ghosts. Maybe someone in Winterhold would be interested in it.",
+    "string": "我找到了一本奇怪的日记，描述有人从幽灵之海的岸边走出来。也许冬堡的人会对它感兴趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Tikrid and I are trying to find a scholar named Lorne. Who supposedly knows the most about the strange men the Journal describes. He's also apparently a bit of a lout. With a bounty on his head. So, we should find him before the bounty hunters do.",
+    "string": "提克瑞德和我正在寻找一位名叫洛恩的学者。据说他对日志中描述的奇怪男人了解最多。他似乎也有点无赖，头上还有悬赏。所以我们应该在赏金猎人之前找到他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "We've found the body we need, to get into the Darkened Steel's sacred temple. Tikrid and Lorne both wish to accompany me there.",
+    "string": "我们已经找到了进入漆黑之钢所需的尸体。提克瑞德和洛恩都希望陪我一起去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "So, we have just destroyed the temple we were studying and unleashed a vengeful ghost. Well. Everyone makes mistakes.",
+    "string": "所以，我们刚刚摧毁了我们正在研究的神殿，并释放了一个复仇的幽灵。好吧，每个人都会犯错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Investigate Orphan's Tear",
+    "string": "调查孤儿之泪",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Learn More About the History of Wanderer's Rest",
+    "string": "了解更多关流浪者安息处的历史",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Leave the Windpeak Inn",
+    "string": "离开风岳客栈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Speak with Tikrid",
+    "string": "和提克瑞德交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Show the Journal to Lorne in Winterhold",
+    "string": "把日记拿给冬堡的洛恩看",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Protect Lorne from the Bounty Hunters",
+    "string": "从赏金猎人的手中保护洛恩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 130,
+    "type": "QUST NNAM",
+    "original": "Meet Lorne in Windhelm",
+    "string": "与洛恩在风舵城见面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 150,
+    "type": "QUST NNAM",
+    "original": "Find the Nightblade's Corpse",
+    "string": "找到夜刃的尸体",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 161,
+    "type": "QUST NNAM",
+    "original": "Verify the Corpse with Lorne",
+    "string": "同洛恩一起核实尸体身份",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 162,
+    "type": "QUST NNAM",
+    "original": "Verify the Corpse with Lorne",
+    "string": "同洛恩一起核实尸体身份",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 163,
+    "type": "QUST NNAM",
+    "original": "Verify the Corpse with Lorne",
+    "string": "同洛恩一起核实尸体身份",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 164,
+    "type": "QUST NNAM",
+    "original": "Verify the Corpse with Lorne",
+    "string": "同洛恩一起核实尸体身份",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 170,
+    "type": "QUST NNAM",
+    "original": "Check on Tikrid",
+    "string": "回去找提克瑞德",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 175,
+    "type": "QUST NNAM",
+    "original": "Verify the Corpse with Lorne",
+    "string": "同洛恩一起核实尸体身份",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 190,
+    "type": "QUST NNAM",
+    "original": "Walk the Road to Wanderer's Rest",
+    "string": "沿着去往流浪者安息处的路走。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue",
+    "form_id": "011D40F8|3DNPC.esp",
+    "index": 300,
+    "type": "QUST NNAM",
+    "original": "Return to Gancielo",
+    "string": "回去找甘西尔罗",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue2",
+    "form_id": "011D96ED|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "A Daedra in the Dark",
+    "string": "黑暗中的魔族",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue2",
+    "form_id": "011D96ED|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Lorne the drunken fool that he was. Still probably knew the most about this group, outside of its members. Maybe his research notes are in his cabin.",
+    "string": "洛恩，那个醉酒的傻瓜，可能比这个组织的成员更了解这个组织。也许他的研究笔记在他的小屋里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue2",
+    "form_id": "011D96ED|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "There's apparently a man Lorne owes a great deal of money to in Ironheart cave. Maybe I'll find more hints there. ",
+    "string": "显然，洛恩在铁心洞穴欠了一个人很多钱。也许我能在那里找到更多线索。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue2",
+    "form_id": "011D96ED|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Deirdre provided me the key to Lorne's strong box. Maybe I'll finally get those notes.",
+    "string": "迪尔德丽给了我洛恩保险箱的钥匙。也许我终于能拿到那些笔记了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue2",
+    "form_id": "011D96ED|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Investigate Lorne's Shack in Falkreath",
+    "string": "调查在佛克瑞斯的洛恩的小屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue2",
+    "form_id": "011D96ED|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Meet Lorne's Debtor at Ironheart Cave",
+    "string": "在铁心洞穴与洛恩的债主见面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue2",
+    "form_id": "011D96ED|3DNPC.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Kill the Wolf",
+    "string": "杀死那匹狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue2",
+    "form_id": "011D96ED|3DNPC.esp",
+    "index": 110,
+    "type": "QUST NNAM",
+    "original": "Return the Wolf's Pelt to Hrokkar",
+    "string": "把狼皮交还给霍拉格",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue2",
+    "form_id": "011D96ED|3DNPC.esp",
+    "index": 120,
+    "type": "QUST NNAM",
+    "original": "Meet With Deirdre",
+    "string": "与迪尔德丽见面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue2",
+    "form_id": "011D96ED|3DNPC.esp",
+    "index": 140,
+    "type": "QUST NNAM",
+    "original": "Open Lorne's Strongbox",
+    "string": "打开洛恩的保险箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue3",
+    "form_id": "011E8C3C|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Cat and Mouse",
+    "string": "猫和老鼠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue3",
+    "form_id": "011E8C3C|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I finally have most of the information we were looking for. I should return to Tikrid and tell he what I've found. ",
+    "string": "我终于找到了我们所需的大部分信息。我应该返回提克瑞德，告诉她我的发现。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue3",
+    "form_id": "011E8C3C|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "A yellowed eyed assassin is hunting the surviving members of the \"Darkened Steel.\" group. Her next target is likely Krillo. Who according to Nasrin is currently in Markarth. We should warn him.",
+    "string": "一名黄眼刺客正在追杀\"漆黑之钢\"组织的幸存成员。她的下一个目标很可能是科瑞奥。据纳瑟琳所言，此人目前正在马卡斯城。我们得警告他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue3",
+    "form_id": "011E8C3C|3DNPC.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Return to Solitude",
+    "string": "回到独孤城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue3",
+    "form_id": "011E8C3C|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Find Krillo in Markarth",
+    "string": "在马卡斯找到科瑞奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue3",
+    "form_id": "011E8C3C|3DNPC.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Watch Krillo From the Shadows During His Morning Walk",
+    "string": "在科瑞奥早晨散步时，从阴影里观察他",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue3",
+    "form_id": "011E8C3C|3DNPC.esp",
+    "index": 120,
+    "type": "QUST NNAM",
+    "original": "Chase Down the Assassin",
+    "string": "追捕刺客",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue3",
+    "form_id": "011E8C3C|3DNPC.esp",
+    "index": 180,
+    "type": "QUST NNAM",
+    "original": "Return to Krillo",
+    "string": "回去找科瑞奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue4",
+    "form_id": "011F05C2|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Deathbroker",
+    "string": "死亡代理人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue4",
+    "form_id": "011F05C2|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "According to Krillo a knight who sounds remarkably familiar is also investigating these murders. I should meet up with him in Windhelm.",
+    "string": "根据科瑞奥所说，一名听起来非常熟悉的骑士也在调查这些谋杀案。我应该在风舵城与他碰面。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue4",
+    "form_id": "011F05C2|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Erevan has given me an intercepted correspondence. That hints at the identity of the man who his giving out the contracts on the Darkened Steel members. I should talk to the guests as see if I can figure out who it is.",
+    "string": "艾里温给了我一份截获的信件，暗示了发出漆黑之钢成员合同的人的身份。我应该和客人谈谈，看看能否找出是谁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue4",
+    "form_id": "011F05C2|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I received a strange, anonymous message. Telling me to meet them in the Hall of the Dead.",
+    "string": "我收到了一条奇怪的匿名消息，告诉我在亡灵大厅见面。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue4",
+    "form_id": "011F05C2|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "Deneris mentioned an aspect of Azura we have yet to meet. Maybe we could find them at her shrine?",
+    "string": "丹尼勒斯提到了阿祖拉的一个我们尚未接触过的方面。也许我们可以在她的神龛找到他们？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue4",
+    "form_id": "011F05C2|3DNPC.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Find Erevan in Windhelm",
+    "string": "在风舵城找到艾里温",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue4",
+    "form_id": "011F05C2|3DNPC.esp",
+    "index": 25,
+    "type": "QUST NNAM",
+    "original": "Attend Viola's Party",
+    "string": "加入维欧拉的派对",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue4",
+    "form_id": "011F05C2|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Talk to the Party Guests and Pinpoint a Suspect",
+    "string": "与宴会客人们交谈并找出疑点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue4",
+    "form_id": "011F05C2|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Eliminate or Pickpocket a Suspect",
+    "string": "除掉一个嫌疑犯或者从他身上窃取证物",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue4",
+    "form_id": "011F05C2|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Investigate the Hall of the Dead",
+    "string": "调查亡者之厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue4",
+    "form_id": "011F05C2|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Kill the Blades of Deneris",
+    "string": "杀死丹尼勒斯之刃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue4",
+    "form_id": "011F05C2|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Travel to the Shrine of Azura",
+    "string": "前往阿祖拉的祭坛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3DMCue4",
+    "form_id": "011F05C2|3DNPC.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Read Elandir's Journal",
+    "string": "阅读兰迪尔的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue6",
+    "form_id": "01203932|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Face of the Ghost",
+    "string": "幽灵之容",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue6",
+    "form_id": "01203932|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "This is it. I have everything I need. Time to put the unkillable ghost down.",
+    "string": "是时候了。我已万事俱备。该让这不死之魂安息了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue6",
+    "form_id": "01203932|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Travel to Shadow's Gulch",
+    "string": "前往暗影峡谷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue6",
+    "form_id": "01203932|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Kill Deneris",
+    "string": "杀死丹尼勒斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3dmcue6",
+    "form_id": "01203932|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Dispel Deneris' Immortality with the Trinity Blade ",
+    "string": "用三刃剑驱逐不朽的丹尼勒斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Spell It Out For Me",
+    "string": "给我拼写出来",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I accepted a challenge from a strange Orc to a game of murder. If I win and kill my targets before he kills his. He will serve as my companion. If I lose... He only said I would owe him a favor.",
+    "string": "我接受了一个奇怪兽人对谋杀游戏的挑战。如果我在他杀死目标之前先杀死我的目标，他将作为我的同伴。如果我输了……他说我只会欠他一个人情。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I killed Cassock after he attempted to kill Fironet. He was my final letter, so the game is won. But it may be difficult to collect the promised reward from a corpse. ",
+    "string": "我杀了凯撒克，因为他试图谋杀法萝娜。他是我的最后一封信，所以游戏赢了。但从一具尸体上收取承诺的奖励可能会很困难。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Cassock completed his list by killing Fironet. The game is his.",
+    "string": "凯撒克通过杀死法萝娜完成了他的清单。游戏是他的了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "Cassock requests I kill one more person for the favor he won.",
+    "string": "凯撒克要求我再为他的好意杀一个人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "Having completed my list before Cassock. I won the game. He's promised to serve as my companion until the next game. Whenever that is.",
+    "string": "我先于凯撒克完成了我的清单。我赢了游戏。他答应在我的下一场游戏之前作为我的同伴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "My debt is settled the game is complete. We've gone our separate ways. Maybe we'll play again in the future. ",
+    "string": "我的债务已经结清，游戏完成了。我们已经分道扬镳。也许将来我们会再玩一次。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Locate and Kill a Target Whose Name Starts with the Letter \"U\"",
+    "string": "锁定然后杀死一个名字开头字母是“U”的目标",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Kill a Non-Nord Target Whose Name Starts with the Letter \"L\"",
+    "string": "杀死一个名字以字母“L”开头的目标，诺德人不算",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Kill a Non-Nord Target Whose Name Starts with the Letter \"F\"",
+    "string": "杀死一个名字以字母“F”开头的目标，诺德人不算",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Kill a Non-Nord Target Whose Name Starts with the Letter \"R\"",
+    "string": "杀死一个名字以字母“R”开头的目标，诺德人不算",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Kill a Non-Nord Target Whose Name Starts with the Letter \"I\"",
+    "string": "杀死一个名字以字母“I”开头的目标，诺德人不算",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Locate and Kill a Target Whose Name Starts with the Letter \"C\"",
+    "string": "搜索并杀死一个名字以字母“C”开头的目标",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Speak to Fironet",
+    "string": "与法萝娜交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Cassockquest",
+    "form_id": "0123D691|3DNPC.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Kill Uvra in Broken Fang Cave",
+    "string": "到断牙洞穴杀死乌拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Herranquest",
+    "form_id": "0124CEAA|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Gales of Guilt",
+    "string": "罪恶的狂风",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Herranquest",
+    "form_id": "0124CEAA|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Herran the owner of the recently sunk ship \"The Autumn Gale\" has hired me to deliver some water breathing potions to his salvage team. Who are attempting to retrieve cargo lost when the ship sunk.",
+    "string": "赫伦是最近沉没的船只“深秋疾风号”的船主，他雇佣我给他的打捞队送一些水下呼吸药水。他们正在尝试打捞船只沉没时丢失的货物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Herranquest",
+    "form_id": "0124CEAA|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "It turns out the salvage team didn't need the delivery, but they paid me to help retrieve the last bit of cargo. A lease agreement. They asked me to return it to Herran directly while they handle the heavier cargo.",
+    "string": "打捞队其实不需要这批货物，但他们付钱让我帮忙取回最后一件货物——一份租约。他们让我把它直接交还给赫伦，而他们则负责搬运较重的货物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Herranquest",
+    "form_id": "0124CEAA|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "A nord man has asked me to help investigate a crime scene where his father is accused of assaulting a noble and his Companion.",
+    "string": "一个诺德男人请我帮忙调查一个犯罪现场，他的父亲被指控袭击了一个贵族和他的同伴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Herranquest",
+    "form_id": "0124CEAA|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "The trail did not end in Asgeld father's favor. Now facing a trail by combat his father has no chance of winning. His only concern is to spend time with him before the end.",
+    "string": "审判并未如阿斯格德的父亲所愿结束。如今面临一场武斗审判，他的父亲毫无胜算。他唯一的愿望就是在最后的时光里陪伴他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Herranquest",
+    "form_id": "0124CEAA|3DNPC.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "Charges have been dropped against Asgeld's father. They're going to the tavern to celebrate!",
+    "string": "对阿斯格德的父亲的指控已经撤销。他们要去酒馆庆祝了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Herranquest",
+    "form_id": "0124CEAA|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Deliver the Potions to the Salvage Team",
+    "string": "把药水送给打捞队",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Herranquest",
+    "form_id": "0124CEAA|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Investigate the Wreckage in Pilgrim's Trench",
+    "string": "调查朝圣者的战壕的残骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Herranquest",
+    "form_id": "0124CEAA|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Return to the Argonian Salvager",
+    "string": "回去找亚龙人打捞队",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Herranquest",
+    "form_id": "0124CEAA|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Deliver the Lease Document to Herran in Winterhold",
+    "string": "把租约文档送给冬堡的赫伦",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Herranquest",
+    "form_id": "0124CEAA|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Travel to Winterfrost Cottage and Wait for Asgeld to Arrive",
+    "string": "前往冬霜农舍并等待阿斯格德抵达",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Herranquest",
+    "form_id": "0124CEAA|3DNPC.esp",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Study the Crime Scene at Winterfrost Cottage",
+    "string": "在冬霜农舍研究犯罪现场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Herranquest",
+    "form_id": "0124CEAA|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Meet Asgeld at the Blue Palace",
+    "string": "与阿斯格德在蓝宫见面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PaintingQuest",
+    "form_id": "01271DB3|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "A Thousand Words",
+    "string": "一画胜千言",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PaintingQuest",
+    "form_id": "01271DB3|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Halcar, an art collector, has hired me. To collect and return a painting he purchased by Ester Maroux. And to find out what's keeping his assistant who he originally sent to collect it.",
+    "string": "哈尔卡，一位艺术收藏家，雇佣了我。任务是收集并归还他购买的一幅由伊斯特·玛洛创作的画作。并查明为何他最初派去取画的助手迟迟未归。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PaintingQuest",
+    "form_id": "01271DB3|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Primlei, Halcar assistant is sure the painting is cursed and I'll die if I see it. I could just walk away instead of trying to collect.",
+    "string": "普利姆莱，哈尔卡的助手确信这幅画被诅咒了，如果我看了它，我就会死。我可以直接走开，而不是试图去收集。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PaintingQuest",
+    "form_id": "01271DB3|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I've awoken in a strange place. Surround by paintings with Ester Maroux herself.",
+    "string": "我醒来时身处一个陌生的地方。四周都是画作，还有伊斯特·玛洛本人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PaintingQuest",
+    "form_id": "01271DB3|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "Despite Maroux insisting the painting I took would destroy her legacy. Halcar seems happy with it. Insisting it's a masterful parody of modern narrative.",
+    "string": "尽管玛洛坚持认为我拿走的画会毁了她的遗产，但哈尔卡对此很满意，认为这是对现代叙事的绝妙讽刺。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PaintingQuest",
+    "form_id": "01271DB3|3DNPC.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "Halcar has become the latest in a long line of art collectors to die upon seeing the painting.",
+    "string": "哈尔卡成了最新一个在观赏画作时毙命的艺术品收藏家。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PaintingQuest",
+    "form_id": "01271DB3|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Find Halcar's Assistant in Markarth",
+    "string": "在马卡斯城中找到哈尔卡的助手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PaintingQuest",
+    "form_id": "01271DB3|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Recover Halcar's Painting from the Treasury House",
+    "string": "从珍宝屋找回哈尔卡的画",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PaintingQuest",
+    "form_id": "01271DB3|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Take the Cliche Painting or Kill Ester",
+    "string": "取走那幅陈腐的画或者杀掉伊斯特",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PaintingQuest",
+    "form_id": "01271DB3|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Return to Halcar",
+    "string": "回去找哈尔卡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueThriceBitten",
+    "form_id": "0127CF33|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Thrice Bitten, Once Shy",
+    "string": "记吃不记打",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueThriceBitten",
+    "form_id": "0127CF33|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "An Argonian in Falkreath has asked me to intercept a letter her sent to Ingun Black-Briar. Worried Maven will have him killed if it arrives. ",
+    "string": "一个在佛克瑞斯的亚龙人要我拦截他写给因甘·黑棘的一封信，他担心如果信件到达玛雯会杀了他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueThriceBitten",
+    "form_id": "0127CF33|3DNPC.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Head to Ivarstead and Ask About the Courier",
+    "string": "前往紫杉镇打听关于信使的事情",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueThriceBitten",
+    "form_id": "0127CF33|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Find the Courier at Honeystrand Cave",
+    "string": "找到蜂蜜滩洞穴的信使",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueThriceBitten",
+    "form_id": "0127CF33|3DNPC.esp",
+    "index": 11,
+    "type": "QUST NNAM",
+    "original": "Beat Carah in a Race to Ivarstead",
+    "string": "在前往紫杉镇的赛跑中击败卡菈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueThriceBitten",
+    "form_id": "0127CF33|3DNPC.esp",
+    "index": 12,
+    "type": "QUST NNAM",
+    "original": "Obtain the Letter or Return to Thrice-Bitten",
+    "string": "获得信件并回到三咬那里去",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueThriceBitten",
+    "form_id": "0127CF33|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Deliver the letter to Thrice-Bitten or Ingun Black-Briar",
+    "string": "将信交给三咬或者因甘·黑棘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueThriceBitten",
+    "form_id": "0127CF33|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Inform Thrice-Bitten that Ingun has received the letter",
+    "string": "告诉三咬，因甘已经收到了信件",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Immortal Coil",
+    "string": "永恒轮回",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've found a note at the Temple of the Divines pointing to Widow's Watch Ruins. Maybe I should investigate? ",
+    "string": "我在神殿发现了一张指向望夫塔遗址的纸条。也许我该去调查一下？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Arilwaen asked me to help distribute missives. Spreading the world of their sanctuary of Talos worship.",
+    "string": "艾里雯让我帮忙分发传单。传播他们的塔洛斯崇拜庇护所的消息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Arilwaen's brother believes that soul gems filled with the souls of priests of Talos. Are on a ship currently docked at Northwatch Keep. Arilwaen has sent Froa and I to retrieve them.",
+    "string": "艾里雯的兄弟相信装有塔洛斯祭司灵魂的灵魂石。这些灵魂石目前存放在北塔要塞的船上。艾里雯派我和芙洛阿去取回它们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "Telthar is quite confident that the soul gems are now in Chillwind Depths. Having been stolen by the Falmar who ambushed the Thalmor who were transporting them. I should expect a fight. Froa appears to be too despondent from Arilwaen's death to help.",
+    "string": "泰尔萨非常确信灵魂石现在在霜风深渊，是被伏击运镖梭默的法尔默盗走的。我应该准备战斗。芙洛阿因为艾里雯的死而显得太沮丧，无法帮忙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "The spirits are freed. Froa has offered to help me in the future adventures if I need her.",
+    "string": "灵魂被释放了。芙洛阿表示如果以后需要，她会帮助我冒险。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Travel to the Widow's Watch Ruins",
+    "string": "前往望夫塔遗址",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Pay the Innkeeper to Distribute Arilwaen's Letters",
+    "string": "贿赂客栈老板来分发艾里雯的信",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 6,
+    "type": "QUST NNAM",
+    "original": "Travel to Markarth and Place a Letter at the Shrine of Talos",
+    "string": "前往马卡斯城并将信放在塔洛斯祭坛上",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 7,
+    "type": "QUST NNAM",
+    "original": "Return to Arilwaen",
+    "string": "回去找艾里雯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Find the Thalmor Ship Near Northwatch Keep",
+    "string": "找到北塔堡垒附近的梭默船",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 25,
+    "type": "QUST NNAM",
+    "original": "Kill the Thalmor",
+    "string": "杀死梭默",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Recover the Soul Gems",
+    "string": "找回灵魂石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 45,
+    "type": "QUST NNAM",
+    "original": "Speak to Froa",
+    "string": "与芙洛阿对话",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Return to Widow's Watch",
+    "string": "回到望夫塔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Investigate the Chillwind Depths and Recover the Black Soul Gems",
+    "string": "探索霜风深渊并找到黑色灵魂石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Return to Telthar at Widow's Watch",
+    "string": "回到望夫塔去找泰尔萨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Follow Telthar or Travel to the Northern Coast",
+    "string": "跟随泰尔萨或前往北海岸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArilwaenQuest",
+    "form_id": "012838D9|3DNPC.esp",
+    "index": 500,
+    "type": "QUST NNAM",
+    "original": "(Optional) Deliver the letters to Ondolemar or the Thalmor Agent in Markarth",
+    "string": "(可选) 把信交给昂多勒马或者交给马卡斯城的任意一名梭默密探",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "skjelquest",
+    "form_id": "012BB973|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "A Good Fit",
+    "string": "刚好合身",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "skjelquest",
+    "form_id": "012BB973|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've been directed towards Crystaldrift Cave to clear an altar of necromancers. ",
+    "string": "我被指引前往水晶漂移洞穴清除一个亡灵法师的祭坛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "skjelquest",
+    "form_id": "012BB973|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Kill Korrilan",
+    "string": "杀死科里兰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "skjelquest",
+    "form_id": "012BB973|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Find the Necromancer Altar",
+    "string": "找到死灵法师祭坛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "skjelquest",
+    "form_id": "012BB973|3DNPC.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Return to Riften",
+    "string": "回到裂谷城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "skjelquest",
+    "form_id": "012BB973|3DNPC.esp",
+    "index": 95,
+    "type": "QUST NNAM",
+    "original": "Investigate the House of Garments",
+    "string": "搜查百衣屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueNair",
+    "form_id": "012CB19B|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Aldmeri Prisoner",
+    "string": "先祖神州的囚犯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueNair",
+    "form_id": "012CB19B|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Daenlyn believes a fellow prisoner of the Thalmor. Is being held at their local headquarters at Coldstone Mine. And wishes to rescue him.",
+    "string": "戴姆聆相信一个梭默的囚犯正被关在他们的总部寒岩矿场，并希望救他出来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueNair",
+    "form_id": "012CB19B|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "We didn't find the prisoner we were looking for. Instead we found the exiled Thalmor, Jerulith. Who believes the Khajiit we're looking for is being held at Cracked Tusk Keep.",
+    "string": "我们没有找到要找的囚犯。相反，我们找到了被流放的梭默，捷尔勒。他认为我们要找的卡吉特被关在裂牙要塞。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueNair",
+    "form_id": "012CB19B|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Travel to Coldstone Mine",
+    "string": "前往寒岩矿洞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueNair",
+    "form_id": "012CB19B|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Travel to Cracked Tusk Keep",
+    "string": "前往裂牙要塞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DJGQuest",
+    "form_id": "012CF3C0|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "A Debt of Blood",
+    "string": "血债",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DJGQuest",
+    "form_id": "012CF3C0|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Na'ir appears to be far more than just a fellow victim of the Thalmor. He seems to be gathering familiar faces from far and wide to meet his client.",
+    "string": "纳'伊尔似乎不仅仅是梭默的受害者。他似乎正在从四面八方召集熟悉的面孔来见他的客户。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DJGQuest",
+    "form_id": "012CF3C0|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Na'ir's Client wishes us to kill his sister. Claiming her to be is ruthless, impulsive, and will spend every septim of her vast fortune to seek our deaths. If we don't stop her first. Due to all of our roles in the death of her father.",
+    "string": "纳'伊尔的客户希望我们杀死他的妹妹，声称她冷酷无情、冲动，会花光她所有的财富来追杀我们，如果我们不先阻止她的话。因为我们都在她父亲的死中扮演了角色。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DJGQuest",
+    "form_id": "012CF3C0|3DNPC.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Travel to Falkreath",
+    "string": "前往佛克瑞斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DJGQuest",
+    "form_id": "012CF3C0|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Meet with Na'ir's Client",
+    "string": "与纳'伊尔的客户见面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DJGQuest",
+    "form_id": "012CF3C0|3DNPC.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Speak to Griffith",
+    "string": "和格里菲斯交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Arielequest",
+    "form_id": "01306C12|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Children of the Dust",
+    "string": "残烬之子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Arielequest",
+    "form_id": "01306C12|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Ariele, a reclusive vampire has asked to find her two wards. Who went missing a fortnight ago near Dawnstar. Maybe I should look for them.",
+    "string": "阿里埃勒，一位隐居的吸血鬼，请求寻找她两位失踪的被监护人。他们在半个月前于晨星城附近失踪。也许我该去寻找他们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Arielequest",
+    "form_id": "01306C12|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've found her to wards and got them out of jail. We should head back to Ariele. She must be worried, and promised to reward me. ",
+    "string": "我已经找到她的孩子并把他们从监狱里救了出来。我们应该回阿丽尔那里。她一定很担心，并答应会奖励我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Arielequest",
+    "form_id": "01306C12|3DNPC.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "It turns out the reward was attempted murder. But at least I can now loot their house. ",
+    "string": "原来这就是谋杀的报酬。但至少我现在可以去搜刮他们的房子了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Arielequest",
+    "form_id": "01306C12|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Travel to the Dawnstar Barracks",
+    "string": "前往晨星城军营",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Arielequest",
+    "form_id": "01306C12|3DNPC.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Pay the Argonian's Fine or Do Something Stupid",
+    "string": "支付给亚龙人足够的钱或者做点蠢事",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Arielequest",
+    "form_id": "01306C12|3DNPC.esp",
+    "index": 45,
+    "type": "QUST NNAM",
+    "original": "Return to Ariele",
+    "string": "回去找阿里埃勒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TerynneQuest",
+    "form_id": "01377D79|3DNPC.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Transformation",
+    "string": "变形记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TerynneQuest",
+    "form_id": "01377D79|3DNPC.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I caught a rather nervous looking wizard mid robbery in the court wizard's chambers. They've requested my help to find a unique spell they've been searching for.",
+    "string": "我在宫廷法师的房间里抓到了一位神色紧张的正在行窃的巫师。他们请求我帮忙寻找一种他们一直在搜寻的特殊法术。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TerynneQuest",
+    "form_id": "01377D79|3DNPC.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Terynne now feels comfortable in their own skin. After I helped them restore a lost tomb that allowed them to change their body.",
+    "string": "泰瑞尼现在对自己感到自在。在我帮助他们修复了一座失落的古墓后，他们得以改变自己的身体。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TerynneQuest",
+    "form_id": "01377D79|3DNPC.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Investigate Frost Peak Cave",
+    "string": "调查峦林洞穴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TerynneQuest",
+    "form_id": "01377D79|3DNPC.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Find the Necromancer's Tome",
+    "string": "找到亡灵法师的法术书",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TerynneQuest",
+    "form_id": "01377D79|3DNPC.esp",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Give Terynne a spell to restore the tome",
+    "string": "把能将法术书恢复如初的魔法交给泰瑞尼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TerynneQuest",
+    "form_id": "01377D79|3DNPC.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "(Optional) Exit the cave",
+    "string": "(可选) 离开洞窟",
+    "status": "TranslationComplete"
+  }
+]

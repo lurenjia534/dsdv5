@@ -1,0 +1,4133 @@
+[
+  {
+    "editor_id": "aCPB_G_A",
+    "form_id": "01000A1A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Long - Sheer",
+    "string": "角色扮演手套-全长款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B",
+    "form_id": "01000B5E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Long - Sheer",
+    "string": "角色扮演连指手套-全长款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C",
+    "form_id": "01000B5F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Long - Sheer",
+    "string": "角色扮演护臂手套-全长款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_A",
+    "form_id": "01000B60|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt Low - Lace",
+    "string": "角色扮演吊袜带腰带-低腰款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_B",
+    "form_id": "01000B61|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt High - Lace",
+    "string": "角色扮演吊袜带腰带-高腰款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C",
+    "form_id": "01000B62|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter - Lace",
+    "string": "角色扮演袜圈-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C_A",
+    "form_id": "01000B63|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Overknee - Lace",
+    "string": "角色扮演过膝袜圈-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C_B",
+    "form_id": "01000B64|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Knee - Lace",
+    "string": "角色扮演及膝袜圈-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_D",
+    "form_id": "01000B65|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Strap - Lace",
+    "string": "角色扮演吊袜带-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails",
+    "form_id": "01000B66|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Onyx",
+    "string": "角色扮演美甲-玛瑙黑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S",
+    "form_id": "01000B67|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - Sheer",
+    "string": "角色扮演长筒袜-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S_A",
+    "form_id": "01000B68|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overknees - Sheer",
+    "string": "角色扮演过膝袜-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S_B",
+    "form_id": "01000B69|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Kneesocks - Sheer",
+    "string": "角色扮演中筒袜-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S_C",
+    "form_id": "01000B6A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Crewsocks - Sheer",
+    "string": "角色扮演短袜-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S_D",
+    "form_id": "01000B6B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Toeless - Sheer",
+    "string": "角色扮演露趾袜-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB",
+    "form_id": "01000B6C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking - Sheer",
+    "string": "角色扮演连体袜-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SG",
+    "form_id": "01000B6D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Suspended - Sheer",
+    "string": "角色扮演吊带袜-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S_Long",
+    "form_id": "01000B6E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - Sheer",
+    "string": "角色扮演超长筒袜-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP",
+    "form_id": "01000B6F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Sheer",
+    "string": "角色扮演连裤袜-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SPLewd",
+    "form_id": "01000B70|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Sheer (Lewd)",
+    "string": "角色扮演连裤袜-透明(情色款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_TT",
+    "form_id": "01000B71|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Overlay - Golden Order",
+    "string": "角色扮演纹身-黄金律法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_EX",
+    "form_id": "01000B72|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Vibrator Egg",
+    "string": "角色扮演振动蛋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A_A",
+    "form_id": "01000B8F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Elbow - Sheer",
+    "string": "角色扮演手套-肘长款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A_B",
+    "form_id": "01000B90|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Wrist - Sheer",
+    "string": "角色扮演手套-腕长款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A_C",
+    "form_id": "01000B91|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Half - Sheer",
+    "string": "角色扮演手套-半掌款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B_A",
+    "form_id": "01000B92|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Elbow - Sheer",
+    "string": "角色扮演连指手套-肘长款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B_B",
+    "form_id": "01000B93|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Wrist - Sheer",
+    "string": "角色扮演连指手套-腕长款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B_C",
+    "form_id": "01000B94|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Half - Sheer",
+    "string": "角色扮演连指手套-半掌款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB_A",
+    "form_id": "01000B95|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Sleeveless - Sheer",
+    "string": "角色扮演连体袜-无袖款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB_B",
+    "form_id": "01000B96|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Unitard - Sheer",
+    "string": "角色扮演连体袜-紧身连衣款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB_C",
+    "form_id": "01000B97|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Halter - Sheer",
+    "string": "角色扮演连体袜-挂脖款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB_D",
+    "form_id": "01000B98|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Leotard - Sheer",
+    "string": "角色扮演连体袜-体操服款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C_A",
+    "form_id": "01000B99|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Elbow - Sheer",
+    "string": "角色扮演护臂手套-肘长款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C_B",
+    "form_id": "01000B9A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Wrist - Sheer",
+    "string": "角色扮演护臂手套-腕长款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP_A",
+    "form_id": "01000B9C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Hiphigh - Sheer",
+    "string": "角色扮演连裤袜-高腰款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP_B",
+    "form_id": "01000B9D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Lowleg - Sheer",
+    "string": "角色扮演连裤袜-低腰款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP_C",
+    "form_id": "01000B9E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Reversed - Sheer",
+    "string": "角色扮演连裤袜-反穿款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP_D",
+    "form_id": "01000B9F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Toeless - Sheer",
+    "string": "角色扮演连裤袜-露趾款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP",
+    "form_id": "01000BB0|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Heart",
+    "string": "角色扮演私密贴-阴部-心形",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP2",
+    "form_id": "01000BB1|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Tape",
+    "string": "角色扮演私密贴-阴部-胶带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP3",
+    "form_id": "01000BB2|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Golden Star",
+    "string": "角色扮演私密贴-阴部-金星",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP4",
+    "form_id": "01000BB3|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Silicone",
+    "string": "角色扮演私密贴-阴部-硅胶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP5",
+    "form_id": "01000BB4|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Band Aid",
+    "string": "角色扮演私密贴-阴部-创可贴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP6",
+    "form_id": "01000BB5|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Applique",
+    "string": "角色扮演私密贴-阴部-贴花",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN",
+    "form_id": "01000BB6|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Heart",
+    "string": "角色扮演乳头贴-心形",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN2",
+    "form_id": "01000BB7|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Tape",
+    "string": "角色扮演乳头贴-胶带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN3",
+    "form_id": "01000BB8|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Golden Star",
+    "string": "角色扮演乳头贴-金星",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN4",
+    "form_id": "01000BB9|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Silicone",
+    "string": "角色扮演乳头贴-硅胶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN5",
+    "form_id": "01000BBA|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Band Aid",
+    "string": "角色扮演乳头贴-创可贴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN6",
+    "form_id": "01000BBB|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Applique",
+    "string": "角色扮演乳头贴-贴花",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails_A",
+    "form_id": "01000BC6|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Histogram",
+    "string": "角色扮演美甲-直方图",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails_B",
+    "form_id": "01000BC7|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Dubai",
+    "string": "角色扮演美甲-迪拜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails_C",
+    "form_id": "01000BC8|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Galaxy",
+    "string": "角色扮演美甲-银河",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes",
+    "form_id": "01000BC9|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Onyx",
+    "string": "角色扮演脚趾美甲-玛瑙黑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes_A",
+    "form_id": "01000BCA|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Histogram",
+    "string": "角色扮演脚趾美甲-直方图",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes_B",
+    "form_id": "01000BCB|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Dubai",
+    "string": "角色扮演脚趾美甲-迪拜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes_C",
+    "form_id": "01000BCC|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Galaxy",
+    "string": "角色扮演脚趾美甲-银河",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Ankle",
+    "form_id": "01000BDD|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Anklewrap A",
+    "string": "角色扮演蕾丝脚踝绑带A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Arms",
+    "form_id": "01000BDE|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Armwrap A",
+    "string": "角色扮演蕾丝臂套A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_BlindfoldA",
+    "form_id": "01000BDF|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Blindfold Single A",
+    "string": "角色扮演蕾丝眼罩-单层款A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_BlindfoldB",
+    "form_id": "01000BE0|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Blindfold Double A",
+    "string": "角色扮演蕾丝眼罩-双层款A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Bot",
+    "form_id": "01000BE1|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Hipwrap A",
+    "string": "角色扮演蕾丝臀部束带A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Chest",
+    "form_id": "01000BE2|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Chestwrap A",
+    "string": "角色扮演蕾丝胸部束带A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Choker",
+    "form_id": "01000BE3|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Choker A",
+    "string": "角色扮演蕾丝项圈A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_CollarA",
+    "form_id": "01000BE4|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Collar Major A",
+    "string": "角色扮演蕾丝项圈-主款A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_CollarB",
+    "form_id": "01000BE5|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Collar Minor A",
+    "string": "角色扮演蕾丝项圈-副款A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Thigh",
+    "form_id": "01000BE6|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Thighwrap A",
+    "string": "角色扮演蕾丝大腿绑带A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_VeilA",
+    "form_id": "01000BE7|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Faceveil A",
+    "string": "角色扮演蕾丝面纱A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_VeilB",
+    "form_id": "01000BE8|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Veil A",
+    "string": "角色扮演蕾丝头纱A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_VeilC",
+    "form_id": "01000BE9|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Veil Frill A",
+    "string": "角色扮演蕾丝褶边头纱A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Wrist",
+    "form_id": "01000BEA|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Wristwrap A",
+    "string": "角色扮演蕾丝腕带A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A2",
+    "form_id": "01000C2B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Long - Lace",
+    "string": "角色扮演手套-全长款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B2",
+    "form_id": "01000C2C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Long - Lace",
+    "string": "角色扮演连指手套-全长款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C2",
+    "form_id": "01000C2D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Long - Lace",
+    "string": "角色扮演护臂手套-全长款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A2_A",
+    "form_id": "01000C2E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Elbow - Lace",
+    "string": "角色扮演手套-肘长款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A2_B",
+    "form_id": "01000C2F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Wrist - Lace",
+    "string": "角色扮演手套-腕长款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A2_C",
+    "form_id": "01000C30|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Half - Lace",
+    "string": "角色扮演手套-半掌款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B2_A",
+    "form_id": "01000C31|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Elbow - Lace",
+    "string": "角色扮演连指手套-肘长款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B2_B",
+    "form_id": "01000C32|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Wrist - Lace",
+    "string": "角色扮演连指手套-腕长款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B2_C",
+    "form_id": "01000C33|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Half - Lace",
+    "string": "角色扮演连指手套-半掌款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C2_A",
+    "form_id": "01000C34|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Elbow - Lace",
+    "string": "角色扮演护臂手套-肘长款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C2_B",
+    "form_id": "01000C35|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Wrist - Lace",
+    "string": "角色扮演护臂手套-腕长款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_A2",
+    "form_id": "01000C3D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt Low - Onyx",
+    "string": "角色扮演吊袜带腰带-低腰款-玛瑙黑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_B2",
+    "form_id": "01000C3E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt High - Onyx",
+    "string": "角色扮演吊袜带腰带-高腰款-玛瑙黑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C2",
+    "form_id": "01000C3F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter - Onyx",
+    "string": "角色扮演袜圈-玛瑙黑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C2_A",
+    "form_id": "01000C40|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Overknee - Onyx",
+    "string": "角色扮演过膝袜圈-玛瑙黑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C2_B",
+    "form_id": "01000C41|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Knee - Onyx",
+    "string": "角色扮演及膝袜圈-玛瑙黑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_D2",
+    "form_id": "01000C42|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Strap - Floral",
+    "string": "角色扮演吊袜带-花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S2",
+    "form_id": "01000C43|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - Lace",
+    "string": "角色扮演长筒袜-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S2_A",
+    "form_id": "01000C44|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overknees - Lace",
+    "string": "角色扮演过膝袜-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S2_B",
+    "form_id": "01000C45|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Kneesocks - Lace",
+    "string": "角色扮演中筒袜-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S2_C",
+    "form_id": "01000C46|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Crewsocks - Lace",
+    "string": "角色扮演短袜-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S2_D",
+    "form_id": "01000C47|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Toeless - Lace",
+    "string": "角色扮演露趾袜-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SG2",
+    "form_id": "01000C48|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Suspended - Lace",
+    "string": "角色扮演吊带袜-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S2_Long",
+    "form_id": "01000C49|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - Lace",
+    "string": "角色扮演超长筒袜-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB2",
+    "form_id": "01000C4A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking - Latex",
+    "string": "角色扮演连体袜-乳胶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB2_A",
+    "form_id": "01000C4B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Sleeveless - Latex",
+    "string": "角色扮演连体袜-无袖款-乳胶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB2_B",
+    "form_id": "01000C4C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Unitard - Latex",
+    "string": "角色扮演连体袜-紧身连衣款-乳胶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB2_C",
+    "form_id": "01000C4D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Jumper - Latex",
+    "string": "角色扮演连体袜-背带款-乳胶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB2_D",
+    "form_id": "01000C4E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Leotard - Latex",
+    "string": "角色扮演连体袜-体操服款-乳胶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP2",
+    "form_id": "01000C4F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Low Denier",
+    "string": "角色扮演连裤袜-低丹尼数",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP2Lewd",
+    "form_id": "01000C50|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Low Denier (Lewd)",
+    "string": "角色扮演连裤袜-低丹尼数(情色款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP2_A",
+    "form_id": "01000C51|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Hiphigh - Low Denier",
+    "string": "角色扮演连裤袜-高腰款-低丹尼数",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP2_B",
+    "form_id": "01000C52|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Lowleg - Low Denier",
+    "string": "角色扮演连裤袜-低腰款-低丹尼数",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP2_C",
+    "form_id": "01000C53|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Reversed - Low Denier",
+    "string": "角色扮演连裤袜-反穿款-低丹尼数",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP2_D",
+    "form_id": "01000C54|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Toeless - Low Denier",
+    "string": "角色扮演连裤袜-露趾款-低丹尼数",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Bot2",
+    "form_id": "01000C55|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Hipwrap B",
+    "string": "角色扮演蕾丝臀部束带B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Chest2",
+    "form_id": "01000C56|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Chestwrap B",
+    "string": "角色扮演蕾丝胸部束带B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Choker2",
+    "form_id": "01000C57|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Choker B",
+    "string": "角色扮演蕾丝项圈B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_CollarA2",
+    "form_id": "01000C58|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Collar Major B",
+    "string": "角色扮演蕾丝项圈-主款B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_CollarB2",
+    "form_id": "01000C59|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Collar Minor B",
+    "string": "角色扮演蕾丝项圈-副款B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Thigh2",
+    "form_id": "01000C5A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Thighwrap B",
+    "string": "角色扮演蕾丝大腿绑带B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_VeilA2",
+    "form_id": "01000C5B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Faceveil B",
+    "string": "角色扮演蕾丝面纱B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_VeilB2",
+    "form_id": "01000C5C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Veil B",
+    "string": "角色扮演蕾丝头纱B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_VeilC2",
+    "form_id": "01000C5D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Veil Frill B",
+    "string": "角色扮演蕾丝褶边头纱B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Wrist2",
+    "form_id": "01000C5E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Wristwrap B",
+    "string": "角色扮演蕾丝腕带B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Ankle2",
+    "form_id": "01000C5F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Anklewrap B",
+    "string": "角色扮演蕾丝脚踝绑带B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Arms2",
+    "form_id": "01000C60|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Armwrap B",
+    "string": "角色扮演蕾丝臂套B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_BlindfoldA2",
+    "form_id": "01000C61|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Blindfold Single B",
+    "string": "角色扮演蕾丝眼罩-单层款B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_BlindfoldB2",
+    "form_id": "01000C62|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Blindfold Double B",
+    "string": "角色扮演蕾丝眼罩-双层款B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A3",
+    "form_id": "01000D02|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Long - Silky",
+    "string": "角色扮演手套-全长款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B3",
+    "form_id": "01000D03|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Long - Silky",
+    "string": "角色扮演连指手套-全长款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C3",
+    "form_id": "01000D04|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Long - Silky",
+    "string": "角色扮演护臂手套-全长款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A3_A",
+    "form_id": "01000D05|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Elbow - Silky",
+    "string": "角色扮演手套-肘长款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A3_B",
+    "form_id": "01000D06|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Wrist - Silky",
+    "string": "角色扮演手套-腕长款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A3_C",
+    "form_id": "01000D07|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Half - Silky",
+    "string": "角色扮演手套-半掌款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B3_A",
+    "form_id": "01000D08|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Elbow - Silky",
+    "string": "角色扮演连指手套-肘长款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B3_B",
+    "form_id": "01000D09|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Wrist - Silky",
+    "string": "角色扮演连指手套-腕长款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B3_C",
+    "form_id": "01000D0A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Half - Silky",
+    "string": "角色扮演连指手套-半掌款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C3_A",
+    "form_id": "01000D0B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Elbow - Silky",
+    "string": "角色扮演护臂手套-肘长款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C3_B",
+    "form_id": "01000D0C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Wrist - Silky",
+    "string": "角色扮演护臂手套-腕长款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_A3",
+    "form_id": "01000D0D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt Low - Sheer",
+    "string": "角色扮演吊袜带腰带-低腰款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_B3",
+    "form_id": "01000D0E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt High - Sheer",
+    "string": "角色扮演吊袜带腰带-高腰款-透明",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C3",
+    "form_id": "01000D0F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter - Straps",
+    "string": "角色扮演袜圈-系带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C3_A",
+    "form_id": "01000D10|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Overknee - Straps",
+    "string": "角色扮演过膝袜圈-系带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C3_B",
+    "form_id": "01000D11|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Knee - Straps",
+    "string": "角色扮演及膝袜圈-系带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_D3",
+    "form_id": "01000D12|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Strap - Straps",
+    "string": "角色扮演吊袜带-系带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S3",
+    "form_id": "01000D13|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - Silky",
+    "string": "角色扮演长筒袜-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S3_A",
+    "form_id": "01000D14|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overknees - Silky",
+    "string": "角色扮演过膝袜-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S3_B",
+    "form_id": "01000D15|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Kneesocks - Silky",
+    "string": "角色扮演中筒袜-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S3_C",
+    "form_id": "01000D16|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Crewsocks - Silky",
+    "string": "角色扮演短袜-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S3_D",
+    "form_id": "01000D17|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Toeless - Silky",
+    "string": "角色扮演露趾袜-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SG3",
+    "form_id": "01000D18|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Suspended - Silky",
+    "string": "角色扮演吊带袜-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S3_Long",
+    "form_id": "01000D19|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - Silky",
+    "string": "角色扮演超长筒袜-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB3",
+    "form_id": "01000D1A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking - Silky",
+    "string": "角色扮演连体袜-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB3_A",
+    "form_id": "01000D1B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Sleeveless - Silky",
+    "string": "角色扮演连体袜-无袖款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB3_B",
+    "form_id": "01000D1C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Unitard - Silky",
+    "string": "角色扮演连体袜-紧身连衣款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB3_C",
+    "form_id": "01000D1D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Halter - Silky",
+    "string": "角色扮演连体袜-挂脖款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB3_D",
+    "form_id": "01000D1E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Leotard - Silky",
+    "string": "角色扮演连体袜-体操服款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP3",
+    "form_id": "01000D1F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Silky",
+    "string": "角色扮演连裤袜-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP3Lewd",
+    "form_id": "01000D20|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Silky (Lewd)",
+    "string": "角色扮演连裤袜-丝滑(情色款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP3_A",
+    "form_id": "01000D21|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Hiphigh - Silky",
+    "string": "角色扮演连裤袜-高腰款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP3_B",
+    "form_id": "01000D22|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Lowleg - Silky",
+    "string": "角色扮演连裤袜-低腰款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP3_C",
+    "form_id": "01000D23|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Reversed - Silky",
+    "string": "角色扮演连裤袜-反穿款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP3_D",
+    "form_id": "01000D24|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Toeless - Silky",
+    "string": "角色扮演连裤袜-露趾款-丝滑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Bot3",
+    "form_id": "01000D25|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Hipwrap C",
+    "string": "角色扮演蕾丝臀部束带C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Chest3",
+    "form_id": "01000D26|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Chestwrap C",
+    "string": "角色扮演蕾丝胸部束带C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Choker3",
+    "form_id": "01000D27|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Choker C",
+    "string": "角色扮演蕾丝项圈C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_CollarA3",
+    "form_id": "01000D28|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Collar Major C",
+    "string": "角色扮演蕾丝项圈-主款C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_CollarB3",
+    "form_id": "01000D29|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Collar Minor C",
+    "string": "角色扮演蕾丝项圈-副款C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Thigh3",
+    "form_id": "01000D2A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Thighwrap C",
+    "string": "角色扮演蕾丝大腿绑带C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_VeilA3",
+    "form_id": "01000D2B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Faceveil C",
+    "string": "角色扮演蕾丝面纱C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_VeilB3",
+    "form_id": "01000D2C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Veil C",
+    "string": "角色扮演蕾丝头纱C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_VeilC3",
+    "form_id": "01000D2D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Veil Frill C",
+    "string": "角色扮演蕾丝褶边头纱C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Wrist3",
+    "form_id": "01000D2E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Wristwrap C",
+    "string": "角色扮演蕾丝腕带C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Ankle3",
+    "form_id": "01000D2F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Anklewrap C",
+    "string": "角色扮演蕾丝脚踝绑带C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Arms3",
+    "form_id": "01000D30|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Armwrap C",
+    "string": "角色扮演蕾丝臂套C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_BlindfoldA3",
+    "form_id": "01000D31|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Blindfold Single C",
+    "string": "角色扮演蕾丝眼罩-单层款C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_BlindfoldB3",
+    "form_id": "01000D32|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Blindfold Double C",
+    "string": "角色扮演蕾丝眼罩-双层款C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A4",
+    "form_id": "01000D64|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Long - Fishnet",
+    "string": "角色扮演手套-全长款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B4",
+    "form_id": "01000D65|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Long - Fishnet",
+    "string": "角色扮演连指手套-全长款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C4",
+    "form_id": "01000D66|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Long - Fishnet",
+    "string": "角色扮演护臂手套-全长款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A4_A",
+    "form_id": "01000D67|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Elbow - Fishnet",
+    "string": "角色扮演手套-肘长款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A4_B",
+    "form_id": "01000D68|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Wrist - Fishnet",
+    "string": "角色扮演手套-腕长款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A4_C",
+    "form_id": "01000D69|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Half - Fishnet",
+    "string": "角色扮演手套-半掌款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B4_A",
+    "form_id": "01000D6A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Elbow - Fishnet",
+    "string": "角色扮演连指手套-肘长款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B4_B",
+    "form_id": "01000D6B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Wrist - Fishnet",
+    "string": "角色扮演连指手套-腕长款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B4_C",
+    "form_id": "01000D6C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Half - Fishnet",
+    "string": "角色扮演连指手套-半掌款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C4_A",
+    "form_id": "01000D6D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Elbow - Fishnet",
+    "string": "角色扮演护臂手套-肘长款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C4_B",
+    "form_id": "01000D6E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Wrist - Fishnet",
+    "string": "角色扮演护臂手套-腕长款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_A4",
+    "form_id": "01000D6F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt Low - White Lace",
+    "string": "角色扮演吊袜带腰带-低腰款-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_B4",
+    "form_id": "01000D70|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt High - White Lace",
+    "string": "角色扮演吊袜带腰带-高腰款-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C4",
+    "form_id": "01000D71|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter - White Lace",
+    "string": "角色扮演袜圈-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C4_A",
+    "form_id": "01000D72|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Overknee - White Lace",
+    "string": "角色扮演过膝袜圈-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C4_B",
+    "form_id": "01000D73|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Knee - White Straps",
+    "string": "角色扮演及膝袜圈-白色系带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_D4",
+    "form_id": "01000D74|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Strap - White Lace",
+    "string": "角色扮演吊袜带-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S4",
+    "form_id": "01000D75|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - Fishnet",
+    "string": "角色扮演长筒袜-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S4_A",
+    "form_id": "01000D76|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overknees - Fishnet",
+    "string": "角色扮演过膝袜-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S4_B",
+    "form_id": "01000D77|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Kneesocks - Fishnet",
+    "string": "角色扮演中筒袜-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S4_C",
+    "form_id": "01000D78|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Crewsocks - Fishnet",
+    "string": "角色扮演短袜-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S4_D",
+    "form_id": "01000D79|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Toeless - Fishnet",
+    "string": "角色扮演露趾袜-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SG4",
+    "form_id": "01000D7A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Suspended - Fishnet",
+    "string": "角色扮演吊带袜-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S4_Long",
+    "form_id": "01000D7B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - Fishnet",
+    "string": "角色扮演超长筒袜-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB4",
+    "form_id": "01000D7C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking - Fishnet",
+    "string": "角色扮演连体袜-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB4_A",
+    "form_id": "01000D7D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Sleeveless - Fishnet",
+    "string": "角色扮演连体袜-无袖款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB4_B",
+    "form_id": "01000D7E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Unitard - Fishnet",
+    "string": "角色扮演连体袜-紧身连衣款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB4_C",
+    "form_id": "01000D7F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Halter - Fishnet",
+    "string": "角色扮演连体袜-挂脖款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB4_D",
+    "form_id": "01000D80|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Leotard - Fishnet",
+    "string": "角色扮演连体袜-体操服款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP4",
+    "form_id": "01000D81|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Fishnet",
+    "string": "角色扮演连裤袜-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP4Lewd",
+    "form_id": "01000D82|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Fishnet (Lewd)",
+    "string": "角色扮演连裤袜-网眼(情色款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP4_A",
+    "form_id": "01000D83|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Hiphigh - Fishnet",
+    "string": "角色扮演连裤袜-高腰款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP4_B",
+    "form_id": "01000D84|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Lowleg - Fishnet",
+    "string": "角色扮演连裤袜-低腰款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP4_C",
+    "form_id": "01000D85|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Reversed - Fishnet",
+    "string": "角色扮演连裤袜-反穿款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP4_D",
+    "form_id": "01000D86|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Toeless - Fishnet",
+    "string": "角色扮演连裤袜-露趾款-网眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Bot4",
+    "form_id": "01000D87|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Hipwrap D",
+    "string": "角色扮演蕾丝臀部束带D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Chest4",
+    "form_id": "01000D88|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Chestwrap D",
+    "string": "角色扮演蕾丝胸部束带D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Choker4",
+    "form_id": "01000D89|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Choker D",
+    "string": "角色扮演蕾丝项圈D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_CollarA4",
+    "form_id": "01000D8A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Collar Major D",
+    "string": "角色扮演蕾丝项圈-主款D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_CollarB4",
+    "form_id": "01000D8B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Collar Minor D",
+    "string": "角色扮演蕾丝项圈-副款D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Thigh4",
+    "form_id": "01000D8C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Thighwrap D",
+    "string": "角色扮演蕾丝大腿绑带D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_VeilA4",
+    "form_id": "01000D8D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Faceveil D",
+    "string": "角色扮演蕾丝面纱D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_VeilB4",
+    "form_id": "01000D8E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Veil D",
+    "string": "角色扮演蕾丝头纱D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_VeilC4",
+    "form_id": "01000D8F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Veil Frill D",
+    "string": "角色扮演蕾丝褶边头纱D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Wrist4",
+    "form_id": "01000D90|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Wristwrap D",
+    "string": "角色扮演蕾丝腕带D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Ankle4",
+    "form_id": "01000D91|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Anklewrap D",
+    "string": "角色扮演蕾丝脚踝绑带D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_Arms4",
+    "form_id": "01000D92|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Armwrap D",
+    "string": "角色扮演蕾丝臂套D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_BlindfoldA4",
+    "form_id": "01000D93|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Blindfold Single D",
+    "string": "角色扮演蕾丝眼罩-单层款D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_BlindfoldB4",
+    "form_id": "01000D94|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Blindfold Double D",
+    "string": "角色扮演蕾丝眼罩-双层款D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A5",
+    "form_id": "01000DB8|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Long - White Lace",
+    "string": "角色扮演手套-全长款-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B5",
+    "form_id": "01000DB9|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Long - White Lace",
+    "string": "角色扮演连指手套-全长款-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C5",
+    "form_id": "01000DBA|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Long - White Lace",
+    "string": "角色扮演护臂手套-全长款-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A5_A",
+    "form_id": "01000DBB|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Elbow - White Lace",
+    "string": "角色扮演手套-肘长款-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A5_B",
+    "form_id": "01000DBC|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Wrist - White Lace",
+    "string": "角色扮演手套-腕长款-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A5_C",
+    "form_id": "01000DBD|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Half - White Lace",
+    "string": "角色扮演手套-半掌款-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B5_A",
+    "form_id": "01000DBE|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Elbow - White Lace",
+    "string": "角色扮演连指手套-肘长款-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B5_B",
+    "form_id": "01000DBF|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Wrist - White Lace",
+    "string": "角色扮演连指手套-腕长款-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B5_C",
+    "form_id": "01000DC0|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Half - White Lace",
+    "string": "角色扮演连指手套-半掌款-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C5_A",
+    "form_id": "01000DC1|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Elbow - White Lace",
+    "string": "角色扮演护臂手套-肘长款-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C5_B",
+    "form_id": "01000DC2|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Wrist - White Lace",
+    "string": "角色扮演护臂手套-腕长款-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_A5",
+    "form_id": "01000DC3|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt Low - White Floral",
+    "string": "角色扮演吊袜带腰带-低腰款-白色花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_B5",
+    "form_id": "01000DC4|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt High - White Floral",
+    "string": "角色扮演吊袜带腰带-高腰款-白色花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C5",
+    "form_id": "01000DC5|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter - White Floral",
+    "string": "角色扮演袜圈-白色花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C5_A",
+    "form_id": "01000DC6|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Overknee - White Floral",
+    "string": "角色扮演过膝袜圈-白色花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_C5_B",
+    "form_id": "01000DC7|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Knee - White Floral",
+    "string": "角色扮演及膝袜圈-白色花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_D5",
+    "form_id": "01000DC8|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garter Strap - White Floral",
+    "string": "角色扮演吊袜带-白色花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S5",
+    "form_id": "01000DC9|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - White Lace",
+    "string": "角色扮演长筒袜-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S5_A",
+    "form_id": "01000DCA|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overknees - White Lace",
+    "string": "角色扮演过膝袜-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S5_B",
+    "form_id": "01000DCB|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Kneesocks - White Lace",
+    "string": "角色扮演中筒袜-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S5_C",
+    "form_id": "01000DCC|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Crewsocks - White Lace",
+    "string": "角色扮演短袜-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S5_D",
+    "form_id": "01000DCD|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Toeless - White Lace",
+    "string": "角色扮演露趾袜-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SG5",
+    "form_id": "01000DCE|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Suspended - White Lace",
+    "string": "角色扮演吊带袜-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S5_Long",
+    "form_id": "01000DCF|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - White Lace",
+    "string": "角色扮演超长筒袜-白色蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB5",
+    "form_id": "01000DD0|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking - Lace",
+    "string": "角色扮演连体袜-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB5_A",
+    "form_id": "01000DD1|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Halter - Lace",
+    "string": "角色扮演连体袜-挂脖款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP5",
+    "form_id": "01000DD2|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - High Denier",
+    "string": "角色扮演连裤袜-高丹尼数",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP5Lewd",
+    "form_id": "01000DD3|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - High Denier (Lewd)",
+    "string": "角色扮演连裤袜-高丹尼数(情色款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP5_A",
+    "form_id": "01000DD4|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Hiphigh - High Denier",
+    "string": "角色扮演连裤袜-高腰款-高丹尼数",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP5_B",
+    "form_id": "01000DD5|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Lowleg - High Denier",
+    "string": "角色扮演连裤袜-低腰款-高丹尼数",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP5_C",
+    "form_id": "01000DD6|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Reversed - High Denier",
+    "string": "角色扮演连裤袜-反穿款-高丹尼数",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP5_D",
+    "form_id": "01000DD7|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Toeless - High Denier",
+    "string": "角色扮演连裤袜-露趾款-高丹尼数",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A6",
+    "form_id": "01000DF0|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Long - Black Leather",
+    "string": "角色扮演手套-全长款-黑色皮革",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B6",
+    "form_id": "01000DF1|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Long - Black Cotton",
+    "string": "角色扮演连指手套-全长款-黑色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C6",
+    "form_id": "01000DF2|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Long - Black Silk",
+    "string": "角色扮演护臂手套-全长款-黑色丝绸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A6_A",
+    "form_id": "01000DF3|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Elbow - Black Leather",
+    "string": "角色扮演手套-肘长款-黑色皮革",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A6_B",
+    "form_id": "01000DF4|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Wrist - Black Leather",
+    "string": "角色扮演手套-腕长款-黑色皮革",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A6_C",
+    "form_id": "01000DF5|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Half - Black Leather",
+    "string": "角色扮演手套-半掌款-黑色皮革",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B6_A",
+    "form_id": "01000DF6|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Elbow - Black Cotton",
+    "string": "角色扮演连指手套-肘长款-黑色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B6_B",
+    "form_id": "01000DF7|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Wrist - Black Cotton",
+    "string": "角色扮演连指手套-腕长款-黑色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B6_C",
+    "form_id": "01000DF8|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Half - Black Cotton",
+    "string": "角色扮演连指手套-半掌款-黑色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C6_A",
+    "form_id": "01000DF9|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Elbow - Black Silk",
+    "string": "角色扮演护臂手套-肘长款-黑色丝绸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C6_B",
+    "form_id": "01000DFA|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Wrist - Black Silk",
+    "string": "角色扮演护臂手套-腕长款-黑色丝绸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S6",
+    "form_id": "01000DFB|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - Black Cotton",
+    "string": "角色扮演长筒袜-黑色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S6_A",
+    "form_id": "01000DFC|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overknees - Black Cotton",
+    "string": "角色扮演过膝袜-黑色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S6_B",
+    "form_id": "01000DFD|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Kneesocks - Black Cotton",
+    "string": "角色扮演中筒袜-黑色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S6_C",
+    "form_id": "01000DFE|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Crewsocks - Black Cotton",
+    "string": "角色扮演短袜-黑色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S6_D",
+    "form_id": "01000DFF|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Toeless - Black Cotton",
+    "string": "角色扮演露趾袜-黑色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SG6",
+    "form_id": "01000E00|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Suspended - Stripe",
+    "string": "角色扮演吊带袜-条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S6_Long",
+    "form_id": "01000E01|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - Black Cotton",
+    "string": "角色扮演超长筒袜-黑色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP6",
+    "form_id": "01000E02|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Mesh",
+    "string": "角色扮演连裤袜-网纱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP6Lewd",
+    "form_id": "01000E03|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Mesh (Lewd)",
+    "string": "角色扮演连裤袜-网纱(情色款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP6_A",
+    "form_id": "01000E04|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Hiphigh - Mesh",
+    "string": "角色扮演连裤袜-高腰款-网纱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP6_B",
+    "form_id": "01000E05|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Lowleg - Mesh",
+    "string": "角色扮演连裤袜-低腰款-网纱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP6_C",
+    "form_id": "01000E06|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Reversed - Mesh",
+    "string": "角色扮演连裤袜-反穿款-网纱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP6_D",
+    "form_id": "01000E07|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Toeless - Mesh",
+    "string": "角色扮演连裤袜-露趾款-网纱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A7",
+    "form_id": "01000E1F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Long - White Cotton",
+    "string": "角色扮演手套-全长款-白色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B7",
+    "form_id": "01000E20|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Long - Floral",
+    "string": "角色扮演连指手套-全长款-花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C7",
+    "form_id": "01000E21|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Long - Bridal",
+    "string": "角色扮演护臂手套-全长款-新娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A7_A",
+    "form_id": "01000E22|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Elbow - White Cotton",
+    "string": "角色扮演手套-肘长款-白色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A7_B",
+    "form_id": "01000E23|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Wrist - White Cotton",
+    "string": "角色扮演手套-腕长款-白色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A7_C",
+    "form_id": "01000E24|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Half - White Cotton",
+    "string": "角色扮演手套-半掌款-白色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B7_A",
+    "form_id": "01000E25|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Elbow - Floral",
+    "string": "角色扮演连指手套-肘长款-花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B7_B",
+    "form_id": "01000E26|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Wrist - Floral",
+    "string": "角色扮演连指手套-腕长款-花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B7_C",
+    "form_id": "01000E27|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Half - Floral",
+    "string": "角色扮演连指手套-半掌款-花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C7_A",
+    "form_id": "01000E28|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Elbow - Bridal",
+    "string": "角色扮演护臂手套-肘长款-新娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C7_B",
+    "form_id": "01000E29|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Wrist - Bridal",
+    "string": "角色扮演护臂手套-腕长款-新娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S7",
+    "form_id": "01000E2A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - White Cotton",
+    "string": "角色扮演长筒袜-白色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S7_A",
+    "form_id": "01000E2B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overknees - White Cotton",
+    "string": "角色扮演过膝袜-白色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S7_B",
+    "form_id": "01000E2C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Kneesocks - White Cotton",
+    "string": "角色扮演中筒袜-白色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S7_C",
+    "form_id": "01000E2D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Crewsocks - White Cotton",
+    "string": "角色扮演短袜-白色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S7_D",
+    "form_id": "01000E2E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Toeless - White Cotton",
+    "string": "角色扮演露趾袜-白色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S7_Long",
+    "form_id": "01000E2F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - White Cotton",
+    "string": "角色扮演超长筒袜-白色棉质",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP7",
+    "form_id": "01000E30|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Yoga",
+    "string": "角色扮演连裤袜-瑜伽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP7Lewd",
+    "form_id": "01000E31|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Yoga (Lewd)",
+    "string": "角色扮演连裤袜-瑜伽(情色款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP7_A",
+    "form_id": "01000E32|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Hiphigh - Yoga",
+    "string": "角色扮演连裤袜-瑜伽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP7_B",
+    "form_id": "01000E33|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Lowleg - Yoga",
+    "string": "角色扮演连裤袜-瑜伽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP7_C",
+    "form_id": "01000E34|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose Reversed - Yoga",
+    "string": "角色扮演连裤袜-瑜伽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A8",
+    "form_id": "01000E46|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Long - YorHa",
+    "string": "角色扮演手套-全长款-寄叶部队",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B8",
+    "form_id": "01000E47|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Long - Stripe",
+    "string": "角色扮演连指手套-全长款-条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C8",
+    "form_id": "01000E48|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Long - Faraday",
+    "string": "角色扮演护臂手套-全长款-法拉第",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A8_A",
+    "form_id": "01000E49|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Elbow - YorHa",
+    "string": "角色扮演手套-肘长款-寄叶部队",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A8_B",
+    "form_id": "01000E4A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Wrist - YorHa",
+    "string": "角色扮演手套-腕长款-寄叶部队",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A8_C",
+    "form_id": "01000E4B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Half - YorHa",
+    "string": "角色扮演手套-半掌款-寄叶部队",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B8_A",
+    "form_id": "01000E4C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Elbow - Stripe",
+    "string": "角色扮演连指手套-肘长款-条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B8_B",
+    "form_id": "01000E4D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Wrist - Stripe",
+    "string": "角色扮演连指手套-腕长款-条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B8_C",
+    "form_id": "01000E4E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Half - Stripe",
+    "string": "角色扮演连指手套-半掌款-条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C8_A",
+    "form_id": "01000E4F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Elbow - Faraday",
+    "string": "角色扮演护臂手套-肘长款-法拉第",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C8_B",
+    "form_id": "01000E50|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Wrist - Faraday",
+    "string": "角色扮演护臂手套-腕长款-法拉第",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S8",
+    "form_id": "01000E51|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - Stripe",
+    "string": "角色扮演长筒袜-条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S8_A",
+    "form_id": "01000E52|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overknees - Stripe",
+    "string": "角色扮演过膝袜-条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S8_B",
+    "form_id": "01000E53|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Kneesocks - Stripe",
+    "string": "角色扮演中筒袜-条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S8_C",
+    "form_id": "01000E54|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Crewsocks - Stripe",
+    "string": "角色扮演短袜-条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S8_D",
+    "form_id": "01000E55|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Toeless - Stripe",
+    "string": "角色扮演露趾袜-条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S8_Long",
+    "form_id": "01000E56|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - Stripe",
+    "string": "角色扮演超长筒袜-条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails2",
+    "form_id": "01000EAB|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Crimson",
+    "string": "角色扮演美甲-绯红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails2_A",
+    "form_id": "01000EAC|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Red Cormet",
+    "string": "角色扮演美甲-红宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails2_B",
+    "form_id": "01000EAD|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Strawberry",
+    "string": "角色扮演美甲-草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails2_C",
+    "form_id": "01000EAE|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Ruby",
+    "string": "角色扮演美甲-红宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes2",
+    "form_id": "01000EAF|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Crimson",
+    "string": "角色扮演脚趾美甲-绯红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes2_A",
+    "form_id": "01000EB0|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Red Cormet",
+    "string": "角色扮演脚趾美甲-红宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes2_B",
+    "form_id": "01000EB1|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Strawberry",
+    "string": "角色扮演脚趾美甲-草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes2_C",
+    "form_id": "01000EB2|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Ruby",
+    "string": "角色扮演脚趾美甲-红宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails3",
+    "form_id": "01000EB3|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Pale",
+    "string": "角色扮演美甲-淡雅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails3_A",
+    "form_id": "01000EB4|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Garnet Snow",
+    "string": "角色扮演美甲-石榴石雪",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails3_B",
+    "form_id": "01000EB5|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Marble",
+    "string": "角色扮演美甲-大理石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails3_C",
+    "form_id": "01000EB6|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Zebra",
+    "string": "角色扮演美甲-斑马纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes3",
+    "form_id": "01000EB7|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Pale",
+    "string": "角色扮演脚趾美甲-淡雅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes3_A",
+    "form_id": "01000EB8|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Garnet Snow",
+    "string": "角色扮演脚趾美甲-石榴石雪",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes3_B",
+    "form_id": "01000EB9|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Marble",
+    "string": "角色扮演脚趾美甲-大理石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes3_C",
+    "form_id": "01000EBA|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Zebra",
+    "string": "角色扮演脚趾美甲-斑马纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails4",
+    "form_id": "01000EBB|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Baleful",
+    "string": "角色扮演美甲-凶煞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails4_A",
+    "form_id": "01000EBC|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Bloody",
+    "string": "角色扮演美甲-血腥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails4_B",
+    "form_id": "01000EBD|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Occult",
+    "string": "角色扮演美甲-秘术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails4_C",
+    "form_id": "01000EBE|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Skull Princess",
+    "string": "角色扮演美甲-骷髅公主",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes4",
+    "form_id": "01000EBF|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Baleful",
+    "string": "角色扮演脚趾美甲-凶煞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes4_A",
+    "form_id": "01000EC0|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Bloody",
+    "string": "角色扮演脚趾美甲-血腥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes4_B",
+    "form_id": "01000EC1|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Occult",
+    "string": "角色扮演脚趾美甲-秘术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes4_C",
+    "form_id": "01000EC2|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Skull Princess",
+    "string": "角色扮演脚趾美甲-骷髅公主",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails5",
+    "form_id": "01000EC3|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Cherry",
+    "string": "角色扮演美甲-樱桃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails5_A",
+    "form_id": "01000EC4|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Party",
+    "string": "角色扮演美甲-派对",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails5_B",
+    "form_id": "01000EC5|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Sunset",
+    "string": "角色扮演美甲-日落",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails5_C",
+    "form_id": "01000EC6|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Dreamcore",
+    "string": "角色扮演美甲-梦核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes5",
+    "form_id": "01000EC7|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Cherry",
+    "string": "角色扮演脚趾美甲-樱桃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes5_A",
+    "form_id": "01000EC8|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Party",
+    "string": "角色扮演脚趾美甲-派对",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes5_B",
+    "form_id": "01000EC9|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Sunset",
+    "string": "角色扮演脚趾美甲-日落",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes5_C",
+    "form_id": "01000ECA|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Dreamcore",
+    "string": "角色扮演脚趾美甲-梦核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails6",
+    "form_id": "01000ECB|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Bluesky",
+    "string": "角色扮演美甲-蓝天",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails6_A",
+    "form_id": "01000ECC|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Starry",
+    "string": "角色扮演美甲-星空",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails6_B",
+    "form_id": "01000ECD|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Frosty",
+    "string": "角色扮演美甲-冰霜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails6_C",
+    "form_id": "01000ECE|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Nacre",
+    "string": "角色扮演美甲-珍珠母",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes6",
+    "form_id": "01000ECF|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Bluesky",
+    "string": "角色扮演脚趾美甲-蓝天",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes6_A",
+    "form_id": "01000ED0|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Starry",
+    "string": "角色扮演脚趾美甲-星空",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes6_B",
+    "form_id": "01000ED1|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Frosty",
+    "string": "角色扮演脚趾美甲-冰霜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes6_C",
+    "form_id": "01000ED2|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Nacre",
+    "string": "角色扮演脚趾美甲-珍珠母",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails7",
+    "form_id": "01000ED3|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Turquoise",
+    "string": "角色扮演美甲-绿松石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails7_A",
+    "form_id": "01000ED4|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Sweet Wind",
+    "string": "角色扮演美甲-和风",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails7_B",
+    "form_id": "01000ED5|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Spring",
+    "string": "角色扮演美甲-春天",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails7_C",
+    "form_id": "01000ED6|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Magic Dust",
+    "string": "角色扮演美甲-魔法星尘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes7",
+    "form_id": "01000ED7|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Turquoise",
+    "string": "角色扮演脚趾美甲-绿松石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes7_A",
+    "form_id": "01000ED8|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Sweet Wind",
+    "string": "角色扮演脚趾美甲-和风",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes7_B",
+    "form_id": "01000ED9|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Spring",
+    "string": "角色扮演脚趾美甲-春天",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes7_C",
+    "form_id": "01000EDA|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Magic Dust",
+    "string": "角色扮演脚趾美甲-魔法星尘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails8",
+    "form_id": "01000EDB|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Golden",
+    "string": "角色扮演美甲-鎏金",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails8_A",
+    "form_id": "01000EDC|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Treasure",
+    "string": "角色扮演美甲-宝藏",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails8_B",
+    "form_id": "01000EDD|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Leopard",
+    "string": "角色扮演美甲-豹纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails8_C",
+    "form_id": "01000EDE|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Sandy",
+    "string": "角色扮演美甲-沙砾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes8",
+    "form_id": "01000EDF|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Golden",
+    "string": "角色扮演脚趾美甲-鎏金",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes8_A",
+    "form_id": "01000EE0|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Treasure",
+    "string": "角色扮演脚趾美甲-宝藏",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes8_B",
+    "form_id": "01000EE1|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Leopard",
+    "string": "角色扮演脚趾美甲-豹纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes8_C",
+    "form_id": "01000EE2|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Sandy",
+    "string": "角色扮演脚趾美甲-沙砾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP7",
+    "form_id": "01000EE9|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Spade",
+    "string": "角色扮演私密贴-阴部-黑桃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP8",
+    "form_id": "01000EEA|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Kiss",
+    "string": "角色扮演私密贴-阴部-唇印",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN7",
+    "form_id": "01000EEB|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Spade",
+    "string": "角色扮演乳头贴-黑桃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN8",
+    "form_id": "01000EEC|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Kiss",
+    "string": "角色扮演乳头贴-唇印",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_ChestB",
+    "form_id": "01000EF5|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Waistwrap A",
+    "string": "角色扮演蕾丝腰带A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_ChestB2",
+    "form_id": "01000EF6|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Waistwrap B",
+    "string": "角色扮演蕾丝腰带B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_ChestB3",
+    "form_id": "01000EF7|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Waistwrap C",
+    "string": "角色扮演蕾丝腰带C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPL_ChestB4",
+    "form_id": "01000EF8|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Lacework Waistwrap D",
+    "string": "角色扮演蕾丝腰带D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_A6",
+    "form_id": "01000EFC|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt Low - Floral",
+    "string": "角色扮演吊袜带腰带-低腰款-花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_B6",
+    "form_id": "01000EFD|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt High - Floral",
+    "string": "角色扮演吊袜带腰带-高腰款-花卉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_A7",
+    "form_id": "01000F01|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt Low - Strap",
+    "string": "角色扮演吊袜带腰带-低腰款-系带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_GA_B7",
+    "form_id": "01000F02|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Garterbelt High - Strap",
+    "string": "角色扮演吊袜带腰带-高腰款-系带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB5_B",
+    "form_id": "01000F07|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Leotard - Lace",
+    "string": "角色扮演连体袜-体操服款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB5_C",
+    "form_id": "01000F08|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking Jumper - Lace",
+    "string": "角色扮演连体袜-背带款-蕾丝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PNLewd",
+    "form_id": "01000F19|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Heart (Peeled)",
+    "string": "角色扮演乳头贴-心形(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN2Lewd",
+    "form_id": "01000F1A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Tape (Peeled)",
+    "string": "角色扮演乳头贴-胶带(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN3Lewd",
+    "form_id": "01000F1B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Golden Star (Peeled)",
+    "string": "角色扮演乳头贴-金星(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN4Lewd",
+    "form_id": "01000F1C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Silicone (Peeled)",
+    "string": "角色扮演乳头贴-硅胶(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN5Lewd",
+    "form_id": "01000F1D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Band Aid (Peeled)",
+    "string": "角色扮演乳头贴-创可贴(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN6Lewd",
+    "form_id": "01000F1E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Applique (Peeled)",
+    "string": "角色扮演乳头贴-贴花(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN7Lewd",
+    "form_id": "01000F1F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Spade (Peeled)",
+    "string": "角色扮演乳头贴-黑桃(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PN8Lewd",
+    "form_id": "01000F20|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Nipple - Kiss (Peeled)",
+    "string": "角色扮演乳头贴-唇印(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP6Lewd",
+    "form_id": "01000F21|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Applique (Peeled)",
+    "string": "角色扮演私密贴-阴部-贴花(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP5Lewd",
+    "form_id": "01000F22|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Band Aid (Peeled)",
+    "string": "角色扮演私密贴-阴部-创可贴(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP3Lewd",
+    "form_id": "01000F23|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Golden Star (Peeled)",
+    "string": "角色扮演私密贴-阴部-金星(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PPLewd",
+    "form_id": "01000F24|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Heart (Peeled)",
+    "string": "角色扮演私密贴-阴部-心形(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP8Lewd",
+    "form_id": "01000F25|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Kiss (Peeled)",
+    "string": "角色扮演私密贴-阴部-唇印(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP4Lewd",
+    "form_id": "01000F26|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Silicone (Peeled)",
+    "string": "角色扮演私密贴-阴部-硅胶(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP7Lewd",
+    "form_id": "01000F27|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Spade (Peeled)",
+    "string": "角色扮演私密贴-阴部-黑桃(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_PP2Lewd",
+    "form_id": "01000F28|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pasties Pussy - Tape (Peeled)",
+    "string": "角色扮演私密贴-阴部-胶带(剥落款)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP2_Torn",
+    "form_id": "01000F37|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Low Denier (Torn)",
+    "string": "角色扮演连裤袜-低丹尼数(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP3_Torn",
+    "form_id": "01000F38|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Silky (Torn)",
+    "string": "角色扮演连裤袜-丝滑(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP4_Torn",
+    "form_id": "01000F39|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Fishnet (Torn)",
+    "string": "角色扮演连裤袜-网眼(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP5_Torn",
+    "form_id": "01000F3A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - High Denier (Torn)",
+    "string": "角色扮演连裤袜-高丹尼数(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP6_Torn",
+    "form_id": "01000F3B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Mesh (Torn)",
+    "string": "角色扮演连裤袜-网纱(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP7_Torn",
+    "form_id": "01000F3C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Yoga (Torn)",
+    "string": "角色扮演连裤袜-瑜伽(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SP_Torn",
+    "form_id": "01000F3D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Pantyhose - Sheer (Torn)",
+    "string": "角色扮演连裤袜-透明(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S_Torn",
+    "form_id": "01000F62|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - Sheer (Torn)",
+    "string": "角色扮演长筒袜-透明(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S_Long_Torn",
+    "form_id": "01000F63|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - Sheer (Torn)",
+    "string": "角色扮演超长筒袜-透明(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S2_Torn",
+    "form_id": "01000F64|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - Lace (Torn)",
+    "string": "角色扮演长筒袜-蕾丝(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S2_Long_Torn",
+    "form_id": "01000F65|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - Lace (Torn)",
+    "string": "角色扮演超长筒袜-蕾丝(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S3_Torn",
+    "form_id": "01000F66|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - Silky (Torn)",
+    "string": "角色扮演长筒袜-丝滑(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S3_Long_Torn",
+    "form_id": "01000F67|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - Silky (Torn)",
+    "string": "角色扮演超长筒袜-丝滑(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S4_Torn",
+    "form_id": "01000F68|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - Fishnet (Torn)",
+    "string": "角色扮演长筒袜-网眼(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S4_Long_Torn",
+    "form_id": "01000F69|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - Fishnet (Torn)",
+    "string": "角色扮演超长筒袜-网眼(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S5_Torn",
+    "form_id": "01000F6A|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - White Lace (Torn)",
+    "string": "角色扮演长筒袜-白色蕾丝(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S5_Long_Torn",
+    "form_id": "01000F6B|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - White Lace (Torn)",
+    "string": "角色扮演超长筒袜-白色蕾丝(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S6_Torn",
+    "form_id": "01000F6C|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - Black Cotton (Torn)",
+    "string": "角色扮演长筒袜-黑色棉质(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S6_Long_Torn",
+    "form_id": "01000F6D|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - Black Cotton (Torn)",
+    "string": "角色扮演超长筒袜-黑色棉质(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S7_Torn",
+    "form_id": "01000F6E|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - White Cotton (Torn)",
+    "string": "角色扮演长筒袜-白色棉质(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S7_Long_Torn",
+    "form_id": "01000F6F|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - White Cotton (Torn)",
+    "string": "角色扮演超长筒袜-白色棉质(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S8_Torn",
+    "form_id": "01000F70|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Thighhighs - Stripe (Torn)",
+    "string": "角色扮演长筒袜-条纹(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_S8_Long_Torn",
+    "form_id": "01000F71|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Overthighs - Stripe (Torn)",
+    "string": "角色扮演超长筒袜-条纹(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SG_Torn",
+    "form_id": "01000F72|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Suspended - Sheer (Torn)",
+    "string": "角色扮演吊带袜-透明(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SG2_Torn",
+    "form_id": "01000F73|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Suspended - Lace (Torn)",
+    "string": "角色扮演吊带袜-蕾丝(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SG3_Torn",
+    "form_id": "01000F74|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Suspended - Silky (Torn)",
+    "string": "角色扮演吊带袜-丝滑(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SG4_Torn",
+    "form_id": "01000F75|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Suspended - Fishnet (Torn)",
+    "string": "角色扮演吊带袜-网眼(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SG5_Torn",
+    "form_id": "01000F76|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Suspended - White Lace (Torn)",
+    "string": "角色扮演吊带袜-白色蕾丝(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SG6_Torn",
+    "form_id": "01000F77|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Stocking Suspended - Stripe (Torn)",
+    "string": "角色扮演吊带袜-条纹(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_TT2",
+    "form_id": "01000F79|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Overlay - Cinder",
+    "string": "角色扮演纹身-灰烬",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A2_Torn",
+    "form_id": "01000FA2|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Long - Lace (Torn)",
+    "string": "角色扮演手套-全长款-蕾丝(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A3_Torn",
+    "form_id": "01000FA3|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Long - Silky (Torn)",
+    "string": "角色扮演手套-全长款-丝滑(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A4_Torn",
+    "form_id": "01000FA4|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Long - Fishnet (Torn)",
+    "string": "角色扮演手套-全长款-网眼(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A5_Torn",
+    "form_id": "01000FA5|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Long - White Lace (Torn)",
+    "string": "角色扮演手套-全长款-白色蕾丝(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_A_Torn",
+    "form_id": "01000FA6|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Full Long - Sheer (Torn)",
+    "string": "角色扮演手套-全长款-透明(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B2_Torn",
+    "form_id": "01000FA7|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Long - Lace (Torn)",
+    "string": "角色扮演连指手套-全长款-蕾丝(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B3_Torn",
+    "form_id": "01000FA8|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Long - Silky (Torn)",
+    "string": "角色扮演连指手套-全长款-丝滑(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B4_Torn",
+    "form_id": "01000FA9|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Long - Fishnet (Torn)",
+    "string": "角色扮演连指手套-全长款-网眼(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B5_Torn",
+    "form_id": "01000FAA|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Long - White Lace (Torn)",
+    "string": "角色扮演连指手套-全长款-白色蕾丝(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_B_Torn",
+    "form_id": "01000FAB|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Mitt Long - Sheer (Torn)",
+    "string": "角色扮演连指手套-全长款-透明(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C2_Torn",
+    "form_id": "01000FAC|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Long - Lace (Torn)",
+    "string": "角色扮演护臂手套-全长款-蕾丝(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C3_Torn",
+    "form_id": "01000FAD|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Long - Silky (Torn)",
+    "string": "角色扮演护臂手套-全长款-丝滑(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C4_Torn",
+    "form_id": "01000FAE|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Long - Fishnet (Torn)",
+    "string": "角色扮演护臂手套-全长款-网眼(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C5_Torn",
+    "form_id": "01000FAF|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Long - White Lace (Torn)",
+    "string": "角色扮演护臂手套-全长款-白色蕾丝(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_G_C_Torn",
+    "form_id": "01000FB0|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gloves Gauntlet Long - Sheer (Torn)",
+    "string": "角色扮演护臂手套-全长款-透明(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails2_D",
+    "form_id": "01000FB1|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Rose",
+    "string": "角色扮演美甲-玫瑰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails3_D",
+    "form_id": "01000FB2|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Athen",
+    "string": "角色扮演美甲-雅典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails4_D",
+    "form_id": "01000FB3|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Tekst",
+    "string": "角色扮演美甲-文字",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails5_D",
+    "form_id": "01000FB4|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Blossom",
+    "string": "角色扮演美甲-绽放",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes2_D",
+    "form_id": "01000FB5|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Rose",
+    "string": "角色扮演脚趾美甲-玫瑰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes3_D",
+    "form_id": "01000FB6|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Athen",
+    "string": "角色扮演脚趾美甲-雅典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes4_D",
+    "form_id": "01000FB7|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Tekst",
+    "string": "角色扮演脚趾美甲-文字",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes5_D",
+    "form_id": "01000FB8|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Blossom",
+    "string": "角色扮演脚趾美甲-绽放",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_NailsToes_D",
+    "form_id": "01000FB9|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails Toe - Gleam",
+    "string": "角色扮演脚趾美甲-闪耀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_Nails_D",
+    "form_id": "01000FBA|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Nails - Gleam",
+    "string": "角色扮演美甲-闪耀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_TT3",
+    "form_id": "01000FBC|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Overlay - Doll Joints",
+    "string": "角色扮演纹身-玩偶关节",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB2_Torn",
+    "form_id": "01000FC5|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking - Latex (Torn)",
+    "string": "角色扮演连体袜-乳胶(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB3_Torn",
+    "form_id": "01000FC6|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking - Silky (Torn)",
+    "string": "角色扮演连体袜-丝滑(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB4_Torn",
+    "form_id": "01000FC7|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking - Fishnet (Torn)",
+    "string": "角色扮演连体袜-网眼(破损)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPB_SB_Torn",
+    "form_id": "01000FC8|[Caenarvon] Cosplay Basics.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Bodystocking - Sheer (Torn)",
+    "string": "角色扮演连体袜-透明(破损)",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "editor_id": "BasicWoodenPlate01FishClay",
+    "form_id": "01000D63|Halffaces - Diverse (BOS) wooden plate.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wooden Plate",
+    "string": "木盘子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasicWoodenPlate01FishWood",
+    "form_id": "01000D64|Halffaces - Diverse (BOS) wooden plate.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wooden Plate",
+    "string": "木盘子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasicWoodenPlate01New",
+    "form_id": "01000D65|Halffaces - Diverse (BOS) wooden plate.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wooden Plate",
+    "string": "木盘子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasicWoodenPlate01Third",
+    "form_id": "01000D66|Halffaces - Diverse (BOS) wooden plate.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wooden Plate",
+    "string": "木盘子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BasicWoodenPlate01Carvings",
+    "form_id": "01000D62|Halffaces - Diverse (BOS) wooden plate.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wooden Plate",
+    "string": "木盘子",
+    "status": "TranslationComplete"
+  }
+]

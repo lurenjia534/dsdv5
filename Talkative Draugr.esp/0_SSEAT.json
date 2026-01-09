@@ -1,0 +1,299 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "0100080B|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Zu'u lost aam voth sahvot...",
+    "string": "Zu'u lost aam voth sahvot... （吾必忠心侍奉。）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100080A|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Zu'u funt dii drog... ",
+    "string": "Zu'u funt dii drog... （我辜负了我的主人……）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000809|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Krosis dii thur...",
+    "string": "Krosis dii thur... （抱歉，吾主……）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100080C|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ful nii los...",
+    "string": "Ful nii los... （确实如此。）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100080D|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Zu'u viir...",
+    "string": "Zu'u viir... （吾命已绝……）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000811|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sahlo lir!",
+    "string": "Sahlo lir! （弱小的蝼蚁！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000805|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dovah drog fen daal!",
+    "string": "Dovah drog fen daal! （我们的龙主终将归来！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000804|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hi los faas joor! Hahaha!",
+    "string": "Hi los faas joor! Hahaha! （你在害怕，凡人！哈哈哈！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000812|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Meyz krif!",
+    "string": "Meyz krif! （来战吧！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000814|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Luft dinokiil!",
+    "string": "Luft dinokiil! （直面你的死亡吧！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000816|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nust fas dilon... Hahaha!",
+    "string": "Nust fas dilon... Hahaha! （他们畏惧亡者……哈哈哈！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000807|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fin sahlo gahvon... ",
+    "string": "Fin sahlo gahvon... （弱者屈服了……）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000815|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nikriin joor!",
+    "string": "Nikriin joor! （懦弱的凡人！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100080E|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Zu'u koraav hi!",
+    "string": "Zu'u koraav hi! （我看见你了！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000808|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nu hi dir! ",
+    "string": "Nu hi dir!  （现在你死定了！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100080F|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Het hi los!",
+    "string": "Het hi los! （你在这儿！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000810|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dir ko faaz!",
+    "string": "Dir ko faaz! （在痛苦中死去吧！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000818|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mu fent dein daar golt.",
+    "string": "Mu fent dein daar golt. （吾等将镇守此处。）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000819|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mahfaeraak mu dein.",
+    "string": "Mahfaeraak mu dein. （永远保卫。）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100081B|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ni koraav naan jul nu.",
+    "string": "Ni koraav naan jul nu. （现在一个凡人也看不到了。）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000830|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nahl rovaan het...",
+    "string": "Nahl rovaan het... （有个活物在这儿徘徊……）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100082F|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hon joor...",
+    "string": "Hon joor... （我听到凡人的声音了……）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100081D|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wo het?",
+    "string": "Wo het? （谁在那儿？）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100082E|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ful lost vahzah!",
+    "string": "Ful lost vahzah! （果然是真的！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100081F|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nis filok!",
+    "string": "Nis filok! （你逃不掉的！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000822|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hin kopraan fen nahkip lirre!",
+    "string": "Hin kopraan fen nahkip lirre! （你的残骸将成为蠕虫的饲料！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000821|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hin kah fen kos bonaar!",
+    "string": "Hin kah fen kos bonaar! （你的傲慢将被践踏！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000827|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nust drey graan.",
+    "string": "Nust drey graan. （他们逃走了。）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000828|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sizaan niin!",
+    "string": "Sizaan niin! （跟丢了！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100082C|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Vonun? Nid!",
+    "string": "Vonun? Nid! （跟丢了？不！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100082D|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ni siiv niin...",
+    "string": "Ni siiv niin... （我没找到他们……）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100082A|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mu ulse zok mul!",
+    "string": "Mu ulse zok mul! （吾等更胜一筹！）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100082B|Talkative Draugr.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Faaz nah!",
+    "string": "Faaz nah! （去死吧！）",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "editor_id": "SpellHotbar_UnbindDummyEffect",
+    "form_id": "02000833|SpellHotbar.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Does Nothing, but 1.5.97 crashes when a spell has no magic effect",
+    "string": "什么都不做，但是当咒语没有魔法效果时 1.5.97 会崩溃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_ToggleDualCastEffect",
+    "form_id": "0200083A|SpellHotbar.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Toggle SpellHotbar Dual Casting Effect",
+    "string": "切换法术快捷栏双重施法效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_SpellProcCD",
+    "form_id": "0200083E|SpellHotbar.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cannot gain \"Battlemage's Inspiration\"",
+    "string": "无法获得“战斗法师的灵感”",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_unbind",
+    "form_id": "02000810|SpellHotbar.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "<Unbind Slot>",
+    "string": "<解除绑定插槽位>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_unbind",
+    "form_id": "02000810|SpellHotbar.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Unbind a slot in the Hotbar. If bound to an empty slot set it to 'Blocked' from inheritance.",
+    "string": "解除快捷栏中插槽的绑定。如果绑定到空插槽，则将其设置为“阻止”以防继承。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_ToggleDualCasting",
+    "form_id": "02000839|SpellHotbar.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Hotbar Dual Casting",
+    "string": "快捷栏双手施法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_ApplySpellProcCD",
+    "form_id": "0200083F|SpellHotbar.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Apply SpellProc CD",
+    "string": "应用法术处理冷却",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkProcPowerAttack",
+    "form_id": "0200083D|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Cast On Power Attack",
+    "string": "重击施放",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkProcPowerAttack",
+    "form_id": "0200083D|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Power Attack hits can trigger Novice or Apprentice spell procs. Requires 'One-Handed' or 'Two-Handed' 25.",
+    "string": "重击可以触发新手或学徒法术效果。需要“单手”或“双手”25。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkProcSneakAttack",
+    "form_id": "02000846|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Cast On Backstab",
+    "string": "偷袭施放",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkProcSneakAttack",
+    "form_id": "02000846|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Sneak Attacks can trigger Novice or Apprentice spell procs. Requires 'Sneak' 25.",
+    "string": "偷袭可以触发新手或学徒法术效果。需要“偷袭”25。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkProcCrit",
+    "form_id": "02000847|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Cast On Crit",
+    "string": "暴击施放",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkProcCrit",
+    "form_id": "02000847|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Critical hits can trigger Novice or Apprentice spell procs. Requires 'One-Handed' or 'Two-Handed' or 'Archery' 25.",
+    "string": "暴击可以触发新手或学徒法术特效。需要“单手武器”或“双手武器”或“弓箭”25。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkProcBlock",
+    "form_id": "02000848|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Cast On Block",
+    "string": "格挡施放",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkProcBlock",
+    "form_id": "02000848|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Timed Blocking can trigger Novice or Apprentice spell procs. Requires 'Block' 25.",
+    "string": "完美格挡可触发新手或学徒法术效果。需要“格挡”25。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkProcConcentrationCast",
+    "form_id": "02000849|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Cast On Concentration",
+    "string": "专注施放",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkProcConcentrationCast",
+    "form_id": "02000849|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Casting a concentration spell for 6 seconds can trigger Novice or Apprentice spell procs. Requires a Magic Skill of at least 25.",
+    "string": "施放持续 6 秒的专注法术可触发新手或学徒法术特效。要求魔法技能至少为 25。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkExpert",
+    "form_id": "0200084A|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Expert Battlemage",
+    "string": "专家级战斗法师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkExpert",
+    "form_id": "0200084A|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Spell Procs can trigger Adept and Expert spells. Reduces Cooldown by 20%. Requires 'Alteration' 50.",
+    "string": "法术触发可以触发熟练和专家级法术。减少 20% 的冷却时间。需要“改变”50。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkMaster",
+    "form_id": "0200084B|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Master Battlemage",
+    "string": "大师级战斗法师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SpellHotbar_BattleMage_PerkMaster",
+    "form_id": "0200084B|SpellHotbar.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Spell Procs can trigger Master spells. Reduces Cooldown by 40%. Requires 'Alteration' 75.",
+    "string": "法术触发可以触发大师级法术。减少 40% 的冷却时间。需要“改变”75。",
+    "status": "TranslationComplete"
+  }
+]

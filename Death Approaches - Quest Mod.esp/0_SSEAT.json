@@ -1,0 +1,569 @@
+[
+  {
+    "editor_id": "DAGhostSoldier",
+    "form_id": "0500000B|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Soldier",
+    "string": "士兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DAGhostSoldier",
+    "form_id": "0500000B|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Soldier",
+    "string": "士兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DADreamCell",
+    "form_id": "0500000C|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "War Sundered Field",
+    "string": "战乱之地",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaMarkers",
+    "form_id": "0005EAC7|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Marker Storage Unit",
+    "string": "标记储备格",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DAGhostQuest1Convo1",
+    "form_id": "05000003|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. Your death is approaching, face it with pride.",
+    "string": "不。你面临死亡，要以骄傲面对它。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000BE|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "[Wince] A demise of my own folly, I deserve as much.",
+    "string": "[突兀的动作]我自作自受的毁灭，我理应如此。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000BE|Death Approaches - Quest Mod.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "If it must be so, do not soil my final moments with your presence.",
+    "string": "如果必须这样，就不要在我最后的时刻让你的存在弄脏它。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DAGhostQuest1Convo2",
+    "form_id": "05000004|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Your actions shaped the world, your loved ones will remember you. You did exist.",
+    "string": "你的行为塑造了这个世界，你的亲人会记得你。你确实存在过。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C1|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Every ounce of my being wishes to believe your words, hold faith that my presence will always live on in those that precede me.",
+    "string": "我的整个存在都希望相信你的话，确信我的存在将永远活在我之前的人心中。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C1|Death Approaches - Quest Mod.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I cannot...",
+    "string": "我不能……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C1|Death Approaches - Quest Mod.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "My Cami, soon she will notice the absence of my letters, and understand its importance.",
+    "string": "我的喀米，她很快会注意到我信件的缺失，并理解其重要性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C1|Death Approaches - Quest Mod.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Perhaps even the Legion will deliver the news directly and allow her the peace of certainty.",
+    "string": "也许甚至军团会直接传达这个消息，并让她得到确切的安慰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C1|Death Approaches - Quest Mod.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "I cannot say.",
+    "string": "我不能说。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C1|Death Approaches - Quest Mod.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "I do not wish her to lavish in sorrow, remain isolated and devoid of love. She will soon know another's comfort.",
+    "string": "我不希望她沉溺于悲伤中，保持孤立并缺乏爱。她很快会感受到另一个人的安慰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C1|Death Approaches - Quest Mod.esp",
+    "index": 7,
+    "type": "INFO NAM1",
+    "original": "When he sleeps beside her, will she think of me?",
+    "string": "当他和她一起入眠时，她会想起我吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DAGhostQuest1Convo3",
+    "form_id": "05000005|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You die knowing you lived, isn't that enough?",
+    "string": "你会在死去时知道自己曾活过，难道这不足以吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C2|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Perhaps.",
+    "string": "也许吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C2|Death Approaches - Quest Mod.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Proof enough for me, but does every man not wish for his legacy to precede himself?",
+    "string": "对我来说已经足够了，但是难道每个人不都希望自己的遗产能在他之前传承下去吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C2|Death Approaches - Quest Mod.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "My Cami, soon she will notice the absence of my letters, and understand its importance.",
+    "string": "我的喀米，她很快会注意到我信件的缺失，并理解其重要性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C2|Death Approaches - Quest Mod.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Perhaps even the Legion will deliver the news directly and allow her the peace of certainty.",
+    "string": "也许甚至军团会直接传达这个消息，并让她得到确切的安慰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C2|Death Approaches - Quest Mod.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "I cannot say.",
+    "string": "我不能说。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C2|Death Approaches - Quest Mod.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "I do not wish her to lavish in sorrow, remain isolated and devoid of love. She will soon know another's comfort.",
+    "string": "我不希望她沉溺于悲伤中，保持孤立并缺乏爱。她很快会感受到另一个人的安慰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C2|Death Approaches - Quest Mod.esp",
+    "index": 7,
+    "type": "INFO NAM1",
+    "original": "When he sleeps beside her, will she think of me?",
+    "string": "当他和她一起入眠时，她会想起我吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DAGhostQuest1Convo4",
+    "form_id": "05000006|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Death comes for you. There's little sense in these thoughts.",
+    "string": "死神正在接近你。这些想法毫无意义。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C3|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "[Pained laugh] No doubt, though it is a tempting fate, is it not?",
+    "string": "[痛苦的笑声]毫无疑问，虽然这是一个诱人的命运，不是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C3|Death Approaches - Quest Mod.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Throughout my life, were any of my thoughts more than that? Of little import now...",
+    "string": "在我的一生中，我的一切想法都超越了吗？现在这些都已经不重要了……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C3|Death Approaches - Quest Mod.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "My Cami, soon she will notice the absence of my letters, and understand its importance.",
+    "string": "我的喀米，她很快会注意到我信件的缺失，并理解其重要性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C3|Death Approaches - Quest Mod.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Perhaps even the Legion will deliver the news directly and allow her the peace of certainty.",
+    "string": "也许甚至军团会直接传达这个消息，并让她得到确切的安慰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C3|Death Approaches - Quest Mod.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "I cannot say.",
+    "string": "我不能说。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C3|Death Approaches - Quest Mod.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "I do not wish her to lavish in sorrow, remain isolated and devoid of love. She will soon know another's comfort.",
+    "string": "我不希望她沉溺于悲伤中，保持孤立并缺乏爱。她很快会感受到另一个人的安慰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C3|Death Approaches - Quest Mod.esp",
+    "index": 7,
+    "type": "INFO NAM1",
+    "original": "When he sleeps beside her, will she think of me?",
+    "string": "当他和她一起入眠时，她会想起我吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DAGhostQuest1Convo5",
+    "form_id": "05000007|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Stay silent)",
+    "string": "(保持沉默)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C4|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The child that rests within her womb, they will never know my voice nor my visage, no recollection of what I am.",
+    "string": "她腹中的孩子，他们将永远不会知道我的声音或我的容貌，不会记得我是谁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C4|Death Approaches - Quest Mod.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Stray objects may contain my essence, the sole reminders that I once walked this world.",
+    "string": "孤立的物件可能会承载我的本质，唯一的提醒是我曾经在这个世界行走过。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C4|Death Approaches - Quest Mod.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Soon, even they shall lose all meaning.",
+    "string": "很快，它们甚至都将失去意义。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C4|Death Approaches - Quest Mod.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "My child will know another man's face to be that of home.",
+    "string": "我的孩子将认识另一个男人的面孔，将其视为家人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C4|Death Approaches - Quest Mod.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Time is the only matter preventing every inkling of my presence from being eroded away.",
+    "string": "时间是唯一阻止我存在的每一个痕迹被侵蚀掉的因素。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C4|Death Approaches - Quest Mod.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "There shall be others who stand upon the ground I was born, lived and died, all without knowing I even existed.",
+    "string": "将会有其他人站在我出生、生活和死去的土地上，所有这一切都在无人知晓我存在的情况下发生。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C4|Death Approaches - Quest Mod.esp",
+    "index": 7,
+    "type": "INFO NAM1",
+    "original": "How can I find peace in death when my disappearance looms?",
+    "string": "当我的消失逼近时，我如何能在死亡中找到平静？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DAGhostQuest1Convo6",
+    "form_id": "05000008|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't think you can.",
+    "string": "我不认为你能够。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C5|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh my friend, I do not wish to go.",
+    "string": "哦，我的朋友，我不想离去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C5|Death Approaches - Quest Mod.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "If this is what it amounted to, I would have changed so much.",
+    "string": "如果这就是它所化为的一切，我会做出很多改变。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C5|Death Approaches - Quest Mod.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Cami, what a life we could have had...",
+    "string": "喀米，我们本可以拥有怎样的生活……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DAGhostQuest1Convo7",
+    "form_id": "05000009|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Rest easy, friend. You've lived your life, have faith your actions remember it.",
+    "string": "放心吧，朋友。你已经活过了，相信你的行为会记住它。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C6|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A world devoid of my guidance, yes...",
+    "string": "一个没有我的引导的世界，是的……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C6|Death Approaches - Quest Mod.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Pure faith.",
+    "string": "纯粹的信念。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C6|Death Approaches - Quest Mod.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Cami, what a life we've had.",
+    "string": "喀米，我们过着怎样的生活。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DAGhostQuest1Convo9",
+    "form_id": "0500000A|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Stay silent)",
+    "string": "(保持沉默)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C0|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "[Wince] I fear for the future, one that continues without my presence.",
+    "string": "[突兀的动作]我对未来感到恐惧，一个没有我的存在继续下去的未来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C0|Death Approaches - Quest Mod.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "A dread so pure it dilutes all other thoughts, clouding my final moments, looking toward a future I shall not see.",
+    "string": "一种如此纯净的恐惧将其他所有的想法都冲淡，淹没了我最后的时刻，展望着一个我看不到的未来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C0|Death Approaches - Quest Mod.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Tamriel will continue, its denizens unaware of my mere existence, my presence no more missed than a leaf within the wind.",
+    "string": "泰姆瑞尔会继续存在，它的居民不会意识到我的存在，我的离去不会比风中的一片叶子更引起想念。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C0|Death Approaches - Quest Mod.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Even those I hold so dear to my heart, will they forget me?",
+    "string": "即使是我最亲爱的人，他们会忘记我吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C0|Death Approaches - Quest Mod.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "What becomes of a man when not a single soul holds a memory of him?",
+    "string": "没有一个人记得他时，他会怎样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C0|Death Approaches - Quest Mod.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "Did he even exist?",
+    "string": "他真的存在过吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000BB|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Though I have never seen your face nor heard your voice, would you allow your visage to be my final thought?",
+    "string": "虽然我从未见过你的脸，也从未听过你的声音，你是否愿意让你的面容成为我最后的想念？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DAGhostQuestAltIntroTopic",
+    "form_id": "050000BD|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course. I'll be here for you, speak of what you must.",
+    "string": "当然。我会在这里陪你，谈论你想说的一切。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000BF|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I always believed my demise to be one of peace, a slow descent into a world where my worries would not matter.",
+    "string": "我一直相信我离去会是一种平静，一个慢慢沉入一个我担忧不会再重要的世界。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000BF|Death Approaches - Quest Mod.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I dared to dream my voyage would be soothed by my dear Cami, and our child who would console the woman I hold most dear.",
+    "string": "我曾梦想我的旅程会在我亲爱的喀米和我们的孩子的安慰下得到宽慰，他们会安慰我最亲爱的女人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000BF|Death Approaches - Quest Mod.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I see my disillusion now. ",
+    "string": "我现在看到了我的迷惘。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000BF|Death Approaches - Quest Mod.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "The faint hope I once held now shattered around me. Lavishing within the blood that leaks from my wound.",
+    "string": "我曾怀有的微弱希望如今已经在我周围破碎。陶醉在从伤口渗出的血液中。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000BF|Death Approaches - Quest Mod.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Was it one of pure optimism, an ideal that would spur me ever onwards?",
+    "string": "是一种纯粹的乐观主义吗，一种能激励我继续前行的理想？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000BF|Death Approaches - Quest Mod.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "Or did I always know it to be no more than a false ideal, a lie I told myself to dissuade the fears of what death would bring?",
+    "string": "还是我一直知道这不过是一个虚假的理想，我对自己编织的谎言，来驱散死亡所带来的恐惧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DAGhostQuest",
+    "form_id": "05000001|Death Approaches - Quest Mod.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Death Approaches",
+    "string": "死亡来临",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "editor_id": "Flagon01_HFs_V1",
+    "form_id": "01000D62|HFs_Flagons_(BOS).esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Flagon",
+    "string": "漏壶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Flagon01_HFs_V2",
+    "form_id": "01000D63|HFs_Flagons_(BOS).esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Flagon",
+    "string": "漏壶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Flagon01_HFs_V3",
+    "form_id": "01000D64|HFs_Flagons_(BOS).esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Flagon",
+    "string": "漏壶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Flagon01_HFs_V4",
+    "form_id": "01000D65|HFs_Flagons_(BOS).esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Flagon",
+    "string": "漏壶",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,2243 @@
+[
+  {
+    "editor_id": "Arc_Summon_Barbas_FX",
+    "form_id": "01000001|BDA.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Summon Barbas",
+    "string": "召唤巴巴斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Arc_Summon_Barbas_FX",
+    "form_id": "01000001|BDA.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summon Barbas to you.",
+    "string": "召唤巴巴斯到你身边",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_Barbas_SummonSpell",
+    "form_id": "01000002|BDA.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Summon Barbas",
+    "string": "召唤巴巴斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HaemarsShame02",
+    "form_id": "000216BB|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Haemar's Shame",
+    "string": "海玛之羞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArcBarbasBasicDialogueSummonSpellTopic",
+    "form_id": "01000003|BDA.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Barbas can you teach me a spell to summon you?",
+    "string": "巴巴斯，你能教我召唤你的法术吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000006|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oopsie, my bad, meant power, not spell. Guess even I slip up when I hang around mortals too long. Check your powers tab before you embarrass us both.",
+    "string": "哎呀，我的错，是 \"力量\"，不是 \"法术\"。看来在凡人堆里混久了，连我也会出错。检查一下你的 \"能力 \"选项卡吧，别让我们俩都难堪。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000004|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fine, mortal. You want me on speed dial? Done. Just don't abuse it-or do. I don't care.",
+    "string": "行吧，凡人。你想把我设为快速拨号？没问题。别滥用——或者尽管滥用。我无所谓。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D63|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh look. The omnipotent button-pusher is back. You planning to break the game today or nah?",
+    "string": "喏，看哪。那位无所不能的按钮操纵者又回来了。今天打算搞崩游戏吗？还是不？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D64|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey, Player! Quick save. No reason. Definitely not about to watch you swan dive off a cliff..",
+    "string": "嘿，玩家！快存下存档。没啥理由。绝对不是要看你从悬崖上优雅地俯冲下去……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D65|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh great, it's you. The one who spends more time in menus than actually adventuring.",
+    "string": "哦，太好了，是你。那个在菜单里耗费的时间比真正冒险还多的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D66|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're still here? Thought you'd rage quit after Fus Ro Dah-ing a chicken... again.",
+    "string": "你还在这儿？还以为你被鸡用\"Fus Ro Dah\"打中后就暴怒退坑了呢……又一次。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D67|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Listen, you're the one holding the controller, but I'm the brains of this operation.",
+    "string": "听着，你虽然握着手柄，但这次行动的智囊可是我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D68|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So... how many mods you running this time? I feel... prettier. Did you give me HD fur?!",
+    "string": "所以……这次你给我装了多少模组？我觉得……变漂亮了。你给我加了高清毛发效果吗？！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D69|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey! Don't you dare console command me out of here. I know what you're thinking.",
+    "string": "喂！别想用控制台命令把我赶出去。我知道你在打什么主意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D6A|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Back already? Didn't you say 'one more quest' three hours ago?",
+    "string": "这么快就回来了？三小时前不是说还要再跑个任务吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D6B|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You've got the power of gods and you STILL can't resist picking every single cabbage.",
+    "string": "你拥有神明的力量，却依然无法抗拒摘取每一颗卷心菜的诱惑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D6C|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, the Player. Aka, Destroyer of Immersion. What chaos we sowin' today?",
+    "string": "啊，玩家。又名沉浸破坏者。今日我们又在播撒怎样的混乱？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D6D|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, the mighty Dragonborn! Slayer of dragons, hoarder of cheese wheels.",
+    "string": "啊，伟大的龙裔！屠龙者，奶酪轮囤积者。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D6E|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fus Ro Dah, huh? Cute trick. I can bark louder.",
+    "string": "Fus Ro Dah？哼，小把戏。我能吼得更响。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D6F|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So... Dragonborn. Does shouting at things ever get old? No? Figures.",
+    "string": "所以……龙裔。对着东西吼叫会腻吗？不会？果然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D70|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're the chosen of Akatosh? Pfft. I've seen skeevers with more subtlety.",
+    "string": "你是阿卡托什的神选？噗。我见过更狡猾的恶鼠呢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D71|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hero of legend, huh? You gonna save Nirn or just loot every broom in sight?",
+    "string": "传说中的英雄啊？是要拯救奈恩，还是打算把所有扫帚都洗劫一空？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D72|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't get cocky, Dragonborn. Remember, I'm technically older and fluffier.",
+    "string": "别得意忘形，龙裔。记住，论年龄和毛量，我可是更胜一筹。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D73|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Another dragon down? Good job. Now maybe clean up that mess of dragon bones.",
+    "string": "又一条龙倒下了？干得漂亮。现在或许该收拾收拾那堆龙骨了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D74|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're the Dragonborn... and yet you still can't hit a mudcrab on the first swing?",
+    "string": "你是龙裔……可你连第一击都打不中一只泥沼蟹？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D75|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You shout dragons out of the sky but trip over every single rock. Impressive balance.",
+    "string": "你把天上的龙都喊下来，却绊倒在每块石头上。真是惊人的平衡感。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D76|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hero, legend, chosen one... sure. But let's face it-you're basically my sidekick.",
+    "string": "英雄、传奇、天选之子……行吧。但说实话——你不过是我的跟班罢了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D78|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright, run along, hero. Don't do anything too stupid while I'm gone.",
+    "string": "行啦，英雄，你先走吧。我不在的时候可别干什么蠢事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D79|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'll miss me. You'll deny it, but you'll miss me.",
+    "string": "你会想我的。你会否认，但你会想我的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D7A|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Goodbye, Dragonborn-slash-loot-goblin. Try not to Fus Ro Dah yourself off a cliff.",
+    "string": "再见了，龙裔兼掠夺哥布林。别用\"Fus Ro Dah\"把自己甩下悬崖啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D7B|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fine, go. But don't come crying to me when you get eaten by another mudcrab.",
+    "string": "行，去吧。但要是再被泥沼蟹吃掉，可别来找我哭诉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D7C|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Adi�s! That's Daedric for 'don't screw it up.'",
+    "string": "Adiós! 这是迪德拉语，意思是\"别搞砸了\"。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D7D|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "See ya later, Dovah-dufus.",
+    "string": "回头见，都瓦傻瓜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D7E|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll just be here... you know... saving the universe. Again.",
+    "string": "我就在这儿……你知道的……拯救宇宙。又一次。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D7F|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't forget to bring me a snack next time. Meat. Big meat.",
+    "string": "下次别忘了给我带点零食。肉。大块的肉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D80|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Goodbye! Oh, and try not to sell your Daedric artifacts for pocket change. Again.",
+    "string": "再见！哦，还有，别再把你的迪德拉神器当零钱卖了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D81|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Smell ya later, chosen one. Literally. You really need a bath.",
+    "string": "后会有期，天选之子。字面意思。你真该洗个澡了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D82|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Kay bye, Player. Go touch grass. Or at least touch the pause menu.",
+    "string": "再见，玩家。去摸草吧。或者至少摸摸暂停菜单。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D83|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Later, god-being. Try not to mod me into a mudcrab or something.",
+    "string": "稍后见，神明大人。别把我改造成泥沼蟹之类的生物啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D84|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Goodbye, oh mighty Wielder of Quick Saves. May your next death be hilarious.",
+    "string": "再见了，伟大的快速存档掌控者。愿你下次死亡时笑死全场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D85|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "See ya, button-masher. Don't delete my .esp by accident.",
+    "string": "再见啦，按键狂魔。别不小心删了我的.esp文件。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D86|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know you're gonna leave me idle for six hours while you eat. Again.",
+    "string": "我知道你又要让我闲着六小时，自己去吃饭。又来了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D87|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright, Player. Don't brick your game while I'm not looking.",
+    "string": "行吧，玩家。我不在的时候别把游戏搞砸了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D88|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bye! Go add another 200 mods. What could possibly go wrong?",
+    "string": "再见！去再加200个模组吧。能出什么问题呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D89|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Smell ya later, meta-god. You're not even Dragonborn, you're worse.",
+    "string": "后会有期，元神。你连龙裔都算不上，还不如龙裔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D8A|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Leaving? Fine. I'll just sit here. Forever. Waiting. Like a sad Daedric Tamagotchi.",
+    "string": "要走？行。我就坐在这里。永远。等待。像个悲伤的迪德拉电子宠物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D8B|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Remember, YOU chose this chaos. I'm just here for the ride.",
+    "string": "记住，是你选择了这片混乱。我只是顺势而为罢了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D8D|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whew! Somebody's confident. Or really bad at laundry.",
+    "string": "哎呀！有人挺自信的。要么就是洗衣服特别不靠谱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D8E|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uh... this isn't that kinda mod, pal.",
+    "string": "呃……老兄，这可不是那种模组。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D8F|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hope you're wearing armor... emotionally.",
+    "string": "希望你穿上盔甲……情感上的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D90|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, at least your Thu'um isn't the only thing hanging out.",
+    "string": "嗯，至少你的吐'目不是唯一在晃悠的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D91|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah yes, the 'Naked Argonian' build. Bold choice.",
+    "string": "啊，没错，就是那个\"裸体阿尔贡\"的造型。真是大胆的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D92|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah yes, the 'Naked Breton' build. Bold choice.",
+    "string": "啊，没错，就是那个\"裸体布莱顿\"的造型。真是大胆的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D93|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah yes, the 'Naked Dunmer' build. Bold choice.",
+    "string": "啊，没错，就是那个\"裸体丹莫\"的造型。真是大胆的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D94|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah yes, the 'Naked Aldmer' build. Bold choice.",
+    "string": "啊，没错，就是那个\"裸体奥特莫\"的造型。真是大胆的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D95|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah yes, the 'Naked Imperial' build. Bold choice.",
+    "string": "啊，没错，就是那个\"裸体帝国人\"的造型。真是大胆的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D96|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah yes, the 'Naked Khajit' build. Bold choice.",
+    "string": "啊，没错，就是那个\"裸体卡吉特\"的造型。真是大胆的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D97|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah yes, the 'Naked Nord' build. Bold choice.",
+    "string": "啊，没错，就是那个\"裸体诺德人\"的造型。真是大胆的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D98|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah yes, the 'Naked Orsimer' build. Bold choice.",
+    "string": "啊，没错，就是那个\"裸体奥辛莫\"的造型。真是大胆的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D99|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah yes, the 'Naked Redguard' build. Bold choice.",
+    "string": "啊，没错，就是那个\"裸体红卫人\"的造型。真是大胆的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D9A|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah yes, the 'Naked Bosmer' build. Bold choice.",
+    "string": "啊，没错，就是那个\"裸体波斯莫\"的造型。真是大胆的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D9B|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wow. The 'Naked Mysterious Modded Race' meta. You're really redefining Skyrim.",
+    "string": "哇。这\"裸体神秘模组种族\"的玩法，你真是重新定义了《上古卷轴5：天际》。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D9C|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is this intimidation? Because the draugr aren't impressed.",
+    "string": "这是在恐吓吗？因为这些亡灵可没被吓倒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D9D|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're really putting the 'Dragonborn' in 'birthday suit,' huh?",
+    "string": "你这身\"生日装\"可真是名副其实的\"龙裔\"啊？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D9E|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see you've gone for maximum ventilation. Practical.",
+    "string": "我看到你选择了最大通风模式。很实用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000D9F|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wow. So heroic. So... drafty.",
+    "string": "哇。真英勇。真……透风。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DA0|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Clavicus says hi. And also-put some pants on, for Sithis' sake.",
+    "string": "卡拉威库斯问好。还有——看在西帝斯的份上，快把裤子穿上。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DA1|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh. Oh my. So we're doing this today, huh?",
+    "string": "哦。天哪。所以今天就要干这个啊？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DA2|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The dragons won't know what hit 'em... but everyone else definitely sees you coming.   Huh, wait a second, I made a funny!  Rated M for Maturity!",
+    "string": "龙族根本来不及反应……但其他人绝对能看清你的来势。  咦，等等，我居然说了个冷笑话！  本作品为M级（成熟级）！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DA3|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bold choice, hero. Very breezy. Very... confident.",
+    "string": "大胆的选择，英雄。相当洒脱。相当……自信。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DA4|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So is this a stealth tactic, or are you trying to get free drinks?",
+    "string": "所以这是在耍小聪明，还是想蹭免费饮料？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DA5|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "At least the bandits won't be looking at your weapons.",
+    "string": "至少强盗们不会盯着你的武器看。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DA6|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'd offer my fur for modesty, but... nah. This is funnier.",
+    "string": "我本想用我的毛发来保持矜持，但……算了。这样更有趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DA7|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Guess we're fighting frostbite... and societal norms.",
+    "string": "看来我们既要对抗冻伤...还要挑战社会规范。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DA8|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh look, Nirn's newest fashion icon: the 'Emperor's New Clothes' collection.",
+    "string": "瞧瞧，奈恩的最新时尚风向标：\"皇帝的新衣\"系列。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DA9|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The All-Maker's gifts are... on full display today.",
+    "string": "造物主的馈赠...今日尽展无遗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DAA|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm just gonna walk ahead. You know... to give your... assets some space.",
+    "string": "我先走一步。你知道的……给你的……资产留点空间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DAB|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whoa! My mortal eyes! At least buy me dinner first.",
+    "string": "哇！我的凡胎俗眼！至少先请我吃顿饭吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DAC|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know, most heroes wear armor. Weird tradition, I guess.",
+    "string": "你知道吗，大多数英雄都穿着盔甲。真是奇怪的传统，我猜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DAD|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So... is this an intimidation tactic or fan service?",
+    "string": "所以……这是威慑手段还是粉丝福利？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DAE|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Okay, but if you get frostbite in weird places, don't blame me.",
+    "string": "好吧，但要是你冻伤了些奇怪的地方，可别怪我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DAF|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're fighting dragons. Naked. Totally normal. Totally fine.",
+    "string": "你正在与巨龙搏斗。赤身裸体。完全正常。完全没问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DB0|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey, I get it. Clothes are overrated. But the guards don't.",
+    "string": "嘿，我懂。衣服被高估了。但守卫们可不懂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DB1|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll just pretend this is a cultural thing and move on.",
+    "string": "我姑且当作这是文化差异，就此作罢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DB2|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've been alive for eons. This? This is still new to me.",
+    "string": "我活了无数个世纪。这？这对我来说依然是新鲜事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DB3|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, at least now I know why you're called the Dragonborn.",
+    "string": "嗯，至少现在我明白为什么你会被称为龙裔了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArcBarbasAboutYouTopicA1",
+    "form_id": "01000DB6|BDA.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So, you really are Clavicus Vile's dog?",
+    "string": "所以，你真的是卡拉威库斯·维尔的狗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DB7|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dog? Pfft. I'm his right-paw Daedra. But yeah, I do like a good belly rub.",
+    "string": "狗？哼。我可是他右手的迪德拉。不过嘛，我确实喜欢被人揉揉肚子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DB8|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In the fur and on four legs. Though I've had... other forms.",
+    "string": "披着毛皮，四足行走。虽然我曾有过……其他形态。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DB9|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Technically I'm a Hound of Oblivion, but sure-let's call me a dog.",
+    "string": "严格来说我是湮灭猎犬，不过行吧——叫我狗也行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DBA|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes. His dog. His errand boy. His chew toy. Take your pick.",
+    "string": "是的。他的狗。他的跑腿小弟。他的咬咬玩具。任君选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DBB|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "\"I'm more loyal than his followers and smell better too.",
+    "string": "我比他的追随者更忠诚，闻起来也比他们香。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DBC|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah, but don't tell anyone I begged for snacks. PR nightmare.",
+    "string": "是啊，但别告诉别人我求着要零食。这下可糟了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DBD|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I prefer 'Daedric Disaster in Fur,' but yeah. Woof.",
+    "string": "我更喜欢《毛皮中的迪德拉灾厄》，不过嘛。汪。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DBE|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're gonna keep asking like I've got a collar with my name on it?",
+    "string": "你非得像我脖子上套着写名字的项圈似的，不停地问个不停吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DBF|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You want my pedigree too? Clavicus would charge extra for that.",
+    "string": "你也想要我的血统证明？卡拉威库斯会为此额外收费的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArcBarbasAboutYouRootTopic",
+    "form_id": "01000DC0|BDA.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to ask some questions about you is that ok?",
+    "string": "我想问一些关于你的问题，可以吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DC1|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course! Ask away. I love talking about myself. Who doesn't?",
+    "string": "当然！尽管问吧。我超爱聊自己。谁不爱呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DC2|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sure! I've got centuries of stories. Most of 'em are even true.",
+    "string": "当然！我有几百年的故事可讲。其中大部分甚至都是真的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DC3|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Absolutely. But fair warning: I charge one belly rub per question.",
+    "string": "当然可以。不过事先声明：每个问题收费一次肚皮按摩。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DC4|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Go ahead. I'm an open book. A slightly chewed one, but still.",
+    "string": "尽管问吧。我就是一本敞开的书。虽然被啃过几口，但依然坦诚相见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DC5|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ask all you want. Talking's free. Answers... eh, we'll see.",
+    "string": "尽管问吧。说是不费事的。至于答案嘛...呃，咱们瞧瞧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DC6|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah yeah, questions. Just don't ask about that one time in Coldharbour.",
+    "string": "是是是，问吧。就是别问那次在冷港的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DC7|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sure. But why not ask Clavicus? I'm sure he'd love to talk about me.",
+    "string": "当然。但为什么不问问卡拉威库斯呢？我敢肯定他很乐意谈论我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DC8|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If it stops you from staring at my tail, then yes.",
+    "string": "如果这样能让你别盯着我的尾巴看，那好吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DC9|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fine, mortal. But you'd better not be making a biography.",
+    "string": "好，凡人。但你最好别写传记。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DCA|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Questions? Really? You couldn't just fetch me a bone like a normal friend?",
+    "string": "问题？真的？你就不能像个正常朋友那样给我捡根骨头吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DCB|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Again? You've already asked more questions than a Tribunal priest.",
+    "string": "又来了？你问的问题比审判席祭司还多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DCC|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh great. Another mortal interview. Do I get a snack this time?",
+    "string": "太好了。又是该死的面试。这次能给我点零食吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DCD|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Go ahead. But just know I reserve the right to lie for my own amusement.",
+    "string": "尽管去吧。但你得明白，我保留为取乐而撒谎的权利。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DCE|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fine. But only because Clavicus says I need 'better PR.'",
+    "string": "好吧。但只是因为卡拉威库斯说我需要“更好的公关”。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DCF|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sure, ask away. Not like I've got anything better to do... except literally everything.",
+    "string": "当然，尽管问吧。反正我也没有更重要的事要做……除了所有事情。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DD0|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Questions? You're not writing mod dialogue, are you?",
+    "string": "有问题？你该不会在写模组对话吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DD1|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh boy, here comes the mortal Q&A session. What's next? A podcast?",
+    "string": "天哪，致命的问答环节来了。接下来呢？播客？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DD2|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know, YOU installed me. You already know the answers.",
+    "string": "你知道吗，是你安装的我。你早就知道答案了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DD3|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wait. Is this gonna be like one of those dating sims? Because I don't date mortals.",
+    "string": "等等。这该不会是那种恋爱模拟游戏吧？因为我可不跟凡人约会。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DD4|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sure, Player. But be careful-you're one 'ask about my past' away from a Daedric lore dump.",
+    "string": "当然，玩家。但小心点——你离被倒出一大堆迪德拉知识库，就差一句\"问我过去的事\"了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArcBarbasAboutYouTopicA2",
+    "form_id": "01000DD5|BDA.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What form were you before you became this dog?",
+    "string": "你变成这只狗之前是什么样子？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DDE|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, I was taller. More menacing. Had a tail though, so not that different.",
+    "string": "哦，我曾经更高大。更具威慑力。不过当时有条尾巴，所以也没差多少。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DDF|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A Redguard once. A scamp once. Whatever I feel like, really.",
+    "string": "曾经是个红卫。曾经是个小淘气。说到底，随心所欲罢了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DE0|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Shapeshifting is a perk of the job. This form's just... convenient.",
+    "string": "变形是这份工作的福利。这个形态只是……方便罢了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DE1|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Once I was a winged nightmare that ate dreams. Now I chase butterflies. Life's weird.",
+    "string": "曾经我是吞噬梦境的翼状噩梦，如今却追逐着蝴蝶。人生真是奇妙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DE2|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You wouldn't believe me. Let's just say claws were involved.",
+    "string": "你肯定不会相信我。总之，事关利爪。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DE3|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Meh. My other forms don't get nearly as many ear scritches.",
+    "string": "唉。我其他形态可没这么多人愿意给我挠耳朵呢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DE4|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've been a daedra, a demon, a duck. Don't ask about the duck.",
+    "string": "我当过迪德拉，当过恶魔，还当过鸭子。别问我鸭子的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DE5|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This isn't even my final form. But you can't handle my final form.",
+    "string": "这甚至不是我的最终形态。但你根本招架不住我的最终形态。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DE6|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm a Daedric Swiss Army Knife. But fur's more fun.",
+    "string": "我是迪德拉瑞士军刀。但毛茸茸更有趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArcBarbasAboutYouTopicA3",
+    "form_id": "01000DD6|BDA.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why help me, a mortal?",
+    "string": "为什么要帮我这个凡人？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DE8|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Because you look clever enough to not run screaming at a talking dog.",
+    "string": "因为你看起来足够聪明，不会对着会说话的狗尖叫着逃跑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DE9|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You seem... competent-ish. That's rare around here.",
+    "string": "你看起来……还算能干。这儿可不多见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DEA|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Because I need opposable thumbs and you've got 'em.",
+    "string": "因为我需要对立拇指，而你恰好拥有。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DEB|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Because everyone else is too busy screaming at dragons.",
+    "string": "因为其他人都在忙着对龙大喊大叫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DEC|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Because you're my only shot at fixing this mess. Don't let it go to your head.",
+    "string": "因为你是唯一能帮我收拾这个烂摊子的人。别得意忘形。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DED|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Eh, I flipped a coin. You won.",
+    "string": "哎，我掷了硬币。你赢了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DEE|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Because Clavicus isn't gonna fetch his own axe, genius.",
+    "string": "因为卡拉威库斯才不会自己去拿斧头呢，天才。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DEF|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Honestly? You're convenient. Don't overthink it.",
+    "string": "说实话？你挺方便的。别想太多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DF0|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Because you mortals are so entertaining when you're in over your head.",
+    "string": "因为你们凡人陷入困境时实在太有意思了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DF1|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Honestly? You're convenient. Don't overthink it.",
+    "string": "说实话？你挺方便的。别想太多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DF2|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Because you mortals are so entertaining when you're in over your head.",
+    "string": "因为你们凡人陷入困境时实在太有意思了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArcBarbasAboutYouTopicA4",
+    "form_id": "01000DD7|BDA.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can you shapeshift right now?",
+    "string": "你现在能变形吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DF3|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I could, but I like having four paws and a wet nose. Stylish, no?",
+    "string": "我当然可以，但我喜欢四条腿和湿漉漉的鼻子。很时髦，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DF4|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sure, but it's rude to shapeshift without a snack first.",
+    "string": "当然可以，但变形前不先吃点零食可不太礼貌。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DF5|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tempting. Maybe later. I'd hate to scare you before we're friends.",
+    "string": "诱人。也许等会儿吧。在我们成为朋友之前，我可不想吓到你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DF6|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah, but Clavicus said no more scamp forms after the 'incident.'",
+    "string": "是啊，但卡拉威库斯说自从那次\"事件\"后，不准再变小淘气形态了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DF7|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why? You wanna see me as a winged monstrosity? Didn't think so.",
+    "string": "为什么？你想看我变成带翅膀的怪物？我可不这么想。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DF8|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Technically yes. Will I? No. You'd just scream.",
+    "string": "从技术上讲，是的。我会吗？不。你只会尖叫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DF9|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I could, but I'd crush this whole province. So... later.",
+    "string": "我当然可以，但那样会把整个省都踏平。所以……改天吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DFA|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You think this form's bad? Wait till you see my spider phase.",
+    "string": "你觉得这副模样很糟糕？等着瞧我变成蜘蛛形态的样子吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DFB|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're lucky. The last guy who asked got 'Daedric Slug' and cried for a week.",
+    "string": "你真走运。上次问的人抽到'迪德拉蛞蝓'，哭了一周呢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArcBarbasAboutYouTopicA5",
+    "form_id": "01000DD8|BDA.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened between you and Clavicus Vile?",
+    "string": "你和卡拉威库斯·维尔之间发生了什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DFC|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, a lovers' quarrel. Don't ask. Too dramatic.",
+    "string": "哦，是情侣间的争执。别问了，太戏剧化了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DFD|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We disagreed on some... artistic choices. Like existing.",
+    "string": "我们对某些...艺术选择存在分歧。比如生存。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DFE|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's just say he didn't appreciate my constructive sarcasm.",
+    "string": "就说吧，他可不领情我的建设性讽刺。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000DFF|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He got bored, kicked me out. Typical Daedric parenting.",
+    "string": "他觉得无聊，就把我赶走了。典型的迪德拉养育方式。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E00|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He needed space. I needed fresh air. It's complicated.",
+    "string": "他需要空间。我需要新鲜空气。事情很复杂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E01|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He's petty. I'm sassy. Bad combo.",
+    "string": "他太小气。我太嚣张。糟糕的组合。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E02|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, you know. Backtalked my boss. Got banished. Classic.",
+    "string": "哦，你知道的。顶了老板的嘴。被发配了。经典。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E03|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He didn't like my jokes. So here I am, suffering with mortals.",
+    "string": "他不喜欢我的玩笑。于是我在此，与凡人共苦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E04|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Clavicus has commitment issues. And rage issues. And snack issues.",
+    "string": "卡拉威库斯有承诺障碍。还有暴怒问题。还有零食问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArcBarbasAboutYouTopicA6",
+    "form_id": "01000DD9|BDA.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's it like serving Clavicus Vile?",
+    "string": "为卡拉威库斯·维尔服务是什么感觉？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E05|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, you know... eternal servitude, endless errands, occasional belly rubs. It's a mixed bag.",
+    "string": "哦，你知道的……永世为奴，无休止的差事，偶尔能摸摸肚子。真是喜忧参半。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E06|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's like being friends with a tiger and a snake... at the same time.  Just like that one time in Akavir.",
+    "string": "就像同时和老虎与蛇交朋友……就像那次在阿卡维尔的经历。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E07|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Honestly? Not bad. I get immortality and all the Daedric snacks I can eat. Downside? He's Clavicus.",
+    "string": "说实话？还不错。我获得了永生，还能吃到所有迪德拉零食。缺点？他就是卡拉威库斯。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E08|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's loud. It's chaotic. It's mostly him yelling at me for 'backtalk.'",
+    "string": "吵闹。混乱。基本上都是他在骂我顶嘴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E09|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's like being stuck with a spoiled toddler who can grant wishes. Forever.",
+    "string": "就像被一个任性的幼儿缠住，而这孩子能实现任何愿望。永远如此。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E0A|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, I was his loyal companion... until he banished me for being too sarcastic. Go figure.",
+    "string": "唉，我曾是他忠实的伙伴……直到他因我太爱讽刺而将我逐出。真是搞不懂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E0B|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Serving Clavicus? It's a cosmic joke. I'm the punchline.",
+    "string": "侍奉卡拉威库斯？这简直是个宇宙玩笑。而我，就是那个笑话的包袱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E0C|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "\"Let's just say loyalty's overrated when your master's a petty Daedric Prince.",
+    "string": "当你的主人是个小气鬼的迪德拉君王时，忠诚这种东西就显得被高估了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E0D|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Imagine eternity cleaning up someone else's messes. Now add fleas.",
+    "string": "想象永恒地收拾别人的烂摊子。现在再加上跳蚤。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArcBarbasAboutYouTopicA7",
+    "form_id": "01000DDA|BDA.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why shouldn't I trust Clavicus?",
+    "string": "我为什么不能相信卡拉威库斯？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E0E|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, he's charming. Until you read the fine print.",
+    "string": "哦，他真是迷人。直到你读到那些细则。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E0F|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know that saying about deals with Thalmor? Double it.",
+    "string": "关于和梭默打交道那句老话？加倍当真。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E10|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I mean, you can trust him... if you like surprises,",
+    "string": "我的意思是，你可以相信他……如果你喜欢惊喜的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E11|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Because he's got more loopholes than a skeever nest.",
+    "string": "因为他漏洞百出，简直像个鼠窝。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E12|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "His word is law... but it's also a trap.",
+    "string": "他的话就是法律……但也是个陷阱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E13|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Trust him to betray you. He's consistent about that.",
+    "string": "真不愧是他，背叛你。这点他倒是始终如一。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E14|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He screws everyone. Even me. Especially me.",
+    "string": "他坑害所有人。连我都逃不过。尤其是我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E15|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You've heard of 'buyer's remorse'? Clavicus is remorse incarnate.",
+    "string": "听说过\"买方后悔\"吗？卡拉威库斯就是后悔的化身。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E16|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You trust Clavicus, you get a Rueful Axe. Lesson learned.",
+    "string": "你信任卡拉威库斯，结果得到一把悔恨之斧。教训记住了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArcBarbasAboutYouTopicA8",
+    "form_id": "01000DDB|BDA.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What are you-really?",
+    "string": "你到底是什么人？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E17|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm Barbas. That's all you need to know.",
+    "string": "我是巴巴斯。你只需要知道这些。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E18|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A Hound of Oblivion. Loyal companion. Occasional menace.",
+    "string": "湮灭猎犬。忠实的伙伴。偶尔的威胁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E19|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm a Daedric spirit. But I'm housebroken.",
+    "string": "我是个迪德拉精魂。不过我已经驯服了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E1A|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The only Daedra with fur and a conscience. Sort of.",
+    "string": "唯一拥有毛发和良知的迪德拉。算是吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E1B|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A reflection of Clavicus's better nature. Or worse. Hard to say.",
+    "string": "卡拉威库斯善良本性的体现。抑或更糟。难以断言。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E1C|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Think of me as Clavicus's leash... except he's the one pulling it.",
+    "string": "把我当作卡拉威库斯的牵引绳吧……只不过这次是他牵着我走。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E1D|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A Daedric shapeshifter trapped as man's best friend. Irony, huh?",
+    "string": "一位被困于人类最忠实伙伴之躯的迪德拉变形者。讽刺啊，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E1E|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm Oblivion's goodest boy and worst nightmare rolled into one.",
+    "string": "我是湮灭最乖巧的男孩，也是最可怕的噩梦——二者合而为一。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E1F|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm whatever annoys Clavicus the most. Right now, that's a dog.",
+    "string": "我就是最惹恼卡拉威库斯的东西。眼下，那是个狗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArcBarbasAboutYouTopicA9",
+    "form_id": "01000DDC|BDA.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can I keep you as a follower after the quest?",
+    "string": "任务结束后，我还能把你当作随从吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E20|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, flattery! But I've got a Daedric Prince to annoy.",
+    "string": "哎呀，奉承话！但我得去惹恼一位迪德拉君王呢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E21|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tempting. But Clavicus might frown on a permanent vacation.",
+    "string": "诱人。但卡拉威库斯或许会对永久性休假皱眉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E22|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sure, if you like me blocking doors and eating your boots.",
+    "string": "当然，如果你喜欢我挡住门还吃掉你的靴子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E23|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You couldn't handle me full time. Too much awesome.",
+    "string": "你可承受不了我全天候的陪伴。太过耀眼了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E24|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'd say yes, but Clavicus likes to keep me on a short leash.",
+    "string": "我本想答应，但卡拉威库斯总爱拴着我，不让我自由行动。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E25|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm flattered. But no. Probably.",
+    "string": "我受宠若惊。但不行。大概吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E26|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'd regret it. I shed. A lot.",
+    "string": "你会后悔的。我掉毛。掉很多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E27|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'd love to. But Clavicus would turn you into a sweetroll for trying.",
+    "string": "我当然愿意。但卡拉威库斯会把你变成甜卷作为惩罚。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E28|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah, no. You couldn't afford my contract.",
+    "string": "不，你付不起我的契约。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E32|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lied? Me? Never! I... simply withheld certain Daedric truths. Totally different",
+    "string": "撒谎？我？才不会！我……只是隐瞒了某些迪德拉的真相。完全不同。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E32|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E33|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey, I didn't lie. I said I couldn't join you THEN. This is NOW.",
+    "string": "喂，我没说谎。我说的是当时不能和你一起去。现在是现在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E33|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E34|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pfft. Join? Nah. I'm freelancing. Big difference.",
+    "string": "噗。加入？才不呢。我可是自由职业者。差远了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E34|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E35|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're acting like you don't want me around. Rude.",
+    "string": "你表现得好像不愿我待在这儿似的。真没礼貌。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E35|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E36|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm joining you for now. Don't get clingy, mortal.",
+    "string": "我暂时陪你。别黏人，凡人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E36|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E37|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You say 'lied,' I say 'creative contract negotiation.'",
+    "string": "你说“撒谎”，我说“富有创意的契约谈判”。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E37|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E38|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Relax. I've got time. Clavicus is busy... counting his regrets.",
+    "string": "放松。我有的是时间。卡拉威库斯正忙着……统计他的遗憾。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E38|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E39|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You summoned me. That makes this YOUR fault, technically.",
+    "string": "是你召唤了我。严格来说，这错在你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E39|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E3A|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's not joining-it's... temporary Daedric consultation services.",
+    "string": "这不是加入——是...临时迪德拉咨询服务。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E3A|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E3B|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't think of me as a follower. Think of me as a sarcastic bodyguard.",
+    "string": "别把我当成随从。把我当成一个讽刺的保镖。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E3B|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E3C|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course I'm joining you. Someone's gotta make sure you don't die pantsless again.",
+    "string": "当然要跟你一起去。总得有人确保你不会再光着屁股死掉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E3C|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E3D|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lied? I didn't lie. I evolved my opinion of you after watching you kill 50 dragons naked.",
+    "string": "撒谎？我没撒谎。是在看你赤身裸体杀掉五十条龙之后，我才对你改观的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E3D|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E3E|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Join you? Don't flatter yourself. I'm here for the snacks.",
+    "string": "加入你？别自作多情了。我来这儿是为了零食。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E3E|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E3F|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Clavicus said I could use this as a 'learning experience.' He meant for YOU.",
+    "string": "卡拉威库斯说我能把这事当作\"学习经历\"。他指的是你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E3F|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E40|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This isn't 'joining.' This is babysitting with extra steps.",
+    "string": "这可不是\"加入\"。这不过是带孩子的活儿，还多加了几道工序。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E40|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E41|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh look! The Player toggled my summon spell. Again.",
+    "string": "噢看！玩家又切换了我的召唤法术。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E41|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E42|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Joining you? Nah. You just modded me into your party, didn't you?",
+    "string": "加入你们？才不呢。你不过是把我改进了你的队伍里，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E42|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E43|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This isn't lore-friendly, you know. But let's roll with it.",
+    "string": "这不符合设定，你知道的。不过我们姑且这么办吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E43|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E44|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Joining? I call this a hostage situation.",
+    "string": "加入？我称之为人质事件。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E44|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E45|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're lucky Clavicus doesn't charge a monthly subscription for me.",
+    "string": "你真走运，卡拉威库斯没对我收取月费。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E45|BDA.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You lied! Are you really joining me?",
+    "string": "你撒谎！你真的要加入我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArcBarbasAboutYouTopicA10",
+    "form_id": "01000DDD|BDA.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me something weird about you.",
+    "string": "说说你的怪事吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E29|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can sniff out Daedra from miles away. Also bacon.",
+    "string": "我能从几英里外嗅出迪德拉的气息。还有培根。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E2A|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I once spent a century as a floating eyeball. Don't recommend.",
+    "string": "我曾以漂浮眼球的形态过一个世纪。不推荐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E2B|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I dream in colors mortals can't see. Trippy, huh?",
+    "string": "我梦见凡人看不见的色彩。很迷幻吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E2C|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Clavicus once turned me into a chair. For a week.",
+    "string": "卡拉威库斯曾把我变成一把椅子。整整一周。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E2D|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've got a better singing voice than most bards. Fight me.",
+    "string": "我的歌喉比大多数吟游诗人都好。敢不敢来比比看？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E2E|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know where all the socks in Nirn go. It's horrifying.",
+    "string": "我知道奈恩上所有袜子都去了哪里。这景象令人毛骨悚然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E2F|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can fetch souls. Like, literally fetch them. Good boy, me.",
+    "string": "我能召唤灵魂。真的，就是字面意义上的召唤。我真是个好孩子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E30|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've been banned from six realms for excessive barking.",
+    "string": "我因过度吠叫被六个位面封禁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000E31|BDA.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sometimes I walk on two legs just to freak people out.",
+    "string": "有时我故意用两条腿走路，就为了吓唬人。",
+    "status": "TranslationComplete"
+  }
+]

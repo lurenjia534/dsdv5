@@ -1,0 +1,92 @@
+[
+  {
+    "editor_id": "_JC_JudgementCutMGEF",
+    "form_id": "05000801|JudgementCut.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Dimensional slashes doing a total of <120> damage.",
+    "string": "次元斩会造成 <120> 点总伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_JC_ActivateSpellMGEF",
+    "form_id": "05000810|JudgementCut.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Judgement Cut",
+    "string": "次元斩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_JC_ActivateSpellMGEF",
+    "form_id": "05000810|JudgementCut.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Dimensional slashes doing a total of <120> damage.",
+    "string": "次元斩会造成 <120> 点总伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_JC_ActivateSpellCostMGEF",
+    "form_id": "05000813|JudgementCut.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Judgement Cut",
+    "string": "次元斩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_JC_ActivateSpellMGEF_Manual",
+    "form_id": "05000818|JudgementCut.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Judgement Cut",
+    "string": "次元斩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_JC_ActivateSpellMGEF_Manual",
+    "form_id": "05000818|JudgementCut.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Dimensional slashes doing a total of <120> damage.",
+    "string": "次元斩会造成 <120> 点总伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_JC_ActivateSpell_Power",
+    "form_id": "05000811|JudgementCut.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Judgement Cut",
+    "string": "次元斩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_JC_ActivateSpell_Spell",
+    "form_id": "05000812|JudgementCut.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Judgement Cut",
+    "string": "次元斩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_JC_SpellTome",
+    "form_id": "05000819|JudgementCut.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Judgement Cut",
+    "string": "法术书：次元斩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_JC_SpellTome",
+    "form_id": "05000819|JudgementCut.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nJudgement Cut",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n次元斩",
+    "status": "TranslationComplete"
+  }
+]

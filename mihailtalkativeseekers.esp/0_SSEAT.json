@@ -1,0 +1,83 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "05000802|mihailtalkativeseekers.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You dare to disturb my eternal research, now you must perish by my wrath!",
+    "string": "你竟敢打扰我永恒的研究，现在你必将在我的怒火中毁灭！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000803|mihailtalkativeseekers.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Use me to destroy this lesser creature, my Lord!",
+    "string": "用我来摧毁这个低等生物，吾主！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000804|mihailtalkativeseekers.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your existence is not worthy of a single note in the archives of Apocrypha!",
+    "string": "你的存在，根本没资格在异典的档案中留下片纸只字！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000805|mihailtalkativeseekers.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The mind of an illiterate implodes in the face of the forbidden knowledge!",
+    "string": "在禁忌知识面前，无知者的心智只会瞬间崩溃！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000806|mihailtalkativeseekers.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My Master's eyes are everywhere and his mind knows everything... There is no escape for you!",
+    "string": "吾主的慧眼无处不在，其思绪通晓万物……你无处可逃！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000807|mihailtalkativeseekers.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Soon you will be a hollow shell in the halls of Apocrypha, wandering aimlessly through eternity...",
+    "string": "很快，你就会变成一具空洞的躯壳，在异典的殿堂里永世漫无目的地游荡……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000808|mihailtalkativeseekers.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No sword, shield or incantation can stand against my arcane mastery!",
+    "string": "无论是刀剑，盾牌还是咒语，都无法与我的奥术造诣相抗衡！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000809|mihailtalkativeseekers.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No desires, no passions, no fears, no joys, only knowledge matters!",
+    "string": "没有欲望，没有激情，没有恐惧，没有喜悦，唯有知识才是一切！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080A|mihailtalkativeseekers.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Endless libraries of unread mysteries await me once you're dropped dead.",
+    "string": "等你一死，那藏着无数未解之谜的浩瀚书库就将向我敞开。",
+    "status": "TranslationComplete"
+  }
+]

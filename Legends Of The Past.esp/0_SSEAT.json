@@ -1,0 +1,821 @@
+[
+  {
+    "editor_id": "00Invisibility",
+    "form_id": "0200087B|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "00Invisibility",
+    "string": "00隐形",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "30HEAVYARMORAA",
+    "form_id": "0200081B|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "30 HEAVYARMORAA",
+    "string": "50 HEAVYARMORAA",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "25TwoHandedAA",
+    "form_id": "0200081E|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "25TwoHandedAA",
+    "string": "50TwoHandedAA",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "30SpeechAA",
+    "form_id": "02000820|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "30SpeechAA",
+    "string": "75SpeechAA",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "30DestructionAA",
+    "form_id": "02000822|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "30DestructionAA",
+    "string": "50DestructionAA",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonDeck001",
+    "form_id": "02000800|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "The Fire Queen",
+    "string": "火龙女王",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonDeck002",
+    "form_id": "02000802|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Fire Dragon",
+    "string": "火龙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonDeck003",
+    "form_id": "02000803|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "The Frost Queen",
+    "string": "霜龙女王",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonDeck005",
+    "form_id": "02000806|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Fire Dragon",
+    "string": "火龙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonDeck004",
+    "form_id": "02000808|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Frost Dragon",
+    "string": "霜龙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonDeck008",
+    "form_id": "0200080C|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Frost Dragon",
+    "string": "霜龙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck001",
+    "form_id": "02000814|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "High Hrothgar",
+    "string": "高吼修道院",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck001",
+    "form_id": "02000814|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Time between shouts reduced by 25%",
+    "string": "龙吼冷却时间减少25%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck002",
+    "form_id": "02000815|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Markarth",
+    "string": "马卡斯城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck002",
+    "form_id": "02000815|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "+30 Hevy Armor",
+    "string": "重甲技能提升50点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck003",
+    "form_id": "02000816|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Windhelm",
+    "string": "风舵城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck003",
+    "form_id": "02000816|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "+25 Two-Handed",
+    "string": "双手技能提升50点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck004",
+    "form_id": "02000817|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Whiterun",
+    "string": "白漫领",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck004",
+    "form_id": "02000817|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "+30 Speech",
+    "string": "口才技能提升75点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck005",
+    "form_id": "02000818|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Winterhold",
+    "string": "冬堡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck005",
+    "form_id": "02000818|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "+30 Destruction",
+    "string": "毁灭技能提升50点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck006",
+    "form_id": "02000819|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Riften",
+    "string": "裂谷城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck006",
+    "form_id": "02000819|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "+25 Fortify Sneak",
+    "string": "潜行技能提升25点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck007",
+    "form_id": "0200081A|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Solitude",
+    "string": "独孤城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LocationDeck007",
+    "form_id": "0200081A|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "+35 Marksman",
+    "string": "弓箭技能提升35点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalsDeck001",
+    "form_id": "0200085A|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bear",
+    "string": "熊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalsDeck001",
+    "form_id": "0200085A|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "+50 Carry Weight",
+    "string": "负重提升50点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalsDeck002",
+    "form_id": "0200085C|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Wolf",
+    "string": "狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalsDeck002",
+    "form_id": "0200085C|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "+40% Movement Speed",
+    "string": "移速提升40%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalsDeck003",
+    "form_id": "02000862|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Snow Sabre Cat",
+    "string": "雪地剑齿虎",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalsDeck003",
+    "form_id": "02000862|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "+150 Stamina, +50 Regeneration Stamina, +50 Muffle",
+    "string": "体力提升150点,体力恢复提升50%,移动噪音减少50%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalsDeck004",
+    "form_id": "02000863|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Law Of Force",
+    "string": "吼声之道",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionDeck003",
+    "form_id": "02000868|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Thieves Guild",
+    "string": "盗贼公会",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionDeck003",
+    "form_id": "02000868|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "+25 Fortify Sneak, Pickpoket, Lockpicking",
+    "string": "潜行，扒窃，开锁技能提升50点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionDeck004",
+    "form_id": "02000869|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dark Brotherhood",
+    "string": "黑暗兄弟会",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionDeck004",
+    "form_id": "02000869|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Shadow of Boethiah..",
+    "string": "波耶西亚之影..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionDeck007",
+    "form_id": "0200086F|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "College Of Winterhold",
+    "string": "冬堡学院",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionDeck007",
+    "form_id": "0200086F|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "+50 Destruction",
+    "string": "毁灭系技能提升85点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionDeck003Extra",
+    "form_id": "02000883|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Thieves Guild",
+    "string": "盗贼公会",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionDeck003Extra",
+    "form_id": "02000883|Legends Of The Past.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "+25 Fortify Sneak, Pickpoket, Lockpicking, Invisibility ",
+    "string": "潜行，扒窃，开锁，隐匿技能提升50点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonDeck006Misc",
+    "form_id": "0200082E|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fire Egg",
+    "string": "火龙蛋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonDeck007Misc",
+    "form_id": "0200082F|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Frost Egg",
+    "string": "霜龙蛋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonDeck009Misc",
+    "form_id": "02000830|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Special Card",
+    "string": "特殊卡牌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonDeck010Misc",
+    "form_id": "02000831|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Special Card",
+    "string": "特殊卡牌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CreatureDeck001Misc",
+    "form_id": "02000836|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hagraven",
+    "string": "乌鸦鬼婆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CreatureDeck002Misc",
+    "form_id": "02000838|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chaurus",
+    "string": "巢螋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CreatureDeck003Misc",
+    "form_id": "02000839|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Spider",
+    "string": "蜘蛛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CreatureDeck004Misc",
+    "form_id": "0200083A|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Giant",
+    "string": "巨人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CreatureDeck005Misc",
+    "form_id": "0200083B|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Atronach",
+    "string": "元素",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CreatureDeck006Misc",
+    "form_id": "0200083C|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Special Card",
+    "string": "特殊卡牌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CreatureDeck007Misc",
+    "form_id": "0200083D|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Troll",
+    "string": "巨魔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CreatureDeck008Misc",
+    "form_id": "0200083E|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Spriggan",
+    "string": "树精",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CreatureDeck009Misc",
+    "form_id": "02000846|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Draugr Deathlord",
+    "string": "尸鬼死亡领主",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CreatureDeck010Misc",
+    "form_id": "02000848|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Skeleton",
+    "string": "骷髅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalsDeck005Misc",
+    "form_id": "0200084A|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wolf",
+    "string": "狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalsDeck006Misc",
+    "form_id": "0200084B|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Elk",
+    "string": "麋鹿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalsDeck007Misc",
+    "form_id": "0200084C|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Rat",
+    "string": "鼠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalsDeck008Misc",
+    "form_id": "0200084D|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Special Card",
+    "string": "特殊卡牌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalsDeck009Misc",
+    "form_id": "0200084E|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Skeever",
+    "string": "恶鼠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalsDeck010Misc",
+    "form_id": "02000858|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mudcrab",
+    "string": "泥沼蟹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionDeck005Misc",
+    "form_id": "02000871|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Silence, my brother",
+    "string": "安静, 我的兄弟",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionDeck001Misc",
+    "form_id": "02000873|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Stormcloack",
+    "string": "风暴斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionDeck002Misc",
+    "form_id": "02000875|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Imperial Legion",
+    "string": "帝国军团",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionDeck006Misc",
+    "form_id": "02000877|Legends Of The Past.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "The Companions",
+    "string": "战友团",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Ansilvund01",
+    "form_id": "000152C0|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Ansilvund Excavation",
+    "string": "安息坟洞穴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ClearspringTarn01",
+    "form_id": "000152A2|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Clearspring Cave",
+    "string": "清泉洞穴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LostEchoCave01",
+    "form_id": "00015253|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Lost Echo Cave",
+    "string": "失落之声洞穴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenBeggarsRow",
+    "form_id": "00089D51|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Beggar's Row",
+    "string": "乞丐的平房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HaemarsShame02",
+    "form_id": "000216BB|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Haemar's Shame",
+    "string": "海玛之羞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HaemarsShame01",
+    "form_id": "00015268|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Haemar's Cavern",
+    "string": "海玛洞窟",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenRatway01",
+    "form_id": "0003B698|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Ratway",
+    "string": "鼠道",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunJorrvaskrBasement",
+    "form_id": "0007947A|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Jorrvaskr Living Quarters",
+    "string": "勇士之家居住区",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Avanchnzel03",
+    "form_id": "0004C6DD|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Avanchnzel Boilery",
+    "string": "阿旺晨泽尔·蒸汽管线区",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenRaggedFlagon",
+    "form_id": "00016BCF|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Ragged Flagon",
+    "string": "漏壶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Labyrinthian01",
+    "form_id": "00083559|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Labyrinthian",
+    "string": "迷城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunDragonsreach",
+    "form_id": "000165A3|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dragonsreach",
+    "string": "龙临堡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeWinkingSkeever",
+    "form_id": "00016A0E|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Winking Skeever",
+    "string": "眨眼恶鼠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeCastleDour",
+    "form_id": "000213A0|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Castle Dour",
+    "string": "阴郁堡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Skuldafn01",
+    "form_id": "000A0877|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Skuldafn Temple",
+    "string": "斯库达芬神殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BleakFallsBarrow02",
+    "form_id": "000371DD|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Bleak Falls Sanctum",
+    "string": "荒瀑圣所",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WinterholdCollegeHallofCountenance",
+    "form_id": "0001380F|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hall of Countenance",
+    "string": "面容之殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthShrineofTalos",
+    "form_id": "00016DF7|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Shrine of Talos",
+    "string": "塔洛斯祭坛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmPalaceoftheKings",
+    "form_id": "0001677C|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Palace of the Kings",
+    "string": "众王之殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmHalloftheDead",
+    "form_id": "00016786|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hall of the Dead",
+    "string": "亡者之厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HelgenKeep01",
+    "form_id": "0005DE24|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Helgen Keep",
+    "string": "赫迩镇要塞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DustmansCairn01",
+    "form_id": "0001528C|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dustman's Cairn",
+    "string": "清道夫石冢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WinterholdCollegeArcanaeum",
+    "form_id": "00013810|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Arcanaeum",
+    "string": "秘藏馆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TolvaldsCave01",
+    "form_id": "00015201|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Tolvald's Cave",
+    "string": "托沃德洞穴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DarkBrotherhoodSanctuary",
+    "form_id": "000AD5A1|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dark Brotherhood Sanctuary",
+    "string": "黑暗兄弟会圣所",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FellglowKeep01",
+    "form_id": "00015283|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fellglow Keep Dungeons",
+    "string": "光落堡垒地牢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  }
+]

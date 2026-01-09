@@ -1,0 +1,335 @@
+[
+  {
+    "editor_id": "kgEEP_ControllerEffect_OptionsMenu",
+    "form_id": "06000002|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Open the East Empire Expansion Modified Patch menu for changing the way the East Empire Expansion works.",
+    "string": "打开“东帝国扩展修改补丁”菜单，更改东帝国扩展的工作方式。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgcEEC_OutpostMerchant_Whiterun",
+    "form_id": "050080C6|KinggathCreations_EastEmpireCompany.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "East Empire Merchant",
+    "string": "东帝国商人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgcEEC_OutpostMerchant_Falkreath",
+    "form_id": "050080D7|KinggathCreations_EastEmpireCompany.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "East Empire Merchant",
+    "string": "东帝国商人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgcEEC_OutpostMerchant_Morthal",
+    "form_id": "050080DB|KinggathCreations_EastEmpireCompany.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "East Empire Merchant",
+    "string": "东帝国商人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgcEEC_OutpostMerchant_Solitude",
+    "form_id": "050080DE|KinggathCreations_EastEmpireCompany.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "East Empire Merchant",
+    "string": "东帝国商人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgcEEC_OutpostMerchant_Markarth",
+    "form_id": "050080E8|KinggathCreations_EastEmpireCompany.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "East Empire Merchant",
+    "string": "东帝国商人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgcEEC_OutpostMerchant_RavenRock",
+    "form_id": "050080E9|KinggathCreations_EastEmpireCompany.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "East Empire Merchant",
+    "string": "东帝国商人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgcEEC_OutpostMerchant_Riften",
+    "form_id": "050080EA|KinggathCreations_EastEmpireCompany.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "East Empire Merchant",
+    "string": "东帝国商人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgcEEC_OutpostMerchant_Windhelm",
+    "form_id": "050080EB|KinggathCreations_EastEmpireCompany.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "East Empire Merchant",
+    "string": "东帝国商人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgcEEC_OutpostMerchant_Dawnstar",
+    "form_id": "050080EC|KinggathCreations_EastEmpireCompany.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "East Empire Merchant",
+    "string": "东帝国商人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgcEEC_OutpostMerchant_Winterhold",
+    "form_id": "050080ED|KinggathCreations_EastEmpireCompany.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "East Empire Merchant",
+    "string": "东帝国商人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_Potion_TriggerOptionsMenu",
+    "form_id": "06000003|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "EEE Options Menu",
+    "string": "东帝国公司扩展选项菜单",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "StonehillsMine",
+    "form_id": "0002E760|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Rockwallow Mine",
+    "string": "滚石矿场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GloomboundMine01",
+    "form_id": "00016200|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Gloombound Mine",
+    "string": "昏暗边界矿场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KarthwastenSanuarachMine",
+    "form_id": "00013909|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Sanuarach Mine",
+    "string": "索兰那驰矿坑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DawnstarQuicksilverMine",
+    "form_id": "0002C779|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Quicksilver Mine",
+    "string": "水银矿坑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_HomeDropOffExplanation",
+    "form_id": "0600000C|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cheat Unlocked Home Drop-Off\r\n\r\nYou can now drop East Empire Drop Off Points in your homes to have them show up as a destination when using East Empire Relics. Purchase more from East Empire Merchants to place them in additional homes. Note: You may need to wait 48 hours for merchant inventory reset.",
+    "string": "作弊解锁：家中交付点设置\r\n\r\n您现可在自有住宅中设置东帝国公司交付点。此后使用东帝国公司遗物时，该住宅将显示为可传送目的地。如需在更多住宅中设置此点，请向东帝国公司商人购买更多交付点装置。注意： 商人库存可能需要等待48小时才会刷新。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_OptionsMenu",
+    "form_id": "0600000D|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "EEE Modified Patch Options",
+    "string": "东帝国公司扩展选项",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_OptionsMenu",
+    "form_id": "0600000D|kinggath_eastempiremodifiedpatch.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "退出",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_OptionsMenu",
+    "form_id": "0600000D|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Autoloot System: ON",
+    "string": "自动搜掠系统：开启",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_OptionsMenu",
+    "form_id": "0600000D|kinggath_eastempiremodifiedpatch.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Autoloot System: OFF",
+    "string": "自动搜掠系统：关闭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_OptionsMenu",
+    "form_id": "0600000D|kinggath_eastempiremodifiedpatch.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Dungeon Claims: ON",
+    "string": "地牢占领：开启",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_OptionsMenu",
+    "form_id": "0600000D|kinggath_eastempiremodifiedpatch.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Dungeon Claims: OFF",
+    "string": "地牢占领：关闭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_OptionsMenu",
+    "form_id": "0600000D|kinggath_eastempiremodifiedpatch.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Dungeon Mining: ON",
+    "string": "地牢挖矿：开启",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_OptionsMenu",
+    "form_id": "0600000D|kinggath_eastempiremodifiedpatch.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Dungeon Mining: OFF",
+    "string": "地牢挖矿：关闭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_OptionsMenu",
+    "form_id": "0600000D|kinggath_eastempiremodifiedpatch.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Force Unlock: Autoselling",
+    "string": "强制解锁：自动销售",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_OptionsMenu",
+    "form_id": "0600000D|kinggath_eastempiremodifiedpatch.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "Force Unlock: Home Delivery Chests",
+    "string": "强制解锁：送货上门箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_DungeonMiningExplanation_Off",
+    "form_id": "0600000E|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The EEC will no longer mine claimed dungeons.",
+    "string": "东帝国公司将不再开采已占领的地牢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_DungeonMiningExplanation_On",
+    "form_id": "0600000F|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The EEC will now mine dungeons they've laid claim to and will periodically send a portion of their findings to your chest at the corresponding outpost.",
+    "string": "东帝国公司将对已宣示所有权的地牢进行开采，并定期将部分所得送至您位于对应据点中的储物箱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_DungeonMiningExplanation_On_CheatVersion",
+    "form_id": "06000010|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cheat Unlocked Dungeon Mining\r\n\r\nThe EEC will now mine dungeons they've laid claim to and will periodically send a portion of their findings to your chest at the corresponding outpost.",
+    "string": "东帝国公司地牢采矿机制更新\r\n\r\n东帝国公司现将对已宣示所有权的地牢进行开采，并定期将所得部分收益送至您在该区域对应据点中的储物箱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_DungeonClaimExplanation_Off",
+    "form_id": "06000005|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The EEC will no longer lay claim to new dungeons after an East Empire Relic is used within.",
+    "string": "在东帝国公司遗物于地牢内使用后，该公司将不再宣示对该新地牢的所有权。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_DungeonClaimExplanation_On_CheatVersion",
+    "form_id": "06000007|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cheat Unlocked Dungeon Claiming\r\n\r\nAfter using an East Empire Relic in a dungeon, if the Jarl of the Hold the dungeon is associated with has been convinced to let the EEC operate, they will claim the dungeon placing guards and flags.",
+    "string": "作弊解锁：地牢宣称系统\r\n\r\n在地牢中使用东帝国公司遗物后，若该地牢所属领地的领主已被说服允许东帝国公司运营，则公司将宣称占领该地牢，并部署守卫与旗帜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_DungeonClaimExplanation_On",
+    "form_id": "06000006|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "After using an East Empire Relic in a dungeon, if the Jarl of the Hold the dungeon is associated with has been convinced to let the EEC operate, they will claim the dungeon placing guards and flags.",
+    "string": "在地牢中使用东帝国公司遗物后，若该地牢所属领地的领主已被说服允许东帝国公司运营，则公司将宣称占领此地牢，并部署守卫与旗帜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_AutoLootExplanation_Off",
+    "form_id": "06000008|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The EEC will no longer grab leftover items from other container you opened in the dungeon when picking up Relic Containers.",
+    "string": "东帝国公司在拾取遗物容器时，将不再会收取您已在该地牢中打开的其他容器内的遗留物品。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_AutoLootExplanation_On_CheatVersion",
+    "form_id": "0600000A|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cheat Unlocked Autolooting\r\n\r\nWhen picking up Relic Containers, the EEC will now also grab any leftover loot in containers you opened throughout the same dungeon.",
+    "string": "作弊解锁：自动搜掠\r\n\r\n拾取遗物容器时，东帝国公司现将同时收取您于同一地牢内已打开的其他容器中的所有遗留战利品。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_AutoLootExplanation_On",
+    "form_id": "06000009|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When picking up Relic Containers, the EEC will now also grab any leftover loot in containers you opened throughout the same dungeon.",
+    "string": "拾取遗物容器时，东帝国公司将同时收取您在同一地牢内已打开的所有容器中的遗留战利品。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "kgEEP_AutoSellingExplanation",
+    "form_id": "0600000B|kinggath_eastempiremodifiedpatch.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cheat Unlocked Autoselling\r\n\r\nYou can now give items to East Empire Merchants, or send them to them via East Empire Relic deliveries to have them sold over time for you.",
+    "string": "作弊解锁：自动售卖\r\n\r\n您现可将物品直接交予东帝国公司商人，或通过东帝国公司遗物交付系统寄送，商会将随时间为您逐步售出这些物品。",
+    "status": "TranslationComplete"
+  }
+]

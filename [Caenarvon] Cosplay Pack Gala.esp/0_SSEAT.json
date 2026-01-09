@@ -1,0 +1,3719 @@
+[
+  {
+    "editor_id": "aCPGalaDressA",
+    "form_id": "01000A1A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Thorn Princess' - Bloody Rose",
+    "string": "变装盛典礼服 '荆棘公主' - 血色玫瑰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongA",
+    "form_id": "01000B52|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie G-String - Noire",
+    "string": "变装盛典内裤 G弦带式 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongB",
+    "form_id": "01000B53|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie T-String - Noire",
+    "string": "变装盛典内裤 T弦带式 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongC",
+    "form_id": "01000B54|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Thong - Noire",
+    "string": "变装盛典内裤 丁字裤 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongD",
+    "form_id": "01000B55|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Pearl-String - Noire",
+    "string": "变装盛典内裤 珍珠系带式 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongE",
+    "form_id": "01000B56|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Lace Tanga - Noire",
+    "string": "变装盛典内裤 蕾丝坦加裤 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongF",
+    "form_id": "01000B57|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Chain-String - Celestine",
+    "string": "变装盛典内裤 锁链系带式 - 天青石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongALewd",
+    "form_id": "01000B58|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie G-String - Noire (Lewd)",
+    "string": "变装盛典内裤 G弦带式 - 玄墨 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongBLewd",
+    "form_id": "01000B59|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie T-String - Noire (Lewd)",
+    "string": "变装盛典内裤 T弦带式 - 玄墨 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongCLewd",
+    "form_id": "01000B5A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Thong - Noire (Lewd)",
+    "string": "变装盛典内裤 丁字裤 - 玄墨 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongDLewd",
+    "form_id": "01000B5B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Pearl-String - Noire (Lewd)",
+    "string": "变装盛典内裤 珍珠系带式 - 玄墨 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongELewd",
+    "form_id": "01000B5C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Lace Tanga - Noire (Lewd)",
+    "string": "变装盛典内裤 蕾丝坦加裤 - 玄墨 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongFLewd",
+    "form_id": "01000B5D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Chain-String - Celestine (Lewd)",
+    "string": "变装盛典内裤 锁链系带式 - 天青石 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA",
+    "form_id": "01000B69|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Strapped - Noire",
+    "string": "变装盛典鞋履 细高跟绑带款 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA2",
+    "form_id": "01000B6A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Ribbon - Noire",
+    "string": "变装盛典鞋履 细高跟系带款 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB",
+    "form_id": "01000B6B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Strapped - Noire",
+    "string": "变装盛典鞋履 高跟绑带款 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB2",
+    "form_id": "01000B6C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Ribbon - Noire",
+    "string": "变装盛典鞋履 高跟系带款 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC",
+    "form_id": "01000B6D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Strapped - Noire",
+    "string": "变装盛典鞋履 凉鞋绑带款 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC2",
+    "form_id": "01000B6E|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Ribbon - Noire",
+    "string": "变装盛典鞋履 凉鞋系带款 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD",
+    "form_id": "01000B6F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Strapped - Noire",
+    "string": "变装盛典鞋履 粗高跟绑带款 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD2",
+    "form_id": "01000B70|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Ribbon - Noire",
+    "string": "变装盛典鞋履 粗高跟系带款 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE",
+    "form_id": "01000B71|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Strapped - Noire",
+    "string": "变装盛典鞋履 厚底绑带款 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE2",
+    "form_id": "01000B72|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Ribbon - Noire",
+    "string": "变装盛典鞋履 厚底系带款 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceA",
+    "form_id": "01000B7F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Fleur de Nacre'",
+    "string": "变装盛典项链 '珠贝之花'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceB",
+    "form_id": "01000B80|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Resonance'",
+    "string": "变装盛典项链 '共鸣'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceC",
+    "form_id": "01000B81|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'La Cerisers'",
+    "string": "变装盛典项链 '樱桃园'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceD",
+    "form_id": "01000B82|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'San Corazon'",
+    "string": "变装盛典项链 '圣心'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceE",
+    "form_id": "01000B83|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Elizabeth's Rose'",
+    "string": "变装盛典项链 '伊丽莎白的玫瑰'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceF",
+    "form_id": "01000B84|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Lunarian'",
+    "string": "变装盛典项链 '月之民'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceG",
+    "form_id": "01000B85|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Prinz Erika'",
+    "string": "变装盛典项链 '艾瑞卡公主'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceH",
+    "form_id": "01000B86|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Fil de Lys'",
+    "string": "变装盛典项链 '百合丝带'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceI",
+    "form_id": "01000B87|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Rio de Plata'",
+    "string": "变装盛典项链 '白银之河'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceJ",
+    "form_id": "01000B88|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Les Deux Soeurs''",
+    "string": "变装盛典项链 '两姐妹'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceK",
+    "form_id": "01000B89|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Torquem Augusta'",
+    "string": "变装盛典项链 '奥古斯塔颈环'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceL",
+    "form_id": "01000B8A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker Golden Order",
+    "string": "变装盛典项圈 黄金律法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerA",
+    "form_id": "01000B8E|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker 'Prismarine'",
+    "string": "变装盛典项圈 '海晶石'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerB",
+    "form_id": "01000B8F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker 'Seraphim'",
+    "string": "变装盛典项圈 '炽天使'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerC",
+    "form_id": "01000B90|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker 'Orion'",
+    "string": "变装盛典项圈 '猎户座'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaCrownA",
+    "form_id": "01000BA0|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Crown of Catherine",
+    "string": "变装盛典头冠 凯瑟琳之冠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaCrownB",
+    "form_id": "01000BA1|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Crown of Augusta",
+    "string": "变装盛典头冠 奥古斯塔之冠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaCrownC",
+    "form_id": "01000BA2|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Crown of Elizabeth",
+    "string": "变装盛典头冠 伊丽莎白之冠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaEarringsA",
+    "form_id": "01000BA3|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Earrings 'Neptunian'",
+    "string": "变装盛典耳环 '海神'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaEarringsB",
+    "form_id": "01000BA4|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Earrings 'Morgentau'",
+    "string": "变装盛典耳环 '晨露'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaEarringsC",
+    "form_id": "01000BA5|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Earrings 'Mermaid's Tear'",
+    "string": "变装盛典耳环 '人鱼之泪'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaEarringsD",
+    "form_id": "01000BA6|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Earrings 'Miroirduciel'",
+    "string": "变装盛典耳环 '天镜'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaEarringsE",
+    "form_id": "01000BA7|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Earrings 'Rio de Plata'",
+    "string": "变装盛典耳环 '白银之河'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaEarringsF",
+    "form_id": "01000BA8|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Earrings 'Full Moon'",
+    "string": "变装盛典耳环 '满月'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaEarringsG",
+    "form_id": "01000BA9|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Earrings 'Lysdeglace'",
+    "string": "变装盛典耳环 '冰晶百合'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaEarringsH",
+    "form_id": "01000BAA|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Earrings 'Heartlocke'",
+    "string": "变装盛典耳环 '心之锁'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaEarringsI",
+    "form_id": "01000BAB|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Earrings 'Givree'",
+    "string": "变装盛典耳环 '糖霜'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaEarringsJ",
+    "form_id": "01000BAC|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Earrings 'Sunnyside'",
+    "string": "变装盛典耳环 '向阳面'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaEarringsK",
+    "form_id": "01000BAD|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Earrings 'Columbina'",
+    "string": "变装盛典耳环 '鸽女'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaEarringsL",
+    "form_id": "01000BAE|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Earrings 'Ashen Star'",
+    "string": "变装盛典耳环 '灰烬之星'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaArmletA",
+    "form_id": "01000BCB|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Armlet Coil",
+    "string": "变装盛典臂环 螺旋款",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaArmletB",
+    "form_id": "01000BCC|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Armlet 'Chainon'",
+    "string": "变装盛典臂环 '链节'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaArmletC",
+    "form_id": "01000BCD|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Armlet 'Eisglanz'",
+    "string": "变装盛典臂环 '冰晶'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaArmletD",
+    "form_id": "01000BCE|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Armlet 'Golden Order'",
+    "string": "变装盛典臂环 '黄金律法'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaArmletE",
+    "form_id": "01000BCF|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Armlet Silverwork",
+    "string": "变装盛典臂环 银丝工艺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaArmletF",
+    "form_id": "01000BD0|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Armlet Hammered",
+    "string": "变装盛典臂环 锻打工艺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaArmletG",
+    "form_id": "01000BD1|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Armlet 'Celestia'",
+    "string": "变装盛典臂环 '天界'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaArmletH",
+    "form_id": "01000BD2|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Armlet Copperwork",
+    "string": "变装盛典臂环 铜丝工艺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaArmletI",
+    "form_id": "01000BD3|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Armlet Swirl",
+    "string": "变装盛典臂环 旋涡纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaArmletJ",
+    "form_id": "01000BD4|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Armlet Spiral",
+    "string": "变装盛典臂环 螺旋纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaArmletK",
+    "form_id": "01000BD5|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Armlet Simple",
+    "string": "变装盛典臂环 简约款",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBraceletA",
+    "form_id": "01000BD6|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Bracelet Coil",
+    "string": "变装盛典手链 螺旋款",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBraceletB",
+    "form_id": "01000BD7|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Bracelet 'Chainon'",
+    "string": "变装盛典手链 '链节'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBraceletC",
+    "form_id": "01000BD8|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Bracelet 'Eisglanz'",
+    "string": "变装盛典手链 '冰晶'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBraceletD",
+    "form_id": "01000BD9|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Bracelet Hammered",
+    "string": "变装盛典手链 锻打工艺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBraceletE",
+    "form_id": "01000BDA|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Bracelet 'Winter Star'",
+    "string": "变装盛典手链 '冬星'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBraceletF",
+    "form_id": "01000BDB|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Bracelet Copperwork",
+    "string": "变装盛典手链 铜丝工艺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBraceletG",
+    "form_id": "01000BDC|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Bracelet Swirl",
+    "string": "变装盛典手链 旋涡纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBraceletH",
+    "form_id": "01000BDD|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Bracelet Spiral",
+    "string": "变装盛典手链 螺旋纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBraceletI",
+    "form_id": "01000BDE|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Bracelet 'Sandywater'",
+    "string": "变装盛典手链 '流沙'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBraceletJ",
+    "form_id": "01000BDF|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Bracelet 'Prismarine'",
+    "string": "变装盛典手链 '海晶石'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThighletA",
+    "form_id": "01000BE0|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thighlet Coil",
+    "string": "变装盛典腿环 螺旋款",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThighletB",
+    "form_id": "01000BE1|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thighlet 'Chainon'",
+    "string": "变装盛典腿环 '链节'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThighletC",
+    "form_id": "01000BE2|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thighlet 'Golden Order'",
+    "string": "变装盛典腿环 '黄金律法'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThighletD",
+    "form_id": "01000BE3|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thighlet Silverwork",
+    "string": "变装盛典腿环 银丝工艺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThighletE",
+    "form_id": "01000BE4|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thighlet Antique",
+    "string": "变装盛典腿环 古风款",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThighletF",
+    "form_id": "01000BE5|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thighlet 'Celestia'",
+    "string": "变装盛典腿环 '天界'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThighletG",
+    "form_id": "01000BE6|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thighlet Simple",
+    "string": "变装盛典腿环 简约款",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaA",
+    "form_id": "01000BEC|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Fur - Fox",
+    "string": "变装盛典毛披肩 皮草 - 赤狐",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaB",
+    "form_id": "01000BED|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Feather - Swan",
+    "string": "变装盛典毛披肩 羽毛 - 天鹅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaScarfA",
+    "form_id": "01000BEE|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Shawl - Fox",
+    "string": "变装盛典毛披肩 披巾款 - 赤狐",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaScarfB",
+    "form_id": "01000BEF|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Scarf - Fox",
+    "string": "变装盛典毛披肩 围巾款 - 赤狐",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaJacket",
+    "form_id": "01000BF0|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Jacket - Snowhare",
+    "string": "变装盛典夹克 - 雪兔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaA_2",
+    "form_id": "01000C04|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Fur - Wolf",
+    "string": "变装盛典毛披肩 皮草 - 苍狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaA_3",
+    "form_id": "01000C05|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Fur - Jackal",
+    "string": "变装盛典毛披肩 皮草 - 胡狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaB_2",
+    "form_id": "01000C06|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Feather - Raven",
+    "string": "变装盛典毛披肩 羽毛 - 渡鸦",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaB_3",
+    "form_id": "01000C07|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Feather - Flamingo",
+    "string": "变装盛典毛披肩 羽毛 - 火烈鸟",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaScarfA_2",
+    "form_id": "01000C08|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Shawl - Wolf",
+    "string": "变装盛典毛披肩 披巾款 - 苍狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaScarfA_3",
+    "form_id": "01000C09|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Shawl - Jackal",
+    "string": "变装盛典毛披肩 披巾款 - 胡狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaScarfB_2",
+    "form_id": "01000C0A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Scarf - Wolf",
+    "string": "变装盛典毛披肩 围巾款 - 苍狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaScarfB_3",
+    "form_id": "01000C0B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Scarf - Jackal",
+    "string": "变装盛典毛披肩 围巾款 - 胡狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaJacket_2",
+    "form_id": "01000C0C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Jacket - Jargua",
+    "string": "变装盛典夹克 - 美洲豹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaJacket_3",
+    "form_id": "01000C0D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Jacket - Vulture",
+    "string": "变装盛典夹克 - 秃鹫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressB",
+    "form_id": "01000C0E|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Saturnalia' - Celestine",
+    "string": "变装盛典礼服 '农神节' - 天青石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressBLewd",
+    "form_id": "01000C13|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Saturnalia' - Celestine (Lewd)",
+    "string": "变装盛典礼服 '农神节' - 天青石 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceM",
+    "form_id": "01000C14|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Cerberus' - Silver",
+    "string": "变装盛典项链 '刻耳柏洛斯' - 白银",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerD",
+    "form_id": "01000C15|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker 'San Denis' - Silver",
+    "string": "变装盛典项圈 '圣但尼' - 白银",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressALewd",
+    "form_id": "01000C17|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Thorn Princess' - Bloody Rose (Lewd)",
+    "string": "变装盛典礼服 '荆棘公主' - 血色玫瑰 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaTPBoots",
+    "form_id": "01000C1D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thorn Princess Boots",
+    "string": "变装盛典荆棘公主长靴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaTPGloves",
+    "form_id": "01000C1E|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thorn Princess Gloves",
+    "string": "变装盛典荆棘公主手套",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaTPPanty",
+    "form_id": "01000C1F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thorn Princess Panties",
+    "string": "变装盛典荆棘公主内裤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaTPPantyLewd",
+    "form_id": "01000C20|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thorn Princess Panties (Lewd)",
+    "string": "变装盛典荆棘公主内裤 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaTPGarter",
+    "form_id": "01000C21|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thorn Princess Straps",
+    "string": "变装盛典荆棘公主吊袜带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressC",
+    "form_id": "01000C24|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Rosalina' - Strawberry",
+    "string": "变装盛典礼服 '罗莎莉娜' - 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressCLewd",
+    "form_id": "01000C25|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Rosalina' - Strawberry (Lewd)",
+    "string": "变装盛典礼服 '罗莎莉娜' - 草莓 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressD",
+    "form_id": "01000C2A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Magnolia' - Dubai",
+    "string": "变装盛典礼服 '木兰花' - 迪拜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressE",
+    "form_id": "01000C2B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' - Velvet",
+    "string": "变装盛典礼服 '帕特里夏' - 天鹅绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressELewd",
+    "form_id": "01000C2C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' - Velvet (Lewd)",
+    "string": "变装盛典礼服 '帕特里夏' - 天鹅绒 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressEOutter",
+    "form_id": "01000C2D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' Overlay Blouse - Starry Sky",
+    "string": "变装盛典礼服 '帕特里夏' 叠层上衣 - 星空",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerE",
+    "form_id": "01000C2F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker Magnolia Bow - Noire",
+    "string": "变装盛典项圈 木兰花结 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressF",
+    "form_id": "01000C32|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Meeresbrise' - Seafoam",
+    "string": "变装盛典礼服 '海风' - 海沫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressFLewd",
+    "form_id": "01000C33|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Meeresbrise' - Seafoam (Lewd)",
+    "string": "变装盛典礼服 '海风' - 海沫 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerF",
+    "form_id": "01000C39|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker Belladora Bow - Motherpearl",
+    "string": "变装盛典项圈 贝拉多拉蝴蝶结 - 珠母",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressG",
+    "form_id": "01000C3A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Signora' - Dior",
+    "string": "变装盛典礼服 '女士' - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressH",
+    "form_id": "01000C3B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Belladona' - Motherpearl",
+    "string": "变装盛典礼服 '颠茄' - 珠母",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressHLewd",
+    "form_id": "01000C3C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Belladona' - Motherpearl (Lewd)",
+    "string": "变装盛典礼服 '颠茄' - 珠母 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceN",
+    "form_id": "01000C3D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Triple Gorget' - Pure Gold",
+    "string": "变装盛典项链 '三重护颈' - 纯金",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressI",
+    "form_id": "01000C42|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Buckingham' - Clearsky",
+    "string": "变装盛典礼服 '白金汉' - 晴空",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressJ",
+    "form_id": "01000C43|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Manhattan' - Onyx Stars",
+    "string": "变装盛典礼服 '曼哈顿' - 黑曜星辰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressJLewd",
+    "form_id": "01000C44|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Manhattan' - Onyx Stars (Lewd)",
+    "string": "变装盛典礼服 '曼哈顿' - 黑曜星辰 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChain",
+    "form_id": "01000C45|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Chain Harness - Silver",
+    "string": "变装盛典锁链束带 - 白银",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressK",
+    "form_id": "01000C4A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Mandarin' - Blackforest",
+    "string": "变装盛典礼服 '曼达林' - 黑森林",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressKLewd",
+    "form_id": "01000C4B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Mandarin' - Blackforest (Lewd)",
+    "string": "变装盛典礼服 '曼达林' - 黑森林 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressL",
+    "form_id": "01000C4C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Hellene' - Athenian",
+    "string": "变装盛典礼服 '海伦' - 雅典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressLArm",
+    "form_id": "01000C4D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Hellene' Armlet - Athenian",
+    "string": "变装盛典礼服 '海伦' 臂环 - 雅典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaTPHair",
+    "form_id": "01000C51|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thorn Princess Wig",
+    "string": "变装盛典荆棘公主假发",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaTPHairband",
+    "form_id": "01000C52|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thorn Princess Crown",
+    "string": "变装盛典荆棘公主头冠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaTPEarring",
+    "form_id": "01000C53|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Thorn Princess Earring",
+    "string": "变装盛典荆棘公主耳环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaScarfC",
+    "form_id": "01000C57|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Feather Scarf - Swan",
+    "string": "变装盛典毛披肩 羽毛围巾 - 天鹅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaScarfC_2",
+    "form_id": "01000C58|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Feather Scarf - Raven",
+    "string": "变装盛典毛披肩 羽毛围巾 - 渡鸦",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaScarfC_3",
+    "form_id": "01000C59|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Feather Scarf - Flamingo",
+    "string": "变装盛典毛披肩 羽毛围巾 - 火烈鸟",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA_2",
+    "form_id": "01000CB6|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Strapped - Cinderella",
+    "string": "变装盛典鞋履 细高跟绑带款 - 灰姑娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA_3",
+    "form_id": "01000CB7|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Strapped - Argentee",
+    "string": "变装盛典鞋履 细高跟绑带款 - 银光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA_4",
+    "form_id": "01000CB8|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Strapped - Dior",
+    "string": "变装盛典鞋履 细高跟绑带款 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA_5",
+    "form_id": "01000CB9|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Strapped - Strawberry",
+    "string": "变装盛典鞋履 细高跟绑带款 - 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA_6",
+    "form_id": "01000CBA|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Strapped - Bohemian",
+    "string": "变装盛典鞋履 细高跟绑带款 - 波西米亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA_7",
+    "form_id": "01000CBB|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Strapped - Sapphire",
+    "string": "变装盛典鞋履 细高跟绑带款 - 蓝宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA_8",
+    "form_id": "01000CBC|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Strapped - Dreamcore",
+    "string": "变装盛典鞋履 细高跟绑带款 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA2_2",
+    "form_id": "01000CBD|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Ribbon - Cinderella",
+    "string": "变装盛典鞋履 细高跟系带款 - 灰姑娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA2_3",
+    "form_id": "01000CBE|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Ribbon - Argentee",
+    "string": "变装盛典鞋履 细高跟系带款 - 银光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA2_4",
+    "form_id": "01000CBF|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Ribbon - Dior",
+    "string": "变装盛典鞋履 细高跟系带款 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA2_5",
+    "form_id": "01000CC0|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Ribbon - Strawberry",
+    "string": "变装盛典鞋履 细高跟系带款 - 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA2_6",
+    "form_id": "01000CC1|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Ribbon - Bohemian",
+    "string": "变装盛典鞋履 细高跟系带款 - 波西米亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA2_7",
+    "form_id": "01000CC2|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Ribbon - Sapphire",
+    "string": "变装盛典鞋履 细高跟系带款 - 蓝宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsA2_8",
+    "form_id": "01000CC3|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Stiletto Ribbon - Dreamcore",
+    "string": "变装盛典鞋履 细高跟系带款 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB_2",
+    "form_id": "01000CC5|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Strapped - Cinderella",
+    "string": "变装盛典鞋履 高跟绑带款 - 灰姑娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB_3",
+    "form_id": "01000CC6|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Strapped - Argentee",
+    "string": "变装盛典鞋履 高跟绑带款 - 银光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB_4",
+    "form_id": "01000CC7|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Strapped - Dior",
+    "string": "变装盛典鞋履 高跟绑带款 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB_5",
+    "form_id": "01000CC8|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Strapped - Strawberry",
+    "string": "变装盛典鞋履 高跟绑带款 - 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB_6",
+    "form_id": "01000CC9|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Strapped - Bohemian",
+    "string": "变装盛典鞋履 高跟绑带款 - 波西米亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB_7",
+    "form_id": "01000CCA|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Strapped - Sapphire",
+    "string": "变装盛典鞋履 高跟绑带款 - 蓝宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB_8",
+    "form_id": "01000CCB|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Strapped - Dreamcore",
+    "string": "变装盛典鞋履 高跟绑带款 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB2_2",
+    "form_id": "01000CCC|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Ribbon - Cinderella",
+    "string": "变装盛典鞋履 高跟系带款 - 灰姑娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB2_3",
+    "form_id": "01000CCD|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Ribbon - Argentee",
+    "string": "变装盛典鞋履 高跟系带款 - 银光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB2_4",
+    "form_id": "01000CCE|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Ribbon - Dior",
+    "string": "变装盛典鞋履 高跟系带款 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB2_5",
+    "form_id": "01000CCF|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Ribbon - Strawberry",
+    "string": "变装盛典鞋履 高跟系带款 - 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB2_6",
+    "form_id": "01000CD0|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Ribbon - Bohemian",
+    "string": "变装盛典鞋履 高跟系带款 - 波西米亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB2_7",
+    "form_id": "01000CD1|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Ribbon - Sapphire",
+    "string": "变装盛典鞋履 高跟系带款 - 蓝宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsB2_8",
+    "form_id": "01000CD2|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Highheels Ribbon - Dreamcore",
+    "string": "变装盛典鞋履 高跟系带款 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC_2",
+    "form_id": "01000CD3|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Strapped - Cinderella",
+    "string": "变装盛典鞋履 凉鞋绑带款 - 灰姑娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC_3",
+    "form_id": "01000CD4|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Strapped - Argentee",
+    "string": "变装盛典鞋履 凉鞋绑带款 - 银光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC_4",
+    "form_id": "01000CD5|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Strapped - Dior",
+    "string": "变装盛典鞋履 凉鞋绑带款 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC_5",
+    "form_id": "01000CD6|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Strapped - Strawberry",
+    "string": "变装盛典鞋履 凉鞋绑带款 - 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC_6",
+    "form_id": "01000CD7|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Strapped - Bohemian",
+    "string": "变装盛典鞋履 凉鞋绑带款 - 波西米亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC_7",
+    "form_id": "01000CD8|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Strapped - Sapphire",
+    "string": "变装盛典鞋履 凉鞋绑带款 - 蓝宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC_8",
+    "form_id": "01000CD9|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Strapped - Dreamcore",
+    "string": "变装盛典鞋履 凉鞋绑带款 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC2_2",
+    "form_id": "01000CDA|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Ribbon - Cinderella",
+    "string": "变装盛典鞋履 凉鞋系带款 - 灰姑娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC2_3",
+    "form_id": "01000CDB|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Ribbon - Argentee",
+    "string": "变装盛典鞋履 凉鞋系带款 - 银光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC2_4",
+    "form_id": "01000CDC|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Ribbon - Dior",
+    "string": "变装盛典鞋履 凉鞋系带款 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC2_5",
+    "form_id": "01000CDD|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Ribbon - Strawberry",
+    "string": "变装盛典鞋履 凉鞋系带款 - 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC2_6",
+    "form_id": "01000CDE|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Ribbon - Bohemian",
+    "string": "变装盛典鞋履 凉鞋系带款 - 波西米亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC2_7",
+    "form_id": "01000CDF|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Ribbon - Sapphire",
+    "string": "变装盛典鞋履 凉鞋系带款 - 蓝宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsC2_8",
+    "form_id": "01000CE0|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Sandal Ribbon - Dreamcore",
+    "string": "变装盛典鞋履 凉鞋系带款 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD_2",
+    "form_id": "01000CE1|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Strapped - Cinderella",
+    "string": "变装盛典鞋履 粗高跟绑带款 - 灰姑娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD_3",
+    "form_id": "01000CE2|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Strapped - Argentee",
+    "string": "变装盛典鞋履 粗高跟绑带款 - 银光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD_4",
+    "form_id": "01000CE3|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Strapped - Dior",
+    "string": "变装盛典鞋履 粗高跟绑带款 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD_5",
+    "form_id": "01000CE4|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Strapped - Strawberry",
+    "string": "变装盛典鞋履 粗高跟绑带款 - 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD_6",
+    "form_id": "01000CE5|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Strapped - Bohemian",
+    "string": "变装盛典鞋履 粗高跟绑带款 - 波西米亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD_7",
+    "form_id": "01000CE6|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Strapped - Sapphire",
+    "string": "变装盛典鞋履 粗高跟绑带款 - 蓝宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD_8",
+    "form_id": "01000CE7|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Strapped - Dreamcore",
+    "string": "变装盛典鞋履 粗高跟绑带款 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD2_2",
+    "form_id": "01000CE8|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Ribbon - Cinderella",
+    "string": "变装盛典鞋履 粗高跟系带款 - 灰姑娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD2_3",
+    "form_id": "01000CE9|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Ribbon - Argentee",
+    "string": "变装盛典鞋履 粗高跟系带款 - 银光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD2_4",
+    "form_id": "01000CEA|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Ribbon - Dior",
+    "string": "变装盛典鞋履 粗高跟系带款 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD2_5",
+    "form_id": "01000CEB|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Ribbon - Strawberry",
+    "string": "变装盛典鞋履 粗高跟系带款 - 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD2_6",
+    "form_id": "01000CEC|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Ribbon - Bohemian",
+    "string": "变装盛典鞋履 粗高跟系带款 - 波西米亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD2_7",
+    "form_id": "01000CED|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Ribbon - Sapphire",
+    "string": "变装盛典鞋履 粗高跟系带款 - 蓝宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsD2_8",
+    "form_id": "01000CEE|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Blockheels Ribbon - Dreamcore",
+    "string": "变装盛典鞋履 粗高跟系带款 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE_2",
+    "form_id": "01000CEF|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Strapped - Cinderella",
+    "string": "变装盛典鞋履 厚底绑带款 - 灰姑娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE_3",
+    "form_id": "01000CF0|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Strapped - Argentee",
+    "string": "变装盛典鞋履 厚底绑带款 - 银光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE_4",
+    "form_id": "01000CF1|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Strapped - Dior",
+    "string": "变装盛典鞋履 厚底绑带款 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE_5",
+    "form_id": "01000CF2|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Strapped - Strawberry",
+    "string": "变装盛典鞋履 厚底绑带款 - 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE_6",
+    "form_id": "01000CF3|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Strapped - Bohemian",
+    "string": "变装盛典鞋履 厚底绑带款 - 波西米亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE_7",
+    "form_id": "01000CF4|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Strapped - Sapphire",
+    "string": "变装盛典鞋履 厚底绑带款 - 蓝宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE_8",
+    "form_id": "01000CF5|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Strapped - Dreamcore",
+    "string": "变装盛典鞋履 厚底绑带款 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE2_2",
+    "form_id": "01000CF6|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Ribbon - Cinderella",
+    "string": "变装盛典鞋履 厚底系带款 - 灰姑娘",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE2_3",
+    "form_id": "01000CF7|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Ribbon - Argentee",
+    "string": "变装盛典鞋履 厚底系带款 - 银光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE2_4",
+    "form_id": "01000CF8|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Ribbon - Dior",
+    "string": "变装盛典鞋履 厚底系带款 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE2_5",
+    "form_id": "01000CF9|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Ribbon - Strawberry",
+    "string": "变装盛典鞋履 厚底系带款 - 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE2_6",
+    "form_id": "01000CFA|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Ribbon - Bohemian",
+    "string": "变装盛典鞋履 厚底系带款 - 波西米亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE2_7",
+    "form_id": "01000CFB|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Ribbon - Sapphire",
+    "string": "变装盛典鞋履 厚底系带款 - 蓝宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaHeelsE2_8",
+    "form_id": "01000CFC|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Shoes Platform Ribbon - Dreamcore",
+    "string": "变装盛典鞋履 厚底系带款 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongA_2",
+    "form_id": "01000D1B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie G-String - Blanche",
+    "string": "变装盛典内裤 G弦带式 - 纯白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongA_3",
+    "form_id": "01000D1C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie G-String - Strawberry",
+    "string": "变装盛典内裤 G弦带式 - 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongALewd_2",
+    "form_id": "01000D1D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie G-String - Blanche (Lewd)",
+    "string": "变装盛典内裤 G弦带式 - 纯白 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongALewd_3",
+    "form_id": "01000D1E|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie G-String- Strawberry (Lewd)",
+    "string": "变装盛典内裤 G弦带式- 草莓 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongB_2",
+    "form_id": "01000D1F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie T-String - Sarcelle",
+    "string": "变装盛典内裤 T弦带式 - 萨塞勒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongB_3",
+    "form_id": "01000D20|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie T-String- Strawberry",
+    "string": "变装盛典内裤 T弦带式- 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongBLewd_2",
+    "form_id": "01000D21|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie T-String - Sarcelle (Lewd)",
+    "string": "变装盛典内裤 T弦带式 - 萨塞勒 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongBLewd_3",
+    "form_id": "01000D22|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie T-String- Strawberry (Lewd)",
+    "string": "变装盛典内裤 T弦带式- 草莓 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongC_2",
+    "form_id": "01000D23|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Thong- Blanche",
+    "string": "变装盛典内裤 丁字裤- 纯白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongC_3",
+    "form_id": "01000D24|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Thong - Dreamcore",
+    "string": "变装盛典内裤 丁字裤 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongCLewd_2",
+    "form_id": "01000D25|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Thong- Blanche (Lewd)",
+    "string": "变装盛典内裤 丁字裤- 纯白 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongCLewd_3",
+    "form_id": "01000D26|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Thong - Dreamcore (Lewd)",
+    "string": "变装盛典内裤 丁字裤 - 梦境核 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongD_2",
+    "form_id": "01000D27|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Pearl-String- Blanche",
+    "string": "变装盛典内裤 珍珠系带式- 纯白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongD_3",
+    "form_id": "01000D28|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Pearl-String - Dreamcore",
+    "string": "变装盛典内裤 珍珠系带式 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongDLewd_2",
+    "form_id": "01000D29|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Pearl-String- Blanche (Lewd)",
+    "string": "变装盛典内裤 珍珠系带式- 纯白 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongDLewd_3",
+    "form_id": "01000D2A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Pearl-String - Dreamcore (Lewd)",
+    "string": "变装盛典内裤 珍珠系带式 - 梦境核 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongE_2",
+    "form_id": "01000D2B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Lace Tanga- Blanche",
+    "string": "变装盛典内裤 蕾丝坦加裤- 纯白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongE_3",
+    "form_id": "01000D2C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Lace Tanga - Dreamcore",
+    "string": "变装盛典内裤 蕾丝坦加裤 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongELewd_2",
+    "form_id": "01000D2D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Lace Tanga- Blanche (Lewd)",
+    "string": "变装盛典内裤 蕾丝坦加裤- 纯白 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongELewd_3",
+    "form_id": "01000D2E|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Lace Tanga - Dreamcore (Lewd)",
+    "string": "变装盛典内裤 蕾丝坦加裤 - 梦境核 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongF_2",
+    "form_id": "01000D2F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Chain-String - Faraday",
+    "string": "变装盛典内裤 锁链系带式 - 法拉第",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongF_3",
+    "form_id": "01000D30|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Chain-String - Golden Order",
+    "string": "变装盛典内裤 锁链系带式 - 黄金律法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongFLewd_2",
+    "form_id": "01000D31|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Chain-String - Faraday (Lewd)",
+    "string": "变装盛典内裤 锁链系带式 - 法拉第 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaThongFLewd_3",
+    "form_id": "01000D32|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Undie Chain-String - Golden Order (Lewd)",
+    "string": "变装盛典内裤 锁链系带式 - 黄金律法 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressB_2",
+    "form_id": "01000D5C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Saturnalia' - Onyx Stars",
+    "string": "变装盛典礼服 '农神节' - 黑曜星辰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressB_3",
+    "form_id": "01000D5D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Saturnalia' - Dior",
+    "string": "变装盛典礼服 '农神节' - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressB_4",
+    "form_id": "01000D5E|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Saturnalia' - Golden Order",
+    "string": "变装盛典礼服 '农神节' - 黄金律法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressB_5",
+    "form_id": "01000D5F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Saturnalia' - Amber",
+    "string": "变装盛典礼服 '农神节' - 琥珀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressB_6",
+    "form_id": "01000D60|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Saturnalia' - Athenian",
+    "string": "变装盛典礼服 '农神节' - 雅典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressBLewd_2",
+    "form_id": "01000D61|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Saturnalia' - Onyx Stars (Lewd)",
+    "string": "变装盛典礼服 '农神节' - 黑曜星辰 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressBLewd_3",
+    "form_id": "01000D62|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Saturnalia' - Dior (Lewd)",
+    "string": "变装盛典礼服 '农神节' - 迪奥 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressBLewd_4",
+    "form_id": "01000D63|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Saturnalia' - Golden Order (Lewd)",
+    "string": "变装盛典礼服 '农神节' - 黄金律法 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressBLewd_5",
+    "form_id": "01000D64|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Saturnalia' - Amber (Lewd)",
+    "string": "变装盛典礼服 '农神节' - 琥珀 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressBLewd_6",
+    "form_id": "01000D65|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Saturnalia' - Athenian (Lewd)",
+    "string": "变装盛典礼服 '农神节' - 雅典 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressA_2",
+    "form_id": "01000D66|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Thorn Princess' - Sylvervine",
+    "string": "变装盛典礼服 '荆棘公主' - 银藤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressA_3",
+    "form_id": "01000D67|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Thorn Princess' - Vermilion Garden",
+    "string": "变装盛典礼服 '荆棘公主' - 朱红花园",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressA_4",
+    "form_id": "01000D68|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Thorn Princess' - YorHa",
+    "string": "变装盛典礼服 '荆棘公主' - 约尔哈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressA_5",
+    "form_id": "01000D69|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Thorn Princess' - Neokitsch",
+    "string": "变装盛典礼服 '荆棘公主' - 新媚俗",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressA_6",
+    "form_id": "01000D6A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Thorn Princess' - Golden Order",
+    "string": "变装盛典礼服 '荆棘公主' - 黄金律法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressALewd_2",
+    "form_id": "01000D6B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Thorn Princess' - Sylvervine (Lewd)",
+    "string": "变装盛典礼服 '荆棘公主' - 银藤 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressALewd_3",
+    "form_id": "01000D6C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Thorn Princess' - Vermilion Garden (Lewd)",
+    "string": "变装盛典礼服 '荆棘公主' - 朱红花园 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressALewd_4",
+    "form_id": "01000D6D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Thorn Princess' - YorHa (Lewd)",
+    "string": "变装盛典礼服 '荆棘公主' - 约尔哈 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressALewd_5",
+    "form_id": "01000D6E|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Thorn Princess' - Neokitsch (Lewd)",
+    "string": "变装盛典礼服 '荆棘公主' - 新媚俗 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressALewd_6",
+    "form_id": "01000D6F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Thorn Princess' - Golden Order (Lewd)",
+    "string": "变装盛典礼服 '荆棘公主' - 黄金律法 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceM_2",
+    "form_id": "01000D70|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Cerberus' - Ornyx",
+    "string": "变装盛典项链 '刻耳柏洛斯' - 缟玛瑙金",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceM_3",
+    "form_id": "01000D74|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Cerberus' - Gold",
+    "string": "变装盛典项链 '刻耳柏洛斯' - 黄金",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceM_5",
+    "form_id": "01000D75|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Cerberus' - Bronze",
+    "string": "变装盛典项链 '刻耳柏洛斯' - 青铜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerD_2",
+    "form_id": "01000D7C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker 'San Denis' - Dominique",
+    "string": "变装盛典项圈 '圣但尼' - 多米尼克",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerD_3",
+    "form_id": "01000D7D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker 'San Denis' - Gold",
+    "string": "变装盛典项圈 '圣但尼' - 黄金",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerD_4",
+    "form_id": "01000D7E|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker 'San Denis' - Jadite",
+    "string": "变装盛典项圈 '圣但尼' - 翡翠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerD_5",
+    "form_id": "01000D7F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker 'San Denis' - Bronze",
+    "string": "变装盛典项圈 '圣但尼' - 青铜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerD_6",
+    "form_id": "01000D80|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker 'San Denis' - Amethyst",
+    "string": "变装盛典项圈 '圣但尼' - 紫水晶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerE_2",
+    "form_id": "01000DA1|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker Magnolia Bow - Viola",
+    "string": "变装盛典项圈 木兰花结 - 堇紫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerE_3",
+    "form_id": "01000DA2|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker Magnolia Bow - Ivory",
+    "string": "变装盛典项圈 木兰花结 - 象牙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerE_4",
+    "form_id": "01000DA3|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker Magnolia Bow - Rubine",
+    "string": "变装盛典项圈 木兰花结 - 鲁宾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerE_5",
+    "form_id": "01000DA4|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker Magnolia Bow - YorHa",
+    "string": "变装盛典项圈 木兰花结 - 约尔哈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerE_6",
+    "form_id": "01000DA5|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker Magnolia Bow - Dreamcore",
+    "string": "变装盛典项圈 木兰花结 - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressC_2",
+    "form_id": "01000DA6|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Rosalina' - Bloody Rose",
+    "string": "变装盛典礼服 '罗莎莉娜' - 血色玫瑰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressC_3",
+    "form_id": "01000DA7|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Rosalina' - Seafoam",
+    "string": "变装盛典礼服 '罗莎莉娜' - 海沫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressC_4",
+    "form_id": "01000DA8|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Rosalina' - Rosemarry",
+    "string": "变装盛典礼服 '罗莎莉娜' - 迷迭香",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressC_5",
+    "form_id": "01000DA9|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Rosalina' - Faraday",
+    "string": "变装盛典礼服 '罗莎莉娜' - 法拉第",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressC_6",
+    "form_id": "01000DAA|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Rosalina' - Dreamcore",
+    "string": "变装盛典礼服 '罗莎莉娜' - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressCLewd_2",
+    "form_id": "01000DAB|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Rosalina' - Bloody Rose (Lewd)",
+    "string": "变装盛典礼服 '罗莎莉娜' - 血色玫瑰 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressCLewd_3",
+    "form_id": "01000DAC|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Rosalina' - Seafoam (Lewd)",
+    "string": "变装盛典礼服 '罗莎莉娜' - 海沫 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressCLewd_4",
+    "form_id": "01000DAD|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Rosalina' - Rosemarry (Lewd)",
+    "string": "变装盛典礼服 '罗莎莉娜' - 迷迭香 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressCLewd_5",
+    "form_id": "01000DAE|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Rosalina' - Faraday (Lewd)",
+    "string": "变装盛典礼服 '罗莎莉娜' - 法拉第 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressCLewd_6",
+    "form_id": "01000DAF|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Rosalina' - Dreamcore (Lewd)",
+    "string": "变装盛典礼服 '罗莎莉娜' - 梦境核 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressD_2",
+    "form_id": "01000DB0|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Magnolia' - Blackforest",
+    "string": "变装盛典礼服 '木兰花' - 黑森林",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressD_3",
+    "form_id": "01000DB1|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Magnolia' - Ivory",
+    "string": "变装盛典礼服 '木兰花' - 象牙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressD_4",
+    "form_id": "01000DB2|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Magnolia' - Allsunday",
+    "string": "变装盛典礼服 '木兰花' - 阿尔桑迪",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressD_5",
+    "form_id": "01000DB3|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Magnolia' - YorHa",
+    "string": "变装盛典礼服 '木兰花' - 约尔哈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressD_6",
+    "form_id": "01000DB4|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Magnolia' - Dreamcore",
+    "string": "变装盛典礼服 '木兰花' - 梦境核",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressE_2",
+    "form_id": "01000DDD|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' - Niore",
+    "string": "变装盛典礼服 '帕特里夏' - 尼奥雷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressE_3",
+    "form_id": "01000DDE|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' - Cerulean",
+    "string": "变装盛典礼服 '帕特里夏' - 天蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressE_4",
+    "form_id": "01000DDF|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' - Allsunday",
+    "string": "变装盛典礼服 '帕特里夏' - 阿尔桑迪",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressE_5",
+    "form_id": "01000DE0|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' - Faraday",
+    "string": "变装盛典礼服 '帕特里夏' - 法拉第",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressE_6",
+    "form_id": "01000DE1|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' - Golden Order",
+    "string": "变装盛典礼服 '帕特里夏' - 黄金律法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressELewd_2",
+    "form_id": "01000DE2|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' - Niore (Lewd)",
+    "string": "变装盛典礼服 '帕特里夏' - 尼奥雷 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressELewd_3",
+    "form_id": "01000DE3|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' - Cerulean (Lewd)",
+    "string": "变装盛典礼服 '帕特里夏' - 天蓝色 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressELewd_4",
+    "form_id": "01000DE4|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' - Allsunday (Lewd)",
+    "string": "变装盛典礼服 '帕特里夏' - 阿尔桑迪 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressELewd_5",
+    "form_id": "01000DE5|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' - Faraday (Lewd)",
+    "string": "变装盛典礼服 '帕特里夏' - 法拉第 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressELewd_6",
+    "form_id": "01000DE6|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' - Golden Order (Lewd)",
+    "string": "变装盛典礼服 '帕特里夏' - 黄金律法 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressEOutter_2",
+    "form_id": "01000DE7|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' Overlay Blouse - Blackforest",
+    "string": "变装盛典礼服 '帕特里夏' 叠层上衣 - 黑森林",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressEOutter_3",
+    "form_id": "01000DE8|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' Overlay Blouse - Cerulean",
+    "string": "变装盛典礼服 '帕特里夏' 叠层上衣 - 天蓝色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressEOutter_4",
+    "form_id": "01000DE9|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' Overlay Blouse - Heartstring",
+    "string": "变装盛典礼服 '帕特里夏' 叠层上衣 - 心弦",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressEOutter_5",
+    "form_id": "01000DEA|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' Overlay Blouse - Ivory",
+    "string": "变装盛典礼服 '帕特里夏' 叠层上衣 - 象牙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressEOutter_6",
+    "form_id": "01000DEB|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Patricia' Overlay Blouse - Erdtree",
+    "string": "变装盛典礼服 '帕特里夏' 叠层上衣 - 艾尔登树",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressF_2",
+    "form_id": "01000DEC|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Meeresbrise' - Cinnabar",
+    "string": "变装盛典礼服 '海风' - 朱砂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressF_3",
+    "form_id": "01000DED|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Meeresbrise' - Emerald",
+    "string": "变装盛典礼服 '海风' - 绿宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressF_4",
+    "form_id": "01000DEE|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Meeresbrise' - Nightveil",
+    "string": "变装盛典礼服 '海风' - 夜纱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressF_5",
+    "form_id": "01000DEF|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Meeresbrise' - Royal Icing",
+    "string": "变装盛典礼服 '海风' - 皇家糖霜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressF_6",
+    "form_id": "01000DF0|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Meeresbrise' - Soiedoree",
+    "string": "变装盛典礼服 '海风' - 丝绸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressFLewd_2",
+    "form_id": "01000DF1|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Meeresbrise' - Cinnabar (Lewd)",
+    "string": "变装盛典礼服 '海风' - 朱砂 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressFLewd_3",
+    "form_id": "01000DF2|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Meeresbrise' - Emerald (Lewd)",
+    "string": "变装盛典礼服 '海风' - 绿宝石 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressFLewd_4",
+    "form_id": "01000DF3|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Meeresbrise' - Nightveil (Lewd)",
+    "string": "变装盛典礼服 '海风' - 夜纱 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressFLewd_5",
+    "form_id": "01000DF4|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Meeresbrise' - Royal Icing (Lewd)",
+    "string": "变装盛典礼服 '海风' - 皇家糖霜 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressFLewd_6",
+    "form_id": "01000DF5|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Meeresbrise' - Soiedoree (Lewd)",
+    "string": "变装盛典礼服 '海风' - 丝绸 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressG_2",
+    "form_id": "01000E55|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Signora' - Faraday",
+    "string": "变装盛典礼服 '女士' - 法拉第",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressG_3",
+    "form_id": "01000E56|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Signora' - Celestine",
+    "string": "变装盛典礼服 '女士' - 天青石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressG_4",
+    "form_id": "01000E57|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Signora' - Snapdragon",
+    "string": "变装盛典礼服 '女士' - 金鱼草",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressG_5",
+    "form_id": "01000E58|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Signora' - Star Sea",
+    "string": "变装盛典礼服 '女士' - 星海",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressG_6",
+    "form_id": "01000E59|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Signora' - Sacramento",
+    "string": "变装盛典礼服 '女士' - 萨克拉门托",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceN_2",
+    "form_id": "01000E5A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Triple Gorget' - Aquamarine",
+    "string": "变装盛典项链 '三重护颈' - 海蓝宝石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceN_3",
+    "form_id": "01000E5B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Triple Gorget' - Silver",
+    "string": "变装盛典项链 '三重护颈' - 白银",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceN_4",
+    "form_id": "01000E5C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Triple Gorget' - Obsidian",
+    "string": "变装盛典项链 '三重护颈' - 黑曜石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceN_5",
+    "form_id": "01000E5D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Triple Gorget' - Nacre",
+    "string": "变装盛典项链 '三重护颈' - 珍珠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceN_6",
+    "form_id": "01000E5E|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Triple Gorget' - Jadite",
+    "string": "变装盛典项链 '三重护颈' - 翡翠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressH_2",
+    "form_id": "01000E5F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Belladona' - Sangria",
+    "string": "变装盛典礼服 '颠茄' - 桑格利亚汽酒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressH_3",
+    "form_id": "01000E60|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Belladona' - Neokitsch",
+    "string": "变装盛典礼服 '颠茄' - 新媚俗",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressH_4",
+    "form_id": "01000E61|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Belladona' - Sarcelle",
+    "string": "变装盛典礼服 '颠茄' - 萨塞勒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressH_5",
+    "form_id": "01000E62|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Belladona' - Mariee",
+    "string": "变装盛典礼服 '颠茄' - 玛丽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressH_6",
+    "form_id": "01000E63|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Belladona' - Safari",
+    "string": "变装盛典礼服 '颠茄' - 狩猎",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressHLewd_2",
+    "form_id": "01000E65|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Belladona' - Sangria (Lewd)",
+    "string": "变装盛典礼服 '颠茄' - 桑格利亚汽酒 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressHLewd_3",
+    "form_id": "01000E66|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Belladona' - Neokitsch (Lewd)",
+    "string": "变装盛典礼服 '颠茄' - 新媚俗 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressHLewd_4",
+    "form_id": "01000E67|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Belladona' - Sarcelle (Lewd)",
+    "string": "变装盛典礼服 '颠茄' - 萨塞勒 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressHLewd_5",
+    "form_id": "01000E68|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Belladona' - Mariee (Lewd)",
+    "string": "变装盛典礼服 '颠茄' - 玛丽 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressHLewd_6",
+    "form_id": "01000E69|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Belladona' - Safari (Lewd)",
+    "string": "变装盛典礼服 '颠茄' - 狩猎 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressI_2",
+    "form_id": "01000E6A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Buckingham' - Chateau Maid",
+    "string": "变装盛典礼服 '白金汉' - 女仆城堡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressI_3",
+    "form_id": "01000E6B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Buckingham' - Bloody Maiden",
+    "string": "变装盛典礼服 '白金汉' - 血腥少女",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressI_4",
+    "form_id": "01000E6C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Buckingham' - Slava",
+    "string": "变装盛典礼服 '白金汉' - 斯拉瓦",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressI_5",
+    "form_id": "01000E6D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Buckingham' - Bavarian",
+    "string": "变装盛典礼服 '白金汉' - 巴伐利亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressI_6",
+    "form_id": "01000E6E|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Buckingham' - Elizabeth",
+    "string": "变装盛典礼服 '白金汉' - 伊丽莎白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressJ_2",
+    "form_id": "01000E6F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Manhattan' - Dubai",
+    "string": "变装盛典礼服 '曼哈顿' - 迪拜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressJ_3",
+    "form_id": "01000E70|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Manhattan' - Pomegranate",
+    "string": "变装盛典礼服 '曼哈顿' - 石榴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressJ_4",
+    "form_id": "01000E71|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Manhattan' - Sarcelle",
+    "string": "变装盛典礼服 '曼哈顿' - 萨塞勒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressJ_5",
+    "form_id": "01000E72|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Manhattan' - Dentelle",
+    "string": "变装盛典礼服 '曼哈顿' - 齿状",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressJ_6",
+    "form_id": "01000E73|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Manhattan' - Golden Order",
+    "string": "变装盛典礼服 '曼哈顿' - 黄金律法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressJLewd_2",
+    "form_id": "01000E74|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Manhattan' - Dubai (Lewd)",
+    "string": "变装盛典礼服 '曼哈顿' - 迪拜 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressJLewd_3",
+    "form_id": "01000E75|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Manhattan' - Pomegranate (Lewd)",
+    "string": "变装盛典礼服 '曼哈顿' - 石榴 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressJLewd_4",
+    "form_id": "01000E76|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Manhattan' - Sarcelle (Lewd)",
+    "string": "变装盛典礼服 '曼哈顿' - 萨塞勒 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressJLewd_5",
+    "form_id": "01000E77|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Manhattan' - Dentelle (Lewd)",
+    "string": "变装盛典礼服 '曼哈顿' - 齿状 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressJLewd_6",
+    "form_id": "01000E78|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Manhattan' - Golden Order (Lewd)",
+    "string": "变装盛典礼服 '曼哈顿' - 黄金律法 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressK_2",
+    "form_id": "01000E79|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Mandarin' - Thundercloud",
+    "string": "变装盛典礼服 '曼达林' - 雷云",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressK_3",
+    "form_id": "01000E7A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Mandarin' - Vermillion",
+    "string": "变装盛典礼服 '曼达林' - 朱红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressK_4",
+    "form_id": "01000E7B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Mandarin' - Thousand Dews",
+    "string": "变装盛典礼服 '曼达林' - 千露",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressK_5",
+    "form_id": "01000E7C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Mandarin' - Silverleaf",
+    "string": "变装盛典礼服 '曼达林' - 银叶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressK_6",
+    "form_id": "01000E7D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Mandarin' - Golden Order",
+    "string": "变装盛典礼服 '曼达林' - 黄金律法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressKLewd_2",
+    "form_id": "01000E7E|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Mandarin' - Thundercloud (Lewd)",
+    "string": "变装盛典礼服 '曼达林' - 雷云 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressKLewd_3",
+    "form_id": "01000E7F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Mandarin' - Vermillion (Lewd)",
+    "string": "变装盛典礼服 '曼达林' - 朱红 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressKLewd_4",
+    "form_id": "01000E80|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Mandarin' - Thousand Dews (Lewd)",
+    "string": "变装盛典礼服 '曼达林' - 千露 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressKLewd_5",
+    "form_id": "01000E81|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Mandarin' - Silverleaf (Lewd)",
+    "string": "变装盛典礼服 '曼达林' - 银叶 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressKLewd_6",
+    "form_id": "01000E82|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Mandarin' - Golden Order (Lewd)",
+    "string": "变装盛典礼服 '曼达林' - 黄金律法 (情趣版)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChain_2",
+    "form_id": "01000E83|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Chain Harness - Gold",
+    "string": "变装盛典锁链束带 - 黄金",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressL_2",
+    "form_id": "01000E84|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Hellene' - Asgardian",
+    "string": "变装盛典礼服 '海伦' - 阿斯加德",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressL_3",
+    "form_id": "01000E85|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Hellene' - Arabian",
+    "string": "变装盛典礼服 '海伦' - 阿拉伯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressL_4",
+    "form_id": "01000E86|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Hellene' - Phoenician",
+    "string": "变装盛典礼服 '海伦' - 腓尼基",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressL_5",
+    "form_id": "01000E87|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Hellene' - Golden Order",
+    "string": "变装盛典礼服 '海伦' - 黄金律法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressL_6",
+    "form_id": "01000E88|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Hellene' - Faraday",
+    "string": "变装盛典礼服 '海伦' - 法拉第",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressLArm_2",
+    "form_id": "01000E89|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Hellene' Armlet - Asgardian",
+    "string": "变装盛典礼服 '海伦' 臂环 - 阿斯加德",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressLArm_3",
+    "form_id": "01000E8A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Hellene' Armlet - Arabian",
+    "string": "变装盛典礼服 '海伦' 臂环 - 阿拉伯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressLArm_4",
+    "form_id": "01000E8B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Hellene' Armlet - Phoenician",
+    "string": "变装盛典礼服 '海伦' 臂环 - 腓尼基",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressLArm_5",
+    "form_id": "01000E8C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Hellene' Armlet - Golden Order",
+    "string": "变装盛典礼服 '海伦' 臂环 - 黄金律法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressLArm_6",
+    "form_id": "01000E8D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Gown 'Hellene' Armlet - Faraday",
+    "string": "变装盛典礼服 '海伦' 臂环 - 法拉第",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceE_2",
+    "form_id": "01000E8F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Tartary's Rose'",
+    "string": "变装盛典项链 '鞑靼玫瑰'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBraceletK",
+    "form_id": "01000E92|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Bracelet 'Clearwater'",
+    "string": "变装盛典手链 '清水'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaNecklaceJ_2",
+    "form_id": "01000E93|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Necklace 'Twin Sages''",
+    "string": "变装盛典项链 '双子贤者'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerF_2",
+    "form_id": "01000E99|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker Belladora Bow - Sangria",
+    "string": "变装盛典项圈 贝拉多拉蝴蝶结 - 桑格利亚汽酒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerF_4",
+    "form_id": "01000E9A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker Belladora Bow - Sarcelle",
+    "string": "变装盛典项圈 贝拉多拉蝴蝶结 - 萨塞勒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerF_5",
+    "form_id": "01000E9B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker Belladora Bow - Blance",
+    "string": "变装盛典项圈 贝拉多拉蝴蝶结 - 布兰斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaChokerF_6",
+    "form_id": "01000E9C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Choker Belladora Bow - Noire",
+    "string": "变装盛典项圈 贝拉多拉蝴蝶结 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressM",
+    "form_id": "01000EAE|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Dress Shirt - Blanche",
+    "string": "变装盛典 燕尾服衬衫 - 纯白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMAscot",
+    "form_id": "01000EAF|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Ascot - Blanche",
+    "string": "变装盛典 燕尾服阿斯科特领巾 - 纯白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMBow",
+    "form_id": "01000EB0|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Bowtie - Noire",
+    "string": "变装盛典 燕尾服领结 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMPants",
+    "form_id": "01000EB1|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Slack Pants - Formal",
+    "string": "变装盛典 燕尾服宽松裤 - 正装",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMSuit",
+    "form_id": "01000EB2|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Suit - Formal",
+    "string": "变装盛典 燕尾服外套 - 正装",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMSuitCape",
+    "form_id": "01000EB3|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Suit (Cape) - Formal",
+    "string": "变装盛典 燕尾服外套 (披风) - 正装",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaC",
+    "form_id": "01000EB6|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Cloth - Onyx Stars",
+    "string": "变装盛典 羽毛披肩 - 黑曜星辰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaSash",
+    "form_id": "01000EB7|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Sash - Ads",
+    "string": "变装盛典 绶带 - 广告",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaC_2",
+    "form_id": "01000EF1|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Cloth - Dior",
+    "string": "变装盛典 羽毛披肩 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaC_3",
+    "form_id": "01000EF2|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Cloth - Blance",
+    "string": "变装盛典 羽毛披肩 - 布兰斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaC_4",
+    "form_id": "01000EF3|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Cloth - Strawberry",
+    "string": "变装盛典 羽毛披肩 - 草莓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaC_5",
+    "form_id": "01000EF4|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Cloth - Faraday",
+    "string": "变装盛典 羽毛披肩 - 法拉第",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaBoaC_6",
+    "form_id": "01000EF5|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Boa Cloth - Golden Order",
+    "string": "变装盛典 羽毛披肩 - 黄金律法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaSash_2",
+    "form_id": "01000EF6|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Sash - Prom Queen",
+    "string": "变装盛典 绶带 - 舞会皇后",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaSash_3",
+    "form_id": "01000EF7|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Sash - Miss Universe",
+    "string": "变装盛典 绶带 - 环球小姐",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaSash_4",
+    "form_id": "01000EF8|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Sash - Militaire",
+    "string": "变装盛典 绶带 - 军旅风",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaSash_5",
+    "form_id": "01000EF9|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Sash - Imperiale",
+    "string": "变装盛典 绶带 - 帝国风",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaSash_6",
+    "form_id": "01000EFA|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Sash - Birthday Girl",
+    "string": "变装盛典 绶带 - 生日女孩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressM_2",
+    "form_id": "01000EFB|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Dress Shirt - Stripe",
+    "string": "变装盛典 燕尾服衬衫 - 条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressM_3",
+    "form_id": "01000EFC|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Dress Shirt - Noire",
+    "string": "变装盛典 燕尾服衬衫 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressM_4",
+    "form_id": "01000EFD|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Dress Shirt - Black Forest",
+    "string": "变装盛典 燕尾服衬衫 - 黑森林",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressM_5",
+    "form_id": "01000EFE|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Dress Shirt - Crimson",
+    "string": "变装盛典 燕尾服衬衫 - 绯红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressM_6",
+    "form_id": "01000EFF|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Dress Shirt - Dior",
+    "string": "变装盛典 燕尾服衬衫 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMAscot_2",
+    "form_id": "01000F00|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Ascot - Navy",
+    "string": "变装盛典 燕尾服阿斯科特领巾 - 海军蓝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMAscot_3",
+    "form_id": "01000F01|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Ascot - Noire",
+    "string": "变装盛典 燕尾服阿斯科特领巾 - 玄墨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMAscot_4",
+    "form_id": "01000F02|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Ascot - Red Velvet",
+    "string": "变装盛典 燕尾服阿斯科特领巾 - 红丝绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMAscot_5",
+    "form_id": "01000F03|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Ascot - Crimson",
+    "string": "变装盛典 燕尾服阿斯科特领巾 - 绯红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMAscot_6",
+    "form_id": "01000F04|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Ascot - Dior",
+    "string": "变装盛典 燕尾服阿斯科特领巾 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMBow_2",
+    "form_id": "01000F05|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Bowtie - Navy",
+    "string": "变装盛典 燕尾服领结 - 海军蓝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMBow_3",
+    "form_id": "01000F06|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Bowtie - Blanche",
+    "string": "变装盛典 燕尾服领结 - 纯白",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMBow_4",
+    "form_id": "01000F07|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Bowtie - Red Velvet",
+    "string": "变装盛典 燕尾服领结 - 红丝绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMBow_5",
+    "form_id": "01000F08|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Bowtie - Crimson",
+    "string": "变装盛典 燕尾服领结 - 绯红",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMBow_6",
+    "form_id": "01000F09|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Bowtie - Dior",
+    "string": "变装盛典 燕尾服领结 - 迪奥",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMPants_2",
+    "form_id": "01000F0A|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Slack Pants - Stripe",
+    "string": "变装盛典 燕尾服宽松裤 - 条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMPants_3",
+    "form_id": "01000F0B|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Slack Pants - Ivory",
+    "string": "变装盛典 燕尾服宽松裤 - 象牙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMPants_4",
+    "form_id": "01000F0C|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Slack Pants - Red Velvet",
+    "string": "变装盛典 燕尾服宽松裤 - 红丝绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMPants_5",
+    "form_id": "01000F0D|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Slack Pants - Inferno",
+    "string": "变装盛典 燕尾服宽松裤 - 地狱火",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMPants_6",
+    "form_id": "01000F0E|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Slack Pants - Beige",
+    "string": "变装盛典 燕尾服宽松裤 - 米色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMSuit_2",
+    "form_id": "01000F0F|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Suit - Stripe",
+    "string": "变装盛典 燕尾服外套 - 条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMSuit_3",
+    "form_id": "01000F10|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Suit - Ivory",
+    "string": "变装盛典 燕尾服外套 - 象牙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMSuit_4",
+    "form_id": "01000F11|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Suit - Red Velvet",
+    "string": "变装盛典 燕尾服外套 - 红丝绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMSuit_5",
+    "form_id": "01000F12|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Suit - Inferno",
+    "string": "变装盛典 燕尾服外套 - 地狱火",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMSuit_6",
+    "form_id": "01000F13|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Suit - Beige",
+    "string": "变装盛典 燕尾服外套 - 米色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMSuitCape_2",
+    "form_id": "01000F14|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Suit (Cape) - Stripe",
+    "string": "变装盛典 燕尾服外套 (披风) - 条纹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMSuitCape_3",
+    "form_id": "01000F15|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Suit (Cape) - Ivory",
+    "string": "变装盛典 燕尾服外套 (披风) - 象牙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMSuitCape_4",
+    "form_id": "01000F16|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Suit (Cape) - Red Velvet",
+    "string": "变装盛典 燕尾服外套 (披风) - 红丝绒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMSuitCape_5",
+    "form_id": "01000F17|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Suit (Cape) - Inferno",
+    "string": "变装盛典 燕尾服外套 (披风) - 地狱火",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aCPGalaDressMSuitCape_6",
+    "form_id": "01000F18|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cosplay Gala Tuxedo Suit (Cape) - Beige",
+    "string": "变装盛典 燕尾服外套 (披风) - 米色",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "awCPGalaThornDagger",
+    "form_id": "01000EA5|[Caenarvon] Cosplay Pack Gala.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Golden Thorn",
+    "string": "黄金棘刺",
+    "status": "TranslationComplete"
+  }
+]

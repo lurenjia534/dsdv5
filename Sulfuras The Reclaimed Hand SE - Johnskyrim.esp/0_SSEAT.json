@@ -1,0 +1,1262 @@
+[
+  {
+    "editor_id": "SulfurasFlame",
+    "form_id": "05000002|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "By Fire Be Purged",
+    "string": "火焰清除",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasEnchantment",
+    "form_id": "05000062|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Yol'taas Haal's Flame",
+    "string": "约'塔斯·哈尔之焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuestBook",
+    "form_id": "05000007|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "A Tale of Fire and Fury",
+    "string": "火与怒的传说",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuestBook",
+    "form_id": "05000007|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nA Tale of Fire and Fury\r\n\r\n\r\n\r\nby\r\nVarius Callus\r\nImperial Archivist\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>the story of the one who stood against the savagery of his kin, Jurgorn the Peace Keeper, is synonymous with the other, which speaks of the Kinslayer, the one who led a revolt against his own people and king.\r\n\r\nAlthough much of the tale was kept intact through oral traditions of the nords, some later discoveries suggest that the events that unfolded during his lifetime were highly exaggerated.\r\n\r\nTherefore i have put together what i deemed the most accurate description of his story, while keeping the main elements of the legend inside the story for the reader to ponder upon and make up their own mind in regards to their legitimacy.\r\n[pagebreak]\r\nit is believed that Jurgorn Dremrovahlok, who was given the name jurgorn firetongue at the age of 20, was born in a small village near the city of Windhelm around the year 384, of the First Era.\r\n\r\nMuch of his early life is unknown as he came to renown when he led a detachment of soldiers sent by the high king of skyrim, Kjoric the white to repel the forces of the bandit king, Tyros the butcher.\r\n[pagebreak]\r\nInitially, as they were marching towards the designated location of the bandits' fortress, jurgorn's war band was intercepted by the bandit king who laid in ambush at the river crossing that connected Eastmarch to the Rift.\r\n\r\nAlthough he fought valiantly, his forces were quickly outnumbered which forced them to an early retreat. However realizing that their path was cut off, jurgorn and his remaining men stood their ground and prepared themselves for a fight to the death.\r\n[pagebreak]\r\nAlthough tyros had completely cornered him and picked off his men one by one, jurgorn stood his ground, taking down many of the bandits and eventually the bodies of the fallen piled up around him as he continued his relentless onslaught.\r\n\r\nSeeing the valiant resistance of the young man, tyros himself entered the fray and challenged him to a duel. But as soon as jurgorn appeared in front of him, he quickly ordered his men to shoot arrows at him from afar so he would not get another chance to get close to him or his men.\r\n\r\nthen, upon seeing this act of cowardice, and facing certain death, jurgorn let out a fiery war cry that melted the arrows and exploded at the feet of the archers, sending them flying into the river below. intimidated by such power, tyros ordered his men to charge at jurgorn, as He attempted to run away from battle.\r\n[pagebreak]\r\nWith his newfound power jurgorn laid waste to the remaining bandits and gave chase to tyros himself. He finally caught up with the Bandit king atop the hill overlooking windhelm, the capital of skyrim.\r\n\r\nA final clash took place there in which jurgorn prevailed and slew the bandit king, severing his head. He came back to windhelm alone, covered in blood and with the head of the bandit king hanging on his belt.\r\n\r\nthose who saw him walking among them, described that he was covered in an aura of flame and his eyes glowed fiery red. He then ascended to palace where he presented the bandit kings head to the high king.\r\n[pagebreak]\r\nUpon seeing his fiery aura, the high king gave him the title Firetongue and instructed his blacksmith to create a weapon worthy of such a hero, a warhammer of such weight that it could only be wielded by one as mighty as Jurgorn himself.\r\n\r\nA dunmer wizard who served at the high king's palace participated in the creation of the hammer, and used a special Soul Gem filled with the souls of the fallen to imbue the hammer with the ability to infuse itself with the soul of its wielder, thus through combat, Jurgorn could infuse his flame with the hammer, strengthening its fiery strikes.\r\n\r\nupon receiving this Gift, Jurgorn called it Yol'taas Haal, the flaming hand, and then sworn an oath of loyalty and service to the high king and his line until the day of his death.\r\n[pagebreak]\r\nIn the coming years his Legend grew as he gained victories in many campaigns around skyrim. But at c.1E 411 he was summoned by the then High King Hoag Merkiller to take part in an offensive against the dunmer of Morrowind.\r\n\r\nHowever, he refused to join the fight, claiming that the tactics used by High King and his army were immoral and their use of the ancient art of Thu'um to devastate entire dunmer villages were too cruel.\r\n\r\nHe instead spent that part of his life staying in skyrim and aiding in the creation of new lumbering and mining settlements across eastmarch and the rift and defending them against local banditry.\r\n\r\nduring this time, he was given the title, the Peace Keeper and was celebrated as a hero among the people of skyrim.\r\n[pagebreak]\r\nFollowing the defeat of the nords only a year later in their battle against the dunmer, jurgorn and his family along with many others were arrested and imprisoned by the high king for refusing to participate in the war.\r\n\r\nHe spent the next few months of his life in imprisonment, while the people of skyrim shouted his name in civil unrests and demanded his freedom by the high king. It was during one such unrest that the high king ordered the execution of any who spoke Jurgorn's name and the few who were spared, ended up in the jails of windhelm.\r\n\r\nUpon seeing the injustice that was carried out by the high king, Jurgorn decided to break free of his imprisonment and rallied the prisoners to join him in a fight to topple the high king from his throne, in an event that was originally described as the Dawn of flames. Later iterations of the story have called it the Kinslayer's revolt.\r\n[pagebreak]\r\nThe revolt began at the break of dawn when Jurgorn had used his mastery of the art of thu'um and his fiery breath to break free of his shackles and then freed the rest of the prisoners from their bindings.\r\n\r\nThen they armed themselves with the weapons and armor of the Prison guards, breaking free from the prison and then led an uprising from inside the city. In the coming hours the high king had ordered most of his men that were stationed near windhelm to come back inside the city in order to aid in crushing the uprising, but with Jurgorn leading the assault, even the poorly armed and untrained prisoners were invigorated to keep on fighting and seemed unbreakable.\r\n\r\nAs they advanced through the city, killing many of the high king's soldiers while losing many of their own, they were finally successful at reaching the Palace's courtyard and broken through the barricades that hindered their advance. Then, the high king himself appeared to challenge Jurgorn to a Duel.\r\n\r\nAt that moment, a familiar feeling visited jurgorn, reminiscing in the memory of the time when he was celebrated as a hero by the high king, and swearing an oath of loyalty and service to him, an oath he had broken in order to dedicate his life to peace rather than a bloody war, and now standing in that same place, jurgorn was facing the new high king, whom he was still bound by his oath to serve.\r\n\r\nHis reminiscence cut short by the terrifying presence of the high king, Hoag Merkiller, who came to punish jurgorn by himself and put an end to his uprising.\r\n[pagebreak]\r\nThe fight lasted only minutes, as Jurgorn was no longer facing an army of ordinary soldiers or bandits, but a seasoned warrior who possessed immense power. Neither the strikes from his hammer nor his fiery breath proved useful against the high king's combat prowess.\r\n\r\nThe air around the high king seemed to have sucked the earth itself and rematerialize itself as a shield of dust and stone, thus shielding him from jurgorn's flame. this materialized mixture of air and stone was so dense that every strike at it with the hammer, felt like trying to break through malleable iron, and pulling the hammer out of it after each strike felt like lifting a mountain, even for one as mighty as jurgorn.\r\n\r\nThen, Hoag let out a terrifying shout that collapsed the ground itself, empowering his shout, and sending Jurgorn and his followers flying out of the palace's courtyard, and falling far back into the city's center.\r\n\r\nNeither him nor his followers survived the onslaught and died instantly. However his mighty hammer survived the high king's mighty shout, still blazing with flames, as if the essence of jurgorn himself is still living inside the hammer.\r\n[pagebreak]\r\nafter the death of Jurgorn and the failed uprising, high king ordered his smith to shatter the hammer into pieces and spread them among his most loyal Jarls so it may never be reassembled again. A task proven to be quite challenging as it required a mighty forge to separate the pieces, using the most condensed flame that the forge was able to handle.\r\n\r\nOut of the four pieces of the shattered hammer, the hilt was given to the jarl of riften, which he kept as a treasured prize in his own chambers. \r\n\r\nThe pommel was given to the Jarl of winterhold which decorated the halls of the Jarl's castle due to its beautiful and intricate design.\r\n\r\nThe hammer's head holder was sent to the Jarl of dawnstar to be safely kept out of sight so it may never be used to assemble the head and the hilt together.\r\n\r\nAnd finally the hammer's head was sent to the most loyal of the Jarls who was in charge of Whiterun, and eversince then, it was kept in the deepest recess of the jarl's palace so it may never be reunited with the rest of the hammer and reforged into the mighty weapon that it once was.",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n火与怒的传说\r\n\r\n\r\n\r\n帝国档案管理员\r\n瓦里乌斯·卡卢斯\r\n著\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>本书讲述“和平守护者”尤尔贡反抗野蛮同族的故事。在其他版本里，他被称为“弑亲者”，是对抗族人与国王的罪人。\r\n\r\n虽然传说的大部分内容都通过诺德人的口述传统得以保存。但研究表明，他的事迹也被高度夸大了。\r\n\r\n因此，我会把考据得相对准确的内容拼凑起来，保留传说中的主要元素，供读者思考，为它们的合理性做出自己的判断。\r\n[pagebreak]\r\n据说约尔贡·旦姆洛瓦洛克大约第一纪元384年出生在风舵城附近的小村庄中，在20岁时被称为“火舌”约尔贡。\r\n\r\n他早年生活经历不为人知，直到他率领天际至高王“白发”柯乔里克的一支军队，击败了“强盗王”提洛斯，从而声名鹊起。\r\n[pagebreak]\r\n起初，当他们向强盗要塞行军到了东陲与裂痕交界的渡口时，约尔贡的队伍遭到了强盗王的拦截。\r\n\r\n尽管他战斗英勇，但终究寡不敌众，被迫提前撤退。然而，他们的退路也被切断，约尔贡只能带残部据守，准备决一死战。\r\n[pagebreak]\r\n虽然约尔贡已经被提洛斯逼入死角，手下也被一个接一个地干掉，但他死战不退。最终，在他的无情进攻下，周围尸积如山。\r\n\r\n眼见这个年轻人勇敢抵抗，提洛斯也加入了战斗，并向约尔贡提出决斗。但当约尔贡出现在他面前时，他迅速命令部下从远处射箭，以此来阻止约尔贡靠近。\r\n\r\n目睹了这样的懦夫行径，面对必死之局，约尔贡发出了一声暴怒的战吼。吼声熔化了箭矢，在弓箭手脚下爆炸，把他们吹入了下面的河里。提洛斯也被这种力量吓倒，试图逃离，并指使手下人向约尔贡冲锋。\r\n[pagebreak]\r\n约尔贡利用新获得的力量消灭了余下的匪徒，并一路追杀提洛斯，终于在俯瞰天际之都风舵城的山巅赶上了他。\r\n\r\n最后的决战，约尔贡获胜了，他斩杀了强盗王。浑身浴血，腰悬人头的他，独自一人回到了风舵城。\r\n\r\n那些看到他走过的人，都说他被火焰笼罩，眼睛发出火红光芒。他登上宫殿，向至高王献上强盗王的头颅。\r\n[pagebreak]\r\n看到他的火焰光环，至高王赐予他“火舌”的称号，并命令铁匠专门打造一柄供约尔贡这样的强者才能使用的战锤。\r\n\r\n一位供职于至高王宫廷的丹莫巫师参与了锤子的创造，他使用一颗充满堕落者灵魂的特殊灵魂石，使巨锤的使用者可以将灵魂之力注入锤中。约尔贡可以在战斗中将自己的火焰注入，让打击变得更加炽热。\r\n\r\n收下赐予后，约尔贡将巨锤命名为“约'塔斯·哈尔”，意为“燃烧之手”，并誓死效忠至高王及其家族。\r\n[pagebreak]\r\n接下来几年，他的传奇也随着他在天际周围征战取胜而成长。然而1E411年，当时的至高王，“精灵杀手”霍格征召他参加对晨风的进攻。\r\n\r\n但他却拒绝参加战斗，声称至高王及其军队的政策有失道德，用古老的吐'目技艺摧毁丹莫村庄实在过于残忍。\r\n\r\n相反，他把时间花在了天际，帮助东陲与裂痕地区建立新的伐木采矿的聚居区，并保护他们免受强盗袭扰。\r\n\r\n正是在此时，他被授予了“和平守护者”的美号，被天际人民奉为英雄。\r\n[pagebreak]\r\n仅仅一年后，诺德人被丹莫击败，约尔贡和他的家人，以及其他拒绝参战者遭到至高王的逮捕和监禁。\r\n\r\n在他被囚禁的几个月里，天际的人们发动了多次内乱，呼喊他的名字，要求至高王释放他。就在一次这样的骚乱中，至高王下令处决所有胆敢提及约尔贡的人，虽然还有少数人幸免于难，也都被关进了风舵城的监狱。\r\n\r\n目睹了至高王的不公，约尔贡决定越狱，他召集了囚犯们加入战斗，企图推翻至高王。这次事件最初被称为“火焰黎明”，但后来则被称为“弑亲者叛乱”。\r\n[pagebreak]\r\n起义爆发于黎明时分，约尔贡用吐'目和烈焰吐息挣脱了镣铐，又释放了其他囚犯。\r\n\r\n随后他们用监狱看守的武器盔甲武装起来，打出监狱，在城中发动起义。接下来的几小时里，至高王调令驻扎在风舵城附近的大部分士兵赶回城中帮助镇压。但在约尔贡的领导下，即便是装备简陋、未经训练的囚犯也被鼓舞着继续战斗，似乎坚不可摧。\r\n\r\n他们一路杀穿城市，杀死至高王的许多士兵，也损失了不少人，最终成功杀到了宫殿庭院，冲破了阻碍的路障。然后，至高王亲自现身，提出与约尔贡决斗。\r\n\r\n那一刻，回忆涌上心头。约尔贡想起当年被先王奉为英雄的时刻，他曾宣誓效忠，却又因为把一生献给和平而非血腥战争，违背了誓言。现在，同样的地方，面对新王，他仍然能感受到誓言带来的束缚。\r\n\r\n他的回忆被至高王“精灵杀手”霍格可怕的登场打断了。至高王要亲手惩罚约尔贡，结束他的反叛。\r\n[pagebreak]\r\n战斗只持续了几分钟，因为这次约尔贡面对的不是寻常军队或者土匪强盗，而是真正战力强大、经验丰富的战士们。无论是他的巨锤还是火焰，都无法抵挡至高王的强大战斗力。\r\n\r\n至高王周围的空气仿佛吸走了大地一般，形成沙石尘土之盾阻挡了约尔贡的火焰。这种空气与石头的混合物密度极大，每次挥锤敲击，都像是与铸铁碰撞；每次把锤移开，又像是搬山运岭，即便强大如约尔贡也感到吃力。\r\n\r\n随后，霍格发出可怕的吼声，掀翻了地面，把约尔贡和追随者都击飞出了宫殿庭院，远远落在城市中心。\r\n\r\n约尔贡一众无一幸免，全部当场死亡。然而，他的巨锤却在至高王的吼声中幸存下来，熊熊烈焰仍在燃烧，仿佛约尔贡的灵魂仍活在其中一般。\r\n[pagebreak]\r\n随着约尔贡的死，起义也宣告失败，至高王命令铁匠将巨锤打碎，分发给他忠诚的领主们，防止它再被组合起来。这项任务十分艰巨，因为需要强大的锻炉用高浓缩的火焰来分解武器。\r\n\r\n巨锤最终分成了四块，锤柄被交给裂谷城领主，作为珍宝放在领主的寝室中。\r\n\r\n锤柄的尖头被授予冬堡领主，由于它纹路华美，因此被用来装点城堡的大厅。\r\n\r\n锤头架被送到晨星领主处，这样锤头与锤柄就不能再被组装起来。\r\n\r\n最后，锤头被送到最忠诚的白漫领主手中，自那时起，它就被保存在领主宫殿最深处的角落里，这样就永远不能与其他部分重聚，也不会被重铸成那把强大的武器。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MerchantWhiterunBelethorsGoodsChest",
+    "form_id": "0009CAF8|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasStrongbox",
+    "form_id": "0500000E|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Strong Box",
+    "string": "保险箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasVesselTwoThirdFilled",
+    "form_id": "05000078|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Moderately Filled Vessel",
+    "string": "灵魂容器（填充两次）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasBrokenVesselEmpty",
+    "form_id": "05000060|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Empty Broken Vessel",
+    "string": "损毁的灵魂容器（空）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasHammerHead",
+    "form_id": "05000005|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hammer's Heading",
+    "string": "巨锤锤头",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasVesselOneThirdFilled",
+    "form_id": "05000077|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Slightly Filled Vessel",
+    "string": "灵魂容器（填充一次）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasHammerHeadConnector",
+    "form_id": "05000006|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hammer's Head Holder",
+    "string": "巨锤锤头架",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasVesselFilled",
+    "form_id": "05000079|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Vessel Of Souls",
+    "string": "灵魂容器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasVesselEmpty",
+    "form_id": "05000076|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Empty Vessel",
+    "string": "灵魂容器（空）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasHilt",
+    "form_id": "05000004|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hammer's Hilt",
+    "string": "巨锤锤柄",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasHiltDecoration",
+    "form_id": "05000003|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hammer's Pommel",
+    "string": "巨锤锤柄尖头",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Sulfuras",
+    "form_id": "05000D63|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Yol'taas Haal",
+    "string": "约'塔斯·哈尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Sulfuras",
+    "form_id": "05000D63|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "WEAP DESC",
+    "original": "Each light swing empowers the hammer's flame. Upon 4 hits it becomes engulfed in flames, ready to unleash its power with a steady and heavy swing. Also burns the target for 25 points. Targets on fire take extra damage.",
+    "string": "每次轻击都会增强巨锤的火焰。命中4次后，它将被火焰吞没，用稳定沉重的挥击释放它的力量。同时灼烧目标，造成25点伤害。着火目标会受到额外伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasFlameless",
+    "form_id": "05000029|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Flameless Hammer",
+    "string": "无焰巨锤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasFlameless",
+    "form_id": "05000029|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "WEAP DESC",
+    "original": "This weapon is a mere shell of its formerself, a remnant of former glory, in the hands of a legendary ancient warrior.",
+    "string": "传说中古代勇士的武器。如今不过是昔日荣耀的残痕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasGuardWinterhold02",
+    "form_id": "05000018|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Winterhold Guard",
+    "string": "冬堡卫兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasGuardWinterhold",
+    "form_id": "05000011|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Winterhold Guard",
+    "string": "冬堡卫兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BalgruuftheGreater",
+    "form_id": "00013BBD|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Balgruuf the Greater",
+    "string": "强者巴尔古夫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BalgruuftheGreater",
+    "form_id": "00013BBD|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Balgruuf",
+    "string": "巴尔古夫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkaldtheElder",
+    "form_id": "00013620|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Skald",
+    "string": "斯卡德",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkaldtheElder",
+    "form_id": "00013620|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Skald",
+    "string": "斯卡德",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasTheAncientJarl",
+    "form_id": "0500008E|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ancient Jarl",
+    "string": "古代领主",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasStrongboxKey",
+    "form_id": "05000010|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Key to Hammer Piece Box",
+    "string": "巨锤碎片箱子的钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDragonsreachCellarKey",
+    "form_id": "0500003C|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Dragonsreach Cellar Key",
+    "string": "龙临宫地窖钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasBrokenVesselFilled",
+    "form_id": "05000061|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "SLGM FULL",
+    "original": "Broken Vessel",
+    "string": "损毁的灵魂容器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunDragonsreachBasement",
+    "form_id": "0004A376|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dragonsreach Dungeon",
+    "string": "龙临堡地牢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DawnstarBarracks",
+    "form_id": "00013A89|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dawnstar Barracks",
+    "string": "晨星营房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DawnstarTheWhiteHall",
+    "form_id": "00013A80|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The White Hall",
+    "string": "白色会堂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WinterholdTheFrozenHearth",
+    "form_id": "00013814|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Frozen Hearth",
+    "string": "冻炉旅店",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunDragonsreach",
+    "form_id": "000165A3|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dragonsreach",
+    "string": "龙临堡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WinterholdJarlsLonghouse",
+    "form_id": "00013818|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Jarl's Longhouse",
+    "string": "领主的长屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenMistveilKeepJarlsChambers",
+    "form_id": "0003B87D|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Mistveil Keep Jarl's Chambers",
+    "string": "雾隐堡垒领主堂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BleakFallsBarrow02",
+    "form_id": "000371DD|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Bleak Falls Sanctum",
+    "string": "荒瀑圣所",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonsreachCellar",
+    "form_id": "05000039|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dragonsreach Cellar",
+    "string": "龙临宫地窖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BleakFallsBarrow01",
+    "form_id": "000371DE|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Bleak Falls Temple",
+    "string": "荒瀑神殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunWorld",
+    "form_id": "0001A26F|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Whiterun",
+    "string": "白漫城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueEorlundTopic01",
+    "form_id": "05000020|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Greetings, i was wondering if i could employ your aid in reforging this weapon ?",
+    "string": "您好，我想问问，您能不能帮我重铸这柄武器？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000021|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "hmm, Interesting, these pieces seem ancient, but the design is remarkable. Creating a weapon like this would've required a mighty forge.",
+    "string": "嗯，有意思，这些碎片看着很古老，不过设计很出色。想要打造这样的武器需要强大的锻炉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000021|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Such a weapon could not have been created anywhere in skyrim. And the pieces look quite ancient. tell me, where have you found these pieces ?",
+    "string": "这样的武器不可能是在天际打造的。从现有的碎片看，应该很古老了。你是从哪儿搞到这些碎片的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueEorlund02",
+    "form_id": "05000022|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I read a book that hinted at the location of each piece and then recovered them.",
+    "string": "我读过一本书，上面记录了碎片的位置，就把它们找回来了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000023|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Huh, that's one lazy tale if i ever heard one. I suppose i have no way of knowing whether you are telling the truth or not, have i ?",
+    "string": "哈，这故事也太简略了。谁知道你说的是不是真话啊？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000023|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "In any case, assembling the pieces of such a weapon together without knowing how the original smith created it in the first place will be quite hard.",
+    "string": "不管怎么说，如果不知道当初的铁匠是如何打造的，想要重新组装也很困难。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000023|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The forge will also need to become ready to put this weapon together as it's fire is simply not ready for such a mighty task.",
+    "string": "而且锻炉也需要做准备，现在的火焰没法承担如此重大的任务。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000023|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Bring me a handful of Fire Salts so i can enhance the forge's flame and get it ready for reforging the weapon.",
+    "string": "给我带点火盐过来，这样就能增强锻炉的火焰，然后重铸武器了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueBranchEorlund02Topic",
+    "form_id": "05000027|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Here's the fire salts you requested.",
+    "string": "这是你要的火盐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000028|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well. Let us begin then.",
+    "string": "很好。咱们开始吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500002D|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well here it is. The hammer is reforged. i have to say, i have been a smith for years,  but rarely have i crafted a weapon as magnificent as this.",
+    "string": "在这儿呢。锤子重铸好了。不得不说，打了这么多年铁，我也很少能造出这么华丽的武器。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueBranchEorlund03Topic02",
+    "form_id": "0500002E|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "...",
+    "string": "...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500002F|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "what is it ? Too heavy for you to handle ?",
+    "string": "怎么了？太重拿不动吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueBranchEorlund03Topic03",
+    "form_id": "05000030|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, but i expected it to be engulfed in flames. Just like it was described.",
+    "string": "不是，但我以为它会像书里写的那样被火焰环绕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000031|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bah, i am no wizard child. I have done all that is possible with my skill as a smith and my Forge. And there is no better forge in all of skyrim.",
+    "string": "啊，孩子，我又不是个巫师。我已经把身为铁匠的技能和这个锻炉运用到极致了。全天际你也找不出比我这儿更好的锻炉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000031|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "If you seek to enchant this hammer, then maybe you should talk to the jarl's court wizard. He is the one who knows about elven craft. Magic i mean.",
+    "string": "如果你想给锤子附魔，去和领主的宫廷巫师谈谈。他才是那个懂精灵玩意儿的人。我是说，魔法。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueFarengar01Topic01",
+    "form_id": "05000037|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is it possible to restore the enchantment of this hammer ?",
+    "string": "有没有办法恢复这把巨锤的附魔？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000038|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm, i have never seen anything quite like it. I cannot decipher the markings on the hammer on my own. I need more information about it's origin.",
+    "string": "嗯，我从没见过这种东西，看不懂这上面的记号。需要更多来源信息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueFarengar03Topic01",
+    "form_id": "05000047|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Farengar, i have collected the black souls gems you requested.",
+    "string": "法仁加，你要的黑色灵魂石我拿来了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000048|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, you have finally collected enough black soul gems, have you ? very well, i guess this is where the work of the mind begins. Stand back and watch.",
+    "string": "啊，你总算把黑色灵魂石找齐了？好，现在该是大脑工作的时候了。站在后面好好看着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500004B|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There you go, it is done. A vessel that can host the souls of mighty foes. Truly a fine craft, and one of my best creations yet.",
+    "string": "好了，完成了。能够容纳强大敌人灵魂的容器。真精美啊，算是我最好的作品之一了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueFarengar04Topic02",
+    "form_id": "0500004C|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How can i fill the vessel ?",
+    "string": "我怎么把容器装满？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500004D|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, to restore the hammer's enchantment, you will need powerful souls. And i can only think of a few beings whose souls are powerful enough.",
+    "string": "嗯，想要恢复锤子的附魔，就需要强大的灵魂。我能想到的也只有少数。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueFarengar04Topic03",
+    "form_id": "0500004E|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But how do i trap their souls into this vessel ?",
+    "string": "我要怎么把他们的灵魂捕获到容器里？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500004F|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, assuming you have seeked out a powerful foe and engaged them in battle, you need to defeat and then slay them.",
+    "string": "好吧，假设你找到了强大的敌人，和他们打了起来，那就得击败并杀了他们吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500004F|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Once slain, the vessel shall lure their soul inside and imprison it there. But it is only able to host three such souls.",
+    "string": "一旦敌人被杀，容器就会把他们的灵魂引诱进去囚禁起来。但它最多只能容纳三个灵魂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500004F|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "If my understanding of the Ancient Dunmer enchanting proves correct, then each soul can be trapped and imprisoned separately.",
+    "string": "如果我对古丹莫附魔的理解没错，那么每个灵魂都可以被单独囚禁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500004F|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Once you have successfully filled the vessel, you shall be able to channel all of it's accumulated power into the hammer, restoring it's enchantment.",
+    "string": "等你成功填充了容器，就可以把积蓄的能量注入锤子，恢复附魔了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueFarengar05Topic01",
+    "form_id": "05000054|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have slain mighty foes and imprisoned their souls inside the vessel of souls.",
+    "string": "我杀了那些强大的敌人，灵魂都在容器里了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000055|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Huh, i must admit, when i have sent you on this journey i did not expect you to come back in one piece.",
+    "string": "嗯，我得说，让你踏上旅程时，我都没指望你能安然无恙地回来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000055|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Not only have you exceeded my expectations, but you have also returned with the vessel of souls filled with powerful souls.",
+    "string": "你不但超出了我的预期，还带着充满强大灵魂的容器回来了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000055|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "You are a mighty warrior indeed, and i am glad to have aided you in your journey.",
+    "string": "你确实是个强大的战士，我很高兴能够在你的旅途中帮到你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueFarengar05topic02",
+    "form_id": "05000056|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thank you, now tell me what should i do next ?",
+    "string": "谢谢，现在我需要做什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000057|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, while you were away i have done what a scholar does and found more books about the tale of the legendary nord hero Jurgorn firetongue.",
+    "string": "你不在的时候，我做了些学者该做的事，找了更多关于“火舌”约尔贡的书。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000057|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "From what i gathered, the dunmer in charge of enchanting the weapon enhanced the forge with a special flame that seemed to be of dwemer origin.",
+    "string": "据我所知，负责给武器附魔的丹莫用了一种特殊火焰来强化锻炉，那种火焰似乎来自锻莫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000057|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Therefore giving the hammer, the power to hold and attune to the fiery enchantment that was bestowed upon it.",
+    "string": "因此锤子才拥有并协调了炽热附魔力量。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000057|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "How was he able to create such a flame is still unknown. However the good news is that i was able to discover that the flame itself still exists.",
+    "string": "至于他如何制造了这种火焰就不得而知了。不过所幸，我发现火焰本身仍然存在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000057|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "It seems that the dwemer of skyrim preserved this flame and used it in the creation of armaments created with a mysterious material called aetherium.",
+    "string": "天际的锻莫似乎保存了这种火焰，用来冶炼“神光水晶”，然后锻造武器。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueFarengar05topic03",
+    "form_id": "05000058|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Were you able to find where did the dwemer keep this flame ?",
+    "string": "你知道锻莫把火焰存放在什么地方吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000059|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I believe the flame is kept in a dwemer ruin called the aetherium forge, which seem to be located somewhere in the reach.",
+    "string": "我确定火焰保存在一个叫“神光水晶锻炉”的锻莫遗迹里，似乎就在瑞驰的某地。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000059|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Unfortunately, i was not able to find any further information about it's exact location or whether it still exists today.",
+    "string": "可惜没有找到确切位置或者进一步验证真伪的信息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000059|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "There might be a book written about the aetherium forge that can provide more information about its whereabouts.",
+    "string": "好像有一本写神光水晶锻炉的书，或许能找到更多有关信息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000059|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I'm afraid that's all i can tell you about this place.",
+    "string": "恐怕我也只能告诉你这么多了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000059|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Oh, and one more thing. If you end up finding this forge, you will need to enchant the hammer on your own.",
+    "string": "哦，还有。如果你找到了锻炉，需要自己给锤子附魔了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000059|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "To that end, you need to be familiar with at least the basics of arcane smithing. Find a forge here in whiterun and start crafting simple weapons.",
+    "string": "为此，你至少需要熟悉奥术锻造的基础知识。在白漫找个锻炉，学习锻造些简单的武器。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000059|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 7,
+    "type": "INFO NAM1",
+    "original": "once crafted, try to enchant your weapons. Keep practicing until you are adept at enchanting and improving enchanted weapons.",
+    "string": "锻造完，试着给你的武器附魔。持续练习，直到你熟练地使用附魔，而且能够提升附魔武器为止。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000059|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 8,
+    "type": "INFO NAM1",
+    "original": "Well i suppose that's it. that's all i can help you with. I wish you the best of luck in restoring the hammer's enchantment.",
+    "string": "好了，就这些。我只能帮你这么多了。祝你好运，早日恢复锤子的附魔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueFarengar01Topic02",
+    "form_id": "0500005A|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can this book help with deciphering the hammer's enchantment ?",
+    "string": "这本书能帮你破译锤子的附魔吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500005B|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lets take a look. What is this ? are you telling me that you have recovered and then reforged an ancient artifact of legends ?",
+    "string": "那就看一看。这是什么？你是说你找到并重铸了一把古老的传奇武器？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasDialogueFarengar01Topic03",
+    "form_id": "0500005C|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Indeed, i have.",
+    "string": "确实如此。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500005D|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well lets just say i'm impressed. If i understood the book correctly, it mentioned that the enchantment was scribed by a powerful dunmer wizard.",
+    "string": "不得不说，我很佩服你。如果我理解无误，书里提到这个附魔是由一个强大的丹莫巫师创造的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500005D|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Dunmers are known for their specific enchanting method, whereby they are able to fill a specially crafted black soul gem with multiple souls.",
+    "string": "丹莫的特殊附魔方法闻名于世，能够用多个灵魂石特制一种黑色灵魂石。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500005D|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Unfortunately, this method is lost to time. However, the recipe to create the soul gem is not. Bring me 5 empty black soul gems and i shall craft it.",
+    "string": "可惜，这种方法已经过时了。不过，配方本身没有。给我五颗空的黑色灵魂石，我来制作。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "A Destiny of Flame and Sorrow",
+    "string": "火焰与哀伤的命运",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered where the location of each of its pieces is. I must look for the pieces and then find someone who would be able to assemble them together.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。现在可以去寻找碎片，再找个可以把它们重铸起来的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered where the location of each of its pieces is. I must look for the pieces and then find someone who would be able to assemble them together.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。现在可以去寻找碎片，再找个可以把它们重铸起来的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered where the location of each of its pieces is. I must look for the pieces and then find someone who would be able to assemble them together.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。现在可以去寻找碎片，再找个可以把它们重铸起来的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered where the location of each of its pieces is. I must look for the pieces and then find someone who would be able to assemble them together.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。现在可以去寻找碎片，再找个可以把它们重铸起来的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered where the location of each of its pieces is. I must look for the pieces and then find someone who would be able to assemble them together.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。现在可以去寻找碎片，再找个可以把它们重铸起来的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. Now i must find a blacksmith that is able to put the pieces together and reforge the hammer.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。现在得去找个铁匠，让他把碎片拼起来，重铸这把锤子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. Eorlund greymane has agreed to help with reforging it, but asked for 10 fire salts to empower his forge before attempting to reforge the hammer.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。厄伦德·灰鬃同意帮忙重铸，但需要10份火盐来加强锻炉的火力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. I gathered 10 fire salts for Eorlund greymane who agreed to reforge the hammer, and now i must return to him.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。厄伦德·灰鬃同意帮忙重铸，我帮他找来10份火盐来加强锻炉的火力，现在该回去找他了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. Eorlund greymane is now attempting to reforge the hammer. Now i must wait and see what will be the result of his work.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。厄伦德·灰鬃正在尝试重铸巨锤。现在就静候佳音了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. Eorlund greymane sucessfully reforged the hammer. But its legendary fire was missing. He suggested that i should talk with the court wizard of whiterun about the hammer's enchantment.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。厄伦德·灰鬃成功重铸了巨锤。但锤子上传说中的火焰却不见了。厄伦德建议我去和白漫的宫廷巫师谈谈锤子的附魔问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 11,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. I reforged the hammer. Now in order to bring back its fiery enchantment, i must find 5 empty black soul gems and bring them to farengar secretfire.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。我重铸了巨锤。为了恢复它的火焰附魔，我需要给“秘火”法仁加带5颗空的黑色灵魂石。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 12,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. I reforged the hammer. I have gathered 5 black souls gems for farengar secretfire so he may be able to restore the hammer's enchantment.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。我重铸了巨锤。我已经给“秘火”法仁加收集了5颗空的黑色灵魂石。现在他可以恢复锤子的附魔了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 13,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. I reforged the hammer. Now i must now wait and see if farengar secretfire is able to craft a special soul gem that will aid in restoring the hammer's enchantment.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。我重铸了巨锤。现在就要看“秘火”法仁加能否制造一颗特殊的灵魂石来帮忙恢复附魔了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 14,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. I reforged the hammer. Then the court wizard of whiterun, farengar secretfire had created a special soul gem for me, that shall host the souls of mighty foes. Now i must fill this soul gem.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。我重铸了巨锤。白漫的宫廷巫师“秘火”法仁加制造了一颗特殊的灵魂石，能够承载强大敌人的灵魂。现在我需要去填满这颗灵魂石。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 15,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. I reforged the hammer. Then the court wizard of whiterun, farengar secretfire had created a special soul gem for me, that shall host the souls of mighty foes. Now i must fill this soul gem.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。我重铸了巨锤。白漫的宫廷巫师“秘火”法仁加制造了一颗特殊的灵魂石，能够承载强大敌人的灵魂。现在我需要去填满这颗灵魂石。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 16,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. I reforged the hammer. Then the court wizard of whiterun, farengar secretfire had created a special soul gem for me, that shall host the souls of mighty foes. Now i must fill this soul gem.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。我重铸了巨锤。白漫的宫廷巫师“秘火”法仁加制造了一颗特殊的灵魂石，能够承载强大敌人的灵魂。现在我需要去填满这颗灵魂石。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 17,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. I reforged the hammer. Then i went and filled a special soul gem created by farengar secretfire, with the souls of mighty foes. Now i must return to him and ask what must be done next.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。我重铸了巨锤。“秘火”法仁加制造了一颗特殊的灵魂石，能够承载强大敌人的灵魂。我已经填充了灵魂石，该去问问下一步了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 18,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. I reforged the hammer. Then i went and filled a special soul gem created by farengar secretfire, with the souls of mighty foes. Now i must look for any information regarding a place called the aetherium forge where i might be able to restore the hammer's enchantment.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。我重铸了巨锤。又用“秘火”法仁加制造的特殊灵魂石装满强大敌人的灵魂。现在我需要寻找一个叫做“神光水晶锻炉”的地方，那里可以恢复锤子的附魔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 19,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. I reforged the hammer. Then i went and filled a special soul gem created by farengar secretfire, with the souls of mighty foes. I found the dwemer ruin called arkngthamz, i must look around for any sign of the aetherium forge and continue searching until i find the forge.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。我重铸了巨锤。又用“秘火”法仁加制造的特殊灵魂石装满强大敌人的灵魂。我找到了一个叫“阿肯撒兹”的矮人遗迹，我必须继续寻找“神光水晶锻炉”的线索。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 20,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. I reforged the hammer. Then i went and filled a special soul gem created by farengar secretfire, with the souls of mighty foes. I found all four pieces of the aetherium crest, which allowed me to gain access to the aetherium forge's true location. Now i must try to reach the forge.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。我重铸了巨锤。又用“秘火”法仁加制造的特殊灵魂石装满强大敌人的灵魂。我找到了神光水晶纹饰的四块碎片，找到了“神光水晶锻炉”的确切位置。现在可以出发了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 21,
+    "type": "QUST CNAM",
+    "original": "I have found a book that tells the tale of an ancient nord hero that wielded a mighty hammer. But the hammer seems to have been broken into pieces. Looking through the book, i discovered the location of the pieces. I was able to find all 4 pieces of the hammer. I reforged the hammer. Then i went and filled a special soul gem created by farengar secretfire, with the souls of mighty foes. I have finally found the aetherium forge. Now i must try to restore the hammer's enchantment.",
+    "string": "我找到一本书，讲述一位古诺德英雄挥舞一把巨锤的故事。但锤子似乎已经破碎。阅读之后，我得知了每个碎片的位置。我已经找到了锤子的四块碎片。我重铸了巨锤。又用“秘火”法仁加制造的特殊灵魂石装满强大敌人的灵魂。我总算找到了“神光水晶锻炉”。现在可以尝试恢复锤子的附魔了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 22,
+    "type": "QUST CNAM",
+    "original": "The hammer that was once flameless, is now reforged. Yol'taas haal, the flaming hand is now restored to its former glory.",
+    "string": "曾经的无焰巨锤，已被重新铸造。约'塔斯·哈尔，燃烧之手恢复了往昔的辉煌。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Find the heading piece of the hammer.",
+    "string": "找到巨锤的锤头碎片",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 2,
+    "type": "QUST NNAM",
+    "original": "Find the heading holder of the hammer.",
+    "string": "找到巨锤的锤头架",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 3,
+    "type": "QUST NNAM",
+    "original": "Find the hilt of the hammer.",
+    "string": "找到巨锤的锤柄",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 4,
+    "type": "QUST NNAM",
+    "original": "Find the pommel of the hammer",
+    "string": "找到巨锤的锤柄尖头",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Find a blacksmith that is able to put the hammer pieces together.",
+    "string": "寻找能重铸巨锤的铁匠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Gather 10 fire salts and give them to Eorlund greymane (<Global=SulfurasFsaltsCount>/<Global=SulfurasFsaltsTotal>)",
+    "string": "给厄伦德·灰鬃收集10份火盐(<Global=SulfurasFsaltsCount>/<Global=SulfurasFsaltsTotal>)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Return to Eorlund Greymane with fire salts.",
+    "string": "将火盐交给厄伦德·灰鬃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 35,
+    "type": "QUST NNAM",
+    "original": "Wait for eorlund to craft the hammer.",
+    "string": "等待厄伦德重铸巨锤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Speak with the court wizard of whiterun about the hammer.",
+    "string": "跟白漫的宫廷巫师谈谈巨锤的事",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Find 5 empty black soul gems and give them to Farengar secretfire (<Global=SulfurasBlackSoulGemsCount>/<Global=SulfurasBlackSoulGemsTotal>)",
+    "string": "给“秘火”法仁加收集5颗空的黑色灵魂石(<Global=SulfurasBlackSoulGemsCount>/<Global=SulfurasBlackSoulGemsTotal>)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 55,
+    "type": "QUST NNAM",
+    "original": "Retun to farengar secretfire with the soul gems.",
+    "string": "将灵魂石交给“秘火”法仁加",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 57,
+    "type": "QUST NNAM",
+    "original": "Wait for farengar secretfire to create the special soul gem.",
+    "string": "等待“秘火”法仁加制作特殊的灵魂石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Seek and slay a giant.",
+    "string": "寻找并杀死一个巨人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 63,
+    "type": "QUST NNAM",
+    "original": "Seek and slay a dragonpriest.",
+    "string": "寻找并杀死一个龙祭司",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 66,
+    "type": "QUST NNAM",
+    "original": "Seek and slay a dragon.",
+    "string": "寻找并杀死一头巨龙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Return to farengar secretfire.",
+    "string": "回去找“秘火”法仁加",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Track down the location of the aetherium forge.",
+    "string": "寻找神光水晶锻炉的位置",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Find a way to reach the aetherium forge.",
+    "string": "寻找进入神光水晶锻炉的方法",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 95,
+    "type": "QUST NNAM",
+    "original": "Reach the aetherium forge, and see if it possible to restore the hammer's enchantment.",
+    "string": "前往神光水晶锻炉尝试恢复巨锤的附魔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasQuest",
+    "form_id": "05000008|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 97,
+    "type": "QUST NNAM",
+    "original": "Use the aetherium forge to restore the hammer's enchantment.",
+    "string": "使用神光水晶锻炉恢复巨锤的附魔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SulfurasBrokenVesselPerk",
+    "form_id": "05000087|Sulfuras The Reclaimed Hand SE - Johnskyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Fire enchantments on weapons and armor are 25% stronger.",
+    "string": "武器和护甲上的火焰类附魔效果增强25%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DawnstarBarracksLocation",
+    "form_id": "0002005C|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Barracks",
+    "string": "营房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BleakFallsBarrowLocation",
+    "form_id": "00018EE9|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Bleak Falls Barrow",
+    "string": "荒瀑古坟",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,6023 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "06000811|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful around here.",
+    "string": "此处危险，多加小心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000843|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder about your timing sometimes, you know?",
+    "string": "你挑的这会儿，我有时真想不明白。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000847|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Unless it's urgent, might I suggest we get moving?",
+    "string": "若非十万火急，我建议我们还是尽快启程。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600083E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The waiting... the insufferable waiting.",
+    "string": "等待……折磨人的等待。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000844|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Please, stop wasting my time.",
+    "string": "够了，别再浪费我的时间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000845|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is so boring. Can't you finish up?",
+    "string": "无聊透顶，你就不能快些结束？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000846|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My uncle was always tinkering with stuff like you. I hated that man.",
+    "string": "我叔叔从前也总像你这样鼓捣东西，我最恨他了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A7D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hurry it up icebrain. I haven't got all day.",
+    "string": "快点，蠢货，我没工夫耗一整天。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A7E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Only a milkdrinker does that while threats are close by.",
+    "string": "唯有乳臭未干之辈，才会在强敌环伺时做这等事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A81|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Look. I didn't join the Companions to wait around while you do that.",
+    "string": "听着，我加入战友团，可不是为了在这儿干等你做这些琐事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A8B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pfft. I don't have time for all that. Just give me heads to take off and I'm your man. But that? Nah, I'll leave all that to you.",
+    "string": "哼，我没空理会这些。只管把敌人脑袋送来让我砍，我便为你效命。至于这些？不必了，全交给你处理。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A8C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm the best warrior in Morthal - why would I need to mess about with things like you're doing?",
+    "string": "墨索尔最强的战士是我，我才不需要像你这样摆弄这些玩意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A90|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't worry. Old Marcurio has got your back. But still, best hurry it up.",
+    "string": "别担心，老马库里奥为你殿后。不过，还是快些为妙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A94|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did you really hire me just so I could stand around watching you make stuff?",
+    "string": "你雇我来，就为了让我站在这儿看你做东西？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A95|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A mighty spellsword like me and you have me watching your back while you dabble in - whatever that is you're doing.",
+    "string": "像我这般强大的魔剑士，竟被你用来在你捣鼓这些——不管你在搞什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A96|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All that messing about like that is for milkdrinkers. Me? I prefer a good fight.",
+    "string": "摆弄这些琐事，只适合乳臭未干的小子。我？更喜欢一场痛快的战斗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000865|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Go on, pretend you know what you're doing with that.",
+    "string": "继续吧，假装你很清楚自己在做什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000866|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's one way to pass the time... I suppose.",
+    "string": "这也是一种打发时间的方式……我想。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000867|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well if it keeps you busy, I'm not one to complain.",
+    "string": "既然能让你忙起来，我也不会抱怨。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000869|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Um? Are you sure that's supposed to come out like that?",
+    "string": "嗯？你确定那东西就该是这个样子？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000868|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What in the name of the gods are you doing?",
+    "string": "以神的名义，你究竟在做什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600086A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Best not spend too long fiddling with that. There might still be things that want to kill us hanging about.",
+    "string": "最好别在那上面磨蹭太久，说不定还有什么东西正等着要我们命呢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600086B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know the Falmer can probably hear all your fumbling, don't you?",
+    "string": "你知道吗，那些伐莫大概能听见你所有的笨拙响动。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000885|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Shall I ask our enemies to wait politely?",
+    "string": "要我去请我们的敌人礼貌地等等吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000889|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I will wait while you do that, but I doubt our enemies will do the same.",
+    "string": "我会等你做完，但我怀疑敌人可不会如此。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600088A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I suppose I'm expected to stand guard, as usual?",
+    "string": "我猜，照常，我得负责警戒吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600088B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's hope you don't wake up any more Draugr then eh?",
+    "string": "希望你别再把更多尸鬼吵醒了，嗯？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000886|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Must you always be messing about with things?",
+    "string": "你就非得一直鼓捣这些东西不可吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000887|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I tire of your constant tinkering with whatever you come across.",
+    "string": "你总是摆弄碰到的每样东西，我早已厌倦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000888|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You just can't help yourself, can you?",
+    "string": "你就是管不住自己，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A82|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My patron, will we be moving out soon?",
+    "string": "我的主人，我们很快就要启程了吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A83|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You don't pay me to stand around watching you make things.",
+    "string": "我可不是光拿钱看你做东西的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A84|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see you're pretty handy with practical work, just like me.",
+    "string": "我看你干起活来挺在行的，跟我一样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A85|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope you're not expecting me to carry whatever it is you're making there.",
+    "string": "希望你别指望我来搬你做的那堆东西吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A7|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll keep watch, but we should be quick.",
+    "string": "我会警戒，但我们得快些。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A8|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Best to keep your mind on the fight don't you think?",
+    "string": "最好把心思放在战斗上，你不觉得吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A9|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We might want to save that for later.",
+    "string": "或许我们该留到以后再做。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008AA|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'd prefer to deal with the threats first.",
+    "string": "我宁愿先解决眼前的威胁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, you're doing that. Again.",
+    "string": "哦，你又在弄这个了。又来了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A6|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well you sure like to keep busy, that's for sure.",
+    "string": "你确实喜欢让自己忙个不停，这没错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008AB|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Never thought I'd travel with someone so handy.",
+    "string": "从没想过我会和一个如此能干的人同行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is now really the best time for this?",
+    "string": "现在真是做这个的最佳时机吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's wait until we're somewhere safe.",
+    "string": "等我们到了安全的地方再说吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C6|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know I get bored when you're doing that. Let's hurry it up.",
+    "string": "你知道我一看到你做这个就无聊。快点吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C7|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're doing it again? Can't we just go kill stuff?",
+    "string": "你又来了？我们不能直接去砍点东西吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008DF|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Funny, I always thought your hands were made for killing, not crafting.",
+    "string": "有趣，我一直以为你的手生来就是杀戮的，不是用来做这些的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aye, make what you need. Better to rely on yourself than some shopkeeper.",
+    "string": "好，做你需要的吧。靠自己总比靠商人靠谱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't be too long with that. I'm eager to get going.",
+    "string": "别弄太久，我急着出发。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hurry, we've no time to dawdle over trinkets.",
+    "string": "快，没时间在这些小玩意上磨蹭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Surely that can wait until we're somewhere a bit safer?",
+    "string": "这肯定能等到我们到更安全的地方再做吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do what you must, but don't forget there might still be enemies about.",
+    "string": "做你该做的，但别忘了周围可能还有敌人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We should keep moving. What you're doing won't help if we get overrun.",
+    "string": "我们得继续前进。要是被敌人包围，你做的这些可帮不上忙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000902|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You make, you mend, you fight. Such versatility.",
+    "string": "你会制造，会修理，会战斗。真是多才多艺。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000903|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All that skill... and all mine to watch. How lucky am I?",
+    "string": "如此精湛的技艺……全归我欣赏。我可真是幸运。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000904|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Crafting, killing... you do it all with such flair.",
+    "string": "制造，杀戮……你样样都做得如此出色。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000908|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You concentrate on what you're doing, I don't mind waiting.",
+    "string": "你专心做你的事，我不介意等。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000905|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Work quickly. Beauty loses its shine when we're bleeding out.",
+    "string": "快些动手。当我们血流不止时，再美的事物也失去了光彩。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000906|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By all means focus on your craft. But be mindful of what's lurking in the shadows.",
+    "string": "尽管专注于你的手艺吧。但别忘了暗处潜藏的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000907|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm. I like watching you do that. Even if it does get us killed.",
+    "string": "嗯，我喜欢看你做这个。哪怕这会让我们送命。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000925|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're so good at this stuff. It's like you can do anything you put your mind to.",
+    "string": "你做这些事太在行了。仿佛你下定决心就没有办不到的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000926|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I could probably watch you do that all day, but maybe we should get moving soon?",
+    "string": "我大概能看你做上一整天，但我们是不是该尽快出发了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000927|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever it is you're doing, I'm sure it will be good once you've finished.",
+    "string": "不管你在做什么，我相信完成之后一定会很好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000928|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh? You're making something again?",
+    "string": "哦？你又在制作东西了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000929|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We should probably get going before something bad happens.",
+    "string": "我们最好在出事前赶紧离开。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600092A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not sure how you can concentrate on that, given where we are? Please hurry.",
+    "string": "我不明白在这种地方你怎么还能专心做这个？请快些。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600092B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Could you be quick? I don't want to be caught off guard!",
+    "string": "能快点吗？我不想措手不及！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000814|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come on, hurry up.",
+    "string": "拜托，快点啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000815|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come on, you need your hands free.",
+    "string": "快，你得把绑着手的绳子弄掉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000819|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Um, do you think that's a good idea?",
+    "string": "呃，你觉得这主意好吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600081B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? Can't you wait until we're out of danger?",
+    "string": "真的吗？你就不能等到脱离危险再做？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600081C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not sure this is a good place to be doing that.",
+    "string": "我不觉得这是做这事的好地方。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000818|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What are we waiting for?",
+    "string": "我们还在等什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600081A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm sick of waiting. When are we going to see some action?",
+    "string": "我不想等了。我们什么时候能看到一些动静？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600081D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know I get bored easily, right?",
+    "string": "你知道我很容易无聊的，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000946|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever it is you're doing there, you make it look effortless.",
+    "string": "不管你在那里做什么，你都显得毫不费力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000947|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Looks like you've got a real talent for that.",
+    "string": "看来你确实有这方面的天赋。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000948|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you going to be much longer?",
+    "string": "你还要做多久？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000949|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you really have to be doing that now? Can it not wait?",
+    "string": "你非得现在做这个吗？就不能等会儿？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600094A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do that if you must. But keep yourself ready for attack.",
+    "string": "你要做就做吧。但得随时准备应对攻击。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600094B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Best not to stay too long on that. We're vulnerable here.",
+    "string": "最好不要在这上面耽搁太久。我们在这里很脆弱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000968|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aye, better to make your own stuff than buy it. Or beg for it.",
+    "string": "是啊，自己制作总比去买，或者去乞讨强。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000969|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't make me wait around all day will you?",
+    "string": "别让我一整天都干等着，好吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600096D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fancy yourself a real handyman, eh?",
+    "string": "自认是个真正的能工巧匠，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600096E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Got to admit, you're a woman that loves to craft, eh?",
+    "string": "得承认，你是个热爱制作的女人，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600096A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This ain't the time for that. Unless you're looking to die over whatever it is you're doing?",
+    "string": "现在不是做这个的时候。除非你想为手里的活计送命？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600096B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Work faster. I don't think we're alone here.",
+    "string": "快点。我觉得这里不止我们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600096C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Keep your wits about you. I thought I heard movement.",
+    "string": "保持警惕。我好像听见了动静。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600098A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Work faster, before we get surrounded.",
+    "string": "快点，趁我们还没被包围。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600098B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's not going to save us if we're dead you know?",
+    "string": "要是我们死了，这可救不了我们，你知道吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600098E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah yeah. You do that. I'll wait around twiddling my thumbs. I get it.",
+    "string": "行行行，你忙你的。我就在这儿闲着没事干。我懂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600098C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sometimes I think you do that just to avoid fighting.",
+    "string": "有时候我觉得你做这个只是为了逃避战斗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600098D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll just wait here, but please, don't spend all day at it.",
+    "string": "我就在这儿等，但求你，别花一整天。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000990|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If I had a Septim for every time you stopped to do that, I'd be a rich man.",
+    "string": "每次你停下来做这个，我都存一枚塞普汀，那我早就是个富翁了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600098F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever is trying to kill us isn't interested in your little project there, you know?",
+    "string": "你想做的那点小项目，可不会让想要杀我们的东西感兴趣，你知道吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009AA|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heh... that reminds me of... uh, something? Can't remember.",
+    "string": "呵……这让我想起……呃，某件事？记不清了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009AB|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't let me stop you. I'll just be... right here.",
+    "string": "别管我，我就在这儿……等着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009AC|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "While you're doin' that, I'll do what I do best. Got any ale or mead?",
+    "string": "你忙你的，我去做我最拿手的事。有麦酒或蜜酒吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009AD|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come on now, put that down. We need to get out of here.",
+    "string": "行了，放下那个。我们得离开这儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009AE|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Um - are you daft?",
+    "string": "呃——你疯了吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009AF|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't mind waiting, but I'm not sure about, ya know? Them?",
+    "string": "我不介意等，但我不确定，你知道的？他们？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009CD|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Preparation is as important as skill in battle.",
+    "string": "准备在战斗中与技巧同等重要。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009CE|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh. I'll just wait over here then, shall I?",
+    "string": "哦。那我就在这儿等着，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009D2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I guess I'll just go read a book or something, then?",
+    "string": "我猜我还是去读本书什么的吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009CF|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Right. You dabble with your thing, and I'll just go do something else then. But don't be long.",
+    "string": "行吧。你摆弄你的东西，我去干点别的。但别太久。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009D0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We should move. This isn't a safe place to work.",
+    "string": "我们该走了。这里不适合工作。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009D1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Um. Not the best time to be crafting.",
+    "string": "呃。现在不是制作的好时机。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll just stand around then shall I?",
+    "string": "那我就这么站着，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Making something useful there, I hope?",
+    "string": "希望你做的东西有点用处吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F7|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I suppose making or improving your own stuff is better than paying someone else to do it.",
+    "string": "自己动手制作或改进装备，总比花钱请人做要好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Work quickly, or not at all. Danger is close.",
+    "string": "快点，不然就别做。危险就在附近。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Keep your focus on your surroundings, not on that.",
+    "string": "注意周围环境，别只盯着那个。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Best be quick with that. Danger's not far, I feel.",
+    "string": "最好快点做完。我感觉危险不远。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F6|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Might be wise to save that for later. We have company about.",
+    "string": "或许留到以后更明智。我们附近有家伙在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A14|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Khajiit sometimes thinks you like to play more than you like to fight, yes?",
+    "string": "虎人有时觉得你更爱玩闹，而不是战斗，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A15|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is it really necessary to be doing that, all the time?",
+    "string": "你就非得一直做这个不可吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A16|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one's whiskers are twitching. Something comes, perhaps?",
+    "string": "这位的胡须在颤动。也许有东西来了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A17|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one idly wonders if this task would best be done at a time when we're not in enemy territory?",
+    "string": "这位只是好奇，这项任务是否该在非敌境时完成？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A18|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? You're doing that, now?",
+    "string": "真的吗？你现在就要做这个？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A19|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Khajiit thinks that you have lost your mind and would be better to wait before finishing that task.",
+    "string": "虎人觉得你疯了，最好等会儿再完成那任务。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A38|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good. Every bit of work makes us stronger.",
+    "string": "好。每一点努力都让我们更强。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A39|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Orcs respect someone that works with their hands, like you.",
+    "string": "兽人敬重像你这样亲自动手的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A3E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll stand guard while you do that.",
+    "string": "你做你的，我来警戒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A3A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Keep your eyes open. Crafting can wait.",
+    "string": "睁大眼睛。制作可以等。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A3B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We should keep moving. Don't want to get caught like this.",
+    "string": "我们得继续前进。不想就这样被逮住。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A3C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Best be quick. Don't want trouble knocking on the door.",
+    "string": "最好快点。别等麻烦找上门。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A3D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Keep alert. We're not alone.",
+    "string": "保持警惕。我们并不孤单。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A59|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wow, you're good at everything aren't you?",
+    "string": "哇，你样样都行，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A5A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I feel sure that whatever you're doing there will be useful at some point.",
+    "string": "我确信你做的东西迟早会有用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A5B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Better not get caught off guard here.",
+    "string": "最好别在这儿措手不及。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A5C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful, eh? Feels like something's watching us.",
+    "string": "当心点，嗯？感觉有东西在盯着我们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A5D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't you think that would be easier when we're not under threat?",
+    "string": "你不觉得在没有威胁时做这个更容易吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A5E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My father always used to say 'Enemies first, chores second.'",
+    "string": "我父亲常说：“先杀敌，后做事。”",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A5F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Save that for when we're safe, eh?",
+    "string": "留到安全时再做，行吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A9B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can't decide if you're doing something useful, or just wasting my time.",
+    "string": "我分不清你是在做有用的事，还是在浪费我的时间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A9C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh right. I'll just wait around looking at the floor shall I?",
+    "string": "哦，对。那我就在这儿低头看地等着，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AA1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Crafting things has its uses, but must you always be doing it?",
+    "string": "制作东西是有用，但你就非得一直做吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AA2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not sure what you're doing there. Not sure I care. But I grow bored.",
+    "string": "不知道你在搞什么。其实我也不关心。但我快无聊死了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A9D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you keep this up much longer, I can't be responsible for what happens.",
+    "string": "你再这样下去，出了事我可不负责。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A9E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You do know our enemies won't wait while you play artisan, don't you?",
+    "string": "你知道敌人不会等你玩工匠，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A9F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Best to keep your wits about you round here. Maybe do that later?",
+    "string": "在这儿最好保持清醒。也许留到以后做？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AA0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If the enemy catches you unawares, don't say I didn't warn you.",
+    "string": "敌人偷袭你时，别说我没提醒过你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AAB|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Finish that later, we might have company.",
+    "string": "晚点再做，我们可能有客人了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AB3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Must you do that? I'm fed up with all the waiting.",
+    "string": "非得做这个吗？我受够了等待。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AB5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You have a real talent for making simple jobs look difficult.",
+    "string": "你真有本事，能把简单的事弄得看起来很难。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600083F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Making potions can be dangerous, best pay attention to what you're doing there.",
+    "string": "制作药剂很危险，最好专心点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A89|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful with that potion. You wouldn't want to - uh - turn yourself invisible, or something.",
+    "string": "当心那药剂。你总不想——呃——把自己变得隐形吧，或者别的什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A8F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, good work you're doing. Even a skilled mage like me can always use more potions.",
+    "string": "哦，你干得不错。像我这样技艺高超的法师也总需要更多药剂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A91|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "J'zargo will gladly take any potions you are making there.",
+    "string": "扎格很乐意收下你做的任何药剂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600083D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not sure what you're doing there, but it smells kind of odd.",
+    "string": "我不确定你在做什么，但这味道有点怪。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000841|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Unless you're mixing up a potion to get us out of here, you should probably hurry it along.",
+    "string": "除非你在调配能带我们离开这里的药剂，否则最好快点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000842|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alchemy at a time like this? Are you trying to get us killed?",
+    "string": "这种时候炼药？你是想害死我们吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000863|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I really don't think mixing up your herbs is appropriate in this place.",
+    "string": "我真觉得在这种地方调配草药不合适。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000864|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you think making a few potions is going to help us here?",
+    "string": "你觉得做几瓶药剂就能帮上忙吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000860|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, grinding flowers. Such heroics.",
+    "string": "啊，研磨花朵。真是英雄壮举。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000861|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Um - that smell? Are you sure it's intentional?",
+    "string": "呃——那味道？你确定是故意的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000862|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you poison yourself, I'm not carrying you, you know?",
+    "string": "要是你把自己毒倒了，我可不会背你，明白吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000881|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The difference between poison and potion is a steady hand.",
+    "string": "毒药与药剂的区别，就在于手是否稳。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000882|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm... smells like the swamps of Deshaan.",
+    "string": "嗯……这味道，像德沙安沼泽。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000883|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Save the tinkering for when we're not being hunted.",
+    "string": "等没人追我们时再鼓捣这些吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000884|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Unless that's a potion to make us vanish, we should get moving.",
+    "string": "除非你在做隐身药水，否则我们该走了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not sure mixing up your weird concoctions is appropriate here? Or anywhere for that matter?",
+    "string": "我不确定在这儿调配你那些古怪玩意儿是否合适？或者根本就哪儿都不合适？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This isn't the time to brew potions.",
+    "string": "现在不是酿造药剂的时候。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I suppose we are in desperate need of another jar of green sludge.",
+    "string": "我猜我们确实急需另一罐绿色烂泥。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Potions are tools, not toys. Remember that.",
+    "string": "药剂是工具，不是玩具。记住了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not too big on alchemy, so make it quick.",
+    "string": "我对炼金术不怎么感兴趣，所以快点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever it is you're mixing up there, don't be too long.",
+    "string": "不管你在那里调配什么，别太久。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Messing about with flowers and weird stuff while there's a chance we could get attacked? Huh?",
+    "string": "有可能被袭击的时候，还摆弄花花草草和古怪东西？哼？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hurry it along with your potion making, it's not exactly safe here.",
+    "string": "快点做你的药剂，这儿可不安全。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008DB|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heh, never thought I'd see such patience from you. Most would rather be swinging steel than grinding flowers.",
+    "string": "呵，从没想过你能这么有耐心。大多数人宁愿挥舞钢铁也不愿研磨花朵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008DC|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That smell's worse than a troll's armpit. Are you sure you've done it right?",
+    "string": "这味道比巨魔的腋窝还臭。你确定弄对了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008DD|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A potion's no use if you're dead before you can drink it.",
+    "string": "药剂再好，没喝之前就死了也没用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008DE|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mix quick eh? I don't like you having your back turned, you're open to a sneak attack.",
+    "string": "快点调配，嗯？我不喜欢你背对着我，容易被偷袭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008FE|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm... such delicate hands. Careful, or you'll end up with more poison than potion.",
+    "string": "嗯……如此灵巧的双手。当心点，别调出的毒药比药剂还多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000911|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You don't look well. Mix yourself up a cure while you're there.",
+    "string": "你看起来不太舒服。趁你在那儿，给自己调个治疗药剂吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008FF|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I do enjoy watching you work. All those little ingredients turning into something much more powerful.",
+    "string": "我很喜欢看你工作。那些微小的材料变成更强大的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000900|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Brewing while we're being hunted? Dangerous... but I like it.",
+    "string": "被追杀时还酿造药剂？危险……但我喜欢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000901|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If the enemy comes for us, I don't think throwing flowers at them will do much.",
+    "string": "敌人要是来了，我觉得朝他们扔花花草草可没什么用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000921|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wow! You really know what you're doing. I'd probably blow myself up!",
+    "string": "哇！你真懂行。我要是做，怕是会把自己炸飞！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000922|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That smells bad. I hope you're not planning on drinking that yourself?",
+    "string": "这味道真难闻。希望你没打算自己喝吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000923|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Maybe mix something quick... in case we need it right now!",
+    "string": "也许调个快的……万一我们马上就需要！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000924|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll keep watch while you make that. But please hurry, I suspect we're not alone.",
+    "string": "我帮你警戒。但请快点，我怀疑我们不是独自一人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600081E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Surely you can mix your potions somewhere else?",
+    "string": "你肯定能在别的地方调配药剂吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600081F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Probably not the best alchemy table to use, don't you think?",
+    "string": "这恐怕不是最好的炼金台，你不觉得吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000820|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What are you brewing up there? It smells a bit... funny?",
+    "string": "你在上面煮什么？味道有点……奇怪？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000821|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful what you mix there. Don't want you blowing yourself up.",
+    "string": "小心你调配的东西。可别把自己炸了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000942|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ahh... the hiss of the potion, the sting of the fumes. Brings back memories of the marsh.",
+    "string": "啊……药剂的嘶嘶声，蒸汽的刺痛感。让我想起了沼泽地的回忆。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000943|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Strange, how much power hides in roots and leaves.",
+    "string": "奇怪，根茎与叶片中竟藏着如此多的力量。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000944|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do not linger too long. Our enemies circle while you mix.",
+    "string": "别逗留太久。你调配时，敌人正围着我们打转。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000945|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Brewing potions while danger threatens? An odd choice, but I'll stay alert.",
+    "string": "危险迫近时还酿造药剂？奇怪的选择，但我会保持警惕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000964|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph! Bottles and powders. I'll stick to mead.",
+    "string": "哼！瓶子和粉末。我还是喝蜜酒吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000965|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Never thought much of potions, but they do the job I suppose.",
+    "string": "从没太把药剂当回事，不过它们确实有用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000966|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This ain't the time for fiddlin' with flowers.",
+    "string": "现在不是摆弄花花草草的时候。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000967|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Potions won't matter much if we're gutted by what's after us.",
+    "string": "要是被追我们的东西开膛破肚，药剂也无济于事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000986|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Never had the patience for that sort of thing. Looks useful, though.",
+    "string": "我从没耐心做这种事。不过看起来有用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000987|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Looks like a lot of messing about, can't you just buy a potion instead?",
+    "string": "看起来就是瞎忙活，你就不能直接买瓶药剂吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000992|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Reminds me of home... though the mushrooms there were less forgiving.",
+    "string": "让我想起家乡……虽然那儿的蘑菇可没这么宽容。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000988|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mix faster. I don't want to die over a handful of herbs.",
+    "string": "快点调配。我不想为了一把草药送命。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000989|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Potions are useful, but not if you're dead.",
+    "string": "药剂有用，但前提是你还活着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009A6|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever you're mixing up there, if it doesn't kill me, I'll drink it!",
+    "string": "不管你在那里调配什么，只要不毒死我，我就喝！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009A7|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What are you puttin' in those bottles? Mead? Wine? Ale? Oh, poison? Yeah, I bet it's poison.",
+    "string": "你在瓶子里放什么？蜜酒？葡萄酒？麦酒？哦，毒药？对，我打赌是毒药。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009A8|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "While you're playin' bartender there, the enemy could be preparing to, ya know? Ambush us?",
+    "string": "你在这儿当调酒师的时候，敌人可能正准备，你知道的？伏击我们？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009A9|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hurry it up, we ain't got time for mixing flowers and what-not.",
+    "string": "快点，我们没时间摆弄花花草草这些玩意儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009C9|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You handle those ingredients well. Not everyone can.",
+    "string": "你处理这些材料很在行。不是谁都能做到的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009CA|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Amazing what you can get into those bottles with the right skill.",
+    "string": "有合适的技能，能把这么多东西装进瓶子，真了不起。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009CB|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't think this is the safest place to be mixing potions.",
+    "string": "我觉得这儿不是调配药剂最安全的地方。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009CC|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mix that up faster. I think we're being watched.",
+    "string": "快点调配。我觉得有人在盯着我们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009ED|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, the delicate art of alchemy. Not as simple as it looks, is it?",
+    "string": "啊，炼金术这门精妙的艺术。看起来可没那么简单，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009EE|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A well made potion can tip the balance of any fight.",
+    "string": "一瓶好药剂能扭转任何战局。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009EF|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alchemy can be useful, but I don't think this is the time?",
+    "string": "炼金术是有用，但我觉得现在不是时候？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Quickly, now. We may be interrupted.",
+    "string": "快点。我们可能会被打断。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A10|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "One wrong stir and 'poof'! No fur, no whiskers!",
+    "string": "搅拌错一下，“砰”！毛发和胡须都没了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A11|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one thinks your mixtures will serve us well. Or not. We will see.",
+    "string": "这位觉得你的调配会对我们有帮助。或者没有。我们拭目以待。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A12|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Perhaps not the best time to play with bottles, yes?",
+    "string": "也许现在不是玩瓶子的好时机，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A13|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one smells more than herbs. Trouble is close.",
+    "string": "这位闻到的不只是草药。麻烦近了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A34|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Orc hands aren't made for this work. Glad yours are.",
+    "string": "兽人的手不适合干这种活。幸好你的手可以。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A33|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph. Never thought bottles could win a fight.",
+    "string": "哼。从没想过瓶子能打赢一场仗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A35|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not the time for herbs and powders.",
+    "string": "现在不是摆弄草药和粉末的时候。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A37|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you sure you should be mixing that up here?",
+    "string": "你确定在这儿调配合适吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A36|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Best keep one eye on your alchemy and one eye on the room.",
+    "string": "最好一只眼盯着炼金，一只眼盯着四周。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A55|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whoa! That smells... strong. What's it do?",
+    "string": "哇！这味道……真冲。它有什么用？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A56|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful with that! Don't want to blow us both up.",
+    "string": "当心那个！可不想让我们俩一起炸飞。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A57|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I smell danger, and I don't just mean from your potions.",
+    "string": "我闻到了危险，而且不只是来自你的药剂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A58|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You should hurry up with your experiments. Enemies might be sneaking up on us as we speak.",
+    "string": "你该快点完成实验了。敌人可能正在摸过来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A97|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Brewing poisons or potions? Either way, someone's not going to enjoy it.",
+    "string": "在酿毒药还是药剂？不管哪种，总有人会不高兴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A98|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, alchemy. Turning weeds into something almost useful.",
+    "string": "啊，炼金术。把杂草变成几乎有用的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A99|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, yes, make your potions while enemies sharpen their blades.",
+    "string": "行行行，你做你的药剂吧，敌人正磨刀呢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A9A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you want to die mixing herbs, don't let me stop you.",
+    "string": "如果你想死在调配草药上，别拦着我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600085D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Making something useful there, I hope?",
+    "string": "希望你做的东西有点用处吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600085E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch you don't get blisters doing that.",
+    "string": "当心别弄出水泡。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600085F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll keep watch then shall I? Wouldn't want someone... or something... to steal your creation.",
+    "string": "那我来警戒？可不想有人……或者什么东西……偷走你的作品。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600087F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tanning hides, now? Really?",
+    "string": "现在就鞣制皮革？真的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000880|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope you wash your hands after doing that?",
+    "string": "希望你做完后记得洗手？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600089F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Working with leather is not for me, but I can see the value.",
+    "string": "处理皮革不适合我，但我知道它的价值。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Playing around with dead animal skins? No thankyou.",
+    "string": "摆弄死动物的皮？不了，谢谢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008BE|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Looks like it's coming along nicely.",
+    "string": "看起来进展不错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008BF|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh? Crafting me something nice to wear? A woman can dream, eh?",
+    "string": "哦？给我做件漂亮衣服？女人总可以幻想一下，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D9|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That leather is taking shape nicely.",
+    "string": "那皮革成型得不错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008DA|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Animal skins are always better if you've killed the beast yourself, don't you think?",
+    "string": "动物皮毛如果出自自己猎杀的野兽，总会更好，你不觉得吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008FC|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hides and leather eh? Not glorious, but they keep the rain and cold out.",
+    "string": "皮革和毛皮？不光彩，但能挡雨御寒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008FD|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Always good to make use of what you kill. Waste is for milk-drinkers.",
+    "string": "善用猎物总是好的。浪费是乳臭未干之辈才做的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600091F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll admit, soft leather against the skin has a certain... appeal.",
+    "string": "我得承认，柔软的皮革贴着皮肤，有种特别的……吸引力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000920|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's a good use of spoils. Waste not, want not eh?",
+    "string": "这是对战利品的好利用。不浪费，才不缺，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000940|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watching someone work with leather is always a pleasure.",
+    "string": "看人处理皮革总是种享受。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000941|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Turning hides into something useful. That's so clever.",
+    "string": "把兽皮变成有用的东西。真聪明。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000813|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, good. A lot of weapons and armor need leather for straps, fittings, that kind of thing.",
+    "string": "啊，很好。很多武器和护甲需要装上皮带和小配件什么的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600082F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bit dangerous to be messing about with cloth here, isn't it?",
+    "string": "在这儿摆弄布料有点危险，不是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000961|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tanning hides while danger hunts us? Risky. Very risky.",
+    "string": "危险追着我们时还鞣制皮革？冒险。非常冒险。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000962|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The smell of that hide... somehow reminds me of home.",
+    "string": "那皮革的气味……不知怎的让我想起了家乡。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000984|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah, make use of every kill. Waste is for weaklings.",
+    "string": "好好利用每一次猎杀。浪费是弱者的行径。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000985|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not bad. That'll do the job alright.",
+    "string": "不错。足够应付了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009A5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stretching hides eh? Not very glamorous, but practical.",
+    "string": "在拉伸兽皮？不太光鲜，但很实用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009C8|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Leather's fine and all, but I prefer a good mug of mead.",
+    "string": "皮革不错，但比起这个，我更喜欢一大杯蜜酒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009EC|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Best wash your hands after doing that, you think? You know, messing with dead animals?",
+    "string": "做完那事后最好洗洗手，你觉得呢？毕竟在摆弄死动物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009E9|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good use of what we've hunted. Best not to waste anything.",
+    "string": "好好利用了我们的猎物。最好什么都别浪费。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A0E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Making good use of your kills. Practical.",
+    "string": "充分利用了你的猎物。很务实。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A0F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Working with leather is simple, but practical. If not a bit... stinky?",
+    "string": "处理皮革很简单，也很实用。虽然有点……臭？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A31|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stretching hides? Not as pretty as fur, but useful all the same.",
+    "string": "在拉伸兽皮？不如毛皮好看，但同样有用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A32|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one likes that nothing is wasted.",
+    "string": "这位喜欢物尽其用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A53|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not as strong as steel, but it works.",
+    "string": "不如钢铁坚固，但能用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A54|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hides turned to armor. Practical.",
+    "string": "兽皮变成护甲。实用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A7B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Making use of the hides you picked up? Smart.",
+    "string": "在利用你捡到的兽皮？聪明。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A7C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nothing goes to waste with you, does it?",
+    "string": "在你这儿，什么都浪费不了，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AAA|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Messing with filthy dead animal skins? No thanks. Not for me.",
+    "string": "摆弄肮脏的死动物皮？不了，谢谢。不适合我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000840|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You have talent. Keep working at your craft, and you'll be a fine smith one day.",
+    "string": "你天赋异禀，继续努力吧，肯定能成为一个优秀的铁匠。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A80|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Make sure you get that fire real hot. Smithing is not for the weak.",
+    "string": "确保炉火烧得够旺。锻造可不是软弱者能干的活。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A86|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever you're making there, there's no chance it will be as good as my trusty Grimsever.",
+    "string": "不管你在那里做什么，都不可能比我的可靠伙伴无情切割者更好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000859|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Make sure you give that piece a good finish.",
+    "string": "确保给那件东西好好收个尾。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600085A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you're making me a weapon, I'll see it gets well used.",
+    "string": "如果你在给我做武器，我会好好用它。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600085B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You better be ready to use whatever it is you're making if the enemy finds us.",
+    "string": "敌人要是找到我们，你最好准备好使用你做的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600085C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As much as I love the smell of hot steel, I don't think it's very clever to be doing it here.",
+    "string": "尽管我很喜欢烧热钢铁的气味，但我觉得在这儿做这个不太明智。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600087B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful with that tool. There are sparks everywhere.",
+    "string": "当心那个工具。到处都是火花。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600087C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I suppose we can't all be master craftsmen?",
+    "string": "我想我们不可能都是大师级工匠吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600087D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope you're making something decent for me to fight with. Either way, hurry it up.",
+    "string": "希望你给我做件像样的武器。不管怎样，快点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600087E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not sure this is a good place to be demonstrating your prowess.",
+    "string": "我不确定这是展示你技艺的好地方。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600089A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Truly? Hammering steel while danger closes in?",
+    "string": "真的吗？危险逼近时还在敲打钢铁？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600089C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You do realize our enemies can hear your noise ringing out for miles?",
+    "string": "你该明白，敌人能听到你的动静传出去好几里地吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600089D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In Morrowind, weapons were made to last generations.",
+    "string": "在晨风，武器是为传世而打造的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600089E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That steel won't shape itself.",
+    "string": "那钢铁不会自己成型。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008BA|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Strong metal makes for strong warriors.",
+    "string": "坚固的金属造就强大的战士。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008BB|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Working with metal again I see?",
+    "string": "又在摆弄金属了，我看到了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008BC|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We should deal with the threat before you work that.",
+    "string": "你做那个之前，我们该先解决威胁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008BD|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Um - not the best time for blacksmithing.",
+    "string": "呃——现在不是锻造的好时机。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You might draw attention with all that noise.",
+    "string": "这么大的动静可能会引来注意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D6|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That sound will carry a long way, finish what you're doing quickly.",
+    "string": "那声音传得很远，快点完成你的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D7|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Working with metal has a certain brutality to it.",
+    "string": "摆弄金属有种特有的粗犷。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D8|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah! The smells and sounds of good old fashioned hard work. Nothing better!",
+    "string": "啊！古老而辛勤劳动的气味与声响。没有比这更好的了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F8|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A reliable weapon's worth more than any chest of gold.",
+    "string": "一件可靠的武器胜过任何一箱黄金。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F9|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah, you keep hammering. I'll just wait here, shall I?",
+    "string": "行，你继续敲打。我就在这儿等着，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008FA|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The ring of steel carries far. Careful who hears it.",
+    "string": "钢铁的撞击声传得很远。当心谁会听到。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008FB|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We should move soon, before your racket draws the curious.",
+    "string": "我们该快点走，免得你的吵闹引来好奇的家伙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600091B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hard work, sweat and steel. Now that's appealing.",
+    "string": "辛勤的劳作、汗水与钢铁。这才叫吸引人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600091C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watching you work like that is always a pleasure.",
+    "string": "看你那样工作，总是种享受。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600091D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Every strike you make echoes, you know. Be careful not to attract unwelcome visitors.",
+    "string": "你每一击都会产生回响，知道吗？当心别引来不速之客。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600091E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hush now, the sound will draw them straight to us.",
+    "string": "小声点，这声音会直接把他们引来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600093C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Loud hammering while enemies might be nearby? Bold choice!",
+    "string": "敌人可能就在附近时大声敲打？大胆的选择！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600093D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If they didn't hear us before, they definitely do now!",
+    "string": "如果他们之前没听到，现在肯定听到了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600093E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wow! Sparks flying everywhere. It makes you look so... heroic!",
+    "string": "哇！火花四溅。让你看起来真……英雄！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600093F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No wonder your gear always looks so good.",
+    "string": "难怪你的装备总是这么好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600082D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You must be pretty desperate to do that, given that we're in danger here.",
+    "string": "在这种危险境地还做这个，你一定是相当绝望了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600082E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why are you messing about smithing, here of all places?",
+    "string": "为什么偏偏在这儿鼓捣锻造？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000817|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not bad. Reminds me when I first started smithing.",
+    "string": "不错嘛。让我想起我第一次打铁的情形。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600082C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope you're making something decent for me eh?",
+    "string": "希望你给我做件像样的东西，嗯？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600095D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The sounds of your work, somehow reminds me of the Hist sap bubbling.",
+    "string": "你工作的声音，不知怎的让我想起希斯特树液的沸腾声。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600095E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Strong arms, steady hammer. You have the makings of a great blacksmith.",
+    "string": "有力的手臂，稳定的锤击。你有成为伟大铁匠的潜质。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600095F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your hammer sings too loud. Others may come to listen.",
+    "string": "你的锤子唱得太响。别人可能会来聆听。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000960|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You somehow imagine the enemy won't notice all the noise you're making?",
+    "string": "你该不会以为敌人听不到你弄出的动静吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600097F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm surprised you can even work that thing, with your blacksmithing skills.",
+    "string": "以你的锻造手艺，我惊讶你居然还能操作那东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000981|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You work that thing pretty well. For a milkdrinker.",
+    "string": "你操作那玩意儿还挺在行。对个乳臭未干之辈来说。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000980|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Making me some new gear there?",
+    "string": "在给我做新装备吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000982|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'll be smithin' your own coffin if you don't get a move on.",
+    "string": "再不快点，你就要给自己打造棺材了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000983|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All that hammerin' is bound to bring trouble our way.",
+    "string": "这么一通敲打，肯定会把麻烦引到我们这儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009A1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Looks like hard work, hopefully you know what you're doing.",
+    "string": "看起来挺费劲，希望你知道自己在做什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009A2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Last time I tried that I got a spark, right in my eye. Couldn't see right for days!",
+    "string": "上次我试的时候，火星溅进眼睛。好几天都看不清！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009A3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All that hammering is going to bring the enemy right to us.",
+    "string": "这么一通敲打会直接把敌人引来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009A4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You think nobody will hear that? Shouldn't you wait 'til we're safe?",
+    "string": "你以为没人会听到？不该等安全了再做吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009C3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Say... you... you ever try making shoes? I did, once... think I lost 'em.",
+    "string": "说……你……你试过做鞋吗？我做过一次……好像弄丢了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009C4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hm? Oh, yeah... keep... hammering. You're doing great.",
+    "string": "嗯？哦，对……继续……敲打。你干得不错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009C5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know, I've got this terrible hammering sound in my head... oh wait! It's you!",
+    "string": "你知道吗，我脑子里有股可怕的敲打声……哦等等！是你！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009C6|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Keep poundin' away at that, and maybe they'll come and kill us just to stop the noise.",
+    "string": "继续这么砸下去，说不定他们会来杀了我们，只为让这噪音停下。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009C7|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Better get that done fast. I think I heard something.",
+    "string": "最好快点做完。我好像听见了什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009E6|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You've got a blacksmith's touch. That's impressive work.",
+    "string": "你有铁匠的手艺。这活干得不错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009E7|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Huh? What's that supposed to be? I think you need more practice.",
+    "string": "哼？那玩意是什么？我觉得你得多练练。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009E8|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The sound of hammering is strangely relaxing.",
+    "string": "敲打的声音不知为何让人放松。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009EA|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fool! The ringing of that hammer will draw attention.",
+    "string": "蠢货！那锤子的响声会引来注意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009EB|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Er, now may not be the best time for smithing.",
+    "string": "呃，现在可能不是锻造的最佳时机。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A0A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Loud hammering while foes lurk? Bold strategy.",
+    "string": "敌人潜伏时大声敲打？大胆的策略。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A0B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We'd best get moving before your clattering draws a crowd.",
+    "string": "最好在你叮当响引来一群人之前动身。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A0C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Working with metal is a worthwhile task.",
+    "string": "摆弄金属是件值得做的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A0D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What're you making there? Anything for me?",
+    "string": "你在那儿做什么？有我的份吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A2C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one smells the fire and the iron.",
+    "string": "这位闻到了火与铁的气息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A2D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sparks dance like stars when you strike the metal.",
+    "string": "你敲击金属时，火花如星辰般舞动。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A2E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The ringing of your hammer will draw our foes, like moths to a flame.",
+    "string": "你锤子的响声会引来敌人，如同飞蛾扑火。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A2F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one hears more than your hammering. Trouble is near, no?",
+    "string": "这位听到的不只是你的敲打声。麻烦近了，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A4F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now that's work I can respect.",
+    "string": "这才是我能尊重的工作。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A50|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Every warrior should know their way around the forge.",
+    "string": "每个战士都应该懂得如何使用铁砧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A51|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That hammer's ringing out too loud. They could hear it.",
+    "string": "那锤子响得太厉害。他们能听见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A52|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We're not exactly safe here. You should leave that 'til later.",
+    "string": "这儿可不安全。你应该留到以后再做。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A75|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'll draw every bandit for miles if you keep hammering like that.",
+    "string": "你再这么敲下去，方圆几里的强盗都会被引来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A76|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uh, hammering like that is bound to draw unwelcome attention.",
+    "string": "呃，这么敲肯定会引来不受欢迎的注意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A78|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not sure we've got time for your metalwork right now?",
+    "string": "不确定我们现在有时间做你的金属活？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A77|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nice work. I find the sparks fascinating.",
+    "string": "干得不错。我觉得那些火花很迷人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A79|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A good blacksmith will never be short of work. And clearly, you're not a good blacksmith.",
+    "string": "好铁匠从不缺活干。显然，你不是个好铁匠。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A7A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's decent work, better than some of the blacksmiths I've seen.",
+    "string": "干得不错，比我见过的一些铁匠强。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AA7|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What're you trying to do? Make your blade sharper than your wit? Yes... that won't take much effort.",
+    "string": "你想干嘛？让你的刀刃比你的头脑更锋利？嗯……那不需要多大努力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AA8|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not the best time to craft a masterpiece.",
+    "string": "现在不是打造杰作的好时机。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AA9|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All that hammering will call them straight to us.",
+    "string": "这么一通敲打会直接把他们叫来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000848|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Something smells good. But I bet the Draugr can smell it too.",
+    "string": "闻起来不错。但我打赌尸鬼也能闻到。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A7F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That smells good. Almost like authentic Hammerfell cuisine.",
+    "string": "闻起来不错。几乎像正宗的落锤料理。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A88|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That smells nice. Hope it's what I like. You know what I like by now, surely?",
+    "string": "闻起来很香。希望是我喜欢的。你应该知道我喜欢什么了吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A8D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever you're making there, I bet it's not as good as old Tilma makes us.",
+    "string": "不管你在那里做什么，我敢说肯定不如老提尔玛给我们做的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A92|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "J'zargo will smell enemies coming while you cook. Unless J'zargo gets the smells confused.",
+    "string": "你在做饭时，扎格会闻到敌人靠近。除非扎格把气味搞混了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A93|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Something smells foul... be ready to fight - uh - what? Oh - it's just your cooking.",
+    "string": "有股难闻的气味……准备战斗——呃——什么？哦——只是你在做饭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000849|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not sure why you're cooking here, but I don't like the idea.",
+    "string": "不清楚你为什么在这儿做饭，但我不喜欢这个主意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600084A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah! That fresh cooked smell. Reminds me of better days.",
+    "string": "啊！那新鲜出炉的香味。让我想起了好日子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600084B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No idea what that's supposed to be, but I think I lost my appetite.",
+    "string": "不知道那玩意是个什么东西，但我觉得我胃口没了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600086C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let me guess - you're making just enough for yourself?",
+    "string": "让我猜猜——你只够做自己吃的吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600086D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm surprised. That smells almost edible!",
+    "string": "我挺意外。那闻起来几乎能吃！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600086E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Typical of you. Thinking of your stomach with danger all around us.",
+    "string": "典型的你。周围都是危险，还想着你的胃。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600086F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope making yourself a snack is worth risking our lives for?",
+    "string": "希望你做点心值得拿我们的命去冒险？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600088C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Season it well. Even travel rations deserve flavor.",
+    "string": "调味重些。连行军口粮也该有滋味。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600088D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Back home, we used saltrice and kwama eggs. You'd like it.",
+    "string": "在家乡，我们用盐米和库阿玛蛋。你会喜欢的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600088E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you think the enemy will wait for us to eat?",
+    "string": "你觉得敌人会等我们吃完饭吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600088F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Unless you're boiling some oil to throw at the enemy, this can wait, can't it?",
+    "string": "除非你在煮油准备泼敌人，不然这事能等，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008AE|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you trying to lure our enemies in with the smell?",
+    "string": "你是想用气味把敌人引过来吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008AF|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Perhaps we should eat after the danger has passed.",
+    "string": "也许等危险过去后再吃？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008AC|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A warm meal is worth more than gold on a cold night.",
+    "string": "寒冷的夜晚，一顿热饭胜过黄金。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008AD|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The trick is knowing when to stop before it burns.",
+    "string": "关键是知道什么时候该停，免得烧焦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C8|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That smells decent. Better than I expected actually.",
+    "string": "闻起来还行。实际上比我预期的好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C9|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you're cooking meat for me, make it extra bloody.",
+    "string": "如果你在给我做肉，做得血些。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008CA|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now? You're cooking now?",
+    "string": "现在？你现在做饭？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008CB|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A warm meal won't help if we're dead.",
+    "string": "如果我们死了，热饭也没用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E6|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Cookin', fightin', drinkin'... aye, that's how a Nord lives.",
+    "string": "做饭、战斗、喝酒……对，诺德人就这么活着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E7|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hope you're making enough for me there.",
+    "string": "希望你做的够我吃。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008EA|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll admit, that does smell pretty good.",
+    "string": "我得承认，那闻起来确实不错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E8|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You keep cooking. I'll take care of whatever comes sniffing after the smell.",
+    "string": "你继续做饭。谁闻味找来，我来对付。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E9|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This hardly seems the time to be thinking about food, you think?",
+    "string": "现在似乎不是考虑食物的时候，你觉得呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000909|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A good meal keeps the sword arm steady.",
+    "string": "一顿好饭能让持剑的手更稳。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600090A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever that is, it smells wonderful.",
+    "string": "不管那是什么，闻起来真香。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600090B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Cooking? Now? I do hope our enemies enjoy the smell.",
+    "string": "做饭？现在？我真希望我们的敌人也喜欢这气味。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600090C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now's not the time for cooking.",
+    "string": "现在不是做饭的时候。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600092C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm! That smells great. Is it ready yet?",
+    "string": "嗯！闻起来很棒。好了吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600092D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't burn it this time, eh?",
+    "string": "这次别烧焦了，行吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600092E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Um? I'm not sure the enemy will wait for us to finish eating.",
+    "string": "呃？我不确定敌人会等我们吃完。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600092F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll try to keep watch. You just concentrate on not ruining the food, okay?",
+    "string": "我尽量警戒。你专心别把食物搞砸，行吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000823|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm? I'm not sure this is a great time to be thinking about your belly?",
+    "string": "嗯？我不确定现在是考虑你肚子的好时机？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000824|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you daft? The smell and noise will attract enemies and bring them in on us?",
+    "string": "你疯了吗？这气味和动静会引来敌人，让他们扑向我们？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000825|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm! What is that? It's making my stomach rumble!",
+    "string": "嗯！那是什么？让我肚子咕咕叫了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000826|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Something smells nice. Don't forget the salt.",
+    "string": "有股香味。别忘了盐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600094C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heh... What are you making, I wonder?",
+    "string": "嘿……你在做什么，我好奇呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600094D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A good meal warms the body for the battles ahead.",
+    "string": "一顿好饭能为接下来的战斗暖身。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600094E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The scent will draw more than friends. Finish quickly.",
+    "string": "这气味会引来的不只是朋友。快点做完。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600094F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph. What use is a full belly if you're dead?",
+    "string": "哼。如果你死了，吃饱了有什么用？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600096F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That smells better than half the slop they serve in Skyrim's inns.",
+    "string": "闻起来比天际省酒馆里一半的泔水都好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000970|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Make sure you make enough for everyone, eh?",
+    "string": "确保给每个人都做够了，行吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000971|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You planning your next meal while we're being hunted?",
+    "string": "我们正被追杀时，你就在计划下一顿饭？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000972|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't you think the smell will attract unwelcome attention?",
+    "string": "你不觉得这气味会引来不速之客吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000991|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That smells better than most of what I ate in Morrowind.",
+    "string": "闻起来比我当年在晨风吃的大多数东西都好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000993|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can't fight on an empty stomach, eh? That'll help. If it's any good.",
+    "string": "空着肚子打不了仗，是吧？那会有用。如果味道还行的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000994|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Perhaps leave the cooking until we're not surrounded by enemies?",
+    "string": "也许等我们没被敌人包围时再做饭？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000995|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Smells nice, but it'll bring more than friends if we're not careful.",
+    "string": "闻起来不错，但若不小心，引来的可不只是朋友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009B0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm... smells kinda... like my boots. Not bad, just... you know.",
+    "string": "嗯……闻起来有点……像我的靴子。不算差，就是……你知道的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009B1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uh... you making stew, or... something else?",
+    "string": "呃……你在做炖菜，还是……别的什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009B2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mind if I have a taste? Ya know, just to test it?",
+    "string": "我尝一口行吗？就是，检验一下。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009B3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You might wanna hurry it up, or we might end up as supper.",
+    "string": "你最好快点，否则我们可能变成别人的晚餐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009B4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Look, I'm always looking for a free meal, but I'm not sure now is the time?",
+    "string": "听着，我总想找顿免费饭，但我不确定现在是时候。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009D3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A freshly cooked meal will help keep your strength up.",
+    "string": "一顿新鲜做好的饭能帮你保持体力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009D4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That smells pretty good. Hope you're making enough for me.",
+    "string": "闻起来相当不错。希望你做的够我吃。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009D5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This hardly feels like the right time to cook.",
+    "string": "现在感觉不太适合做饭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009D6|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That smell will stir up more than our appetites if you're not careful.",
+    "string": "你若不小心，这气味激起的可不只是我们的食欲。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F8|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm that smells delightful. Better than a lot of inns, I'd wager.",
+    "string": "嗯，闻起来真香。我敢说比很多酒馆的都好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F9|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can't beat a nice meal you've cooked yourself, eh?",
+    "string": "自己做的美味饭食，没什么能比得上，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009FA|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not sure a hot meal is worth dying for.",
+    "string": "不确定一顿热饭值得为此送命。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009FB|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you're not careful, we might end up on the menu.",
+    "string": "若不小心，我们可能会上别人的菜单。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009FC|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm thinking that cooking here is not the best idea.",
+    "string": "我觉得在这儿做饭不是个好主意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A1A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Khajiit's belly rumbles already. What is it that you are making?",
+    "string": "扎格肚子已经咕咕叫了。你在做什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A1B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A good meal makes for good travel.",
+    "string": "一顿好饭能让旅途顺利。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A1C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Perhaps cooking can wait, yes? Or I fear we may soon be the meal.",
+    "string": "也许做饭能等等，是吧？不然我担心我们很快会成为别人的饭菜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A1D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The scent is nice. But this one thinks it will attract the wrong kind of interest, no?",
+    "string": "气味不错。但这位觉得会引来不该来的注意，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A3F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Food. Simple, strong, keeps you on your feet.",
+    "string": "食物。简单，实在，能让你站稳脚跟。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A40|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Better than chewing dried meat. I hope.",
+    "string": "总比嚼干肉强。希望如此。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A41|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever you're cooking, it won't matter if we're dead.",
+    "string": "不管你做什么，如果我们死了，那就毫无意义。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A42|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, it smells good, but I'd rather not wait around to eat it.",
+    "string": "嗯，闻起来不错，但我不愿在这儿等着吃。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A60|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Even heroes like you need a hot meal sometimes, right?",
+    "string": "像你这样的英雄有时也需要一顿热饭，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A61|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm! Smells great. What are we having?",
+    "string": "嗯！闻起来很棒。我们吃什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A62|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, are you cooking us some breakfast?",
+    "string": "哦，你在给我们做早餐吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A63|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Rustling up some lunch there I take it?",
+    "string": "在张罗午饭吧，我猜？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A64|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Making some dinner? I hope you're doing enough for me too.",
+    "string": "在做晚饭？希望你也给我做一份。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A65|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That smells great. What's for supper?",
+    "string": "闻起来很棒。晚饭是什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A66|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you sure cooking, right here, is the best idea?",
+    "string": "你确定在这儿做饭是最佳选择？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A67|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uh - I think the food will keep? We need to get out of here. Now.",
+    "string": "呃——我觉得食物能放？我们得离开这儿。现在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AA3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm. Let's hope that tastes better than it looks.",
+    "string": "嗯。希望味道比看起来好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AA4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? You're cooking where we might get killed. Or worse. Smart choice.",
+    "string": "真的吗？在可能被杀或更糟的地方做饭。明智的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600084C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't think you should be messing with that enchanting stuff here.",
+    "string": "我觉得你不该在这儿鼓捣附魔的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A8A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enchanting with soul gems is something we were taught at the college quite early.",
+    "string": "用灵魂石附魔是学院里很早教的内容。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600084D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You might think you're clever doing that, but I don't agree. Not here, anyway.",
+    "string": "你可能觉得自己这么做很聪明，但我不同意。至少现在不行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600084E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enchanting is no substitute for good old fashioned steel. Or so I've heard.",
+    "string": "附魔无法替代传统的钢铁。我是这么听说的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600084F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful! That glow isn't always friendly.",
+    "string": "当心！那光芒未必总是友善的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000870|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Try not to blow yourself up, eh?",
+    "string": "尽量别把自己炸了，行吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000872|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All this messing about with soul gems. Leave all that well alone, I say.",
+    "string": "尽在这儿摆弄灵魂石。我说，别碰那些东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000871|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know enchanting can be useful, but do you have to do it right now?",
+    "string": "我知道附魔有用，但非得现在做吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000873|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Look I know you want to improve your gear, but doing it here is a little bit, uh, unwise, let's say?",
+    "string": "听着，我知道你想升级装备，但在这儿做，有点……呃，不太明智，这么说吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000890|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Perhaps we can focus on surviving before enchanting souvenirs?",
+    "string": "也许我们该先专注活命，再考虑附魔当纪念品？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000891|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A bit risky to open your mind to magic right now, isn't it?",
+    "string": "现在就向魔法敞开思维，有点冒险，不是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000892|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dunmer craftsmen wove soul and steel together for war.",
+    "string": "丹莫工匠曾将灵魂与钢铁编织，用于战争。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000893|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can't you play with your soul gems when we're not so exposed?",
+    "string": "等我们不这么暴露时，你再玩你的灵魂石不行吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Too dangerous to enchant right now.",
+    "string": "现在附魔太危险了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll stand guard, but don't take too long.",
+    "string": "我来警戒，但别花太久时间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll be honest, messing with souls makes me feel a bit... uneasy.",
+    "string": "说实话，摆弄灵魂让我感觉有点……不安。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enchanting has its place in the world, but that doesn't mean I have to like it.",
+    "string": "附魔在世界上有它的位置，但这不代表我必须喜欢它。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008CC|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enchanting here? Might as well just paint a target on your back.",
+    "string": "在这儿附魔？不如直接在背上画个靶子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008CD|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So you expect me to keep watch while you fumble with soul gems?",
+    "string": "所以你指望我警戒，而你在这儿笨手笨脚地摆弄灵魂石？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008CE|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful. Treat them with respect. Some souls do not like to be chained.",
+    "string": "当心。要尊重它们。有些灵魂不喜欢被束缚。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008CF|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you blow us up, I won't be laughing.",
+    "string": "如果你把我们炸了，我可不会笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008EB|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder what poor soul died to make your tinkering possible, eh?",
+    "string": "我在想，是什么可怜的灵魂死去，才让你的摆弄成为可能，嗯？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008EC|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever it is you're enchanting, make it quick. I grow bored.",
+    "string": "不管你附魔什么，快点。我快无聊死了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008ED|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be quick about it, I swear I hear footsteps.",
+    "string": "快点做完，我发誓我听见脚步声了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008EE|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You dabble in that while danger stirs? Are you bold, or just stupid?",
+    "string": "危险潜伏时你还玩这个？你是勇敢，还是愚蠢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600090D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Weaving souls into objects is a dangerous game, friend.",
+    "string": "将灵魂编织进物品是场危险的游戏，朋友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600090E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not sure I entirely approve of what you're doing. But it's really not my place to say.",
+    "string": "我不确定是否完全赞同你的做法。但这不该由我来说。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600090F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dabbling with magicka with enemies present? Sometimes, I wonder about you.",
+    "string": "敌人在场时还玩魔法？有时，我真搞不懂你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000910|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'd recommend you leave the enchanting until we're in safer surroundings.",
+    "string": "我建议你等到了更安全的地方再附魔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000930|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ooooh, that glow is amazing! Can you show me how to do that sometime?",
+    "string": "哦哦哦，那光芒真棒！改天能教我怎么做吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000931|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What you're doing just feels wrong. But also, I don't know... exciting?",
+    "string": "你做的事感觉就是不对。但又说不清……有点刺激？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000932|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uh - maybe you should enchant that faster. I swear I heard... something?",
+    "string": "呃——也许你该快点附魔。我发誓我听见了……什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000933|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm sure what you're doing there is useful, but maybe save it for when we're not about to be attacked?",
+    "string": "我肯定你做的事有用，但能不能留到我们没快被攻击时再做？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000828|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope what you're doing is important enough to help us in a fight.",
+    "string": "希望你做的事重要到能在战斗中帮上忙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000829|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enchanting? Really? At a time like this? Pfft!",
+    "string": "附魔？真的吗？在这种时候？哼！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600082A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enchanting your gear can be useful in a fight, I'll admit.",
+    "string": "我承认，给装备附魔在战斗中可能有用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600082B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder what poor creature died to fill your soul gems?",
+    "string": "我在想，是什么可怜的生物死去，才填满了你的灵魂石？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000950|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The hum of the soul gem... it almost sounds... alive.",
+    "string": "灵魂石的嗡鸣……听起来几乎……像活着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000951|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some call what you're doing art. Others think it cruel. Or even... never mind.",
+    "string": "有人称你做的事是艺术。有人觉得残忍。甚至……算了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000952|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enchant if you must. But be ready to spring into action given where we are.",
+    "string": "如果你非得附魔就做吧。但考虑到我们所在的位置，得随时准备行动。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000953|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know enemies won't just wait around while you weave magicka, right?",
+    "string": "你知道敌人不会等你施完法再动手，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000973|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heh. Just don't fry your own hands.",
+    "string": "嘿。别把自己的手烤焦了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000974|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That glow makes me a bit uneasy.",
+    "string": "那光芒让我有点不安。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000975|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not sure enchanting will do us much good if we're attacked with our backs turned.",
+    "string": "如果我们在转身时被攻击，我不确定附魔有多大用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000976|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Using souls like that is a bit... creepy. Even more so when we're at risk of being attacked.",
+    "string": "那样使用灵魂有点……诡异。尤其在我们可能被攻击时更甚。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000996|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That strange hum of trapped power. Soothing, in a way.",
+    "string": "那股被禁锢力量的奇异嗡鸣。某种程度上，还挺抚慰人心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000999|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I really don't know how you do that... looks tricky.",
+    "string": "我真不知道你怎么做到的……看起来挺难。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000997|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Spare us the light show. Our foes won't admire it.",
+    "string": "省省你的灯光秀吧。我们的敌人可不会欣赏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000998|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enchant that thing faster. I feel we're not alone here.",
+    "string": "快点给那东西附魔。我感觉我们不是独自一人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009B5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That glow's making me dizzy. Or... I dunno... maybe I'm just dizzy.",
+    "string": "那光芒让我头晕。或者……我不知道……也许我只是头晕了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009B6|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enchant that thing for much longer and I might just sober up.",
+    "string": "再给那东西附魔久一点，我可能就清醒了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009B7|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know someone once told me, men don't 'have' souls. They are souls!",
+    "string": "你知道吗，有人曾告诉我，人不是拥有灵魂，他们本身就是灵魂！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009B8|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If we wait here much longer, we'll be the ones inside those soul gems. Just sayin'.",
+    "string": "如果我们再等久一点，我们就会被装进那些灵魂石里了。说真的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009B9|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stuffing souls into stuff here? Of all places? Here?",
+    "string": "在这儿，把灵魂塞进东西里？偏偏选这个地方？这儿？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009D7|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whoever thought of using soul gems to enchant things must have been a genius.",
+    "string": "想到用灵魂石来附魔的人一定是个天才。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009D8|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enchanting is a skill like any other, and it could save your life.",
+    "string": "附魔和其他技能一样，或许能救你的命。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009D9|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch out. The glow from the enchanter might give us away.",
+    "string": "当心。附魔台的光芒可能会暴露我们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009DA|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I thought I heard something. Best save the enchanting for later.",
+    "string": "我好像听见了什么。最好把附魔留到以后。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009FD|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You make that look effortless. Impressive.",
+    "string": "你做得看起来毫不费力。真厉害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009FE|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, the hum of magicka. Quite mesmerising, isn't it?",
+    "string": "啊，魔法的嗡鸣。相当迷人，不是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009FF|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That glow is quite lovely, but I fear it might give us away.",
+    "string": "那光芒很漂亮，但我担心会暴露我们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A00|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Might be best to leave the enchanting for a safer spot.",
+    "string": "也许最好把附魔留到更安全的地方。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A1E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one sees the light dance around your hands.",
+    "string": "这位看见光芒在你手中舞动。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A1F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Soul gems are tricky, like the desert winds.",
+    "string": "灵魂石很棘手，如同沙漠的风。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A20|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enchant later, fight now, yes?",
+    "string": "以后再附魔，现在先战斗，好吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A21|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The pretty lights will draw eyes we do not want.",
+    "string": "那些漂亮的光会引来不想要的目光。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A43|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph. I'm not really impressed by all that soul gem stuff.",
+    "string": "哼。我对那些灵魂石的把戏并不怎么感兴趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A44|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That kind of thing is best left well alone if you ask me.",
+    "string": "依我看，那种东西最好别碰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A45|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That glow will draw trouble.",
+    "string": "那光芒会引来麻烦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A46|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We're not safe here. Put the gem away.",
+    "string": "这儿不安全。把灵魂石收起来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A68|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I could watch this all day. Feels like real power.",
+    "string": "我能看一整天。感觉像是真正的力量。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A69|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That glow is amazing. It's making me sleepy.",
+    "string": "那光芒真奇妙。让我有点犯困。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A6A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uh, maybe we should wait? Surely that light's gonna draw attention.",
+    "string": "呃，也许我们该等等？那光肯定会引来注意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A6B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I thought I heard something. Maybe do your enchanting in a bit?",
+    "string": "我好像听见了什么。也许稍后再附魔？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AA5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "More glowing trinkets. Just what the world needs.",
+    "string": "又多一个发光的小玩意。世界就缺这个。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AA6|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You picked a fine time to tinker with your soul gems. Brilliant! Just... brilliant.",
+    "string": "你挑了个好时候摆弄灵魂石。真棒！真是……太棒了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000850|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Improving a staff is well worth it, if that's your kind of thing.",
+    "string": "升级法杖很值得，如果你喜欢的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000851|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know, this should make the house more unique.",
+    "string": "你知道，这应该能让房子更独特。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000854|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You swing that axe pretty well, got to admit.",
+    "string": "你挥那把斧头挺在行，我得承认。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000852|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh you can't beat the smell of fresh baked goods.",
+    "string": "哦，新鲜烘焙的食物气味是无可替代的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000856|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mind yourself on that. It's hot you know.",
+    "string": "当心点。那东西很烫，你知道的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000855|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Cutting wood all day isn't going to get much done now, is it?",
+    "string": "整天砍木头也干不了多少事，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000857|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful not to burn yourself, you know what you're like.",
+    "string": "当心别烧着自己，你什么样子你自己清楚。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000858|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't burn your fingers, we've got a long road ahead.",
+    "string": "别烧了手指，我们还有很长的路要走。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000916|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Baking? How very... domestic of you.",
+    "string": "在烤东西？真够……居家的你啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000934|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll just wait here while you're polishing up your staff, shall I?",
+    "string": "我就在这儿等你把法杖擦亮，好吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000938|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful around that. It gets so hot, you might burn yourself.",
+    "string": "当心那东西。太烫了，可能会烧伤你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000939|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch those fingers! It looks hot.",
+    "string": "当心手指！看起来很烫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000936|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm, I can't wait to taste that. It smells lovely already.",
+    "string": "嗯，我等不及要尝尝了。闻起来已经很香了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000937|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope you're baking enough for two!",
+    "string": "希望你做的够两个人吃！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000935|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm sure this new addition to your house will be lovely.",
+    "string": "我肯定你房子的新添置会很美好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600093A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nice swing! You could split a tree in half with that!",
+    "string": "好挥击！你都能把树劈成两半了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600093B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Chopping wood is simple, but necessary.",
+    "string": "砍木头很简单，但很有必要。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600091A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mind the heat there, wouldn't want to burn yourself.",
+    "string": "注意那里的高温，可不想你烧伤自己。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000919|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful, burnt fingers won't win any battles.",
+    "string": "当心，烧伤的手指可赢不了战斗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000917|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll gladly take a taste of what you're making, if you don't mind sharing.",
+    "string": "如果你不介意分享，我很乐意尝尝你做的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000918|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's handle the danger before the dough.",
+    "string": "先处理危险，再处理面团。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000913|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I bet the house will be more comfortable after this latest upgrade.",
+    "string": "我打赌，房子经过这次升级会更舒适。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000912|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I bet you'll get good use out of upgrading that staff.",
+    "string": "我打赌升级那根法杖会很有用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000914|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You work hard. I like that.",
+    "string": "你很努力。我喜欢这样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000915|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm. You have nice strong arms and a good swing.",
+    "string": "嗯。你手臂结实，挥击有力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F6|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch you don't burn your fingers... or worse.",
+    "string": "当心别烧了手指……或者更糟。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F7|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Keep your wits about you, that looks really hot.",
+    "string": "保持清醒，那东西看起来非常烫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008EF|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A staff has its uses I suppose, but you can't beat Nord steel.",
+    "string": "法杖有它的用处，我猜，但比不上诺德钢铁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A fancy mage needs a fancy staff, eh?",
+    "string": "讲究的法师需要讲究的法杖，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Building something for your home there?",
+    "string": "在为你的家建点什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever you've got in the oven, it smells decent.",
+    "string": "不管你在烤箱里放了什么，闻起来还不错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Baking's not a bad skill I suppose. Better than buying everything.",
+    "string": "烘焙不算坏技能，我猜。总比什么都买好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good swing. A warrior's strike, even against timber.",
+    "string": "好挥击。即便是砍木头，也是战士的一击。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful you don't give yourself a splinter there.",
+    "string": "当心别让木刺扎到手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000896|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Steady swings. Let the axe do the work.",
+    "string": "稳住挥击。让斧头自己发力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000897|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We burned kwama shells back home... wood burns cleaner.",
+    "string": "我们在家乡烧甲虫壳……木头烧起来更干净。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000898|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mind you don't burn yourself on that.",
+    "string": "当心别被烫着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000853|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Melting down metals is tedious, but worthwhile.",
+    "string": "熔炼金属很枯燥，但值得做。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000899|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful. Burns can be very painful.",
+    "string": "当心。烧伤会很疼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000894|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A good mage needs a good staff, do your best.",
+    "string": "好法师需要好法杖，尽力做好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000895|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Making alterations to your home is almost always a worthy pursuit.",
+    "string": "改造家园几乎总是值得的追求。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600089B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A warm loaf does wonders for a cold journey.",
+    "string": "一个温热的面包能让寒冷的旅途变得美好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000874|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not much of a fan of staves. But whatever.",
+    "string": "不太喜欢法杖。不过随你吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000876|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever you've got in the oven, it doesn't smell half bad.",
+    "string": "不管你在烤箱里放了什么，闻起来还不赖。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000877|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Chopping wood again? Well I suppose someone has to do it.",
+    "string": "又在砍木头？嗯，总得有人做。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000878|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful you don't get a splinter there.",
+    "string": "当心别扎进木刺。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000875|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, making furniture for your house? Well, I suppose that's something.",
+    "string": "哦，在给房子做家具？嗯，我猜这也算点事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000879|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch what you're doing. Don't want to burn yourself.",
+    "string": "注意你在做什么。可不想你烧伤自己。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600087A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'd be careful with that if I were you. It gets very hot.",
+    "string": "我要是你就会当心点。那东西会变得很烫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B7|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Baking in the middle of a fight? That's... unusual.",
+    "string": "战斗中途烤东西？这……真少见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Improving your staff eh? Good choice I suppose.",
+    "string": "升级法杖啊？我猜是不错的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B6|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The smell brings back good memories.",
+    "string": "这气味让我想起美好的回忆。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah. Making your home a bit better is always nice.",
+    "string": "啊。让家变得更好一点总是好的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B8|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We'll be thankful for this wood on cold nights.",
+    "string": "在寒冷的夜晚，我们会感激这些木头。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B9|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch you don't burn yourself on that. It's hot!",
+    "string": "当心别烫着自己。很烫！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The smell might bring them right to us.",
+    "string": "这气味可能会直接把他们引来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why are you messing with a staff? A good hammer or axe is better than that for smashing heads!",
+    "string": "你干嘛鼓捣法杖？一把好锤子或斧头砸脑袋可比那强多了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful with that, it's very hot!",
+    "string": "当心那个，非常烫！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Orcs don't need fancy houses, just the basics is enough for most of us.",
+    "string": "兽人不需要华丽的房子，对我们大多数人来说，基本够用就行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Keep your grip firm, or the axe will take your thumb.",
+    "string": "握紧斧柄，否则斧头会砍掉你的拇指。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000832|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enchanting yourself a staff eh?",
+    "string": "在给自己附魔一根法杖？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000833|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When you're done enchanting that staff, let's get going.",
+    "string": "等你附魔完那根法杖，我们就出发。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000834|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Improving your house is always a sound investment!",
+    "string": "改善房子永远是稳妥的投资！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000836|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey, stick some pies in the oven won't you?",
+    "string": "嘿，放几个派进烤箱烤一下吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000837|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Melting down some ingots there?",
+    "string": "在熔炼锭块？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000839|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Working up a bit of a sweat there I see?",
+    "string": "我看到你干得有点出汗了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600083A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well well - 'wood' you believe it? Get it? 'Wood?'",
+    "string": "哎呀呀——你相信吗？听懂了吗？“Wood”（双关语，wood既是木头，也谐音would）？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600083B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful there, don't want to burn your hands!",
+    "string": "当心点，可不想你烧了手！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000835|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh! You're doing a bit of baking? Can you make me a sweetroll?",
+    "string": "哦！你在烤点东西？能给我做个甜卷吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600083C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch you don't burn yourself, that's very hot.",
+    "string": "当心别烧伤自己，那东西很烫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000954|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A good staff will see you right in battle.",
+    "string": "一根好法杖能在战斗中助你一臂之力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600097A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Making your house a bit better, one small task at a time, eh?",
+    "string": "一点一点地把房子变得更好，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600095A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Save a piece for me, hmm?",
+    "string": "给我留一块，嗯？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600097B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Baking... so tame. Well at least compared to fighting dragons.",
+    "string": "烤东西……真温和。至少比打龙温和多了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600097C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Working the smelter is thirsty work. Don't forget to drink something.",
+    "string": "操作熔炉很耗体力。别忘了喝点东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000979|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your swing is strong. I bet the trees fear you.",
+    "string": "你挥击有力。我敢说树都怕你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600095B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch you don't burn yourself on that.",
+    "string": "当心别被那东西烫着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000978|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful there. I hate the smell of searing flesh.",
+    "string": "当心点。我讨厌皮肉烧焦的气味。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000977|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Who needs a staff like that? Give me a sword or an axe any day!",
+    "string": "谁需要那种法杖？给我一把剑或斧头就行！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000959|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Last time I did that I nearly singed my hair. Watch out.",
+    "string": "上次我这么做差点烧到头发。当心点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600095C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful not to burn yourself there.",
+    "string": "当心别在那里烧伤自己。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000958|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good swing. I bet you'd take a head clean off with that.",
+    "string": "好挥击。我敢说你用那一下能干脆利落地砍掉脑袋。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000955|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh look at you. Quite domesticated now aren't you?",
+    "string": "哦，看看你。现在真够居家的，不是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000956|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Damn. That smells really good.",
+    "string": "该死。闻起来真香。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600097D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Save me a slice. Don't be stingy.",
+    "string": "给我留一片。别小气。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600097E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can't fight on an empty belly I suppose.",
+    "string": "空着肚子可打不了仗，我猜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000957|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's hard work. Looks like you're doing a decent enough job too.",
+    "string": "这活儿不轻松。看起来你干得还算不错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600099A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Building something new for your home? Smart.",
+    "string": "在为你的家建新东西？明智。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600099B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That staff upgrade will come in handy in a fight.",
+    "string": "升级法杖在战斗中会派上用场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600099C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch out, don't want to burn yourself on that.",
+    "string": "当心，别被那东西烫着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600099D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mind you don't get burned there.",
+    "string": "当心别在那里烧伤。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600099E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I bet that keeps your arms strong, eh?",
+    "string": "我打赌这能让你手臂保持强壮，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600099F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Smelting stuff is too hot for me. I'll leave that to you.",
+    "string": "熔炼东西对我来说太热了。我交给你了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009A0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll take a piece when it's ready, if you don't mind.",
+    "string": "等好了给我一块，如果你不介意的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009BA|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you wanna improve your house, don't let me stop you.",
+    "string": "如果你想改善房子，别让我妨碍你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009DC|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fiddling with that staff again? Careful - heh! You might go blind!",
+    "string": "又在鼓捣那根法杖？当心——嘿！你可能会弄瞎自己！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009BC|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, uh, last time I used one of those, I burnt my - um - unmentionables?",
+    "string": "哦，呃，上次我用那东西时，烧到了我的——呃——不方便说的地方？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009BD|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful there friend. That looks hot.",
+    "string": "当心点，朋友。那东西看起来很烫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009BE|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Chopping wood is a bit dangerous in my condition. I'll leave that to you shall I?",
+    "string": "以我现在的状况砍木头有点危险。我交给你了，好吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009BF|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Last time I tried that I nearly chopped off my - uh - never mind.",
+    "string": "上次我试那事差点砍掉我的——呃——算了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009C0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nice to watch someone work the smelter. Better than me doing it eh?",
+    "string": "看别人操作熔炉挺不错。总比我亲自做要好，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009C1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Save me a slice eh? Or... the whole thing?",
+    "string": "给我留一片，嗯？或者……整个都给我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009C2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh that smells good. Can't wait 'til it's ready.",
+    "string": "哦，闻起来真好。等不及要尝了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009E0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Chopping wood is a bit dangerous in my condition. I'll leave that to you shall I?",
+    "string": "以我现在的状况砍木头有点危险。我交给你了，好吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009DB|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah, I can see why you'd want to make that.",
+    "string": "是啊，我能理解你想做那个。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009BB|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Improving a staff is always a worthwhile task.",
+    "string": "升级法杖永远是值得做的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009DE|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, good, you're wearing gloves. Better safe than sorry, eh?",
+    "string": "哦，好，你戴着手套。安全第一，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009DD|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch your fingers friend. Wouldn't want to get a nasty burn.",
+    "string": "当心手指，朋友。可不想你被严重烫伤。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009DF|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Woah that's hot. I can feel the warmth on my face from here.",
+    "string": "哇，真烫。我站这儿都能感觉到热气扑脸。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009E1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You make swinging that axe look easy.",
+    "string": "你挥斧头看起来真轻松。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009E2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Chopping your own wood eh? That sounds a bit like a - uh - never mind.",
+    "string": "自己砍木头？听起来有点像——呃——算了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009E3|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever you've got baking in there, I hope there's enough for me too?",
+    "string": "不管你在烤什么，我希望也够我一份？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009E5|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Rather you than me friend. That's far too hot for me.",
+    "string": "换我可不行，朋友。那对我来说太烫了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009E4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That smells delicious! I hope it's ready soon.",
+    "string": "闻起来真香！希望快点好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A01|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Spending money on your home is money well spent.",
+    "string": "在房子上花钱是花得值。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A02|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Working on your staff there, I see?",
+    "string": "我看到你在弄你的法杖了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A03|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mind you don't burn yourself on that, friend.",
+    "string": "当心别被那东西烫着，朋友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A04|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, be careful handling that, it's very hot.",
+    "string": "哦，当心拿着那东西，很烫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A05|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You have a strong swing. I bet you split a man's skull just as easily.",
+    "string": "你挥击有力。我敢说你劈开人的头骨也一样轻松。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A06|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's always wise to gather wood when you can.",
+    "string": "能收集木头时总是明智的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A07|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll gladly take a slice of that when it's ready.",
+    "string": "等好了我很乐意来一片。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A08|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm! That smells lovely!",
+    "string": "嗯！闻起来真棒！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A09|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful you don't get too close to the smelter. Don't want to lose a hand.",
+    "string": "当心别离熔炉太近。可不想你丢掉一只手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A27|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Strong swing. You chop wood like Khajiit chops bandits.",
+    "string": "好挥击。你砍木头就像虎人砍强盗一样利落。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A24|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one thinks that Khajiit should be careful not to burn their fur.",
+    "string": "这位觉得虎人该当心别烧了毛皮。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A25|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Khajiit urges caution - that looks hot.",
+    "string": "虎人提醒要当心——那东西很烫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A26|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one recommends care when handling such hot things.",
+    "string": "这位建议处理这种烫的东西要小心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A22|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Khajiit sees you are making something for your house, yes?",
+    "string": "虎人看出你在为房子做东西，是吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A28|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good firewood means warm paws at night.",
+    "string": "好柴火意味着夜晚爪子暖和。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A23|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one can see the wisdom in improving that staff.",
+    "string": "这位能看出升级那根法杖的智慧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A2A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one would not mind a taste... just a small one.",
+    "string": "这位不介意尝一口……就一小口。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A29|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one remembers such smells from Elsweyr markets.",
+    "string": "这位记得艾斯维尔市场就有这样的气味。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A2B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one will stand back. Khajiit does not want his fur singed.",
+    "string": "这位会站远点。虎人可不想毛皮被烧焦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A30|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The ore turns to liquid fire... beautiful... yet dangerous.",
+    "string": "矿石化为液态火焰……美丽……却危险。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A47|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Keep your grip firm, or the axe will take your thumb.",
+    "string": "握紧斧柄，否则斧头会砍掉你的拇指。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A73|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The rhythm of your swings is satisfying to watch.",
+    "string": "你挥击的节奏看着很舒服。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A49|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Best watch out with that, they get pretty hot.",
+    "string": "当心那个，会变得很烫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A4A|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey, be careful not to burn your hands.",
+    "string": "嘿，当心别烧了手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A4B|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Workbench eh? Making anything good? Something for your house?",
+    "string": "工作台？做点什么好东西？给你的房子添置？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A4C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not a fan of that kind of thing. Much prefer crushing heads with something I can swing.",
+    "string": "我不喜欢那种东西。我更喜欢用能挥动的家伙砸碎脑袋。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A4D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll take some of that when it's ready. If you don't mind.",
+    "string": "等好了我拿一些。如果你不介意的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A4E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Turning ore into something useful. That's pure power.",
+    "string": "把矿石变成有用的东西。这才是纯粹的力量。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A6D|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you making bread? Oh - I love fresh bread.",
+    "string": "你在做面包？哦——我爱新鲜面包。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A48|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Chopping wood is hard work, but it pays off.",
+    "string": "砍木头很辛苦，但值得。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A8E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know I spend a lot of time chopping wood, and I have to say, you're pretty good at it.",
+    "string": "你知道我花了很多时间砍木头，我得说，你干得相当不错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A74|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That wood will come in handy if we need to build a fire.",
+    "string": "如果需要生火，这些木头会派上用场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A70|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh? Improving your home? What a great idea.",
+    "string": "哦？改善你的家？真是个好主意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A6F|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A good staff can be useful... under the right circumstances.",
+    "string": "一根好法杖可能有用……在合适的场合。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A6E|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever you're baking, it smells great. Maybe I could get a taste?",
+    "string": "不管你在烤什么，闻起来很棒。我能尝一口吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A6C|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I never tire of watching rocks being melted into metal.",
+    "string": "看石头熔化成金属，我永远看不腻。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A71|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch yourself on that, it looks quite hot.",
+    "string": "当心那个，看起来相当烫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A72|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll just wait out of the way. I can feel the heat on my face even from here.",
+    "string": "我就站远点等。光是站这儿脸都感觉热。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AAE|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Better to split skulls than logs, but do as you like.",
+    "string": "劈开颅骨比劈木头强，不过随你高兴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AAD|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope you're not expecting me to knead your dough for you.",
+    "string": "希望你没指望我帮你揉面团。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AB1|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do be careful with that. Wouldn't want to burn that delicate skin of yours.",
+    "string": "务必当心那个。可不想烧了你那娇嫩的皮肤。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AAF|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, how very domesticated of you. What next? A posh bed with flower petals?",
+    "string": "哦，你真够居家的。下一步呢？铺着花瓣的豪华床？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AB0|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know what they say? Look after your staff and your staff will look after you.",
+    "string": "你知道有句话怎么说吗？照顾好你的法杖，法杖就会照顾好你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AB4|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, by all means, bind unstable energy to a stick. Always ends well.",
+    "string": "是啊，当然，请把不稳定的能量绑在木棍上。结果总是很好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AB2|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you burn yourself, don't expect me to kiss it better.",
+    "string": "如果你烧伤了，别指望我会亲亲帮你止痛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000AAC|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Baking? Hah. And here I thought we were adventurers, not bakers.",
+    "string": "在烤东西？哈。我还以为我们是冒险者，不是面包师。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A87|Followers React to Crafting.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't forget the secret ingredient to baking - some ground bones.",
+    "string": "别忘了烘焙的秘密配料——一些磨碎的骨头。",
+    "status": "TranslationComplete"
+  }
+]

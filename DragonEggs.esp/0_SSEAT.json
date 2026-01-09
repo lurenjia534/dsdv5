@@ -1,0 +1,164 @@
+[
+  {
+    "editor_id": "CrystallizedDragonSoulIngredient1",
+    "form_id": "02000805|DragonEggs.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Crystallized Dragon Soul Fire",
+    "string": "晶化龙魂·赤炎",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CrystallizedDragonSoulIngredient2",
+    "form_id": "02000812|DragonEggs.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Crystallized Dragon Soul Frost",
+    "string": "晶化龙魂·冰霜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CrystallizedDragonSoulIngredient3",
+    "form_id": "02000813|DragonEggs.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Crystallized Dragon Soul Blood",
+    "string": "晶化龙魂·焠血",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CrystallizedDragonSoulIngredient4",
+    "form_id": "02000814|DragonEggs.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Crystallized Dragon Soul Ancient",
+    "string": "晶化龙魂·亘古",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CrystallizedDragonSoulIngredient5",
+    "form_id": "02000815|DragonEggs.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Crystallized Dragon Soul Revered",
+    "string": "晶化龙魂·太虚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CrystallizedDragonSoulIngredient6",
+    "form_id": "02000816|DragonEggs.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Crystallized Dragon Soul Legendary",
+    "string": "晶化龙魂·化神",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FrostEgg",
+    "form_id": "02000800|DragonEggs.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Frost Egg",
+    "string": "冰霜龙卵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Legendaryegg",
+    "form_id": "02000801|DragonEggs.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Legendary egg",
+    "string": "化神龙卵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BloodEgg",
+    "form_id": "02000802|DragonEggs.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blood Egg",
+    "string": "焠血龙卵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AncientEgg",
+    "form_id": "02000803|DragonEggs.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ancient Egg",
+    "string": "亘古龙卵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ReveredEgg",
+    "form_id": "02000804|DragonEggs.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Revered Egg",
+    "string": "太虚龙卵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FireEgg",
+    "form_id": "02000D61|DragonEggs.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fire Egg",
+    "string": "赤炎龙卵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ElixirofBurningFire",
+    "form_id": "02000806|DragonEggs.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Elixir of Burning Fire",
+    "string": "焚炎秘药",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ElixirofBurningFrost",
+    "form_id": "0200080D|DragonEggs.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Elixir of Burning Frost",
+    "string": "焚霜秘药 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ElixirofBurningBlood",
+    "form_id": "0200080E|DragonEggs.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Elixir of Burning Blood",
+    "string": "焚血秘药",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ElixirofBurningAncient",
+    "form_id": "0200080F|DragonEggs.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Elixir of Burning Ancient",
+    "string": "焚古秘药",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ElixirofBurningRevered",
+    "form_id": "02000810|DragonEggs.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Elixir of Burning Revered",
+    "string": "焚虚秘药",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ElixirofBurningLegend",
+    "form_id": "02000811|DragonEggs.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Elixir of Burning Legendary",
+    "string": "焚神秘药",
+    "status": "TranslationComplete"
+  }
+]

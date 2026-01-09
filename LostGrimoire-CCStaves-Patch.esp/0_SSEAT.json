@@ -1,0 +1,3683 @@
+[
+  {
+    "editor_id": "GRIM__CONT_TEST_StaffEnchanterSupplies",
+    "form_id": "0605C665|LostGrimoire.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Staff Supplies",
+    "string": "法杖补给",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_DremoraSorceress_silver",
+    "form_id": "0700006C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of the Dremora Sorceress",
+    "string": "魔人女术士法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_ExtractOre_daedric",
+    "form_id": "07000000|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Ore Extraction",
+    "string": "矿石提取法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_ExtractOre_dreugh",
+    "form_id": "07000001|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Ore Extraction",
+    "string": "矿石提取法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_ExtractOre_ebony",
+    "form_id": "07000002|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Ore Extraction",
+    "string": "矿石提取法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_ExtractOre_glass",
+    "form_id": "07000003|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Ore Extraction",
+    "string": "矿石提取法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_ExtractOre_silver",
+    "form_id": "07000004|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Ore Extraction",
+    "string": "矿石提取法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_ExtractOre_steel",
+    "form_id": "07000005|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Ore Extraction",
+    "string": "矿石提取法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_ExtractOre_wood1",
+    "form_id": "07000006|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Ore Extraction",
+    "string": "矿石提取法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_ExtractOre_wood2",
+    "form_id": "07000007|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Ore Extraction",
+    "string": "矿石提取法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_Unlock_daedric",
+    "form_id": "07000010|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Unlocking",
+    "string": "开锁术法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_Unlock_dreugh",
+    "form_id": "07000011|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Unlocking",
+    "string": "开锁术法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_Unlock_ebony",
+    "form_id": "07000012|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Unlocking",
+    "string": "开锁术法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_Unlock_glass",
+    "form_id": "07000013|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Unlocking",
+    "string": "开锁术法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_Unlock_silver",
+    "form_id": "07000014|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Unlocking",
+    "string": "开锁术法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_Unlock_steel",
+    "form_id": "07000015|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Unlocking",
+    "string": "开锁术法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_Unlock_wood1",
+    "form_id": "07000016|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Unlocking",
+    "string": "开锁术法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT00_Unlock_wood2",
+    "form_id": "07000017|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Unlocking",
+    "string": "开锁术法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_ForceWave_daedric",
+    "form_id": "07000018|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Force Wave",
+    "string": "力量波动法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_ForceWave_dreugh",
+    "form_id": "07000019|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Force Wave",
+    "string": "力量波动法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_ForceWave_ebony",
+    "form_id": "0700001A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Force Wave",
+    "string": "力量波动法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_ForceWave_glass",
+    "form_id": "0700001B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Force Wave",
+    "string": "力量波动法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_ForceWave_silver",
+    "form_id": "0700001C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Force Wave",
+    "string": "力量波动法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_ForceWave_steel",
+    "form_id": "0700001D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Force Wave",
+    "string": "力量波动法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_ForceWave_wood1",
+    "form_id": "0700001E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Force Wave",
+    "string": "力量波动法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_ForceWave_wood2",
+    "form_id": "0700001F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Force Wave",
+    "string": "力量波动法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_Switcheroo_daedric",
+    "form_id": "07000020|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Switcheroo",
+    "string": "交换术法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_Switcheroo_dreugh",
+    "form_id": "07000021|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Switcheroo",
+    "string": "交换术法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_Switcheroo_ebony",
+    "form_id": "07000022|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Switcheroo",
+    "string": "交换术法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_Switcheroo_glass",
+    "form_id": "07000023|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Switcheroo",
+    "string": "交换术法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_Switcheroo_silver",
+    "form_id": "07000024|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Switcheroo",
+    "string": "交换术法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_Switcheroo_steel",
+    "form_id": "07000025|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Switcheroo",
+    "string": "交换术法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_Switcheroo_wood1",
+    "form_id": "07000026|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Switcheroo",
+    "string": "交换术法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_Switcheroo_wood2",
+    "form_id": "07000027|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Switcheroo",
+    "string": "交换术法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_UnstableTransformation_daedric",
+    "form_id": "07000028|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Transmogrify",
+    "string": "变形术法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_UnstableTransformation_dreugh",
+    "form_id": "07000029|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Transmogrify",
+    "string": "变形术法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_UnstableTransformation_ebony",
+    "form_id": "0700002A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Transmogrify",
+    "string": "变形术法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_UnstableTransformation_glass",
+    "form_id": "0700002B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Transmogrify",
+    "string": "变形术法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_UnstableTransformation_silver",
+    "form_id": "0700002C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Transmogrify",
+    "string": "变形术法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_UnstableTransformation_steel",
+    "form_id": "0700002D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Transmogrify",
+    "string": "变形术法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_UnstableTransformation_wood1",
+    "form_id": "0700002E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Transmogrify",
+    "string": "变形术法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT25_UnstableTransformation_wood2",
+    "form_id": "0700002F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Transmogrify",
+    "string": "变形术法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT50_Teleportation_daedric",
+    "form_id": "07000030|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Teleportation",
+    "string": "传送术法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT50_Teleportation_dreugh",
+    "form_id": "07000031|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Teleportation",
+    "string": "传送术法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT50_Teleportation_ebony",
+    "form_id": "07000032|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Teleportation",
+    "string": "传送术法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT50_Teleportation_glass",
+    "form_id": "07000033|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Teleportation",
+    "string": "传送术法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT50_Teleportation_silver",
+    "form_id": "07000034|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Teleportation",
+    "string": "传送术法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT50_Teleportation_steel",
+    "form_id": "07000035|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Teleportation",
+    "string": "传送术法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT50_Teleportation_wood1",
+    "form_id": "07000036|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Teleportation",
+    "string": "传送术法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT50_Teleportation_wood2",
+    "form_id": "07000037|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Teleportation",
+    "string": "传送术法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT75_ConcussiveBlast_daedric",
+    "form_id": "07000038|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Concussive Blast",
+    "string": "震荡冲击法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT75_ConcussiveBlast_dreugh",
+    "form_id": "07000039|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Concussive Blast",
+    "string": "震荡冲击法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT75_ConcussiveBlast_ebony",
+    "form_id": "0700003A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Concussive Blast",
+    "string": "震荡冲击法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT75_ConcussiveBlast_glass",
+    "form_id": "0700003B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Concussive Blast",
+    "string": "震荡冲击法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT75_ConcussiveBlast_silver",
+    "form_id": "0700003C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Concussive Blast",
+    "string": "震荡冲击法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT75_ConcussiveBlast_steel",
+    "form_id": "0700003D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Concussive Blast",
+    "string": "震荡冲击法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT75_ConcussiveBlast_wood1",
+    "form_id": "0700003E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Concussive Blast",
+    "string": "震荡冲击法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ALT75_ConcussiveBlast_wood2",
+    "form_id": "0700003F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Concussive Blast",
+    "string": "震荡冲击法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_UnboundAtronach_daedric",
+    "form_id": "07000040|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of the Unbound Atronach",
+    "string": "不羁侍灵法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_UnboundAtronach_dreugh",
+    "form_id": "07000041|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of the Unbound Atronach",
+    "string": "不羁侍灵法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_UnboundAtronach_ebony",
+    "form_id": "07000042|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of the Unbound Atronach",
+    "string": "不羁侍灵法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_UnboundAtronach_glass",
+    "form_id": "07000043|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of the Unbound Atronach",
+    "string": "不羁侍灵法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_UnboundAtronach_silver",
+    "form_id": "07000044|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of the Unbound Atronach",
+    "string": "不羁侍灵法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_UnboundAtronach_steel",
+    "form_id": "07000045|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of the Unbound Atronach",
+    "string": "不羁侍灵法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_UnboundAtronach_wood1",
+    "form_id": "07000046|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Unbound Atronach",
+    "string": "不羁侍灵法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_UnboundAtronach_wood2",
+    "form_id": "07000047|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Unbound Atronach",
+    "string": "不羁侍灵法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_DetonateMinion_daedric",
+    "form_id": "07000048|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Detonate Minion",
+    "string": "引爆奴仆法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_DetonateMinion_dreugh",
+    "form_id": "07000049|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Detonate Minion",
+    "string": "引爆奴仆法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_DetonateMinion_ebony",
+    "form_id": "0700004A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Detonate Minion",
+    "string": "引爆奴仆法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_DetonateMinion_glass",
+    "form_id": "0700004B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Detonate Minion",
+    "string": "引爆奴仆法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_DetonateMinion_silver",
+    "form_id": "0700004C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Detonate Minion",
+    "string": "引爆奴仆法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_DetonateMinion_steel",
+    "form_id": "0700004D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Detonate Minion",
+    "string": "引爆奴仆法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_DetonateMinion_wood1",
+    "form_id": "0700004E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Detonate Minion",
+    "string": "引爆奴仆法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_DetonateMinion_wood2",
+    "form_id": "0700004F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Detonate Minion",
+    "string": "引爆奴仆法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_FamiliarSabrecat_daedric",
+    "form_id": "07000050|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of the Sabrecat Familiar",
+    "string": "使魔法杖-剑齿虎-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_FamiliarSabrecat_dreugh",
+    "form_id": "07000051|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of the Sabrecat Familiar",
+    "string": "使魔法杖-剑齿虎-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_FamiliarSabrecat_ebony",
+    "form_id": "07000052|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of the Sabrecat Familiar",
+    "string": "使魔法杖-剑齿虎-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_FamiliarSabrecat_glass",
+    "form_id": "07000053|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of the Sabrecat Familiar",
+    "string": "使魔法杖-剑齿虎-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_FamiliarSabrecat_silver",
+    "form_id": "07000054|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of the Sabrecat Familiar",
+    "string": "使魔法杖-剑齿虎-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_FamiliarSabrecat_steel",
+    "form_id": "07000055|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of the Sabrecat Familiar",
+    "string": "使魔法杖-剑齿虎-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_FamiliarSabrecat_wood1",
+    "form_id": "07000056|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Sabrecat Familiar",
+    "string": "使魔法杖-剑齿虎-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON25_FamiliarSabrecat_wood2",
+    "form_id": "07000057|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Sabrecat Familiar",
+    "string": "使魔法杖-剑齿虎-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_DremoraBerserker_daedric",
+    "form_id": "07000058|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of the Dremora Berserker",
+    "string": "魔人狂战士法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_DremoraBerserker_dreugh",
+    "form_id": "07000059|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of the Dremora Berserker",
+    "string": "魔人狂战士法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_DremoraBerserker_ebony",
+    "form_id": "0700005A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of the Dremora Berserker",
+    "string": "魔人狂战士法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_DremoraBerserker_glass",
+    "form_id": "0700005B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of the Dremora Berserker",
+    "string": "魔人狂战士法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_DremoraBerserker_silver",
+    "form_id": "0700005C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of the Dremora Berserker",
+    "string": "魔人狂战士法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_DremoraBerserker_steel",
+    "form_id": "0700005D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of the Dremora Berserker",
+    "string": "魔人狂战士法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_DremoraBerserker_wood1",
+    "form_id": "0700005E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Dremora Berserker",
+    "string": "魔人狂战士法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_DremoraBerserker_wood2",
+    "form_id": "0700005F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Dremora Berserker",
+    "string": "魔人狂战士法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_FamiliarBear_daedric",
+    "form_id": "07000060|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of the Bear Familiar",
+    "string": "使魔法杖-熊-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_FamiliarBear_dreugh",
+    "form_id": "07000061|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of the Bear Familiar",
+    "string": "使魔法杖-熊-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_FamiliarBear_ebony",
+    "form_id": "07000062|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of the Bear Familiar",
+    "string": "使魔法杖-熊-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_FamiliarBear_glass",
+    "form_id": "07000063|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of the Bear Familiar",
+    "string": "使魔法杖-熊-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_FamiliarBear_silver",
+    "form_id": "07000064|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of the Bear Familiar",
+    "string": "使魔法杖-熊-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_FamiliarBear_steel",
+    "form_id": "07000065|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of the Bear Familiar",
+    "string": "使魔法杖-熊-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_FamiliarBear_wood1",
+    "form_id": "07000066|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Bear Familiar",
+    "string": "使魔法杖-熊-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON50_FamiliarBear_wood2",
+    "form_id": "07000067|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Bear Familiar",
+    "string": "使魔法杖-熊-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_DremoraSorceress_daedric",
+    "form_id": "07000068|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of the Dremora Sorceress",
+    "string": "魔人女术士法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_DremoraSorceress_dreugh",
+    "form_id": "07000069|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of the Dremora Sorceress",
+    "string": "魔人女术士法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_DremoraSorceress_ebony",
+    "form_id": "0700006A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of the Dremora Sorceress",
+    "string": "魔人女术士法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_DremoraSorceress_glass",
+    "form_id": "0700006B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of the Dremora Sorceress",
+    "string": "魔人女术士法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_PhantomRabbit_glass",
+    "form_id": "070000D2|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of the Phantom Rabbit",
+    "string": "幻影兔法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_DremoraSorceress_steel",
+    "form_id": "0700006D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of the Dremora Sorceress",
+    "string": "魔人女术士法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_DremoraSorceress_wood1",
+    "form_id": "0700006E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Dremora Sorceress",
+    "string": "魔人女术士法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_DremoraSorceress_wood2",
+    "form_id": "0700006F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Dremora Sorceress",
+    "string": "魔人女术士法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_FamiliarTroll_daedric",
+    "form_id": "07000070|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of the Troll Familiar",
+    "string": "使魔法杖-巨魔-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_FamiliarTroll_dreugh",
+    "form_id": "07000071|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of the Troll Familiar",
+    "string": "使魔法杖-巨魔-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_FamiliarTroll_ebony",
+    "form_id": "07000072|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of the Troll Familiar",
+    "string": "使魔法杖-巨魔-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_FamiliarTroll_glass",
+    "form_id": "07000073|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of the Troll Familiar",
+    "string": "使魔法杖-巨魔-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_FamiliarTroll_silver",
+    "form_id": "07000074|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of the Troll Familiar",
+    "string": "使魔法杖-巨魔-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_FamiliarTroll_steel",
+    "form_id": "07000075|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of the Troll Familiar",
+    "string": "使魔法杖-巨魔-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_FamiliarTroll_wood1",
+    "form_id": "07000076|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Troll Familiar",
+    "string": "使魔法杖-巨魔-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_FamiliarTroll_wood2",
+    "form_id": "07000077|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Troll Familiar",
+    "string": "使魔法杖-巨魔-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_SuperchargeMinion_daedric",
+    "form_id": "07000078|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Supercharge Minion",
+    "string": "超级充能奴仆法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_SuperchargeMinion_dreugh",
+    "form_id": "07000079|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Supercharge Minion",
+    "string": "超级充能奴仆法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_SuperchargeMinion_ebony",
+    "form_id": "0700007A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Supercharge Minion",
+    "string": "超级充能奴仆法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_SuperchargeMinion_glass",
+    "form_id": "0700007B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Supercharge Minion",
+    "string": "超级充能奴仆法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_SuperchargeMinion_silver",
+    "form_id": "0700007C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Supercharge Minion",
+    "string": "超级充能奴仆法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_SuperchargeMinion_steel",
+    "form_id": "0700007D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Supercharge Minion",
+    "string": "超级充能奴仆法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_SuperchargeMinion_wood1",
+    "form_id": "0700007E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Supercharge Minion",
+    "string": "超级充能奴仆法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON75_SuperchargeMinion_wood2",
+    "form_id": "0700007F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Supercharge Minion",
+    "string": "超级充能奴仆法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Flare_daedric",
+    "form_id": "07000080|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Flare",
+    "string": "火光法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Flare_dreugh",
+    "form_id": "07000081|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Flare",
+    "string": "火光法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Flare_ebony",
+    "form_id": "07000082|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Flare",
+    "string": "火光法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Flare_glass",
+    "form_id": "07000083|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Flare",
+    "string": "火光法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Flare_silver",
+    "form_id": "07000084|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Flare",
+    "string": "火光法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Flare_steel",
+    "form_id": "07000085|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Flare",
+    "string": "火光法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Flare_wood1",
+    "form_id": "07000086|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Flare",
+    "string": "火光法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Flare_wood2",
+    "form_id": "07000087|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Flare",
+    "string": "火光法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_IceShiv_daedric",
+    "form_id": "07000088|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Icicles",
+    "string": "冰锥法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_IceShiv_dreugh",
+    "form_id": "07000089|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Icicles",
+    "string": "冰锥法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_IceShiv_ebony",
+    "form_id": "0700008A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Icicles",
+    "string": "冰锥法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_IceShiv_glass",
+    "form_id": "0700008B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Icicles",
+    "string": "冰锥法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_IceShiv_silver",
+    "form_id": "0700008C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Icicles",
+    "string": "冰锥法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_IceShiv_steel",
+    "form_id": "0700008D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Icicles",
+    "string": "冰锥法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_IceShiv_wood",
+    "form_id": "0700008E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Icicles",
+    "string": "冰锥法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_IceShiv_wood2",
+    "form_id": "0700008F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Icicles",
+    "string": "冰锥法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Zap_daedric",
+    "form_id": "07000090|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Zap",
+    "string": "迅击法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Zap_dreugh",
+    "form_id": "07000091|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Zap",
+    "string": "迅击法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Zap_ebony",
+    "form_id": "07000092|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Zap",
+    "string": "迅击法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Zap_glass",
+    "form_id": "07000093|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Zap",
+    "string": "迅击法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Zap_silver",
+    "form_id": "07000094|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Zap",
+    "string": "迅击法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Zap_steel",
+    "form_id": "07000095|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Zap",
+    "string": "迅击法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Zap_wood1",
+    "form_id": "07000096|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Zap",
+    "string": "迅击法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES00_Zap_wood2",
+    "form_id": "07000097|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Zap",
+    "string": "迅击法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_BurnDown_daedric",
+    "form_id": "07000098|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Burn Down",
+    "string": "燃烧殆尽法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_BurnDown_dreugh",
+    "form_id": "07000099|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Burn Down",
+    "string": "燃烧殆尽法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_BurnDown_ebony",
+    "form_id": "0700009A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Burn Down",
+    "string": "燃烧殆尽法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_BurnDown_glass",
+    "form_id": "0700009B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Burn Down",
+    "string": "燃烧殆尽法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_BurnDown_silver",
+    "form_id": "0700009C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Burn Down",
+    "string": "燃烧殆尽法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_BurnDown_steel",
+    "form_id": "0700009D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Burn Down",
+    "string": "燃烧殆尽法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_BurnDown_wood1",
+    "form_id": "0700009E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Burn Down",
+    "string": "燃烧殆尽法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_BurnDown_wood2",
+    "form_id": "0700009F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Burn Down",
+    "string": "燃烧殆尽法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_CracklingStatic_daedric",
+    "form_id": "070000A0|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Crackling Static",
+    "string": "噼啪静电法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_CracklingStatic_dreugh",
+    "form_id": "070000A1|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Crackling Static",
+    "string": "噼啪静电法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_CracklingStatic_ebony",
+    "form_id": "070000A2|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Crackling Static",
+    "string": "噼啪静电法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_CracklingStatic_glass",
+    "form_id": "070000A3|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Crackling Static",
+    "string": "噼啪静电法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_CracklingStatic_silver",
+    "form_id": "070000A4|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Crackling Static",
+    "string": "噼啪静电法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_CracklingStatic_steel",
+    "form_id": "070000A5|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Crackling Static",
+    "string": "噼啪静电法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_CracklingStatic_wood1",
+    "form_id": "070000A6|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Crackling Static",
+    "string": "噼啪静电法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_CracklingStatic_wood2",
+    "form_id": "070000A7|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Crackling Static",
+    "string": "噼啪静电法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_IcicleSeed_daedric",
+    "form_id": "070000A8|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Icicle Seed",
+    "string": "冰锥之种法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_IcicleSeed_dreugh",
+    "form_id": "070000A9|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Icicle Seed",
+    "string": "冰锥之种法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_IcicleSeed_ebony",
+    "form_id": "070000AA|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Icicle Seed",
+    "string": "冰锥之种法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_IcicleSeed_glass",
+    "form_id": "070000AB|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Icicle Seed",
+    "string": "冰锥之种法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_IcicleSeed_silver",
+    "form_id": "070000AC|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Icicle Seed",
+    "string": "冰锥之种法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_IcicleSeed_steel",
+    "form_id": "070000AD|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Icicle Seed",
+    "string": "冰锥之种法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_IcicleSeed_wood1",
+    "form_id": "070000AE|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Icicle Seed",
+    "string": "冰锥之种法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES25_IcicleSeed_wood2",
+    "form_id": "070000AF|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Icicle Seed",
+    "string": "冰锥之种法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Hellfire_daedric",
+    "form_id": "070000B0|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Hellfire",
+    "string": "地狱之火法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Hellfire_dreugh",
+    "form_id": "070000B1|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Hellfire",
+    "string": "地狱之火法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Hellfire_ebony",
+    "form_id": "070000B2|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Hellfire",
+    "string": "地狱之火法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Hellfire_glass",
+    "form_id": "070000B3|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Hellfire",
+    "string": "地狱之火法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Hellfire_silver",
+    "form_id": "070000B4|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Hellfire",
+    "string": "地狱之火法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Hellfire_steel",
+    "form_id": "070000B5|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Hellfire",
+    "string": "地狱之火法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Hellfire_wood1",
+    "form_id": "070000B6|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Hellfire",
+    "string": "地狱之火法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Hellfire_wood2",
+    "form_id": "070000B7|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Hellfire",
+    "string": "地狱之火法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Overcharge_daedric",
+    "form_id": "070000B8|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Overcharging",
+    "string": "过充法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Overcharge_dreugh",
+    "form_id": "070000B9|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Overcharging",
+    "string": "过充法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Overcharge_ebony",
+    "form_id": "070000BA|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Overcharging",
+    "string": "过充法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Overcharge_glass",
+    "form_id": "070000BB|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Overcharging",
+    "string": "过充法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Overcharge_silver",
+    "form_id": "070000BC|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Overcharging",
+    "string": "过充法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Overcharge_steel",
+    "form_id": "070000BD|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Overcharging",
+    "string": "过充法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Overcharge_wood1",
+    "form_id": "070000BE|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Overcharging",
+    "string": "过充法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_Overcharge_wood2",
+    "form_id": "070000BF|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Overcharging",
+    "string": "过充法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_ShatteringCrystal_daedric",
+    "form_id": "070000C0|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Frostburst Crystals",
+    "string": "霜爆水晶法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_ShatteringCrystal_dreugh",
+    "form_id": "070000C1|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Frostburst Crystals",
+    "string": "霜爆水晶法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_ShatteringCrystal_ebony",
+    "form_id": "070000C2|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Frostburst Crystals",
+    "string": "霜爆水晶法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_ShatteringCrystal_glass",
+    "form_id": "070000C3|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Frostburst Crystals",
+    "string": "霜爆水晶法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_ShatteringCrystal_silver",
+    "form_id": "070000C4|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Frostburst Crystals",
+    "string": "霜爆水晶法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_ShatteringCrystal_steel",
+    "form_id": "070000C5|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Frostburst Crystals",
+    "string": "霜爆水晶法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_ShatteringCrystal_wood1",
+    "form_id": "070000C6|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Frostburst Crystals",
+    "string": "霜爆水晶法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_DES75_ShatteringCrystal_wood2",
+    "form_id": "070000C7|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Frostburst Crystals",
+    "string": "霜爆水晶法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_Disorient_daedric",
+    "form_id": "070000C8|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Disorient",
+    "string": "迷失方向法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_Disorient_dreugh",
+    "form_id": "070000C9|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Disorient",
+    "string": "迷失方向法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_Disorient_ebony",
+    "form_id": "070000CA|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Disorient",
+    "string": "迷失方向法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_Disorient_glass",
+    "form_id": "070000CB|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Disorient",
+    "string": "迷失方向法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_Disorient_silver",
+    "form_id": "070000CC|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Disorient",
+    "string": "迷失方向法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_Disorient_steel",
+    "form_id": "070000CD|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Disorient",
+    "string": "迷失方向法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_Disorient_wood1",
+    "form_id": "070000CE|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Disorient",
+    "string": "迷失方向法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_Disorient_wood2",
+    "form_id": "070000CF|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Disorient",
+    "string": "迷失方向法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_PhantomRabbit_daedric",
+    "form_id": "070000D0|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of the Phantom Rabbit",
+    "string": "幻影兔法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_PhantomRabbit_dreugh",
+    "form_id": "070000D1|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of the Phantom Rabbit",
+    "string": "幻影兔法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_FamiliarWolf_ebony",
+    "form_id": "07000323|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of the Direwolf Familiar",
+    "string": "使魔法杖-冰原狼-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_PhantomRabbit_ebony",
+    "form_id": "070000D3|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of the Phantom Rabbit",
+    "string": "幻影兔法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_PhantomRabbit_silver",
+    "form_id": "070000D4|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of the Phantom Rabbit",
+    "string": "幻影兔法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_PhantomRabbit_steel",
+    "form_id": "070000D5|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of the Phantom Rabbit",
+    "string": "幻影兔法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_PhantomRabbit_wood1",
+    "form_id": "070000D6|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Phantom Rabbit",
+    "string": "幻影兔法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL00_PhantomRabbit_wood2",
+    "form_id": "070000D7|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Phantom Rabbit",
+    "string": "幻影兔法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_AlluringWhispers_daedric",
+    "form_id": "070000D8|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Alluring Whispers",
+    "string": "引诱耳语法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_AlluringWhispers_dreugh",
+    "form_id": "070000D9|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Alluring Whispers",
+    "string": "引诱耳语法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_AlluringWhispers_ebony",
+    "form_id": "070000DA|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Alluring Whispers",
+    "string": "引诱耳语法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_AlluringWhispers_glass",
+    "form_id": "070000DB|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Alluring Whispers",
+    "string": "引诱耳语法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_AlluringWhispers_silver",
+    "form_id": "070000DC|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Alluring Whispers",
+    "string": "引诱耳语法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_AlluringWhispers_steel",
+    "form_id": "070000DD|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Alluring Whispers",
+    "string": "引诱耳语法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_AlluringWhispers_wood1",
+    "form_id": "070000DE|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Alluring Whispers",
+    "string": "引诱耳语法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_AlluringWhispers_wood2",
+    "form_id": "070000DF|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Alluring Whispers",
+    "string": "引诱耳语法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PhantomMudcrab_daedric",
+    "form_id": "070000E0|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of the Phantom Mudcrab",
+    "string": "幻影泥沼蟹法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PhantomMudcrab_dreugh",
+    "form_id": "070000E1|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of the Phantom Mudcrab",
+    "string": "幻影泥沼蟹法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PhantomMudcrab_ebony",
+    "form_id": "070000E2|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of the Phantom Mudcrab",
+    "string": "幻影泥沼蟹法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PhantomMudcrab_glass",
+    "form_id": "070000E3|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of the Phantom Mudcrab",
+    "string": "幻影泥沼蟹法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PhantomMudcrab_silver",
+    "form_id": "070000E4|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of the Phantom Mudcrab",
+    "string": "幻影泥沼蟹法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PhantomMudcrab_steel",
+    "form_id": "070000E5|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of the Phantom Mudcrab",
+    "string": "幻影泥沼蟹法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PhantomMudcrab_wood1",
+    "form_id": "070000E6|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Phantom Mudcrab",
+    "string": "幻影泥沼蟹法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PhantomMudcrab_wood2",
+    "form_id": "070000E7|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Phantom Mudcrab",
+    "string": "幻影泥沼蟹法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PsychicPain_daedric",
+    "form_id": "070000E8|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Psychic Pain",
+    "string": "心灵之痛法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PsychicPain_dreugh",
+    "form_id": "070000E9|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Psychic Pain",
+    "string": "心灵之痛法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PsychicPain_ebony",
+    "form_id": "070000EA|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Psychic Pain",
+    "string": "心灵之痛法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PsychicPain_glass",
+    "form_id": "070000EB|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Psychic Pain",
+    "string": "心灵之痛法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PsychicPain_silver",
+    "form_id": "070000EC|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Psychic Pain",
+    "string": "心灵之痛法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PsychicPain_steel",
+    "form_id": "070000ED|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Psychic Pain",
+    "string": "心灵之痛法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PsychicPain_wood",
+    "form_id": "070000EE|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Psychic Pain",
+    "string": "心灵之痛法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL25_PsychicPain_wood2",
+    "form_id": "070000EF|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Psychic Pain",
+    "string": "心灵之痛法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Ensnare_daedric",
+    "form_id": "070000F0|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Ensnaring",
+    "string": "诱捕法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Ensnare_ebony",
+    "form_id": "070000F1|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Ensnaring",
+    "string": "诱捕法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Ensnare_dreugh",
+    "form_id": "070000F2|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Ensnaring",
+    "string": "诱捕法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Ensnare_glass",
+    "form_id": "070000F3|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Ensnaring",
+    "string": "诱捕法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Ensnare_silver",
+    "form_id": "070000F4|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Ensnaring",
+    "string": "诱捕法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Ensnare_steel",
+    "form_id": "070000F5|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Ensnaring",
+    "string": "诱捕法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Ensnare_wood1",
+    "form_id": "070000F6|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Ensnaring",
+    "string": "诱捕法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Ensnare_wood2",
+    "form_id": "070000F7|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Ensnaring",
+    "string": "诱捕法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Exhaust_daedric",
+    "form_id": "070000F8|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Exhaustion",
+    "string": "疲惫法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Exhaust_dreugh",
+    "form_id": "070000F9|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Exhaustion",
+    "string": "疲惫法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Exhaust_ebony",
+    "form_id": "070000FA|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Exhaustion",
+    "string": "疲惫法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Exhaust_glass",
+    "form_id": "070000FB|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Exhaustion",
+    "string": "疲惫法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Exhaust_silver",
+    "form_id": "070000FC|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Exhaustion",
+    "string": "疲惫法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Exhaust_steel",
+    "form_id": "070000FD|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Exhaustion",
+    "string": "疲惫法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Exhaust_wood1",
+    "form_id": "070000FE|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Exhaustion",
+    "string": "疲惫法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Exhaust_wood2",
+    "form_id": "070000FF|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Exhaustion",
+    "string": "疲惫法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_PhantomTreasure_daedric",
+    "form_id": "07000100|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Phantom Treasure",
+    "string": "幻影宝藏法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_PhantomTreasure_dreugh",
+    "form_id": "07000101|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Phantom Treasure",
+    "string": "幻影宝藏法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_PhantomTreasure_ebony",
+    "form_id": "07000102|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Phantom Treasure",
+    "string": "幻影宝藏法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_PhantomTreasure_glass",
+    "form_id": "07000103|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Phantom Treasure",
+    "string": "幻影宝藏法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_PhantomTreasure_silver",
+    "form_id": "07000104|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Phantom Treasure",
+    "string": "幻影宝藏法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_PhantomTreasure_steel",
+    "form_id": "07000105|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Phantom Treasure",
+    "string": "幻影宝藏法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_PhantomTreasure_wood1",
+    "form_id": "07000106|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Phantom Treasure",
+    "string": "幻影宝藏法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_PhantomTreasure_wood2",
+    "form_id": "07000107|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Phantom Treasure",
+    "string": "幻影宝藏法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Silence_daedric",
+    "form_id": "07000108|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Silencing",
+    "string": "沉默法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Silence_dreugh",
+    "form_id": "07000109|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Silencing",
+    "string": "沉默法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Silence_ebony",
+    "form_id": "0700010A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Silencing",
+    "string": "沉默法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Silence_glass",
+    "form_id": "0700010B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Silencing",
+    "string": "沉默法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Silence_silver",
+    "form_id": "0700010C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Silencing",
+    "string": "沉默法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Silence_steel",
+    "form_id": "0700010D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Silencing",
+    "string": "沉默法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Silence_wood1",
+    "form_id": "0700010E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Silencing",
+    "string": "沉默法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL50_Silence_wood2",
+    "form_id": "0700010F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Silencing",
+    "string": "沉默法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL75_PhantomDecoy_daedric",
+    "form_id": "07000110|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of the Phantom Decoy",
+    "string": "幻影诱饵法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL75_PhantomDecoy_dreugh",
+    "form_id": "07000111|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of the Phantom Decoy",
+    "string": "幻影诱饵法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL75_PhantomDecoy_ebony",
+    "form_id": "07000112|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of the Phantom Decoy",
+    "string": "幻影诱饵法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL75_PhantomDecoy_glass",
+    "form_id": "07000113|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of the Phantom Decoy",
+    "string": "幻影诱饵法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL75_PhantomDecoy_silver",
+    "form_id": "07000114|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of the Phantom Decoy",
+    "string": "幻影诱饵法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL75_PhantomDecoy_steel",
+    "form_id": "07000115|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of the Phantom Decoy",
+    "string": "幻影诱饵法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL75_PhantomDecoy_wood1",
+    "form_id": "07000116|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Phantom Decoy",
+    "string": "幻影诱饵法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_ILL75_PhantomDecoy_wood2",
+    "form_id": "07000117|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Phantom Decoy",
+    "string": "幻影诱饵法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_BlackSwarm_daedric",
+    "form_id": "07000118|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Black Swarm",
+    "string": "黑色虫群法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_BlackSwarm_dreugh",
+    "form_id": "07000119|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Black Swarm",
+    "string": "黑色虫群法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_BlackSwarm_ebony",
+    "form_id": "0700011A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Black Swarm",
+    "string": "黑色虫群法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_BlackSwarm_glass",
+    "form_id": "0700011B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Black Swarm",
+    "string": "黑色虫群法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_BlackSwarm_silver",
+    "form_id": "0700011C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Black Swarm",
+    "string": "黑色虫群法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_BlackSwarm_steel",
+    "form_id": "0700011D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Black Swarm",
+    "string": "黑色虫群法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_BlackSwarm_wood1",
+    "form_id": "0700011E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Black Swarm",
+    "string": "黑色虫群法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_BlackSwarm_wood2",
+    "form_id": "0700011F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Black Swarm",
+    "string": "黑色虫群法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_PoisonSeed_daedric",
+    "form_id": "07000120|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Poison Seed",
+    "string": "毒素之种法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_PoisonSeed_dreugh",
+    "form_id": "07000121|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Poison Seed",
+    "string": "毒素之种法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_PoisonSeed_ebony",
+    "form_id": "07000122|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Poison Seed",
+    "string": "毒素之种法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_PoisonSeed_glass",
+    "form_id": "07000123|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Poison Seed",
+    "string": "毒素之种法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_PoisonSeed_silver",
+    "form_id": "07000124|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Poison Seed",
+    "string": "毒素之种法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_PoisonSeed_steel",
+    "form_id": "07000125|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Poison Seed",
+    "string": "毒素之种法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_PoisonSeed_wood1",
+    "form_id": "07000126|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Poison Seed",
+    "string": "毒素之种法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_PoisonSeed_wood2",
+    "form_id": "07000127|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Poison Seed",
+    "string": "毒素之种法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_RayOfLight_daedric",
+    "form_id": "07000128|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Sunlight",
+    "string": "阳光法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_RayOfLight_dreugh",
+    "form_id": "07000129|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Sunlight",
+    "string": "阳光法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_RayOfLight_ebony",
+    "form_id": "0700012A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Sunlight",
+    "string": "阳光法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_RayOfLight_glass",
+    "form_id": "0700012B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Sunlight",
+    "string": "阳光法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_RayOfLight_silver",
+    "form_id": "0700012C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Sunlight",
+    "string": "阳光法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_RayOfLight_steel",
+    "form_id": "0700012D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Sunlight",
+    "string": "阳光法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_RayOfLight_wood",
+    "form_id": "0700012E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Sunlight",
+    "string": "阳光法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES00_RayOfLight_wood2",
+    "form_id": "0700012F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Sunlight",
+    "string": "阳光法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ArcaneHealing_daedric",
+    "form_id": "07000130|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Arcanic Healing",
+    "string": "奥术治疗法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ArcaneHealing_dreugh",
+    "form_id": "07000131|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Arcanic Healing",
+    "string": "奥术治疗法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ArcaneHealing_ebony",
+    "form_id": "07000132|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Arcanic Healing",
+    "string": "奥术治疗法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ArcaneHealing_glass",
+    "form_id": "07000133|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Arcanic Healing",
+    "string": "奥术治疗法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ArcaneHealing_silver",
+    "form_id": "07000134|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Arcanic Healing",
+    "string": "奥术治疗法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ArcaneHealing_steel",
+    "form_id": "07000135|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Arcanic Healing",
+    "string": "奥术治疗法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ArcaneHealing_wood1",
+    "form_id": "07000136|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Arcanic Healing",
+    "string": "奥术治疗法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ArcaneHealing_wood2",
+    "form_id": "07000137|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Arcanic Healing",
+    "string": "奥术治疗法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_DivineBenediction_daedric",
+    "form_id": "07000138|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Divine Benediction",
+    "string": "神圣祝福法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_DivineBenediction_dreugh",
+    "form_id": "07000139|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Divine Benediction",
+    "string": "神圣祝福法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_DivineBenediction_ebony",
+    "form_id": "0700013A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Divine Benediction",
+    "string": "神圣祝福法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_DivineBenediction_glass",
+    "form_id": "0700013B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Divine Benediction",
+    "string": "神圣祝福法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_DivineBenediction_silver",
+    "form_id": "0700013C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Divine Benediction",
+    "string": "神圣祝福法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_DivineBenediction_steel",
+    "form_id": "0700013D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Divine Benediction",
+    "string": "神圣祝福法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_DivineBenediction_wood1",
+    "form_id": "0700013E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Divine Benediction",
+    "string": "神圣祝福法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_DivineBenediction_wood2",
+    "form_id": "0700013F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Divine Benediction",
+    "string": "神圣祝福法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ScaledCocoon_daedric",
+    "form_id": "07000140|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Scaled Cocoon",
+    "string": "鳞片之茧法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ScaledCocoon_dreugh",
+    "form_id": "07000141|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Scaled Cocoon",
+    "string": "鳞片之茧法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ScaledCocoon_ebony",
+    "form_id": "07000142|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Scaled Cocoon",
+    "string": "鳞片之茧法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ScaledCocoon_glass",
+    "form_id": "07000143|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Scaled Cocoon",
+    "string": "鳞片之茧法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ScaledCocoon_silver",
+    "form_id": "07000144|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Scaled Cocoon",
+    "string": "鳞片之茧法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ScaledCocoon_steel",
+    "form_id": "07000145|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Scaled Cocoon",
+    "string": "鳞片之茧法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ScaledCocoon_wood1",
+    "form_id": "07000146|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Scaled Cocoon",
+    "string": "鳞片之茧法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_ScaledCocoon_wood2",
+    "form_id": "07000147|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Scaled Cocoon",
+    "string": "鳞片之茧法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_WildGrowth_daedric",
+    "form_id": "07000148|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Wild Growth",
+    "string": "野蛮生长法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_WildGrowth_dreugh",
+    "form_id": "07000149|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Wild Growth",
+    "string": "野蛮生长法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_WildGrowth_ebony",
+    "form_id": "0700014A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Wild Growth",
+    "string": "野蛮生长法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_WildGrowth_glass",
+    "form_id": "0700014B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Wild Growth",
+    "string": "野蛮生长法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_WildGrowth_silver",
+    "form_id": "0700014C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Wild Growth",
+    "string": "野蛮生长法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_WildGrowth_steel",
+    "form_id": "0700014D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Wild Growth",
+    "string": "野蛮生长法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_WildGrowth_wood1",
+    "form_id": "0700014E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Wild Growth",
+    "string": "野蛮生长法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES25_WildGrowth_wood2",
+    "form_id": "0700014F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Wild Growth",
+    "string": "野蛮生长法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_DivineAegis_daedric",
+    "form_id": "07000150|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Divine Aegis",
+    "string": "神圣庇护法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_DivineAegis_dreugh",
+    "form_id": "07000151|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Divine Aegis",
+    "string": "神圣庇护法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_DivineAegis_ebony",
+    "form_id": "07000152|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Divine Aegis",
+    "string": "神圣庇护法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_DivineAegis_glass",
+    "form_id": "07000153|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Divine Aegis",
+    "string": "神圣庇护法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_DivineAegis_silver",
+    "form_id": "07000154|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Divine Aegis",
+    "string": "神圣庇护法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_DivineAegis_steel",
+    "form_id": "07000155|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Divine Aegis",
+    "string": "神圣庇护法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_DivineAegis_wood1",
+    "form_id": "07000156|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Divine Aegis",
+    "string": "神圣庇护法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_DivineAegis_wood2",
+    "form_id": "07000157|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Divine Aegis",
+    "string": "神圣庇护法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_HealArcane_daedric",
+    "form_id": "07000158|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Heal Arcane",
+    "string": "治疗奥术法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_HealArcane_dreugh",
+    "form_id": "07000159|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Heal Arcane",
+    "string": "治疗奥术法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_HealArcane_ebony",
+    "form_id": "0700015A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Heal Arcane",
+    "string": "治疗奥术法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_HealArcane_glass",
+    "form_id": "0700015B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Heal Arcane",
+    "string": "治疗奥术法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_HealArcane_silver",
+    "form_id": "0700015C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Heal Arcane",
+    "string": "治疗奥术法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_HealArcane_steel",
+    "form_id": "0700015D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Heal Arcane",
+    "string": "治疗奥术法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_HealArcane_wood1",
+    "form_id": "0700015E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Heal Arcane",
+    "string": "治疗奥术法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_HealArcane_wood2",
+    "form_id": "0700015F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Heal Arcane",
+    "string": "治疗奥术法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_SplitLifeforce_daedric",
+    "form_id": "07000160|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Split Lifeforce",
+    "string": "生命平分法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_SplitLifeforce_dreugh",
+    "form_id": "07000161|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Split Lifeforce",
+    "string": "生命平分法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_SplitLifeforce_ebony",
+    "form_id": "07000162|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Split Lifeforce",
+    "string": "生命平分法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_SplitLifeforce_glass",
+    "form_id": "07000163|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Split Lifeforce",
+    "string": "生命平分法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_SplitLifeforce_silver",
+    "form_id": "07000164|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Split Lifeforce",
+    "string": "生命平分法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_SplitLifeforce_steel",
+    "form_id": "07000165|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Split Lifeforce",
+    "string": "生命平分法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_SplitLifeforce_wood1",
+    "form_id": "07000166|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Split Lifeforce",
+    "string": "生命平分法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_SplitLifeforce_wood2",
+    "form_id": "07000167|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Split Lifeforce",
+    "string": "生命平分法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_WebbedCocoon_daedric",
+    "form_id": "07000168|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Webbed Cocoon",
+    "string": "蛛网之茧法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_WebbedCocoon_dreugh",
+    "form_id": "07000169|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Webbed Cocoon",
+    "string": "蛛网之茧法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_WebbedCocoon_ebony",
+    "form_id": "0700016A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Webbed Cocoon",
+    "string": "蛛网之茧法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_WebbedCocoon_glass",
+    "form_id": "0700016B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Webbed Cocoon",
+    "string": "蛛网之茧法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_WebbedCocoon_silver",
+    "form_id": "0700016C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Webbed Cocoon",
+    "string": "蛛网之茧法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_WebbedCocoon_steel",
+    "form_id": "0700016D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Webbed Cocoon",
+    "string": "蛛网之茧法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_WebbedCocoon_wood1",
+    "form_id": "0700016E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Webbed Cocoon",
+    "string": "蛛网之茧法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES50_WebbedCocoon_wood2",
+    "form_id": "0700016F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Webbed Cocoon",
+    "string": "蛛网之茧法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_DivineGuardian_daedric",
+    "form_id": "07000170|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Divine Guardian",
+    "string": "神圣守卫法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_DivineGuardian_dreugh",
+    "form_id": "07000171|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Divine Guardian",
+    "string": "神圣守卫法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_DivineGuardian_ebony",
+    "form_id": "07000172|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Divine Guardian",
+    "string": "神圣守卫法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_DivineGuardian_glass",
+    "form_id": "07000173|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Divine Guardian",
+    "string": "神圣守卫法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_DivineGuardian_silver",
+    "form_id": "07000174|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Divine Guardian",
+    "string": "神圣守卫法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_DivineGuardian_steel",
+    "form_id": "07000175|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Divine Guardian",
+    "string": "神圣守卫法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_DivineGuardian_wood1",
+    "form_id": "07000176|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Divine Guardian",
+    "string": "神圣守卫法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_DivineGuardian_wood2",
+    "form_id": "07000177|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Divine Guardian",
+    "string": "神圣守卫法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_ExchangeLifeforce_daedric",
+    "form_id": "07000178|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Exchange Lifeforce",
+    "string": "生命交换法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_ExchangeLifeforce_dreugh",
+    "form_id": "07000179|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Exchange Lifeforce",
+    "string": "生命交换法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_ExchangeLifeforce_ebony",
+    "form_id": "0700017A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Exchange Lifeforce",
+    "string": "生命交换法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_ExchangeLifeforce_glass",
+    "form_id": "0700017B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Exchange Lifeforce",
+    "string": "生命交换法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_ExchangeLifeforce_silver",
+    "form_id": "0700017C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Exchange Lifeforce",
+    "string": "生命交换法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_ExchangeLifeforce_steel",
+    "form_id": "0700017D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Exchange Lifeforce",
+    "string": "生命交换法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_ExchangeLifeforce_wood1",
+    "form_id": "0700017E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Exchange Lifeforce",
+    "string": "生命交换法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_ExchangeLifeforce_wood2",
+    "form_id": "0700017F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Exchange Lifeforce",
+    "string": "生命交换法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_HorridAffliction_daedric",
+    "form_id": "07000180|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Horrid Affliction",
+    "string": "可怖痛楚法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_HorridAffliction_dreugh",
+    "form_id": "07000181|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Horrid Affliction",
+    "string": "可怖痛楚法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_HorridAffliction_ebony",
+    "form_id": "07000182|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Horrid Affliction",
+    "string": "可怖痛楚法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_HorridAffliction_glass",
+    "form_id": "07000183|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Horrid Affliction",
+    "string": "可怖痛楚法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_HorridAffliction_silver",
+    "form_id": "07000184|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Horrid Affliction",
+    "string": "可怖痛楚法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_HorridAffliction_steel",
+    "form_id": "07000185|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Horrid Affliction",
+    "string": "可怖痛楚法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_HorridAffliction_wood",
+    "form_id": "07000186|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Horrid Affliction",
+    "string": "可怖痛楚法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_HorridAffliction_wood2",
+    "form_id": "07000187|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Horrid Affliction",
+    "string": "可怖痛楚法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_PoisonBolt_daedric",
+    "form_id": "07000188|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Poison Bolt",
+    "string": "毒素箭法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_PoisonBolt_dreugh",
+    "form_id": "07000189|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Poison Bolt",
+    "string": "毒素箭法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_PoisonBolt_ebony",
+    "form_id": "0700018A|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Poison Bolt",
+    "string": "毒素箭法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_PoisonBolt_glass",
+    "form_id": "0700018B|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Poison Bolt",
+    "string": "毒素箭法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_PoisonBolt_silver",
+    "form_id": "0700018C|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Poison Bolt",
+    "string": "毒素箭法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_PoisonBolt_steel",
+    "form_id": "0700018D|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Poison Bolt",
+    "string": "毒素箭法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_PoisonBolt_wood1",
+    "form_id": "0700018E|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Poison Bolt",
+    "string": "毒素箭法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_PoisonBolt_wood2",
+    "form_id": "0700018F|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Poison Bolt",
+    "string": "毒素箭法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_WallOfLight_daedric",
+    "form_id": "07000190|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of Sunlight Wall",
+    "string": "光墙法杖-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_WallOfLight_dreugh",
+    "form_id": "07000191|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of Sunlight Wall",
+    "string": "光墙法杖-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_WallOfLight_ebony",
+    "form_id": "07000192|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Staff of Sunlight Wall",
+    "string": "光墙法杖-黑檀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_WallOfLight_glass",
+    "form_id": "07000193|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of Sunlight Wall",
+    "string": "光墙法杖-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_WallOfLight_silver",
+    "form_id": "07000194|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of Sunlight Wall",
+    "string": "光墙法杖-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_WallOfLight_steel",
+    "form_id": "07000195|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of Sunlight Wall",
+    "string": "光墙法杖-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_WallOfLight_wood1",
+    "form_id": "07000196|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Sunlight Wall",
+    "string": "光墙法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_RES75_WallOfLight_wood2",
+    "form_id": "07000197|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of Sunlight Wall",
+    "string": "光墙法杖-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_FamiliarWolf_daedric",
+    "form_id": "07000321|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Staff of the Direwolf Familiar",
+    "string": "使魔法杖-冰原狼-迪德拉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_FamiliarWolf_dreugh",
+    "form_id": "07000322|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreugh Staff of the Direwolf Familiar",
+    "string": "使魔法杖-冰原狼-蟹灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_FamiliarWolf_glass",
+    "form_id": "07000324|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Staff of the Direwolf Familiar",
+    "string": "使魔法杖-冰原狼-玻璃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_FamiliarWolf_silver",
+    "form_id": "07000325|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Silver Staff of the Direwolf Familiar",
+    "string": "使魔法杖-冰原狼-银制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_FamiliarWolf_steel",
+    "form_id": "07000326|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Staff of the Direwolf Familiar",
+    "string": "使魔法杖-冰原狼-钢制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_FamiliarWolf_wood1",
+    "form_id": "07000327|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Direwolf Familiar",
+    "string": "使魔法杖-冰原狼-木制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_Staff_CON00_FamiliarWolf_wood2",
+    "form_id": "07000328|LostGrimoire-CCStaves-Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Wooden Staff of the Direwolf Familiar",
+    "string": "使魔法杖-冰原狼-木制",
+    "status": "TranslationComplete"
+  }
+]

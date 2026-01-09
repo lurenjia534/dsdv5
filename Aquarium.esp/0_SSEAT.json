@@ -1,0 +1,4061 @@
+[
+  {
+    "editor_id": "000ElysianBotRace",
+    "form_id": "0514F17C|Aquarium.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Ice Wraith",
+    "string": "冰怨灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweWorkerRace",
+    "form_id": "05092561|Aquarium.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Elysian",
+    "string": "净土居民",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweBoss",
+    "form_id": "0508307A|Aquarium.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Giant",
+    "string": "巨人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CthulhuRace",
+    "form_id": "052AEE86|Aquarium.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Gargoyle",
+    "string": "石像鬼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianRace",
+    "form_id": "0513AD2A|Aquarium.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Elysian",
+    "string": "净土居民",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssBeastRace",
+    "form_id": "0541DA0B|Aquarium.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Werewolf",
+    "string": "狼人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000FireGuardianRace",
+    "form_id": "054D9903|Aquarium.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "FireGuardian",
+    "string": "火焰守卫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ScrapElysianRace",
+    "form_id": "054DEA13|Aquarium.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Falmer",
+    "string": "伐莫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CultistRace",
+    "form_id": "054EDD25|Aquarium.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Draugr",
+    "string": "尸鬼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DwemerRace",
+    "form_id": "05507242|Aquarium.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dwemer",
+    "string": "锻莫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000EffSummonElysianAtronachNPC",
+    "form_id": "0522AD75|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Elysian Atronach",
+    "string": "召唤净土侍灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000EffSummonElysianAtronachNPC",
+    "form_id": "0522AD75|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a Storm Atronach for <dur> seconds wherever the caster is pointing.",
+    "string": "在施法者所指之处召唤一个风暴元素，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000TeleportAquariumEfffect",
+    "form_id": "053D6068|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "R'lyend Bond",
+    "string": "拉莱耶纽带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000TeleportAquariumEfffect",
+    "form_id": "053D6068|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Teleport to R'lyend Aquarium.",
+    "string": "传送至拉莱耶水族馆。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianChampionShieldEffect",
+    "form_id": "053DB172|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ward - Deflection",
+    "string": "结界 - 偏转",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianChampionShieldEffect",
+    "form_id": "053DB172|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "While blocking, creates a ward that protects against spells for up to <mag> points.",
+    "string": "防御时，制造一个结界，可以抵挡<mag>点魔法伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianCommandAutomatons",
+    "form_id": "053DB16F|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Command Automaton",
+    "string": "号令自动机械",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianCommandAutomatons",
+    "form_id": "053DB16F|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Make an automaton an ally for <dur> seconds.",
+    "string": "使一个自动机械成为你的盟友，持续<dur>秒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000PoisonFFContactEffect",
+    "form_id": "053EA587|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000PoisonFFContactEffect",
+    "form_id": "053EA587|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Causes <mag> points of poison damage for <dur> seconds.",
+    "string": "每秒减损目标<mag>点生命，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000StaggerAttackAreaEffect",
+    "form_id": "053FF057|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Stagger Area Attack",
+    "string": "交错范围攻击",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianExplosionFFContactEffect",
+    "form_id": "053FF053|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Elysian Damage",
+    "string": "净土伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianExplosionFFContactEffect",
+    "form_id": "053FF053|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Releases a explosion that does <mag> points of magic damage to Health and Magicka in a large area.",
+    "string": "释放一次爆炸，在大范围内对生命和魔力造成<mag>点魔法伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DamageRegenFFContactEffect",
+    "form_id": "05409579|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Regenaration Damage",
+    "string": "再生损害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DamageRegenFFContactEffect",
+    "form_id": "05409579|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Magicka and Stamina doesn't regenerate for <dur> seconds.",
+    "string": "在<dur>秒内魔力与耐力无法再生",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000FearMaskCloak",
+    "form_id": "05413835|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Feae",
+    "string": "恐惧术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000FearMaskCloak",
+    "form_id": "05413835|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Enemy creatures and people within <mag> feet have a chance to flee from combat.",
+    "string": "在<mag>范围内的敌对目标有几率从战斗中逃跑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000FearMaskEffect",
+    "form_id": "05413834|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Feae",
+    "string": "恐惧术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000FearMaskEffect",
+    "form_id": "05413834|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Enemy creatures and people within <mag> feet have a chance to flee from combat.",
+    "string": "在<mag>范围内的敌对目标有几率从战斗中逃跑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SceptreEffect",
+    "form_id": "054F7F36|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Sceptre",
+    "string": "权杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SceptreEffect",
+    "form_id": "054F7F36|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Target takes <mag> points of shock damage per second to Health, and half that to Magicka.",
+    "string": "目标生命受到每秒<mag>点闪电伤害，并减损伤害值一半的法力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000EffSummonElysianAtronachPlayer",
+    "form_id": "05234FDE|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Elysian Atronach",
+    "string": "召唤净土侍灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000EffSummonElysianAtronachPlayer",
+    "form_id": "05234FDE|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a Elysian Atronach for <dur> seconds wherever the caster is pointing.",
+    "string": "在召唤者所指的地方召唤一个净土侍灵，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianInvisibility",
+    "form_id": "0543C2FD|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "ElysianInvisibility",
+    "string": "净土居民无敌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianInvisibility",
+    "form_id": "0543C2FD|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Target is invisible for <dur> seconds. Activating an object or attacking will break the spell.",
+    "string": "目标隐形，持续<dur>秒。期间任何与物体的互动及攻击行为都会打破隐形状态。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000EnchSummonElysianAtronach",
+    "form_id": "0523A10B|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Elysian Atronach",
+    "string": "召唤净土侍灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000EnchSummonElysianAtronach",
+    "form_id": "0523A10B|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a Elysian Atronach for <dur> seconds wherever the caster is pointing.",
+    "string": "在召唤者所指的地方召唤一个净土侍灵，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SpectralDamageFFContact",
+    "form_id": "0557BBFF|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag> points of extra damage which ignores armor.",
+    "string": "造成<mag>点无视护甲的额外伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000EffSummonDwemerSpiderNPC",
+    "form_id": "0557BC06|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Dwemer Spider",
+    "string": "召唤锻莫蜘蛛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000EffSummonDwemerSpiderNPC",
+    "form_id": "0557BC06|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a Dwarven Spider for <dur> seconds wherever the caster is pointing.",
+    "string": "在施法者所指之处召唤一只矮人蜘蛛，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianSteamBreathEffect",
+    "form_id": "0559516D|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Elysian Steam breath",
+    "string": "净土蒸汽吐息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GreenFireDamageConcAimed",
+    "form_id": "05689C0E|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Apocrypha Fire",
+    "string": "异典烈焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GreenFireDamageConcAimed",
+    "form_id": "05689C0E|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A gout of fire that does <mag> points of damage to Health and Stamina per second.",
+    "string": "释放一股火焰，每秒对生命和耐力造成<mag>点伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweSpellbreakerwardEffect",
+    "form_id": "054A1E82|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Magnetic Ward",
+    "string": "磁力结界",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweSpellbreakerwardEffect",
+    "form_id": "054A1E82|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "While blocking, creates a ward that protects against spells for up to <mag> points.",
+    "string": "防御时，制造一个结界，可以抵挡<mag>点魔法伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianBeamDamage",
+    "form_id": "0514F19A|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "ElysianBeam",
+    "string": "净土光束",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianBeamDamage",
+    "form_id": "0514F19A|Aquarium.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Energy beam that does <mag> points of shock damage to Health and Magicka per second.",
+    "string": "释放能量光束，每秒对生命和魔力造成<dur>点闪电伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SceptreEnchantment",
+    "form_id": "054F7F37|Aquarium.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Sceptre of The Architect",
+    "string": "造设者权杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000PoisonWeapEnch",
+    "form_id": "053EA585|Aquarium.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianChampionShieldEnch",
+    "form_id": "053DB173|Aquarium.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Ward Elysian",
+    "string": "净土结界",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000StaffEnchConjureAtronachElysian",
+    "form_id": "0523A109|Aquarium.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Conjure Elysian Atronach",
+    "string": "召唤净土侍灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000EnchSailorArmorResist",
+    "form_id": "0556D0BE|Aquarium.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Sailor Protection",
+    "string": "航海家之庇佑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EnchFierySouls",
+    "form_id": "00040003|Skyrim.esm",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Fiery Soul Trap",
+    "string": "炽烈的摄魂陷阱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000RitualDaggerEnch",
+    "form_id": "05413832|Aquarium.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Absorb Health",
+    "string": "吸取生命",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000MaskEnch",
+    "form_id": "05413838|Aquarium.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Fear",
+    "string": "恐惧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweSpellBreakerEnch",
+    "form_id": "054A1E83|Aquarium.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Magnetic Ward",
+    "string": "磁力结界",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SpectralEnchantment",
+    "form_id": "0557BC02|Aquarium.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Spectral Damage",
+    "string": "魂灵伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianBladeEnch",
+    "form_id": "053FF055|Aquarium.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Elysian Explosion",
+    "string": "净土爆炸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000PowerElysianCommandAutomatons",
+    "form_id": "053DB16C|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Command Automaton",
+    "string": "号令自动机械",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ConjureElysianAtronachRightHand",
+    "form_id": "0522AD76|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Elysian Atronach",
+    "string": "召唤净土侍灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ConjureElysianAtronach",
+    "form_id": "0522FED9|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Elysian Atronach",
+    "string": "召唤净土侍灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000TeleportPower",
+    "form_id": "053D6078|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "R'lyend Bond",
+    "string": "拉莱耶纽带",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbFireGuardian",
+    "form_id": "053E52DC|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "FireGuardian Resistances",
+    "string": "火焰守卫能力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbSkeletonRlyend",
+    "form_id": "0540E6CA|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Skeleton Abilities",
+    "string": "骷髅能力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000FearInfluence",
+    "form_id": "05413836|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fear",
+    "string": "恐惧术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000NightmareSpell",
+    "form_id": "055FB291|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Abyss Nightmare",
+    "string": "深渊梦魇",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GreenFlamesLeftHand",
+    "form_id": "05689C09|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Apocrypha Fire",
+    "string": "异典烈焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GreenFlamesRightHand",
+    "form_id": "05689C0B|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Apocrypha Fire",
+    "string": "异典烈焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianInvisibilitySpell",
+    "form_id": "0543C2FE|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Elysian Invisibility",
+    "string": "净土居民无敌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbAbyssRace",
+    "form_id": "0541DA0C|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Abyss Abilities",
+    "string": "深渊能力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GreenHazardFireSpell",
+    "form_id": "05689C1F|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Green Fire",
+    "string": "幽绿烈焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ConjureDwemerSpiderLeftHand",
+    "form_id": "0557BC03|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Dwemer Spider",
+    "string": "召唤锻莫蜘蛛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GreenFlames",
+    "form_id": "05689C07|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Apocrypha Fire",
+    "string": "异典烈焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianBreathSpell",
+    "form_id": "0559516E|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Elysian Breath",
+    "string": "净土气息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianBeamLeftHand",
+    "form_id": "0514F198|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Elysian Beam",
+    "string": "净土光束",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianBeam",
+    "form_id": "0514F19D|Aquarium.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Elysian Beam",
+    "string": "净土光束",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CritterFairy",
+    "form_id": "0545B03A|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Elysian Fairy",
+    "string": "净土仙灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CritterFairy",
+    "form_id": "0545B03A|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Catch",
+    "string": "捕捉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000NautilusTeleport",
+    "form_id": "05111E01|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Nautilus",
+    "string": "鹦鹉螺号",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ControlPedestal",
+    "form_id": "0548DCB6|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Control Pedestal",
+    "string": "控制台座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweButton",
+    "form_id": "051B0872|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Button",
+    "string": "按钮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ControlHousePedestal",
+    "form_id": "055C3511|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Control Pedestal",
+    "string": "控制台座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweButtonSmall02",
+    "form_id": "055D71B9|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Button",
+    "string": "按钮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweDynamoTrigger",
+    "form_id": "055FB26D|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Dynamo Generator",
+    "string": "发电机",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000PortalPedestal01",
+    "form_id": "05647D5A|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Statue Pedestal",
+    "string": "雕像基座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000PortalPedestal02",
+    "form_id": "05647D5B|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Statue Pedestal",
+    "string": "雕像基座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000WaterActivaror",
+    "form_id": "0567A89E|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Water Activator",
+    "string": "水源启动器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CrystalControl",
+    "form_id": "05684ACC|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "R'lyend Prismal Engine",
+    "string": "拉莱耶棱镜引擎",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000RingControl",
+    "form_id": "05684AC2|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Architect Lock Mechanism",
+    "string": "造设者机制锁定",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweButtonSmall01",
+    "form_id": "055D71B8|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Button",
+    "string": "按钮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianArt01TRIGGER",
+    "form_id": "052B90B7|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Elysian Art Display",
+    "string": "净土艺术展示",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianArt01TRIGGER",
+    "form_id": "052B90B7|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Use",
+    "string": "使用",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweButtonRed",
+    "form_id": "053EF737|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Button",
+    "string": "按钮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DwePipeValveActivator",
+    "form_id": "05525957|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Valve",
+    "string": "阀门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000MonsterArt01TRIGGER",
+    "form_id": "053B755D|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Statue Pedestal",
+    "string": "雕像基座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000MonsterArt01TRIGGER",
+    "form_id": "053B755D|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Use",
+    "string": "使用",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ControlQSTPedestal",
+    "form_id": "054DEE7F|Aquarium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Control Pedestal",
+    "string": "控制台座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EvilSoulTalkingActivator",
+    "form_id": "05530373|Aquarium.esp",
+    "index": 1,
+    "type": "TACT FULL",
+    "original": "The Abyss",
+    "string": "深渊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DwemerSoulTalkingActivator",
+    "form_id": "054C5A4F|Aquarium.esp",
+    "index": 1,
+    "type": "TACT FULL",
+    "original": "Elysian Sphere",
+    "string": "净土",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorAquariumBoots",
+    "form_id": "051C9DE3|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Ancient Boots of R'lyend",
+    "string": "远古拉莱耶战靴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorAquariumShield",
+    "form_id": "051F2965|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Ancient Shield of R'lyend",
+    "string": "远古拉莱耶盾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ArmorElysianFriendlyShield",
+    "form_id": "0556775B|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Elysian Shield",
+    "string": "净土盾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000RlyendRingON",
+    "form_id": "053D6067|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Ring of R'lyend",
+    "string": "拉莱耶指环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000RlyendRingON",
+    "form_id": "053D6067|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Gives the power to teleport to R'lyend's quarters.",
+    "string": "赋予穿戴者传送至拉莱耶的能力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000MaskofRlyendNoEnch",
+    "form_id": "0565C203|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Naemus Mask",
+    "string": "尼莫斯的面具",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ArmorNaemusCuirass",
+    "form_id": "05661309|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Lord Armor",
+    "string": "领主护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000MaskofRlyend",
+    "form_id": "053F9C14|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Mask of R'lyend",
+    "string": "拉莱耶面具",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ArmorElysianShield",
+    "form_id": "051A64CC|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Elysian Shield",
+    "string": "净土盾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000HeartNecklace",
+    "form_id": "0556D0B7|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Gold Necklace",
+    "string": "金项链",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SailorAmulet",
+    "form_id": "0556D0BD|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Sailor's Amulet",
+    "string": "航海家护符",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000FireGuardianSkin",
+    "form_id": "054D9905|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Fire Centurion",
+    "string": "火焰百夫长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SeekerOutfit",
+    "form_id": "052B3F99|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "R'lyend Archpriest Robes",
+    "string": "拉莱耶大祭司法袍",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ArmorLordCuirass",
+    "form_id": "054DEA0C|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Lord Armor",
+    "string": "领主护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ArmorChampionCuirass",
+    "form_id": "053D6044|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Lord Armor",
+    "string": "领主护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweSpellbreaker",
+    "form_id": "054A1E86|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Architect's Ward",
+    "string": "造设者结界",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ArmorHunterCuirass",
+    "form_id": "053D6043|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Lord Armor",
+    "string": "领主护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorAquanautHelmet",
+    "form_id": "051BAA80|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Ancient Helmet of R'lyend",
+    "string": "远古拉莱耶头盔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000NaemusRobesHooded",
+    "form_id": "054C05F9|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Naemus Robes",
+    "string": "纳莫斯的长袍",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorAquariumCuirass",
+    "form_id": "051C4CDC|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Ancient Armor of R'lyend",
+    "string": "远古拉莱耶护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ArmorElysianChampionShield",
+    "form_id": "053DB171|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Shield of Elysia",
+    "string": "净土盾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ArmorHunterCuirassDead",
+    "form_id": "05507761|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Lord Armor",
+    "string": "领主护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ArmorHunterCuirassNoHead",
+    "form_id": "05507762|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Lord Armor",
+    "string": "领主护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorAquariumGauntlets",
+    "form_id": "051C9DE5|Aquarium.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Ancient Gauntlets of R'lyend",
+    "string": "远古拉莱耶护手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExpeditionJournal01",
+    "form_id": "05360D3F|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "R'lyend Expedition Journal - pt. I",
+    "string": "拉莱耶探险日志-其一",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExpeditionJournal01",
+    "form_id": "05360D3F|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nR'lyend Expedition Journal\r\n\r\n\r\nby \r\nArronax\r\n</p>\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\n<b>23rd of Evening Star, 4E 200</b>\r\n\r\nThis is a day that will be remembered in history. After years of painstaking research and a treacherous journey across the Sea of Ghosts, our expedition has finally uncovered the mythical city of R'lyend, a place long whispered about in legends and shrouded in mystery. The very sight of its sunken spires beneath the waves filled us with awe and cautious excitement.\r\nThe upper levels of the ruins, surprisingly well preserved despite the ravages of time and the sea, revealed themselves as if frozen in a moment long past. We have chosen to establish our base camp within what once were the living quarters of R'lyend's ancient inhabitants. The air is thick with the weight of history and every stone seems to hum with untold stories.\r\n\r\n[pagebreak]\r\n<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\nThe research team has been carefully divided according to expertise.\r\nNaemus, our skilled linguist and expert in ancient scripts, has already begun the arduous task of deciphering the worn engravings and intricate bas-reliefs that decorate the grand halls. His work promises to unlock secrets long buried beneath layers of time and salt.\r\nNed-Land, a former member of the Thieves Guild, brings his unique skills to bear in disarming traps and lockpicking doors and chests. \r\nHis knowledge of stealth and cunning proves invaluable amidst the labyrinthine passages and hidden dangers.\r\nAs for myself, I have taken upon the responsibility of overseeing the entire operation, focusing especially on the unexplored lower levels of the city where the unknown awaits. \r\nEvery step deeper into R'lyend draws us closer to answers and perhaps peril.\r\n\r\nMeanwhile, Captain Sythrion Vinius and his loyal crew maintain a vigilant watch aboard the Alecton, our steadfast ship anchored just beyond the shore. Their readiness ensures a lifeline back to the world above should our venture take an unfortunate turn.\r\n\r\n[pagebreak]\r\nThough our spirits are high, a quiet unease lingers beneath the surface, a reminder that beneath beauty and history often lie shadows yet to be unveiled.\r\n</p>\r\n\r\n",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n拉莱耶探险日志\r\n\r\n阿龙纳斯\r\n记\r\n</p>\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\n<b>夜星月23日,，第四纪元200年</b>\r\n\r\n这将是载入史册的一天。历经多年煞费苦心的研究，以及横渡幽灵海的凶险航行，我们的探险队终于发现了传说中的城市--拉莱耶。这座城在传说中流传已久，始终笼罩在神秘之中。亲眼目睹沉没于海面之下的尖塔，令我们满怀敬畏，兴奋中也夹杂着谨慎。\r\n\r\n尽管遭受了时光与大海的侵蚀，上层遗迹的保存状况却出人意料地完好，恍如凝固在久远的岁月中。我们选择在拉莱耶远民居民曾经的居住区扎营。厚重的历史感弥漫在空气中，每块石板似乎都无声诉说着被时间湮没的故事。\r\n\r\n[pagebreak]\r\n<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\n研究团队已按专长精心分组。 尼莫斯是我们的语言学专家，通晓古代文字，他早已着手破解宏伟殿堂里那些被侵蚀的铭文与繁复浮雕。那些被岁月与盐层深埋的秘密，有望借由他的工作得到揭露。 \r\n\r\n尼德兰，曾是盗贼公会成员，正以其独特技巧解除陷阱，开启门锁和箱匣。 在迷宫般的通道和重重机关面前，他掌握的潜行技巧与机敏应对显得无比珍贵。 \r\n\r\n至于我本人，则承担起统管全局的职责，尤其关注城市深处那片未经探索、充满未知的地下区域。 每深入拉莱耶一步，都可能让我们离真相更近，或者离危险更近。\r\n\r\n与此同时，赛斯里翁·维尼乌斯船长及其忠实的船员们，正守望在停泊于岸边的坚固船只--阿莱克托号上，时刻保持警惕。他们的待命状态确保了，一旦遭遇不测，我们仍有一条生命线，能够重返地面。\r\n\r\n[pagebreak]\r\n尽管大家士气高昂，一股隐约的不安却在心底萦绕，警醒着我们：瑰丽与历史之下，往往潜藏着尚未显露的暗影。\r\n</p>\r\n\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SpellTomeGreenFlames",
+    "form_id": "0514F19B|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Apocrypha Fire",
+    "string": "法术书：异典烈焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SpellTomeGreenFlames",
+    "form_id": "0514F19B|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nApocrypha Fire",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n异典烈焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ANote03",
+    "form_id": "0565C1A4|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Arronax Research Note- pt.IV",
+    "string": "阿龙纳斯研究笔记-其四",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ANote03",
+    "form_id": "0565C1A4|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nSo, we have reached a pivotal moment in the exploration of these ancient Dwemer ruins. After days spent navigating traps, hostile constructs, and half-decayed maps, I have finally retrieved the dynamo core. Cursed thing... my hands are still scorched from the activation mechanism. But it worked. The door opened.\r\nAnd now, before me, yawns an abyss.\r\n\r\nA bottomless pit, swallowed by shadow. Perhaps once there was a lift here. Now, only silence remains. The rope I carry is far too short to descend safely. I've checked three times. And even if it were long enough... I doubt it would save me from a fatal fall should anything give way.\r\n\r\nI stand now at a crossroads: turn back, abandon everything, declare the expedition a failure. Or...\r\nOr I jump.\r\nA leap into the void. Literal, and metaphorical. But if what I believe lies beneath is truly there... then I cannot stop now.\r\n\r\nIf anyone finds these notes, they'll know which path I chose.\r\n\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n在探索锻莫遗迹的关键时刻，经历数日陷阱、机械构装体和半朽地图的周旋后，我终于取得了动力核心。该死的玩意儿...启动机关时烫伤的手仍在灼痛。但奏效了。门开了。\r\n\r\n此刻在我面前，无底深渊张开巨口。\r\n\r\n被黑暗吞噬的无底深坑。或许曾有过升降机。如今唯余死寂。携带的绳索远不够安全垂降--我已确认三遍。纵使长度足够...若中途断裂，也未必能免我于死劫。\r\n\r\n立于抉择路口：折返放弃，宣告远征失败。亦或...\r\n\r\n亦或纵身跃下。\r\n\r\n跃入虚空。既是字面意义，也是隐喻。但若深信之物确在深渊之下...此刻绝不能止步。\r\n\r\n若有人见到这些笔记，便知我作何选择。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExpeditionBloodNote",
+    "form_id": "055D28CF|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Scrawled Note",
+    "string": "潦草的字条",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExpeditionBloodNote",
+    "form_id": "055D28CF|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nTonight strange lights began to pulse beneath the still waters. Unnatural glimmers flickered just below the surface. Sinister lights danced in the deep. A spectral green...alive, yet dead. As though the sea itself were breathing.\r\nI can feel it in my blood. The evil that lay dormant beneath these waves has awakened.\r\nOne by one my crewmates have vanished. No screams. No signs of struggle. Only silence.\r\nSomething has come aboard. I can hear it. Feel it. Moving across the deck. The wood groans beneath a weight I cannot see. The air is thick. Still.\r\nIt is coming for me.\r\nIt is coming.\r\n</font>\r\n\r\n",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n今夜死水之下，诡谲光脉跳动。非自然的幽光在表层闪烁，深处则似乎暗含凶兆。那些光芒显出不祥的幽绿...栩栩如生，却又死寂。仿若海洋在吞吐呼吸。\r\n在血脉深处，我感觉到了，潜伏浪涛之下的邪恶已然苏醒。\r\n船员接连消失。没有尖叫，没有打斗痕迹，唯余寂静。\r\n有东西登上了船。我能听见，能感知到，它在甲板上移动。看不见的重压下，船板咯吱作响。空气浓稠凝固。\r\n它朝我来了。\r\n它来了。\r\n</font>\r\n\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SpellTomeConjureElysianAtronach",
+    "form_id": "05234FDF|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Elysian Atronach",
+    "string": "法术书：召唤净土侍灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SpellTomeConjureElysianAtronach",
+    "form_id": "05234FDF|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Elysian Atronach",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n召唤净土侍灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ANote04",
+    "form_id": "054DEE8A|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Arronax Research Note- pt.III",
+    "string": "阿龙纳斯研究笔记-其三",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ANote04",
+    "form_id": "054DEE8A|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nI never imagined such beauty hidden beneath the cold depths of the Sea of Ghosts. An incredible variety of marine creatures emit a strong light, perhaps to see better in the abyssal darkness or to ward off larger, more dangerous entities. \r\n\r\nMy supply of potions for breathing underwater is running low, but I must gather as many samples as possible for future alchemical recipes. \r\n\r\nThe depths hide secrets beyond human understanding. Every new discovery suggests a complex and ancient ecosystem, perhaps untouched for forgotten ages. I wonder if these lights once served as guides for lost sailors or calls to dark creatures dwelling beyond the water's veil. \r\n\r\nI must remain vigilant; not all that lurks in the shadows wishes to be found.\r\n\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n在幽灵海冰冷的深渊之下，竟隐藏着如此瑰丽的奇观。无数海洋生物散发着强光，或许是为照亮深渊黑暗，亦或是为威慑更庞大的掠食者。\r\n\r\n水下呼吸药剂即将耗尽，但为了之后的炼金配方，我必须采集尽可能多的样本。\r\n\r\n此处蕴藏着人类难以企及的奥秘。每项新发现都暗示着复杂而古老的生态体系--可能自被遗忘的遥远纪元便与世隔绝。这些幽光是否曾为迷航者引路？抑或是召唤水幕之外黑暗存在的信号？\r\n\r\n务必保持警惕；不是所有潜行暗影者都渴望接触。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExpeditionBook03",
+    "form_id": "054B6738|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Ned's Last Note",
+    "string": "尼德兰最后的笔记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExpeditionBook03",
+    "form_id": "054B6738|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\nI'm sick of these damned ruins! That fool Arronax thinks I'll risk my life for a handful of septims... but he's dead wrong! I've stolen Naemus' research notes and now I know how to reach the treasure room. According to his notes, the crypt holds enough wealth to finally clear the bounty on my head.\r\n\r\n\r\n\r\nTomorrow, I'll head to Solitude and take the first ship to Anvil.\r\nLet those imbeciles stay behind and die from whatever strange dwarven curse lurks here. I'm done with this madness!\r\n</p>",
+    "string": "<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\n受够了这该死的遗迹！阿龙纳斯那蠢货以为我会为几个金币卖命...大错特错！我偷了尼莫斯的研究笔记，这样我就知道该如何进入宝藏室。按记载，墓穴里的财富足够清偿我的悬赏金。\r\n\r\n\r\n明天我就赶往独孤城，搭首班船去安维尔。\r\n让那些白痴留在遗迹里等死吧--管它是矮人诅咒还是什么鬼东西。老子不奉陪了！\r\n</p>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000NaemusNote",
+    "form_id": "054DEE8C|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Naemus' Journal: The Relic",
+    "string": "尼莫斯的日记：遗迹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000NaemusNote",
+    "form_id": "054DEE8C|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\nDuring my explorations in the depths of R'lyend, I discovered a small statuette depicting a tentacled creature. At first glance, its craftsmanship does not seem Dwemer at all, nor does it resemble any of the works I have studied so far. \r\nThe material it is made from is dark, almost organic, and its surface is uneven, as if sculpted by hands that know the sea more than stone.\r\n\r\nThis statuette has captured my attention more than any other artifact found so far. However, since I took it with me, my sleep has been plagued by increasingly vivid and disturbing nightmares: tentacled creatures, hollow eyes staring at me from the abyss, whispered voices in ancient tongues that should not exist. Sometimes I hear a call, a deep song pulling me further down, into the dark waters inside my mind.\r\nI must keep my eyes open: the line between reality and vision grows ever thinner.\r\n\r\nShadows lengthen in my thoughts, and fear has become a silent, persistent companion.\r\nI am losing control. Perhaps...perhaps the statuette does not want to be found. Perhaps I am already part of something far greater, something that swims in the depths and will drag me with it if I do not find the strength to resist.\r\n\r\n But how does one fight what cannot be seen, against an abyss that calls to you with the voice of a nightmare?\r\n</p>",
+    "string": "<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\n探索拉莱耶深渊时，我发现了描绘触手生物的雕像。第一眼看上去，其工艺全然不同于锻莫风格，也不属于我已知的任何文明。\r\n\r\n其使用的材料幽暗无光，如同有机体，表面凹凸不平，仿佛由熟悉海洋而非石材的匠人雕琢。\r\n\r\n这尊雕像比任何文物都更令我着迷。但自从携带它后，我夜夜被愈发诡异的噩梦侵蚀：触手生物从深渊投来空洞凝视，用早应消亡的古老语言呢喃...有时我能听见召唤，那是将我拽向意识暗流的深渊咏叹调。\r\n\r\n我必须保持谨慎清醒：现实与幻象的界限正在消融。\r\n\r\n我的思维逐渐蒙上阴影，恐惧沉默却始终不散，几乎成为我的同伴。\r\n\r\n我正在失控。或许...或许这雕像本不该现世。或许我已早沦为某个深渊存在的傀儡--一旦我无力抵抗，就将被拽入无底黑暗。\r\n\r\n可当深渊用噩梦之声召唤你时，该如何对抗这不可视之物？\r\n</p>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000StartingNote",
+    "form_id": "054E3FCF|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Calcelmo",
+    "string": "卡塞莫的来信",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExpeditionBook02",
+    "form_id": "05365FB4|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Hymn To The Abyss",
+    "string": "深渊圣歌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExpeditionBook02",
+    "form_id": "05365FB4|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nHymn To The Abyss\r\n\r\n\r\nby \r\nNaemus, Archpriest of R'lyend\r\n</p>\r\n\r\n\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/O_letter.png'>  mighty Asoth-Ur, Ancient of the Abyss, He who dreams beneath the waves, awaken to the call of your devoted followers. \r\n\r\nFrom the depths of R'lyend, hear our voices. We, mere mortals, implore your power. \r\nGuide us through the shadows of the unknown, to the truths that lie beyond mortal comprehension. \r\n</p>\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/O_letter.png'>  mighty Asoth-Ur, Keeper of Forbidden Knowledge, grant us visions of your vast domain. \r\nLet us glimpse the realms beyond our fragile reality, where time and space intertwine in your terrible embrace.\r\n\r\n\r\n  \r\n\r\nIn your name, we find both terror and wonder, for in your chaos, there is the seed of creation. In your madness, the spark of enlightenment.\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/O_letter.png'>   mighty Asoth-Ur, He who was betrayed, We offer our minds and souls to you.\r\n\r\nGuide us through the labyrinth of our fears to the eternal night where you reign supreme. \r\n\r\nIn your terrible name, we pray. So be it.\r\n\r\n</p>",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n深渊圣歌\r\n\r\n\r\n尼莫斯，拉莱耶造设者\r\n著\r\n</p>\r\n\r\n\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/O_letter.png'>  伟哉阿索斯-乌尔，深渊之亘古，伏波而眠之神，虔信者祷声唤汝醒。\r\n\r\n自拉莱耶深渊之中，吾等微末凡尘，恳请您的垂听。\r\n\r\n引吾辈穿行未知暗影，窥破凡智难及的真相。\r\n</p>\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/O_letter.png'>  伟哉阿索斯-乌尔，秘识守护者，请赋予吾等浩瀚疆域之预象。\r\n\r\n使吾等瞥见脆弱现实之外的领域，在您可怖怀抱中交织缠绕的时空。\r\n\r\n以您的尊讳，吾等敬畏交织，因您在混沌中孕育创世之种，您的癫狂蕴含启明星火。\r\n</p>\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/O_letter.png'>   伟哉阿索斯-乌尔，背叛之尊者，吾等将心智魂魄尽献于您。\r\n\r\n引吾辈穿越恐惧迷阵，终抵汝永夜君临之境。\r\n\r\n以您的可怖圣名，吾等祈愿，愿理想必成。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000WarningNote",
+    "form_id": "05638636|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Warning Note",
+    "string": "警告笔记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000WarningNote",
+    "form_id": "05638636|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nBy order of the local authorities, all citizens are strongly advised to avoid venturing along the shores of the Sea of Ghosts after nightfall. In recent nights, there have been reports of strange floating lights along the coast and alleged attacks by unknown creatures emerging from the sea.\r\nPatrols have yet to identify the source of these disturbances.\r\nRemain within settlement boundaries after dark.\r\n\r\nMay Stendarr watch over us all.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n奉地方当局命令，全体公民务务必避免在日落后涉足幽灵海沿岸。有报告称近日夜间海岸多次出现诡异浮光，且有不明生物自海中袭人。\r\n巡逻队目前尚在调查骚乱根源。\r\n入夜后请勿离开聚居地边界。\r\n\r\n愿斯坦达尔庇佑众生。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000RecipeWaterbreathing",
+    "form_id": "05413327|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Waterbreathing Potion Recipe",
+    "string": "水下呼吸药水配方",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000RecipeWaterbreathing",
+    "form_id": "05413327|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>\r\nWaterbreathing potion:\r\n\r\n~Nordic Barnacle\r\n\r\n~Salmon Roe\r\n\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>\r\n水下呼吸药水：\r\n\r\n~诺德藤壶\r\n\r\n~鲑鱼卵\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ANote01",
+    "form_id": "054CAB5B|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Arronax Research Note- pt.I",
+    "string": "阿龙纳斯研究笔记-其一",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ANote01",
+    "form_id": "054CAB5B|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nAfter surviving deadly traps, monstrous sea creatures, and unseen presences, I have come to a dead end. All passages lie sealed, likely to keep the chambers from flooding. But this pedestal... it reminds me of those I have seen in the Dwarven ruins of Solstheim. A control cube must be needed to activate it. I retraced my steps through the catacombs, but found no trace of such an artifact. It seems they were lost to the relentless floods and collapses.\r\nMy only option now is to return to camp. This place is far too perilous, and I will not risk my life any further. \r\n\r\nI shall turn my attention to exploring the western side of the ruins, hoping fortune will smile upon me there.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n在经历了致命陷阱、巨型海怪和无形存在后，我走进了死路。所有通道都被封闭，可能是为了防止舱室进水。但这个基座...让我想起在索瑟海姆矮人遗迹见过的装置。必定是需要一个控制立方体来启动。我原路折返穿过墓穴，却找不到这种神器的踪迹。它们似乎早已被无情的洪水与塌方毁灭。\r\n\r\n此刻唯有返回营地一途。此地过于凶险，我不能再冒着生命危险继续。\r\n\r\n我将转而探索遗迹西侧区域，但愿那里会有转机。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ANote02",
+    "form_id": "05647C83|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Arronax Research Note- pt.II",
+    "string": "阿龙纳斯研究笔记-其二",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ANote02",
+    "form_id": "05647C83|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nIt appears that the ancient Dwemer of R'lyend developed a type of automaton specifically designed to operate underwater. I've taken to calling them \"aquabots\" for convenience. They show no signs of being built for combat; rather, their construction suggests they were intended for maintenance and repair tasks in submerged environments, both within the city's inner structures and along the outer seabed...\r\n\r\n\r\nCuriously, in another section of the complex, I came across a different kind of automaton. These were clearly reassembled using parts from known animunculi, such as Dwarven spiders and spheres. The modifications indicate they were repurposed for new functions...though their exact roles remain uncertain.\r\nAt present, these machines remain in stasis, sealed within cylindrical capsules kept at extremely low temperatures. It appears to be a crude but effective cryogenic preservation system, perhaps intended to keep them intact until reactivation\r\n\r\nIt's as if the Dwemer knew that, one day, someone would return to awaken them...\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n远古时期，拉莱耶的锻莫显然开发过专用于水下作业的自动机械体。为方便起见，我称它们为\"潜水机械体\"。它们毫无战斗构装迹象，其构造表明这类机械用于水下环境的维护修理，无论是城市内部结构还是外围海床...\r\n\r\n蹊跷的是，在建筑群另一区域，我发现了截然不同的机械体。它们显然是用矮人蜘蛛、矮人机械球等已知自动机械的零件重新组装的。这些改装说明它们被赋予了新功能...尽管具体用途仍不明确。\r\n\r\n目前这些机械体处于停滞状态，封存在保持极低温的圆柱形胶囊中。这套低温封存系统似乎粗陋但有效，或许旨在保证机械体状态良好，在它们重新激活之前。\r\n\r\n仿佛锻莫先知先觉，终有一日会有人归来唤醒它们...\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExpeditionBook01",
+    "form_id": "05360D3E|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "R'lyend Expedition Journal - pt. II",
+    "string": "拉莱耶探险日志-其二",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExpeditionBook01",
+    "form_id": "05360D3E|Aquarium.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nR'lyend Expedition Journal\r\n\r\n\r\nby \r\nArronax\r\n</p>\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\n<b>24th of Evening Star, 4E 200</b>\r\n\r\nFirst day of searching within the ruins. The western halls have proven fruitless, most collapsed or drowned beneath the water's surface. My supply of waterbreathing potions is quickly dwindling.\r\nNed-Land failed in his attempt to open the security door on the upper level, as expected.\r\nMeanwhile, Naemus persists with his translations of the inscriptions. He has uncovered a strange statuette, unlike any Dwemer craftsmanship I've seen before.\r\n\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\n<b>25th of Evening Star, 4E 200</b>\r\n\r\nI resumed my exploration, turning my focus to the eastern side of the ruins. Here, the lifts and mechanisms still function, and I made my way to the geothermal core of R'lyend, which remains active and has not yet been fully submerged by the rising waters.\r\nUnfortunately, my progress is hindered by the strange Dwemer automatons that patrol the streets and corridors. They seem to be guarding something, but I cannot yet discern their purpose.\r\nNaemus has become increasingly restless, avoiding his discoveries and speaking little. He should return to the surface tonight and rest on the ship; something is not right with him.\r\nBoth Naemus and I shared strange dreams during our night in the depths. Their meaning eludes me, but I feel they are more than mere dreams.\r\n\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\n<b>26th of Evening Star, 4E 200</b>\r\n\r\nIt is the third day of research in R'lyend. Once again, I narrowly escaped the onslaught of those cursed clankers and descended even deeper into the ruins.\r\nThe ancient Dwemer appear to have dug beneath the seabed to mine a rare crystalline mineral known as Marinium.\r\nThese mines are the best preserved I have ever encountered. What an engineering marvel!\r\n\r\nMarinium is a glassy, incredibly hard substance, and it seems only the Dwemer were able to unlock its secrets.\r\nIn its raw form, it appears as striking veins of bright blue in the rock. It is forged from the incandescent magma that seeps from the chasms on the ocean floor, solidifying upon contact with the cold sea water.\r\nTranslations of inscriptions by Naemus suggest that both weapons and armor of unparalleled beauty were crafted from this precious material.\r\n\r\nI have reached the central cavern of the complex, where all the galleries leading to the extraction sites converge. There, I found a decorative pedestal supporting a strange, floating relic.\r\n\r\nThough curiosity urges me to claim it, I must resist the temptation for now.\r\n\r\nI have decided that I will take it from the pedestal and bring it to the surface. Only then will I be able to examine its true nature.\r\n\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\nMy curiosity, be damned!\r\n\r\nBy removing the relic, I triggered a violent tremor. The tunnels collapsed, and I was buried beneath the rubble. With great effort, I crawled toward the exit. I now have a serious leg injury.\r\n\r\nMy supply of healing potions has run out, and my wounds show no signs of improving. If I don't begin moving soon, these mines will become my tomb.\r\n\r\nI fear my life may end here, in the cold, dark depths of the earth.\r\n\r\nAll I can do now is continue contemplating that strange floating relic.\r\n</p>\r\n\r\n\r\n\r\n",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n拉莱耶探险日志\r\n\r\n阿龙纳斯\r\n记\r\n</p>\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\n<b>夜星月24日，第四纪元200年</b>\r\n\r\n在遗迹中搜索的第一天。西侧大厅毫无收获，大部分都坍塌或被淹在水下。我的水下呼吸药水储备正迅速减少。\r\n\r\n尼德兰尝试打开上层安保门的行动失败了，这在意料之中。\r\n\r\n同时，尼莫斯仍在坚持翻译铭文。他发掘出一尊奇特的雕像，不同于我以往见过的任何矮人工艺品。\r\n\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\n<b>夜星月25日，第四纪元200年</b>\r\n\r\n我继续探索，将重点转向遗迹的东侧。这里的升降梯和机关仍在运作，我设法到达了拉莱耶的地热核心区，它依然活跃，且尚未被上涨的水完全淹没。\r\n\r\n不幸的是，我的进展受到了在街道和走廊巡逻的奇怪矮人机械构装体的阻碍。它们似乎在守护着什么，但我目前还看不出其目的。\r\n\r\n尼莫斯变得越来越不安，回避着他的发现，也很少说话。他今晚应返回地面，在船上休息一下；他有些不对劲。\r\n\r\n昨晚在深渊中过夜时，我和尼莫斯都做了奇怪的梦。我无法理解这些梦的含义，但我感觉它们不仅仅是梦而已。\r\n\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\n<b>夜星月26日，第四纪元200年</b>\r\n\r\n这是在拉莱耶考察的第三天。我再次惊险地躲过了那些该死的卡当响的铁疙瘩的猛攻，向遗迹更深处进发。\r\n\r\n古代矮人似乎曾在海床之下挖掘，开采一种稀有的名为深海矿的水晶矿物。\r\n\r\n这些矿洞是我所见过保存最完好的。真是工程学的奇迹啊！\r\n\r\n深海矿是一种类似玻璃岩、无比坚硬的物质，似乎只有矮人才能解开它的秘密。\r\n\r\n其原矿，在岩石中呈现为醒目的亮蓝色矿脉。炽热岩浆从海底裂口渗出，遇冰冷的海水凝固形成了这种矿物。\r\n\r\n根据尼莫斯翻译的铭文内容，武器和精美绝伦的护甲都是使用这种珍贵材料锻造的。\r\n\r\n我已抵达建筑群的中心洞窟，所有通往采矿点的廊道都在此交汇。在那里，我发现了一个装饰性的基座，上面漂浮着一件奇特的遗物。\r\n\r\n好奇心驱使我拿走它，但我必须暂时抵抗这种诱惑。\r\n\r\n我已决定，我要把它从基座上取下来并带到地表。唯有那时，我才能探究它的真实本质。\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\"><font face='$HandwrittenFont'><font size='18'>\r\n我该死的好奇心啊！\r\n\r\n取下遗物时，我引发了剧烈的震动。隧道坍塌了，我被埋在了瓦砾之下。我费尽力气才爬向出口。现在我腿部受了重伤。\r\n\r\n我的治疗药水已经用完，伤口也没有好转的迹象。如果再不开始行动，这些矿坑将成为我的坟墓。\r\n\r\n恐怕我的生命要终结于此，终结在这冰冷黑暗的地底深处了。\r\n\r\n我现在唯一能做的，就是继续凝视那件奇异的漂浮圣物。\r\n</p>\r\n\r\n\r\n\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0PlayerChest03",
+    "form_id": "05191D38|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Safe",
+    "string": "保险箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Satchel",
+    "form_id": "053F4DFD|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Naemus Satchel",
+    "string": "尼莫斯的行囊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianMerchantChest",
+    "form_id": "05539DD4|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0DweDresser",
+    "form_id": "05000D64|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Cupboard",
+    "string": "碗橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianBox",
+    "form_id": "05191D39|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Elysian Chest",
+    "string": "净土宝箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000TreasDwarvenChestWeap",
+    "form_id": "05409550|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000TreasDwarvenChestArm",
+    "form_id": "05409553|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Corpse04",
+    "form_id": "05409554|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000KnapsackArronax",
+    "form_id": "054C05F6|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Naemus Knapsack",
+    "string": "尼莫斯的背包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Satchel02",
+    "form_id": "05360D45|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Ned's Satchel",
+    "string": "尼德兰的行囊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000TreasDwarvenChestArrow",
+    "form_id": "05605503|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Corpse01",
+    "form_id": "055BDAE0|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Corpse02",
+    "form_id": "055BDAE2|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0PlayerChest02",
+    "form_id": "0505F5EC|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0PlayerChest01",
+    "form_id": "0505F5EB|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Satchel",
+    "string": "行囊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Satchel01",
+    "form_id": "05360D44|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Aronnax Satchel",
+    "string": "阿龙纳斯的行囊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Knapsack",
+    "form_id": "05281350|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Expedition Knapsack",
+    "string": "探险队背包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000NedlandCorpse",
+    "form_id": "05365EC1|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Ned-Land",
+    "string": "尼德兰德",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Corpse03",
+    "form_id": "055BDAE4|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0DweBookCase",
+    "form_id": "050B0C9E|Aquarium.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Bookcase",
+    "string": "书橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000FullyElevator",
+    "form_id": "056054F2|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Elevator",
+    "string": "升降机",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ADweDoorGlass",
+    "form_id": "0503BB63|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ADweDoorLarge01a",
+    "form_id": "05012F3D|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ShipDoor01Load",
+    "form_id": "05365FC6|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ADweShaftDoor",
+    "form_id": "0509768D|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Tesseract",
+    "form_id": "053A80DE|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "The Tesseract",
+    "string": "超立方空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ADweShaftDoor2",
+    "form_id": "051A641F|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ADweFacadeLiftLeverLoadUp",
+    "form_id": "051542C7|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Lift Up",
+    "string": "升起",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AGrillDoor",
+    "form_id": "053CBC27|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ADisplayCase",
+    "form_id": "0503BB88|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Display Case",
+    "string": "展示柜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ADweDoorBed",
+    "form_id": "05012F3C|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ADweDoorSmall",
+    "form_id": "053F9D02|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AConductDoor",
+    "form_id": "0566641F|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweDoorLarge01",
+    "form_id": "052D79A1|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ADweFacadeLiftLeverLoadDown",
+    "form_id": "05135939|Aquarium.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Lift Down",
+    "string": "降下",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssalFang",
+    "form_id": "05464B1A|Aquarium.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Abyssal Fang",
+    "string": "深渊牙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssalTentacle",
+    "form_id": "054D4BE5|Aquarium.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Abyssal Anemone Tentacle",
+    "string": "深渊海葵触须",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Marinium",
+    "form_id": "052BE1D0|Aquarium.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Marinium Crystals",
+    "string": "深海水晶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssalEgg",
+    "form_id": "053F9C17|Aquarium.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Abyssal Egg",
+    "string": "深渊卵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianFairyIng",
+    "form_id": "05460154|Aquarium.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Elysian Fairy",
+    "string": "净土仙灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Lumor",
+    "form_id": "052B90CC|Aquarium.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Lumor",
+    "string": "鲁默",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Tubelight",
+    "form_id": "051F7BD4|Aquarium.esp",
+    "index": 1,
+    "type": "LIGH FULL",
+    "original": "Dwemer Light",
+    "string": "锻莫光棒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianArt01",
+    "form_id": "05262C45|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Elysian Art (Earth)",
+    "string": "净土艺术投影（土）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianArt02",
+    "form_id": "05267D49|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Elysian Art (Metal)",
+    "string": "净土艺术投影（金）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000KeeperStatue01",
+    "form_id": "052B90A0|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Keeper Statue",
+    "string": "守密人雕塑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweCore",
+    "form_id": "050ABB98|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Elysian Core",
+    "string": "净土核心",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000KeeperStatue02",
+    "form_id": "052B90A1|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Keeper Statue (Dwemer Replica)",
+    "string": "守密人雕塑（锻莫复制品）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000MonsterHeart",
+    "form_id": "053EF9DD|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Abyssal Heart",
+    "string": "深渊之心",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianBook",
+    "form_id": "052B90A2|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Elysian Lexicon",
+    "string": "净土词典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianPuzzle",
+    "form_id": "0538EA5E|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Elysian Puzzle",
+    "string": "净土魔方",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianArt03",
+    "form_id": "05267D4C|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Elysian Art (Air)",
+    "string": "净土艺术投影（气）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianHeart",
+    "form_id": "0531EAB4|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lumincrux",
+    "string": "明光核心",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GoldDustIng",
+    "form_id": "0532DE84|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dwemer Gold Dust",
+    "string": "锻莫金粉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DwarvenCenturionDynamoPower",
+    "form_id": "055EB6B4|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Empowered Dynamo Core",
+    "string": "充能动力核心",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ControlSphereCorrupted",
+    "form_id": "0565C1AB|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Control Sphere Corrupted",
+    "string": "被腐化的控制球",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianArt00",
+    "form_id": "053C188C|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Elysian Art (Water)",
+    "string": "净土艺术投影（水）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ControlHead",
+    "form_id": "05455F16|Aquarium.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Active Elysian Head",
+    "string": "控制用净土居民头颅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GoldDust",
+    "form_id": "05332F96|Aquarium.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Gold Dust",
+    "string": "金粉堆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GoldDust",
+    "form_id": "05332F96|Aquarium.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "拿取",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GlowAnemone",
+    "form_id": "054CFAB7|Aquarium.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Abyssal Anemone",
+    "string": "深渊海葵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GlowAnemone",
+    "form_id": "054CFAB7|Aquarium.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Harvest",
+    "string": "收获",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000IngAmphora",
+    "form_id": "052BE1D2|Aquarium.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Dwemer Amphora",
+    "string": "锻莫双耳细颈瓶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000IngAmphora",
+    "form_id": "052BE1D2|Aquarium.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "拿取",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssalEggNest",
+    "form_id": "053F9C16|Aquarium.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Lurker Egg Nest",
+    "string": "潜伏者卵巢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssalEggNest",
+    "form_id": "053F9C16|Aquarium.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Harvest",
+    "string": "收获",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000LumorFlora",
+    "form_id": "05464B11|Aquarium.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Abyss Sponge",
+    "string": "深渊海绵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000LumorFlora",
+    "form_id": "05464B11|Aquarium.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Harvest",
+    "string": "收获",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CraftingStaffWorkbench",
+    "form_id": "0502C805|Aquarium.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Staff Enchanter",
+    "string": "法杖附魔器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CraftingBlacksmithSharpeningWheel",
+    "form_id": "05187AF2|Aquarium.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Grindstone",
+    "string": "磨刀石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CraftingBlacksmithArmorWorkbench",
+    "form_id": "05187AEB|Aquarium.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Workbench",
+    "string": "制作台",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000MarinumFurnitureBench",
+    "form_id": "0540E6AA|Aquarium.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Marinium Bench",
+    "string": "深海工作台",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SpikePillar",
+    "form_id": "0540E448|Aquarium.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Button",
+    "string": "按钮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CraftingSmelterMarker",
+    "form_id": "05187AF6|Aquarium.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Smelter",
+    "string": "熔炉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CraftingGemsWell",
+    "form_id": "055E141F|Aquarium.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Gems Collector",
+    "string": "宝石收集器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CraftingBlacksmithAnvil",
+    "form_id": "05187AE6|Aquarium.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Anvil",
+    "string": "铁砧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianThrone",
+    "form_id": "051BFBBD|Aquarium.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Throne",
+    "string": "王座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ADweFurnitureBedDouble",
+    "form_id": "05036A52|Aquarium.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Stone Bed",
+    "string": "石床",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CraftingEnchantingWorkbench",
+    "form_id": "055DC31A|Aquarium.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Arcane Enchanter",
+    "string": "奥术附魔台",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CraftingTanningRack",
+    "form_id": "05187AED|Aquarium.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Tanning Rack",
+    "string": "制皮架",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ButtonPillar",
+    "form_id": "05642B6C|Aquarium.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Button",
+    "string": "按钮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweBossClub",
+    "form_id": "0508818D|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Giant Club",
+    "string": "巨人棍棒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweSword",
+    "form_id": "05092585|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Elysian Sword",
+    "string": "净土剑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweWarhammer",
+    "form_id": "05092586|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dwarven Harpoon",
+    "string": "锻莫鱼叉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweSword2",
+    "form_id": "051A10CA|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Miorith's Sword",
+    "string": "弥欧瑞斯的剑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RuinsGreatsword",
+    "form_id": "051F7B9B|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ancient Greatsword of R'lyend",
+    "string": "远古拉莱耶巨剑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000MoraMace",
+    "form_id": "051F7B9E|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Cultist's Ceremonial Mace",
+    "string": "邪教徒仪式钉锤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RuinsMace",
+    "form_id": "0520C13F|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ancient Mace of R'lyend",
+    "string": "远古拉莱耶钉锤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweStaff",
+    "form_id": "0523A10C|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Elysian Staff",
+    "string": "净土法杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RuinsSword",
+    "form_id": "0528132A|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ancient Sword of R'lyend",
+    "string": "远古拉莱耶剑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DwarvenSpear",
+    "form_id": "0540E437|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dwarven Harpoon",
+    "string": "锻莫鱼叉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000RitualDagger",
+    "form_id": "05413830|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Abyss Fang",
+    "string": "深渊獠牙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweDagger",
+    "form_id": "0541DE6F|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ancient Dagger of R'lyend",
+    "string": "远古拉莱耶匕首",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweScrapSword",
+    "form_id": "054DEA0D|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Scrap Sword",
+    "string": "残片剑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Sceptre",
+    "form_id": "054DEA11|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Architect's Scepter",
+    "string": "造设者权杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SpectralAxe",
+    "form_id": "054DEA12|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Architect's Axe",
+    "string": "造设者斧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SpectralBattleaxe",
+    "form_id": "05576AFC|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dwarven Spectral Battleaxe",
+    "string": "锻莫魂灵战斧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SpectralBattleaxe",
+    "form_id": "05576AFC|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP DESC",
+    "original": "Does <40> points of extra damage, ignoring armor.",
+    "string": "造成<40>点额外伤害，无视护甲。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElyWarhammer",
+    "form_id": "055D2900|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Elysian Smasher",
+    "string": "净土粉碎锤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweBow",
+    "form_id": "056003D9|Aquarium.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ancient Bow of R'lyend",
+    "string": "远古拉莱耶弓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000IncendiaryDwarvenArrow",
+    "form_id": "053DB168|Aquarium.esp",
+    "index": 1,
+    "type": "AMMO FULL",
+    "original": "Marinium Arrows",
+    "string": "深海箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000IncendiaryDwarvenArrow",
+    "form_id": "053DB168|Aquarium.esp",
+    "index": 1,
+    "type": "AMMO DESC",
+    "original": "Explodes for <10> points of impact damage.",
+    "string": "能够爆炸，造成<10>点冲击伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssMonsterDead",
+    "form_id": "054504ED|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Abyssal Lurker",
+    "string": "深渊潜伏者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianFriendly2",
+    "form_id": "054371C2|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Corrupted Elysian",
+    "string": "被腐化的净土居民",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000FireGuardianAmbush",
+    "form_id": "055E65A4|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dwarven Centurion Empowered",
+    "string": "充能型锻莫百夫长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianWarrior01",
+    "form_id": "0543C2F7|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Warden",
+    "string": "净土卫士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianWarrior02",
+    "form_id": "054834B5|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Warden",
+    "string": "净土卫士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweBossss",
+    "form_id": "05088181|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dwarven Cyclops",
+    "string": "锻莫独眼巨人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Aronnax",
+    "form_id": "053EA5C0|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Aronnax",
+    "string": "阿龙纳斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianKing",
+    "form_id": "0514A04C|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Champion",
+    "string": "净土冠军",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AudioTemplateAbyss",
+    "form_id": "055532F3|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "AudioTemplateAbyss",
+    "string": "深渊生物语音模板",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Elysian",
+    "form_id": "0513AD2D|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Engineer",
+    "string": "净土工程师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssSlaughterfish",
+    "form_id": "053E01B3|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sea Snake",
+    "string": "海蛇",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000CultistAmbush",
+    "form_id": "05409569|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cultist of R'lyend",
+    "string": "拉莱耶邪教徒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ScrapElysian01",
+    "form_id": "054DEA18|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Scrap",
+    "string": "净土残片",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweSentinel",
+    "form_id": "053DB16B|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Sentinel",
+    "string": "净土哨兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianWarrior02Dead",
+    "form_id": "05403EE3|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Warden",
+    "string": "净土卫士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EvilSoul",
+    "form_id": "05530372|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Evil Soul",
+    "string": "邪恶魂灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssMonster",
+    "form_id": "051AB5D3|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Abyssal Lurker",
+    "string": "深渊潜伏者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000FireGuardianSummon",
+    "form_id": "0545B03D|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dwarven Centurion Empowered",
+    "string": "充能型锻莫百夫长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweBot",
+    "form_id": "0514F17F|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Aquanaut",
+    "string": "潜水员",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AudioTemplateElysian",
+    "form_id": "055532F0|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "AudioTemplateElysian",
+    "string": "净土居民语音模板",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ScrapElysian02",
+    "form_id": "054DEA19|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Scrap",
+    "string": "净土残片",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000TheArchitect",
+    "form_id": "054F2E2D|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Architect Of R'lyend",
+    "string": "拉莱耶造设者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweBossssPatrol",
+    "form_id": "054A6FC7|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dwarven Cyclops",
+    "string": "锻莫独眼巨人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000VernePhantom",
+    "form_id": "0565C1AA|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Naemus� Remnant",
+    "string": "尼莫斯·雷姆南特",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssMonsterFeral",
+    "form_id": "054AC128|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Abyssal Lurker Nymph",
+    "string": "深渊潜伏者幼体",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweWorkerAmbush",
+    "form_id": "051637A4|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Worker",
+    "string": "净土工人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AronnaxCorpse",
+    "form_id": "05365EDD|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Aronnax",
+    "string": "阿龙纳斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ScrapElysian03",
+    "form_id": "054DEA1A|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Scrap",
+    "string": "净土残片",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianMaster",
+    "form_id": "051730F5|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Engineer",
+    "string": "净土工程师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssalCrabAggressive2",
+    "form_id": "051CEF04|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Abyss Elder Crab",
+    "string": "老年深渊蟹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Cultist01",
+    "form_id": "054EDD28|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cultist of R'lyend",
+    "string": "拉莱耶邪教徒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssalCrabAggressive",
+    "form_id": "051CEF02|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Abyss Crab",
+    "string": "深渊蟹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianFriendly1",
+    "form_id": "05567758|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Corrupted Elysian",
+    "string": "被腐化的净土居民",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Verne",
+    "form_id": "052B90C8|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Naemus",
+    "string": "尼莫斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SummonElysianAtronach",
+    "form_id": "05234FDD|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Atronach",
+    "string": "净土侍灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssCrab2",
+    "form_id": "051CEEEF|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Abyss Crab",
+    "string": "深渊蟹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000EncElysianAtronach",
+    "form_id": "0522AD68|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Atronach",
+    "string": "净土侍灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweWorker2",
+    "form_id": "05375539|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Worker",
+    "string": "净土工人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000FireGuardian",
+    "form_id": "054D9906|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dwarven Centurion Empowered",
+    "string": "充能型锻莫百夫长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000FriendSlaughterfish",
+    "form_id": "052496A5|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Abyss Snake",
+    "string": "深渊蛇",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssMonsterPatrol33",
+    "form_id": "05365FA1|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Abyssal Lurker",
+    "string": "深渊潜伏者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000SummonElysianAtronachNPC",
+    "form_id": "0522AD74|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Atronach",
+    "string": "净土侍灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianWarrior03",
+    "form_id": "055DCB3C|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Warden",
+    "string": "净土卫士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianGhost",
+    "form_id": "055E6DB3|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian",
+    "string": "净土居民",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Cthulhu",
+    "form_id": "052AEE89|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Keeper Of R'lyend",
+    "string": "拉莱耶守密人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DwemerSoul",
+    "form_id": "054CFC61|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dwemer Soul",
+    "string": "锻莫魂灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweWorker",
+    "form_id": "055F082D|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Worker",
+    "string": "净土工人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000FireGuardianDead",
+    "form_id": "054F3308|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dwarven Centurion Empowered",
+    "string": "充能型锻莫百夫长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssMonsterPatrol01",
+    "form_id": "05360DFC|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Abyssal Lurker",
+    "string": "深渊潜伏者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DweWorkerAmbushCapsule",
+    "form_id": "053A80F4|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Worker",
+    "string": "净土工人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssMonsterPatrol22",
+    "form_id": "05365FA0|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Abyssal Lurker",
+    "string": "深渊潜伏者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianWarrior02NoHead",
+    "form_id": "05507765|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Warden",
+    "string": "净土卫士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Elysian02",
+    "form_id": "053E0600|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Engineer",
+    "string": "净土工程师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000Elysian01",
+    "form_id": "053E05FF|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elysian Engineer",
+    "string": "净土工程师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AbyssCrab",
+    "form_id": "050C02EE|Aquarium.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Abyss Crab",
+    "string": "深渊蟹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000KeyRlyend00",
+    "form_id": "0534C730|Aquarium.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "R'lyend Key",
+    "string": "拉莱耶钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000KeyRlyend03",
+    "form_id": "0543C2F5|Aquarium.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "R'lyend Underground Key",
+    "string": "拉莱耶地下钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000WaterbreathingPotions",
+    "form_id": "054E3FB2|Aquarium.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Dwemer Waterbreathing Fluid",
+    "string": "锻莫水下呼吸罐",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000IncendiaryProjectileExplodingFire",
+    "form_id": "053DB169|Aquarium.esp",
+    "index": 1,
+    "type": "PROJ FULL",
+    "original": "Marinium Arrow",
+    "string": "深海箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GreenFireLgShortHazard",
+    "form_id": "05689C1B|Aquarium.esp",
+    "index": 1,
+    "type": "HAZD FULL",
+    "original": "Fire",
+    "string": "火焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GreenFireSmShortHazard",
+    "form_id": "05689C1D|Aquarium.esp",
+    "index": 1,
+    "type": "HAZD FULL",
+    "original": "Fire",
+    "string": "火焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GreenFireSmLongHazard",
+    "form_id": "05689C1C|Aquarium.esp",
+    "index": 1,
+    "type": "HAZD FULL",
+    "original": "Fire",
+    "string": "火焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000GreenFireLgLongHazard",
+    "form_id": "05689C1A|Aquarium.esp",
+    "index": 1,
+    "type": "HAZD FULL",
+    "original": "Fire",
+    "string": "火焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon5",
+    "form_id": "052C3347|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Sanctum",
+    "string": "圣所",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon10",
+    "form_id": "053E533D|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Tesseract",
+    "string": "超立方空间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon5a",
+    "form_id": "053F9CED|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "R'lyend Abyss",
+    "string": "拉莱耶-深渊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon1b",
+    "form_id": "0548856F|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "R'lyend Subaqueous Access",
+    "string": "拉莱耶-水下通道",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon0",
+    "form_id": "052C8595|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Gravity Chamber",
+    "string": "下沉舱室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon4a",
+    "form_id": "053F9C76|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "R'lyend Royal Treasury",
+    "string": "拉莱耶-皇家藏宝库",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon2a",
+    "form_id": "05446792|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "R'lyend Colosseum",
+    "string": "拉莱耶-大竞技场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon5b",
+    "form_id": "0563D835|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "R'lyend Crypt",
+    "string": "拉莱耶-地穴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon9",
+    "form_id": "055C7D03|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "R'lyend Geothermal Core",
+    "string": "拉莱耶-地热核心区",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon2b",
+    "form_id": "05450B41|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Rlyend Excavation Area",
+    "string": "拉莱耶-发掘区域",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon1",
+    "form_id": "051357EF|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "R'lyend",
+    "string": "拉莱耶-",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon7",
+    "form_id": "0535188F|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Marinium Mines",
+    "string": "深海矿矿洞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ABedroom",
+    "form_id": "051F2990|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dome of R'lyend",
+    "string": "拉莱耶-穹顶大厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon1a",
+    "form_id": "0561EBCC|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "R'lyend Animucultory",
+    "string": "拉莱耶-灵知培育所",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon3",
+    "form_id": "0513AA5C|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Cathedral of R'lyend",
+    "string": "拉莱耶-大教堂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeonEnding",
+    "form_id": "051A10CD|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Temple of R'lyend",
+    "string": "拉莱耶-神庙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AAlectonShip",
+    "form_id": "0537029B|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Alecton",
+    "string": "阿莱克托号",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon6",
+    "form_id": "0530038E|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Marinium Thermae",
+    "string": "深海地热源",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ALibrary",
+    "form_id": "05111C76|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Library of R'lyend",
+    "string": "拉莱耶-图书馆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ALaboratorium",
+    "form_id": "05116DF3|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Laboratorium",
+    "string": "实验室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon4",
+    "form_id": "0524951D|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "R'lyend Royal Armory",
+    "string": "拉莱耶-皇家军械库",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000AquaDungeon2",
+    "form_id": "05418817|Aquarium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "R'lyend Catacombs",
+    "string": "拉莱耶-地下墓穴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05393B95|Aquarium.esp",
+    "index": 1,
+    "type": "REFR FULL",
+    "original": "The Alecton",
+    "string": "阿莱克托号",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054C094A|Aquarium.esp",
+    "index": 1,
+    "type": "REFR FULL",
+    "original": "R'lyend",
+    "string": "拉莱耶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2SolstheimWorld",
+    "form_id": "04000800|Dragonborn.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solstheim",
+    "string": "索瑟海姆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000WHall02",
+    "form_id": "050180DC|Aquarium.esp",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Observatorium",
+    "string": "天文台",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000WHall01",
+    "form_id": "0504AF60|Aquarium.esp",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Aquarium",
+    "string": "水族馆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTBranch01Topic",
+    "form_id": "054C5A54|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What are you?",
+    "string": "你是谁？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054C5A55|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am all that remains of Miorith... its lingering essence.",
+    "string": "我是弥欧瑞斯仅存的残响...徘徊不散的幽魂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTBranch02Topic",
+    "form_id": "054CFC62|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Miorith?",
+    "string": "弥欧瑞斯？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC63|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A name lost to time. Long ago, I was known as a great Dwemer warrior...before our kind vanished from the world.",
+    "string": "一个被时光湮没的名字。许久以前，我乃锻莫勇士...在我们一族从世间消逝之前。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTBranch03Topic",
+    "form_id": "054CFC64|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened to you? ",
+    "string": "你怎么了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC65|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tell me... what do you know of the Daedric Prince Hermaeus Mora?",
+    "string": "告诉我...你对迪德拉君主赫麦尤斯·莫拉所知几何？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTBranch04Topic",
+    "form_id": "054CFC66|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He is the Prince of Knowledge. His realm is Apocrypha.",
+    "string": "祂是知识魔神。祂的领域名为异典。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC67|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Correct. But few know he once shared that realm. He had a brother: Asoth-Ur. In an age before ages, they ruled together. ",
+    "string": "没错。但鲜有人知道，祂曾与另外的存在共同统治。名唤阿索斯-乌尔，莫拉的兄弟。在诸纪之前的纪元里，祂们共掌权柄。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC67|Aquarium.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But Asoth-Ur believed the secrets of Apocrypha were not meant for mortal hands. ",
+    "string": "然阿索斯-乌尔坚信异典的奥秘不应落入凡尘之手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC67|Aquarium.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "He despised the pacts Hermaeus forged with your kind. And so... he rose against him.",
+    "string": "他唾弃赫麦尤斯与你等生灵签订的契约。故而...举兵相抗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTBranch05Topic",
+    "form_id": "054CFC68|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let me guess...Hermaeus Mora chose you as his champion?",
+    "string": "让我猜猜...赫麦尤斯·莫拉选择你作为祂的勇士？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC69|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He did. Asoth-Ur descended into battle himself, twisting his form into a monstrous being...",
+    "string": "没错。阿索斯-乌尔亲临战场，将形体扭曲为狰狞之物...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC69|Aquarium.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "...tentacled, scaled, able to breathe the depths, with wings vast enough to blot out the sky and claws sharp enough to rend the earth.",
+    "string": "...触腕缠绕，鳞甲覆体，可吞吐深渊之息，巨翼蔽空利爪裂地。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC69|Aquarium.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "We fought for three days and three nights...",
+    "string": "我们鏖战了无数个昼夜...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC69|Aquarium.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "And while we clashed, Hermaeus Mora watched from afar. Then, with a treachery only a Daedric Prince could devise...",
+    "string": "当我们交战时，赫麦尤斯·莫拉在远处观望。随后，如同每一个迪德拉君主那样，祂背弃我们，释放邪术...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC69|Aquarium.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "... he opened the gates of Apocrypha to Nirn and cast us both down from the sky.",
+    "string": "...祂在奈恩打开异典之门，将双方自苍穹击落。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTBranch06Topic",
+    "form_id": "054CFC6A|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": " A Daedric trick. Typical.",
+    "string": "迪德拉的诡计，经典。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC6B|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The heavens turned a spectral green as we fell.",
+    "string": "陨落之际，天幕化作幽邃绿芒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC6B|Aquarium.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": " I was shattered upon the waves. My enemy sank into the abyss. ",
+    "string": "我等之身躯碎裂于怒涛，而宿敌则永堕深渊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC6B|Aquarium.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "In time, my Dwemer kin came, drawn by tales of our fall. They built a city here, beneath the sea, in search of forbidden knowledge. ",
+    "string": "后来，闻此陨落传说的锻莫同族追寻至此。他们在海底筑城，窥探禁忌知识。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC6B|Aquarium.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "But what they found... drove them to abandon it.",
+    "string": "但他们发现之物...驱使他们弃城而逃。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTBranch07Topic",
+    "form_id": "054CFC6C|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Go on.",
+    "string": "继续。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC6D|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Their automatons remained. And to them, I gave the greatest gift I ever stole from Apocrypha: a soul. A conscience.",
+    "string": "只有自动机械存留。吾将从异典窃取的至高恩赐赐予它们：灵魂。知觉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTBranch08Topic",
+    "form_id": "054CFC6E|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The strange machines I encountered... they can think?",
+    "string": "我遇到的那些奇怪机器...它们能思考？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC6F|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes. The Elysians. They are my people now. They continue the war I can no longer fight.",
+    "string": "正是。净土居民。如今他们是吾的子民。将继续吾无法续写的战争。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC6F|Aquarium.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Asoth-Ur has awakened once more...furious, vengeful. If he reaches the surface... Nirn will not survive. We need your help.",
+    "string": "阿索斯-乌尔已再度苏醒...满怀盛怒，渴求复仇。若其抵达地表...奈恩必定灭亡。我们需要你的援手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTBranch09Topic",
+    "form_id": "054CFC70|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How can I help you? ",
+    "string": "我该怎么帮你？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC71|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The city of R'lyend was built atop his prison. If you bring it down he will be sealed forever in a tomb of stone and water.",
+    "string": "拉莱耶城筑于囚禁他的牢狱之上。若你使城池倾塌，他将永封于石水之墓。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTBranch10Topic",
+    "form_id": "054CFC72|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It could work... what do I need to do?",
+    "string": "或许可行...我需要做什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC73|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You must descend into the deepest levels of the ruins, to the main drainage center. Once there... unleash the fury of the sea itself.",
+    "string": "你需深入遗迹最底层，抵达主排水中枢。届时...释放大海的狂怒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC73|Aquarium.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Let the waters claim the city, and R'lyend shall be lost to the depths for all time.",
+    "string": "任洪涛吞没此城，拉莱耶便将永葬深渊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTBranch11Topic",
+    "form_id": "054CFC74|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "And you and your people?",
+    "string": "那你和你的族人呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC75|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We shall fall with him. That is our purpose. That is our end. Perhaps... that is how it must be.",
+    "string": "我们将与之同陨。此乃宿命，亦为终局。或许...此乃必经之途。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC75|Aquarium.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My only sorrow is that my people will never walk beneath the stars...",
+    "string": "唯一遗憾，是我族无缘再次沐浴星光之下...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTBranch13Topic",
+    "form_id": "054CFC77|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's... sad.",
+    "string": "那真是...令人难过。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "054CFC78|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Take my power and dont' forget the Elysian head. Remember... even in the deepest darkness of the abyss, light can still be found. Farewell.",
+    "string": "取走我的力量，莫忘净土居民的头颅。谨记...即使在渊薮至暗处，光明犹存。永别了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTCustom01Topic",
+    "form_id": "0553A619|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I will bring an end to your reign, monster!",
+    "string": "我会终结你的统治，怪物！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0553A61A|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, arrogance... so typical of your miserable kind.",
+    "string": "啊，傲慢...你这可悲族类的通病。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0553A61A|Aquarium.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I am not here to destroy your world, mortal.",
+    "string": "吾非为毁灭你等世界而来，凡人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0553A61A|Aquarium.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I only wish to become powerful enough to return to Apocrypha... and take my revenge on my brother.",
+    "string": "只求积攒足够力量回归湮灭之境...向吾兄复仇。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTCustom02Topic",
+    "form_id": "0553A61B|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why should I trust a Daedra like you?",
+    "string": "我凭什么相信你这样的迪德拉？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0553A61C|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You cannot. But if you choose to humble yourself, to let go of matters you cannot understand, I will reward you.",
+    "string": "你力不能及。但若选择臣服，放手力所不及之事，我必有奖赏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTCustom03Topic",
+    "form_id": "0553A61D|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Go on...",
+    "string": "接着说……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0553A61E|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There is a crypt hidden deep within the abyss, a place unreachable by any, that holds riches beyond imagination.",
+    "string": "深渊深处有座秘密地穴，凡俗不可企及之地，蕴藏超乎想象的财富。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0553A61E|Aquarium.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I will open the way for you. Do you accept?",
+    "string": "吾将为你开启通路。是否接受？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0553A61E|Aquarium.esp",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Continue...",
+    "string": "继续...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTCustom4A",
+    "form_id": "0553A620|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I choose to trust you.",
+    "string": "我选择相信你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0553A622|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good... you are a wise little insect. I will not crush you this time. Now, return and rejoice, for you have made the right choice.",
+    "string": "很好...还算是只聪明的小虫豸。此次姑且饶过你。离开吧，庆幸你做了明智选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQSTCustom4B",
+    "form_id": "0553A621|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I make no bargains with Daedra. I will destroy you!",
+    "string": "我不和迪德拉谈条件。我要消灭你！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0553A623|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, how foolish you are... Come then, enter! You shall never see the light of day again! The eternal darkness of the abyss awaits you.",
+    "string": "哈，愚昧至如此地步...那就来吧！你永无重见天日之时！渊底永恒黑暗正等待着你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000QSTElysianFollowerFollowA1",
+    "form_id": "055490DF|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Follow me. I need your help.",
+    "string": "跟着我。我需要你的帮助。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055490E0|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "hiss...",
+    "string": "（嘶）...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000QSTElysianFollowerWaitHereA1",
+    "form_id": "055490E2|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wait here.",
+    "string": "在这里等着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055490E4|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(hiss)",
+    "string": "（蒸气声）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055490E4|Aquarium.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Follow me.",
+    "string": "跟着我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055490E3|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(hiss)",
+    "string": "（蒸气声）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000QSTElysianFollowerFavorA1",
+    "form_id": "055490E6|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need you to do something for me.",
+    "string": "我需要你为我做件事情。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055490E7|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(hiss)",
+    "string": "（蒸气声）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000QSTElysianFollowerDismissA1",
+    "form_id": "055490E9|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's time for us to part ways.",
+    "string": "是时候分道扬镳了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055490EA|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(hiss)",
+    "string": "（蒸气声）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000QSTElysianMerchantGoodsTopic",
+    "form_id": "05562652|Aquarium.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What can you sell me?",
+    "string": "你有什么能卖给我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05562653|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(hiss)",
+    "string": "（蒸气声）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0556775E|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(hiss)",
+    "string": "（蒸气声）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05567760|Aquarium.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(hiss)",
+    "string": "（蒸气声）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendExpeditionQST",
+    "form_id": "05590912|Aquarium.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Into The Unknow",
+    "string": "深入未知",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendExpeditionQST",
+    "form_id": "05590912|Aquarium.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've received a letter from Calcelmo, the Dwemer scholar in Markarth. He speaks of his missing colleague, Arronax, who led an expedition in search of a legendary submerged city called R'lyend.",
+    "string": "我收到来自马卡斯城锻莫学者卡塞莫的信件。信中提及他失踪的同事阿龙纳斯--此人曾带队寻找传说中的沉没之城拉莱耶。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendExpeditionQST",
+    "form_id": "05590912|Aquarium.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've discovered the legendary sunken ruins of R'lyend. Traces of a previous expedition remain. Perhaps I can uncover what became of them.",
+    "string": "我发现了传说中的沉没遗迹拉莱耶。前人探险的痕迹犹存。或许我能揭开他们的结局。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendExpeditionQST",
+    "form_id": "05590912|Aquarium.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I have found the journal of Arronax. If I delve deeper into R'lyend, I may discover what happened to the researchers.",
+    "string": "我发现了阿龙纳斯的日志。若继续深入拉莱耶，或许能查明研究者的下落。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendExpeditionQST",
+    "form_id": "05590912|Aquarium.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "After a long descent into the abyss, I uncovered the tragic fate of Arronax, whose relentless hunger for forbidden knowledge led to his untimely death. I found no trace of the other explorers. I fear none of them will ever see the light of day again.",
+    "string": "沉入深渊许久后，我揭露了阿龙纳斯的悲惨命运--对禁忌知识的无尽渴求令他英年早逝。其余探险队员则杳无踪迹。恐怕他们永无重见天日之时。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendExpeditionQST",
+    "form_id": "05590912|Aquarium.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Travel to the Alecton and search for the crew.",
+    "string": "前往阿莱克托号，寻找船员。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendExpeditionQST",
+    "form_id": "05590912|Aquarium.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Find the expedition journal in R'lyend.",
+    "string": "在拉莱耶内找到探险日志。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendExpeditionQST",
+    "form_id": "05590912|Aquarium.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Discover the fate of Arronax.",
+    "string": "探寻阿龙纳斯的命运。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000QSTElysianFollower",
+    "form_id": "05543FDB|Aquarium.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Corrupted Elysian is waiting for you.",
+    "string": "腐化的净土居民正等候着你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQST",
+    "form_id": "054BB842|Aquarium.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Call Of The Deep",
+    "string": "深渊祈唤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQST",
+    "form_id": "054BB842|Aquarium.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Arronax has fallen, and with him, his expedition. I feel compelled to continue his work in these ruins and try to uncover the origin of the strange Dwemer automatons that resemble men.",
+    "string": "阿龙纳斯已然陨落，他的探险队也随之覆灭。我决心在这些遗迹中继承他的研究，尝试破解那些人形锻莫机械的起源之谜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQST",
+    "form_id": "054BB842|Aquarium.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "The strange Dwemer automatons refer to themselves as the Elysian. They are fighting a war that has lasted thousands of years against a Daedric being bent on annihilating the surface world. I have decided to help them.",
+    "string": "这些奇特的锻莫机械自称净土居民。它们正与某个意图毁灭地表世界的迪德拉鏖战千年，我决定施以援手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQST",
+    "form_id": "054BB842|Aquarium.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I have fought my way through the horrors that roam the depths of R'lyend and reached what appears to be the central drainage system. I must find a way to flood the chamber and bury the city beneath the sea.",
+    "string": "我杀穿盘踞在拉莱耶深渊的恐怖之物，抵达看似中央排水系统的区域。必须设法淹没这座厅堂，将城市永远葬于海底。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQST",
+    "form_id": "054BB842|Aquarium.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "The lower chambers of the ruins are now flooded. I must find a way out before the water claims everything, including me.",
+    "string": "遗迹下层已被淹没。必须在大水席卷一切前觅得生路，包括我自己。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQST",
+    "form_id": "054BB842|Aquarium.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "The Keeper has fallen, and R'lyend now lies drowned in the cold silence of the sea. It is lost to time, perhaps forever.",
+    "string": "守护者已陨落，拉莱耶如今沉溺于冰冷的深寂之海。它迷失于时光长河，恐怕将会永远封存。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQST",
+    "form_id": "054BB842|Aquarium.esp",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I have chosen to believe Asoth-Ur and accepted his pact. I shall allow him to prosper undisturbed, and in return, he will lead me to the crypt.",
+    "string": "我选择相信阿索斯-乌尔，与其缔结契约。我将任其自由发展，而他则需引领我至地穴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQST",
+    "form_id": "054BB842|Aquarium.esp",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "Guided by Asoth-Ur, I have entered the crypt of R'lyend and taken the Elysian treasures. Whether this was wisdom or folly, only time will tell.",
+    "string": "在阿索斯-乌尔的指引下，我进入了拉莱耶地穴并取得净土造物。此举是智是愚，唯有时间能够证明。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQST",
+    "form_id": "054BB842|Aquarium.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Search for more information about R'lyend automatons.",
+    "string": "搜寻更多关于拉莱耶自动机械的信息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQST",
+    "form_id": "054BB842|Aquarium.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Reach the main drainage chamber of R'lyend.",
+    "string": "抵达拉莱耶主排水厅。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQST",
+    "form_id": "054BB842|Aquarium.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Find a way to flood the room and collapse the lower levels of the ruins.",
+    "string": "设法淹没房间并摧毁遗迹下层区域。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQST",
+    "form_id": "054BB842|Aquarium.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Escape from R'lyend!",
+    "string": "逃离拉莱耶！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendMainQST",
+    "form_id": "054BB842|Aquarium.esp",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Find the crypt in the depths of R'lyend.",
+    "string": "在拉莱耶深处寻找秘密地穴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendLastQST",
+    "form_id": "054DEE89|Aquarium.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Touching The Surface",
+    "string": "触及表面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendLastQST",
+    "form_id": "054DEE89|Aquarium.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "R'lyend has sunk into the abyss, ending the Elysians. However, I still possess a \"head\" that I believe contains their essence. Perhaps I should find a suitable place to store it.",
+    "string": "拉莱耶沉入深渊，净土居民就此消亡。但我仍持有蕴藏其精魄的\"头部\"，或许该寻找合适之处安置它。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendLastQST",
+    "form_id": "054DEE89|Aquarium.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I placed the head on a control pedestal, and it seems the nearby mechanisms have activated. The essence of the Elysians still endures. Perhaps their race is not lost, and one day they may return...",
+    "string": "将头颅置于控制基座后，周遭装置似已激活。净土居民的精魄尚存。或许他们的种族未绝，终有一日或将归来...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RlyendLastQST",
+    "form_id": "054DEE89|Aquarium.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Place the Elysian head on a control pedestal.",
+    "string": "将净土居民头颅置于控制基座。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000RlyendLoad01",
+    "form_id": "05520834|Aquarium.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Some scholars believe that Dwemer automatons may one day awaken...with minds of their own.",
+    "string": "部分学者认为锻莫机械终将苏醒...届时它们将会拥有自主意识。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000RlyendLoad04",
+    "form_id": "05520835|Aquarium.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Legends speak of R'lyend, a drowned city of wonder and artifice, lost to the northern depths.\r\n",
+    "string": "传说讲述着拉莱耶--充满奇迹与机巧的沉没之城，失落在北方深渊。\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000RlyendLoad02",
+    "form_id": "05520833|Aquarium.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Little is known of the northern seas... or the monstrosities said to dwell beneath them.",
+    "string": "人们对北方海域知之甚少...更不必说对传言中盘踞深处的狰狞之物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000RlyendLocation",
+    "form_id": "0551B725|Aquarium.esp",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "R'lyend",
+    "string": "拉莱耶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000RlyendPlayerHomeLocationExterior",
+    "form_id": "053AD481|Aquarium.esp",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "R'lyend",
+    "string": "拉莱耶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000RlyendPlayerHomeLocation",
+    "form_id": "055E6598|Aquarium.esp",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "R'lyend",
+    "string": "拉莱耶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000PowerLexiconMSG",
+    "form_id": "054C576D|Aquarium.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have gained access to the Lexicon of Elysian knowledge and unlocked a new power.",
+    "string": "你找到途径，得以探索探寻净土词典中的知识，并获得了新能力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000DisplayMSG",
+    "form_id": "052C3345|Aquarium.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not have the required item.",
+    "string": "你没有必要的物品",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000BlockAccess",
+    "form_id": "054C576E|Aquarium.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This strange entity blocks your passage.",
+    "string": "这个奇怪的实体堵住了你的去路",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Menu",
+    "form_id": "0552AAB0|Aquarium.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Travel to...",
+    "string": "前往...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Menu",
+    "form_id": "0552AAB0|Aquarium.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "取消",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Menu",
+    "form_id": "0552AAB0|Aquarium.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Solitude",
+    "string": "独孤城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Menu",
+    "form_id": "0552AAB0|Aquarium.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Windhelm",
+    "string": "风舵城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Menu",
+    "form_id": "0552AAB0|Aquarium.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Dawnstar",
+    "string": "晨星",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Menu",
+    "form_id": "0552AAB0|Aquarium.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Solstheim",
+    "string": "索瑟海姆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Menu",
+    "form_id": "0552AAB0|Aquarium.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "R'lyend Entrance",
+    "string": "拉莱耶的入口",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "000ElysianBreathShout",
+    "form_id": "053EA588|Aquarium.esp",
+    "index": 1,
+    "type": "SHOU FULL",
+    "original": "Elysian Breath",
+    "string": "净土气息",
+    "status": "TranslationComplete"
+  }
+]

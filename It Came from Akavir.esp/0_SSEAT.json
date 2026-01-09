@@ -1,0 +1,1028 @@
+[
+  {
+    "editor_id": "KMMAmeliaRobes",
+    "form_id": "04000004|It Came from Akavir.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Akaviri Robes",
+    "string": "阿卡维尔长袍",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMAmeliaBoots",
+    "form_id": "0400000A|It Came from Akavir.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Akaviri Boots",
+    "string": "阿卡维尔靴子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMAmeliaKnapsack",
+    "form_id": "04000094|It Came from Akavir.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Knapsack",
+    "string": "背包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "OniKamalSword",
+    "form_id": "04000D66|It Came from Akavir.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Kamali Iceblade",
+    "string": "卡玛尔冰刃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMAmeliaNPC1",
+    "form_id": "04000002|It Came from Akavir.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Amelia Florius",
+    "string": "艾美莉亚·弗洛里乌斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMAmeliaNPC1",
+    "form_id": "04000002|It Came from Akavir.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Amelia Florius",
+    "string": "艾美莉亚·弗洛里乌斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMAmeliaNPC2",
+    "form_id": "04000098|It Came from Akavir.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Amelia Florius",
+    "string": "艾美莉亚·弗洛里乌斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMAmeliaNPC2",
+    "form_id": "04000098|It Came from Akavir.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Amelia Florius",
+    "string": "艾美莉亚·弗洛里乌斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMAmeliaNPC3",
+    "form_id": "0400009E|It Came from Akavir.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Amelia Florius",
+    "string": "艾美莉亚·弗洛里乌斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMAmeliaNPC3",
+    "form_id": "0400009E|It Came from Akavir.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Amelia Florius",
+    "string": "艾美莉亚·弗洛里乌斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "OniKamalNPC",
+    "form_id": "04000D61|It Came from Akavir.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Kamal",
+    "string": "卡玛尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuestK1Convo1",
+    "form_id": "04000044|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't understand you.",
+    "string": "我听不懂你的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuestK1Convo2",
+    "form_id": "04000045|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm sorry but I must do this.",
+    "string": "抱歉，但我必须这样做。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest1stKamalConversationAltTopic",
+    "form_id": "04000047|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Face your death, beast!",
+    "string": "迎接死亡吧，野兽！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuestA1Convo1",
+    "form_id": "04000051|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is that thing?",
+    "string": "那是什么?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400005D|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A foreigner amongst this land, not the first nor the last. We number among the few living who have seen their kind.\t",
+    "string": "这片土地上的外来者，不是第一个也不是最后一个。尚存者之中，仅有少数人曾目睹他们的族类。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400005D|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "A fragmented history precedes their race, one that may have been lost to time were their presence not so remarkable.",
+    "string": "残缺的史实记载于其种族之前，若非其存在如此引人瞩目，这些历史恐已湮没于时间长河。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400005D|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The Kamal they are dubbed, demons of frost hailing from the distant wastes of Akavir.",
+    "string": "人称其为卡玛尔，寒霜恶魔，来自遥远的阿卡维尔荒原。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuestA1Convo2",
+    "form_id": "04000052|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are you?",
+    "string": "你是谁？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400005E|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Amelia Florius, daughter of Osric Florius, a name likely unfamiliar to you.",
+    "string": "艾美莉亚·弗洛里乌斯，奥斯里克·弗洛里乌斯之女，这个名字想必你并不熟悉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400005E|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "He is the Empire's foremost scholar on the continent of Akavir, a researcher of its geology, cultures and storied history.",
+    "string": "他是帝国研究阿卡维尔大陆的顶尖学者，探究那里的地质、文化及传奇历史。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400005E|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "A remarkable man, one so consumed with the pursuit of this knowledge he dedicated two lifetimes to it.",
+    "string": "一位非凡之人，如此痴迷于追寻这些知识，为此耗费了两辈子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuestA1Convo3",
+    "form_id": "04000053|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What are you doing here?",
+    "string": "你在这里做什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400005F|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I sense you believe my encounter with the Kamal to be born of mere chance? ",
+    "string": "我猜你认为我遇见卡玛尔是出于偶然？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400005F|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Despite my decades of searching, I cannot take this discovery as my own. A simple fisherman is responsible for finding the creature.",
+    "string": "尽管我寻找了数十年，也无法将此发现归功于己。发现这种生物的，不过是一介普通渔夫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400005F|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The local sent for the College and upon its identification, my father was contacted immediately. ",
+    "string": "当地人通报了学院，一经确认其身份，我父亲便即刻获知。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400005F|It Came from Akavir.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Consumed by the politics of scholarly pursuits, he bid me to investigate the beast in his stead.",
+    "string": "他困于学术政治的漩涡，命我代其探查这野兽。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuestA1Convo4",
+    "form_id": "04000054|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I know very little of them.",
+    "string": "我对他们所知甚少。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000060|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very few do, even fewer deem it worthy to research their kind.",
+    "string": "人们都知之甚少，更鲜有人认为其种族值得研究。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000060|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Little is known of their civilisation itself, any inquiries into the land have been met with hostility, be it from the Kamal or their neighbours.",
+    "string": "对其文明本身也知之甚少，任何对那片土地的探究皆会遭遇来自卡玛尔或其邻族的敌意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000060|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "We have documented their habits of hibernation, becoming entombed in ice within winter, thawing out when summer strikes.",
+    "string": "我们记录了其冬眠习性：寒冬时节冰封休眠，盛夏降临便消融复苏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000060|It Came from Akavir.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "From past encounters, it is clear they are a race of warriors, seeking dominion over their homeland and even Tamriel, the nexus of creation.",
+    "string": "据过往遭遇可知，他们是尚武民族，既谋求统治其故土，更觊觎创世核心之地——泰姆瑞尔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000060|It Came from Akavir.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "We know of their frequent skirmishes with the monkey-folk, the Tang Mo which until this point, have all ended in the demon's defeat.",
+    "string": "我们知晓他们与猴民——唐·墨的频繁冲突，迄今皆以恶魔败北告终。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000060|It Came from Akavir.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "Their invasions of Tamriel have ended in similar fashion, though l do not doubt they will attempt a third in the coming years.",
+    "string": "他们入侵泰姆瑞尔之举也以类似结局收场，但我毫不怀疑他们在未来数年内将图谋第三次入侵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuestA1Convo5",
+    "form_id": "04000055|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me about the invasion.",
+    "string": "和我说说入侵的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000061|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The year 572 of the 2nd Era marked their first attempt to claim Tamriel as their own.",
+    "string": "第二纪元572年，他们首次企图将泰姆瑞尔据为己有。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000061|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "In response to this invasion, the Ebonheart pact was struck. A peace accord between the Dunmer, Nords and Argonians to ward the Kamal off.",
+    "string": "为应对此次入侵，黑檀心公约应运而生。这是丹莫、诺德人与阿尔贡人为抵御卡玛尔而缔结的和约。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000061|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The Nords, unaware of the demon's intentions, were caught off guard after the creatures landed near Windhelm.",
+    "string": "诺德人未能察觉恶魔意图，这些生物于风舵城附近登陆后，让他们措手不及。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000061|It Came from Akavir.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Soon after their arrival, they laid waste to the city and began marching south. ",
+    "string": "登陆后不久，他们便摧毁了城市，继而向南进军。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000061|It Came from Akavir.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Sources of the aftermath report they spoke of a being or object known as the \"Ordained Receptacle\".",
+    "string": "战后记载称，他们曾提及一个被称为“授命容器”的存在或物体。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuestA1Convo6",
+    "form_id": "04000056|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Ordained Receptacle?",
+    "string": "授命容器？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000062|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is a question my father has pondered all his career, each quandary has been met with no concrete answers.",
+    "string": "这是我父亲整个职业生涯都在思索的问题，每个难题都未得到确凿解答。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000062|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The strangest element of their invasion was born of their march south, perhaps a clue into what they were searching for. ",
+    "string": "这次入侵最诡异之处在于他们的南进行军，这或许暗示了他们所寻觅之物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000062|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "They did not sack the Rift, instead marching into Stonefalls within Morrowind.",
+    "string": "他们并未洗劫裂痕领，而是挥师直入晨风省的石落地区。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000062|It Came from Akavir.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "We believe this omission to be evidence of a search, clearly having knowledge that it did not reside within Riften.",
+    "string": "我们认为此遗漏正是其正在搜寻东西的证据，显然可知目标并不在裂谷城内。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000062|It Came from Akavir.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Little other evidence remains for this search, leaving us stranded with that vague conclusion.",
+    "string": "关于此次搜寻的其他证据寥寥无几，使我们困于这一模糊的结论。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuestA1Convo7",
+    "form_id": "04000057|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened to the invasion?",
+    "string": "这次入侵后来怎样了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000076|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "With the combined might of the Tribunal, the Nord kingdoms and the Argonians, it was put down after a long and bloody battle.",
+    "string": "凭借审判席、诺德诸王国与阿尔贡人的联合力量，这场漫长血腥的战役终将其镇压。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000076|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Remnants of the Kamal's forces would scatter across all of Tamriel.",
+    "string": "卡玛尔的残余部队散落到整个泰姆瑞尔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000076|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Continuing their search for the Ordained Receptacle or a mere desperate bid for survival, I cannot say.",
+    "string": "他们是在继续搜寻授命容器，抑或仅为孤注一掷的求生之举，我无从断言。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000076|It Came from Akavir.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Within the coming winters, citizens of the provinces would speak of their encounters with demons laying dormant, frozen in ice.",
+    "string": "在接下来的几个冬天里，各省居民纷纷谈论起遭遇蛰伏在冰封中的恶魔的经历。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuestA1Convo8",
+    "form_id": "04000058|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So this Kamal is left over from the invasion?",
+    "string": "所以这些卡玛尔在入侵之后留了下来？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000077|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By the fisherman's report, he spotted the Kamal adrift within the Sea of Ghosts, the waves bringing it closer to shore.",
+    "string": "据渔夫报告称，他发现马卡尔漂浮在幽灵之海上，被海浪推到岸边。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000077|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "While a remnant of the prior invasions cannot be outlawed, I find it far more likely the creature was cast from Akavir itself.",
+    "string": "虽无法排除其为先前入侵的残存者，但我认为这生物更可能是被直接逐出阿卡维尔的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000077|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Perhaps land becoming entombed by the sea or an expulsion done by the Kamal themselves, we will never know.",
+    "string": "或许是土地遭海洋冰封，亦或是卡玛尔内部的放逐，我们无从知晓。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuestA1Convo9",
+    "form_id": "04000059|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you mean to do now?",
+    "string": "那你现在想怎么做？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000078|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A living Kamal is a near impossible sight, yet without a researcher of their kind, the identification has no merit.",
+    "string": "目睹活生生的卡玛尔近乎天方夜谭，然而没有研究他们族群的人，身份鉴定便毫无价值。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000078|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "To investigate the creature and gain greater knowledge first hand?",
+    "string": "亲自探查此生物，获取一手真知？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000078|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "My father despises he missed the opportunity.",
+    "string": "我父亲正懊悔错失此良机。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuestA1Convo10",
+    "form_id": "0400005A|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Your attire is rather unique.",
+    "string": "你的衣着相当独特。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400007A|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "An astute observation, my father has told me stories of Akavir as far back as I can remember.",
+    "string": "你的观察很敏锐，自我记事起，父亲便常给我讲述阿卡维尔的故事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400007A|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "These stories fanned the flames of interest and so, my father had this crafted for me.",
+    "string": "这些故事激发了我的兴趣，因此，父亲特为我制作了这件衣服。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400007A|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "It took him many years, painstakingly recreating the descriptions of old Akaviri texts.",
+    "string": "他耗费多年心血，一丝不苟地重现了古老阿卡维尔文献中的描述。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400007A|It Came from Akavir.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "It is a fine gift and a reminder of my love for this research, I wear it proudly. ",
+    "string": "这既是件精美的礼物，也承载着我对这份研究的热爱，我自豪地穿着它。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400005C|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There are far greater beings than our kind will ever know, that is for certain.",
+    "string": "远有超越我们认知的存在，确凿无疑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400007C|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The danger it poses, nullified by mere ice...",
+    "string": "其所蕴含之威胁，竟仅凭寒冰就化解……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400007D|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A third eye? A markered visage...",
+    "string": "第三只眼？带印记的面容……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400007E|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I-I did not mean for this to transpire.",
+    "string": "我、我本并不希望如此。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000084|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They are forged within the heat of battle, do not mark its injury as weakness.",
+    "string": "他们于战火炽烈中铸就，切莫视其创伤为软弱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000085|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I cannot imagine what it may do if left unchecked.",
+    "string": "我无法想象若放任不管，它将酿成何等灾祸。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000086|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I trust it is dead?",
+    "string": "我想它已经死了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000092|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There is no sense in remaining in Skyrim. Soon, I shall make the journey home.",
+    "string": "我没理由继续留在天际了。不久我将动身归乡。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000093|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Father will not be pleased.",
+    "string": "父亲不会高兴的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000066|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Agh!",
+    "string": "啊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000067|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ugh!",
+    "string": "呃！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400006E|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "[Laugh]",
+    "string": "[大笑]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuestA1Convo11",
+    "form_id": "04000079|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll leave you to your work.",
+    "string": "你回去工作吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400007B|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Return if curiosity eats within you once more.",
+    "string": "如果好奇心再次侵袭你，就回来找我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest2AConvo1",
+    "form_id": "04000080|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened here?!",
+    "string": "发生什么了？！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000082|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Kamal is gone, thawed from its cocoon. ",
+    "string": "卡玛尔离开了，从冰茧中解冻而出。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000082|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Perhaps the ice acclimated to our weather or the will of the creature bid it to be released from slumber, I cannot say.",
+    "string": "或许是寒冰适应了此地气候，亦或是那生物的自身意志驱使它脱离长眠，我无从断言。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000082|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "This is not something I wish to ask of you, I... there is no alternative, the Kamal cannot be allowed to live.",
+    "string": "将此事相托于你非我本愿，但我……别无他法，绝不能让卡玛尔存活。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest2AConvo2",
+    "form_id": "04000081|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I understand, I'll kill it.",
+    "string": "明白了，我会杀了它。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000083|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "While meager, my efforts were not in vain. My magic wounded the creature, a faint help but...",
+    "string": "虽然微不足道，但我的努力并非徒劳。我的魔法伤害了那生物，虽然起了点作用，但……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000083|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The Tower Stone, that is where I believe the Kamal ventured. Drawn to the magic itself or mere chance, I cannot say.",
+    "string": "高塔之石，我相信卡玛尔到那里去了。究竟是被魔法本身吸引，还是纯粹的巧合，我不得而知。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000083|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Remedy this situation, I beg of you.",
+    "string": "我恳请你力挽此局。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest3AConvo1",
+    "form_id": "04000088|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It is.",
+    "string": "是啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400008D|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You did what I could not. Thank you.",
+    "string": "你做到了我所不能之事。感谢你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400008D|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Likely a pittance for your trouble but you are welcome to whatever resides within my bag.",
+    "string": "这可能只是给你添麻烦的一点小小的补偿，但我包里的任何东西你都可以拿去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest3AConvo2",
+    "form_id": "04000089|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did the Kamal injure you?",
+    "string": "卡玛尔怎么伤到你的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400008E|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I believed the creature to be deep in hibernation, not a threat to any for months and so I was lulled into slumber.",
+    "string": "我相信那生物正处于深度冬眠状态，几个月内不会对任何人构成威胁，所以我进入了睡眠。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400008E|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I did not expect the attack, I... my magic warded off the beast though not without great cost.",
+    "string": "我没有想到会遭到袭击，我……我的魔法挡住了野兽，尽管付出了巨大的代价。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400008E|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I shall recover, do not fret.",
+    "string": "我会康复的，别担心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest3AConvo3",
+    "form_id": "0400008A|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You can examine the creature in peace now.",
+    "string": "现在你可以安心地检视这个生物了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400008F|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Any other being and you'd be correct but the Kamal are a race far different from any on Tamriel in both appearance and anatomy. ",
+    "string": "如果是其他生物，那你说得没错，但卡玛尔在外观和解剖学上与泰姆瑞尔上的任何生物都截然不同。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400008F|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Those who survived the invasions from their kind reported a... decomposition that led to the bodies becoming unrecognisable within mere days.",
+    "string": "那些在它的同类入侵中幸存下来的人报告说……尸体在短短几天内就腐烂得无法辨认。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400008F|It Came from Akavir.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Likely, nobody except you, me and my father will believe what transpired here today.",
+    "string": "可能除了你、我和我父亲之外没有人会相信今天这里发生的事情。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest3AConvo4",
+    "form_id": "0400008B|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You sound... troubled.",
+    "string": "你听起来……很困扰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000090|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The opportunity to study another of its kind will not present itself for decades, perhaps centuries, far past my lifespan.",
+    "string": "研究他们的机会在几十年甚至几百年内都不会再有了，远远超出了我的一生。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000090|It Came from Akavir.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The information we could have extracted from it. Its anatomy, temperament, native language... You cannot fathom the weight that would carry.",
+    "string": "我们本可以从它身上获取信息。它的解剖结构、性情、母语……你无法想象这是多么沉重的负担。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest3AConvo5",
+    "form_id": "0400008C|It Came from Akavir.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Goodbye, Amelia.",
+    "string": "再见，艾美莉亚。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000091|It Came from Akavir.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Likely its horns will be the only things that remain. I will take them and what notes I can before heading home. I will not return empty handed.",
+    "string": "它可能只会剩下个角。回乡之前，我会带上它们，以及所有能带走的笔记。我不会空手而归的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest",
+    "form_id": "04000001|It Came from Akavir.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "It Came from Akavir",
+    "string": "它来自阿卡维尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest",
+    "form_id": "04000001|It Came from Akavir.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I have met a researcher of Akavair, Amelia Florius. She is studying a Kamal, strange creature that has washed up on the shore. If I wish to learn more of the creature, I should return soon.",
+    "string": "我遇到了一位阿卡维尔的研究员，艾美莉亚·弗洛里乌斯。她正在研究一种被冲上岸的奇怪生物——卡玛尔。如果我想了解更多关于这种生物的信息，我应该尽快回去找她。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest",
+    "form_id": "04000001|It Came from Akavir.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "A day has passed since my conversation with Amelia. If I wish to learn more of the beast, I should check up on her and see if she has made any new findings.",
+    "string": "距离我和艾美莉亚的谈话已经过去一天了。如果我想了解更多关于那头野兽的事情，我应该去找她，看看她有什么新的发现。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest",
+    "form_id": "04000001|It Came from Akavir.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "The Kamal Amelia was researching thawed from the ice, resulting in it injuring her and escaping to the nearby Tower Stone. I must put a stop to the beast before any others are harmed by the creature.",
+    "string": "艾美莉亚正在研究的那只卡玛尔从冰块中解冻了，伤到了她，并逃到了附近的高塔之石。我必须阻止那只野兽，以免其他人受到伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest",
+    "form_id": "04000001|It Came from Akavir.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I have killed the Kamal, stopping it from causing any further harm. I should return to Amelia and inform her of my actions.",
+    "string": "我杀死了卡玛尔，阻止它进一步造成伤害。我应该回去告诉阿美莉亚我的行动。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest",
+    "form_id": "04000001|It Came from Akavir.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "For my help, Amelia has allowed me to take whatever remains within her bag. She will now return to Cyrodiil and inform her father of what transpired.",
+    "string": "为了感谢我的帮助，艾美莉亚允许我拿走她包里剩下的东西。她现在要回到希罗帝尔，把发生的事情告诉她的父亲。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest",
+    "form_id": "04000001|It Came from Akavir.esp",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "For my help, Amelia has allowed me to take whatever remains within her bag. She will now return to Cyrodiil and inform her father of what transpired.",
+    "string": "为了感谢我的帮助，艾美莉亚允许我拿走她包里剩下的东西。她现在要回到希罗帝尔，把发生的事情告诉她的父亲。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest",
+    "form_id": "04000001|It Came from Akavir.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Wait for Amelia to continue her research",
+    "string": "等待艾美莉亚继续她的研究",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest",
+    "form_id": "04000001|It Came from Akavir.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Check up on Amelia",
+    "string": "调查艾美莉亚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest",
+    "form_id": "04000001|It Came from Akavir.esp",
+    "index": 15,
+    "type": "QUST NNAM",
+    "original": "Kill the Kamal",
+    "string": "杀死卡玛尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KMMKamalQuest",
+    "form_id": "04000001|It Came from Akavir.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Return to Amelia",
+    "string": "回去找艾美莉亚",
+    "status": "TranslationComplete"
+  }
+]

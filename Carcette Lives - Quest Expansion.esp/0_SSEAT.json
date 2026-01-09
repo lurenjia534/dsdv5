@@ -1,0 +1,668 @@
+[
+  {
+    "editor_id": "CLCarcetteLetter",
+    "form_id": "05000001|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Urgent News",
+    "string": "急讯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLetter",
+    "form_id": "05000001|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>\r\nYou know I'm not one to mince words and so I will not tarry. Keeper Carcette lives.\r\n\r\nHow a handful of Vigilants survived the massacre, only Stendarr knows, but without our help I'm certain she'll join the rest of her order. Rescue her and return her to Fort Dawnguard.\r\n\r\nFailure is not an option,\r\nIsran\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>\r\n你清楚我从不说废话，所以就直接切入正题：守护者凯西提还活着。\r\n\r\n这几名警戒者究竟是如何在屠杀中幸存下来的，只有斯丹达尔才会知道，但我敢肯定，若没有我们的帮助，她很快就会去陪她的同僚们了。把她救出来，送回黎明守卫堡垒。\r\n\r\n不许失败，\r\n伊士冉\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLVigilantCarcette",
+    "form_id": "05000004|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Carcette",
+    "string": "凯西提",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLVigilantCarcette",
+    "form_id": "05000004|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Carcette",
+    "string": "凯西提",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1DawnguardHQ01",
+    "form_id": "02001DBA|Dawnguard.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fort Dawnguard",
+    "string": "黎明守卫堡垒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HunterHQWorld",
+    "form_id": "02001DB8|Dawnguard.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Dayspring Canyon",
+    "string": "黎明峡谷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueGenericVigilantsOfStendarrDeadraTopic",
+    "form_id": "000CC82D|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's dangerous about daedra?",
+    "string": "魔族有什么危险的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC83C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They are profane creatures with no hope of redemption. They lure innocents to their deaths and corrupt the souls of all they touch.",
+    "string": "它们是一群不得救赎的肮脏生物。专门滥杀无辜，腐蚀所触及的一切生灵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC83C|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And their heretical artifacts grant powers to mortals that wreak havoc across Tamriel. They must be destroyed or guarded to prevent temptation.",
+    "string": "那些异端神器让凡人获得力量导致泰姆瑞尔祸乱四起。他们必须被毁掉或者监护起来，以免意外发生。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueGenericVigilantsOfStendarrWhoStendarrTopic",
+    "form_id": "000CC82E|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who's Stendarr?",
+    "string": "斯丹达尔是谁？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC851|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He is the God of Mercy. The patron of order and justice for all of Tamriel.",
+    "string": "他是仁慈之神，是泰姆瑞尔秩序和正义的化身。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC851|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "We bring his compassion where none can be found, by cleansing all those who would offend his children.",
+    "string": "我们要将他的恩赐传遍世间每个角落，凡是冒犯他子民的人，都要予以消灭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC96F|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're bloated with disease. The Vigilant of Stendarr can help you, as long as you promise to never assist the Daedra.",
+    "string": "你已经病入膏肓了。斯丹达尔的警戒者们能帮助你，但你要承诺今后不可再与魔族相勾结。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC970|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am Keeper of the Vigil here in Skyrim. We bring Stendarr's Mercy to the innocent and His Justice to the Daedra.",
+    "string": "我是天际的守夜人。我们将斯丹达尔的仁慈带给世间纯洁的人们，用他的正义去教训那些凶残的魔族。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC971|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You speak to a Vigilant of Stendarr. Cavort with any Daedra, and we will hunt you down.",
+    "string": "你正在和一位斯丹达尔的警戒者说话。只要你胆敢与魔族为伍，我们就要消灭你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC972|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wherever the Daedra hide, the Vigil of Stendarr will cast them into the light.",
+    "string": "无论魔族躲藏在何处，我们都会把它们揪出来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC9A4|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stendarr's Mercy be upon you, for the Vigil has none to spare.",
+    "string": "愿斯丹达尔怜悯你吧，警戒者是绝不姑息一切罪恶的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC9BD|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Walk always in the light, or we will drag you to it.",
+    "string": "你须行走于光明之下，否则我们必让你受光明的制裁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC9BE|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The suffering the Daedra cause will not go unpunished.",
+    "string": "魔族会为他们亲手造成的苦难付出代价。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC9BF|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Mercy of Stendarr does not extend to Daedra worshippers.",
+    "string": "斯丹达尔的怜悯是绝不会降临到魔族膜拜者的身上的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueGenericVigilantsOfStendarrWhoTopic",
+    "form_id": "000CC837|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're a Vigilant of Stendarr?",
+    "string": "你是斯丹达尔的警戒者？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC855|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes. Our order was founded after the Oblivion Crisis. We dedicate our lives to facing the threat of Daedra wherever they appear.",
+    "string": "是的，我们教派在湮灭危机过后就成立了。我们毕生致力于对抗魔族的威胁，无论何时何处。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueGenericVigilantsOfStendarrCureDiseaseTopic",
+    "form_id": "000CC839|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Please cure me.",
+    "string": "请治愈我吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC9C0|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stendarr's Light purify you of your ills.",
+    "string": "斯丹达尔的光芒将净化你的疾病。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueGenericVigilantsOfStendarrDaedraTopic",
+    "form_id": "000CC83B|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You hunt daedra?",
+    "string": "你们狩猎魔族？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC83D|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And any other abominations that prey on mortals. Vampires. Werewolves. Witches.",
+    "string": "还有其他侵扰凡人的不洁生物。比如吸血鬼，狼人，女巫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CC83D|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But the Daedra are the worst. Their callous disregard for our lives is abhorrent in the eyes of the God of Mercy.",
+    "string": "但这之中魔族最为可怖。他们肆意践踏生命，仁慈之神是不会容忍这一行径的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "OffersTrainingTopic",
+    "form_id": "000E3A35|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like training in Alchemy.",
+    "string": "我想接受炼金术训练。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000C278A|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll gladly share my knowledge with you.",
+    "string": "我很乐意与你分享我的知识。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000C278A|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'd like training in Restoration magic.",
+    "string": "我想接受恢复系法术的训练。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000065|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Deep exhale)",
+    "string": "（深呼一口气）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500006D|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you! I thought that beast would be the end of me!",
+    "string": "谢谢你！我以为那头野兽会杀了我！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestC1Convo1",
+    "form_id": "05000067|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Carcette, are you alright?",
+    "string": "凯西提，你还好吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500006A|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why!? Why! Murdered! In cold blood!",
+    "string": "为什么？！为什么！谋杀！冷血无情！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestC1Convo2",
+    "form_id": "05000068|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Hall lies in ruin Carcette, it's not safe here.",
+    "string": "凯西提，大厅已经成了一片废墟，这里不安全。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500006B|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By the gods! This can't be happening!",
+    "string": "神啊！这不可能！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500006B|Carcette Lives - Quest Expansion.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I just want to get out of here!",
+    "string": "我只想离开这里！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestC1Convo3",
+    "form_id": "05000069|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Isran is waiting for us at Fort Dawnguard.",
+    "string": "伊士冉在黎明守卫堡垒等我们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500006C|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "But...",
+    "string": "但是……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500006C|Carcette Lives - Quest Expansion.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I'm sorry...",
+    "string": "对不起……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500006F|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you again. I can't believe I was this close to being killed.",
+    "string": "再一次感谢你。我真不敢相信我差点就被杀了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestC2Convo1",
+    "form_id": "05000072|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Carcette, how have you been?",
+    "string": "凯西提，你最近怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000073|Carcette Lives - Quest Expansion.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It's not easy, but I'm managing.",
+    "string": "不好过，但我能应付得过来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000073|Carcette Lives - Quest Expansion.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I like what Isran has done with the place. It's good to see someone else who's really prepared.",
+    "string": "我喜欢伊士冉在这里做的这些事。很高兴看到有人做好准备。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestC2Convo2",
+    "form_id": "05000074|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I wish you luck. How have you been getting along with Isran?",
+    "string": "祝你好运。近来你和伊士冉相处得如何？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000070|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I find it hard to believe he's changed his mind. He said some very hurtful things to me.",
+    "string": "我很难相信他会改变想法。他对我说过一些非常伤人的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000070|Carcette Lives - Quest Expansion.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I can see that...",
+    "string": "我能看出来……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000070|Carcette Lives - Quest Expansion.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "It doesn't matter...",
+    "string": "没关系……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestC2Convo3",
+    "form_id": "05000075|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's your plan now?",
+    "string": "你现在有什么打算？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000076|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I will find their leader and kill him!",
+    "string": "我会找到他们的领袖，然后杀了他！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000076|Carcette Lives - Quest Expansion.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "They are profane creatures with no hope of redemption. They lure innocents to their deaths and corrupt the souls of all they touch.",
+    "string": "它们是一群不得救赎的肮脏生物。专门滥杀无辜，腐蚀所触及的一切生灵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000076|Carcette Lives - Quest Expansion.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "We'll stop them, whatever it is they're up to. The Mercy of Stendarr does not extend to Daedra worshippers.",
+    "string": "我们会阻止他们，粉碎他们的阴谋。斯丹达尔的仁慈不会保佑迪德拉信徒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500007D|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They're dead...",
+    "string": "他们都死了……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500007F|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, well... I never wanted any of this to happen. I tried to warn all of you... I am sorry, you know.",
+    "string": "这……我从没想过会发生这样的事。我试着警告你们所有人……我很遗憾。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500007F|Carcette Lives - Quest Expansion.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "We just need... we need help.",
+    "string": "我们只是……需要帮助。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000081|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well, I see you are eager to carry the light.",
+    "string": "很好，我看你很希望照亮别人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000083|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You've served Skyrim well. We'd be honored to have you join us.",
+    "string": "你为天际立下了大功。如果有你加入，我们会十分荣幸。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000087|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Never expected so blatant an attack by vampires, of all creatures.",
+    "string": "我从没想过吸血鬼会如此大胆地突袭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000087|Carcette Lives - Quest Expansion.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I never would have believed it, if I hadn't seen it with my own eyes...",
+    "string": "如果不是亲眼所见，我永远都不会相信……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000089|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aye lass.",
+    "string": "是的，小姐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500008D|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These vampires are a new threat, and a truly deadly one.",
+    "string": "这些吸血鬼是新的威胁，而且是真正致命的威胁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500008F|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank the Divines we survived that.",
+    "string": "感谢圣灵，我们活下来了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500008F|Carcette Lives - Quest Expansion.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I... I'm sorry. Just... know that your efforts are appreciated.",
+    "string": "我……我很抱歉。请你……明白，你的付出我们都看在眼里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000091|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I... Thank you.",
+    "string": "我……很感谢你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestBase",
+    "form_id": "05000003|Carcette Lives - Quest Expansion.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Keeper",
+    "string": "守护者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestBase",
+    "form_id": "05000003|Carcette Lives - Quest Expansion.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I have received a letter from Isran mentioning Keeper Carcette and her potential survival. If I wish to uphold my duty to the Dawnguard, I should investigate this rumour immediately.",
+    "string": "我收到了伊士冉的来信，信中提及守护者凯西提，说她或许尚在人世。若我想履行黎明守卫的职责，就应该着手调查这则传闻。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestBase",
+    "form_id": "05000003|Carcette Lives - Quest Expansion.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Carcette barely survived a skirmish, but with my help, she's now headed back to Fort Dawnguard. Soon she should finally be safe from the vampire scourge.",
+    "string": "凯西提在一场遭遇战中险些丧命，在我的帮助下，她已启程返回黎明守卫堡垒。相信不久后，她就能彻底摆脱吸血鬼的威胁，重获安宁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestBase",
+    "form_id": "05000003|Carcette Lives - Quest Expansion.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I've received news that Carcette has returned to the Fort safely. My duty is done, though I'm certain she'll have something to say in her new home.",
+    "string": "我得知凯西提已安全返回堡垒。我的任务完成了，不过我相信她在这新家肯定有不少话要说。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestBase",
+    "form_id": "05000003|Carcette Lives - Quest Expansion.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Find Keeper Carcette",
+    "string": "寻找守护者凯西提",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestBase",
+    "form_id": "05000003|Carcette Lives - Quest Expansion.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Await Carcette's return",
+    "string": "等待凯西提回归",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuest",
+    "form_id": "0500007A|Carcette Lives - Quest Expansion.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Find Keeper Carcette",
+    "string": "寻找守护者凯西提",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestGunmarScene",
+    "form_id": "05000084|Carcette Lives - Quest Expansion.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Find Keeper Carcette",
+    "string": "寻找守护者凯西提",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CLCarcetteLivesQuestBaseCelannScene",
+    "form_id": "0500008A|Carcette Lives - Quest Expansion.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Find Keeper Carcette",
+    "string": "寻找守护者凯西提",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,3602 @@
+[
+  {
+    "editor_id": "EnchLoveAndThnder",
+    "form_id": "050008C5|UselessRelationships.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Love and Thunder",
+    "string": "爱与雷霆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Letter",
+    "form_id": "050008DB|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Tattered water-soaked letter",
+    "string": "被水浸湿的破烂信件",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Letter",
+    "form_id": "050008DB|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK CNAM",
+    "original": "barely readable",
+    "string": "勉强能读",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LetterToMaven01",
+    "form_id": "050008CD|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Gaius Maro",
+    "string": "加留斯·马洛的来信",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LetterToMaven01",
+    "form_id": "050008CD|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>\r\nDear Maven Black-Briar,\r\n\r\nI disapprove of your relationship with the Dark Brotherhood and the Thieves Guild, and I know my father would be outraged that I make dealings with one like you, but I understand that such relationships are important to maintain power. Let's meet in private soon, I want to hear more about your offer and how it could be useful to my family. \r\n\r\nSincerely,\r\n\r\nGaius Maro\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>\r\n亲爱的玛雯,\r\n\r\n我不赞成你与黑暗兄弟会和盗贼协会的关系，我知道我父亲会对我与你这样的人打交道感到愤怒，但我明白这种关系对维持权力很重要。让我们很快私下见面，我想了解更多关于你的报价，以及它对我的家族有什么用处。\r\n\r\n你的,\r\n\r\n加留斯·马洛\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrokenOaNote01Hargar",
+    "form_id": "050008CE|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from E to Captain Hargar",
+    "string": "E 给哈加队长的信",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrokenOaNote01Hargar",
+    "form_id": "050008CE|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face=\"$HandwrittenFont\">\r\nCaptain Hargar,\r\n\r\ndo not assume it did not come to my notice that there have been troubles with the latest raids. The Circle of Four  counts on you, especially I do. I know you are rivals with the Blood Horker Pirates. I know that Haldyn has been behind your latest failures. Miss M has begun contacting her spy within the Horkers to learn more about this. We suspect our ally Aegisbane is plotting against us and is in league with these pirates. As far as I can tell, the Blood Horkers seem to be a far more efficient group than your rabble of mere cave-stuck bandits. Know that you are easily replaced. My assistent, the aldmeri mage I told you about, has managed to locate the whereabouts of my lost shipment, which has already been sold to someone else. Get it back immediately! Or else I will have your friends killed, you thrown into the Castle Dour dungeons, and then soon have Athar chop your head off. Now go! I want you to take care of this personally. \r\n\r\n-E the \"Stallion\"\r\n",
+    "string": "<font face=\"$HandwrittenFont\">\r\n哈加队长,\r\n\r\n不要以为我不知道最近的突袭遇到了麻烦。四人帮指望你们，尤其是我。我知道你们是血腥长牙海盗团的对手。我还知道哈丁是你们最近失败的幕后黑手。M小姐已经开始联系她在海盗团内部的间谍，以了解更多情况。我们怀疑我们的盟友艾吉斯班在密谋反对我们，并且和这些海盗是一伙的。据我所知，血腥长牙似乎比你们这群只知道钻山洞的乌合之众要有效率得多。要知道，你们很容易被取代。我的助手，也就是我跟你提过的那位法师，已经找到了我丢失的货物的下落，它已经被卖给了别人。马上把它找回来！否则我就杀了你的朋友，把你扔进城堡地牢，然后让阿塔尔砍下你的脑袋。现在滚吧，我要你亲自处理这件事。\r\n\r\n-\"骏马 \"E",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrokenOaNote01Hargar",
+    "form_id": "050008CE|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK CNAM",
+    "original": "A letter ordering Captain Hargar away",
+    "string": "一封命令哈加队长离开的信",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LetterOfTheBigFourx",
+    "form_id": "050008CF|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter to the Big Four",
+    "string": "致四人帮的信",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LetterOfTheBigFourx",
+    "form_id": "050008CF|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face=\"$HandwrittenFont\">\r\n\r\nTo the members of the Circle of Four,\r\nAfter our disagreement a few months ago, I feared that business had finally gotten the best of our alliance. It is important that the Circle of Four remains, and that we thrive togeher. Thus I call all of you to a meeting. We must discuss ongoing events.\r\n\r\nSincerely,\r\nM\r\n",
+    "string": "<font face=\"$HandwrittenFont\">\r\n\r\n致四人帮成员\r\n几个月前我们发生分歧后，我担心我们的联盟最终会被商业利益所左右。重要的是，四人帮要继续存在，我们要共同发展。因此我召集大家开会 我们必须讨论正在发生的事件。\r\n\r\n此致敬礼\r\nM",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LetterOfTheBigFourx",
+    "form_id": "050008CF|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK CNAM",
+    "original": "Who is this circle of four?",
+    "string": "这个四人帮都是谁？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AddvildJournal",
+    "form_id": "050008D2|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Addvild's Journal",
+    "string": "阿德维尔德的日志",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AddvildJournal",
+    "form_id": "050008D2|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nI can not believe what I heard about cousin Vanik. A rapist? Hrollod told me the story, and I really really pray that this is all just a lie. Vanik fought in the Great War, just like Hrollod. I remember how they went to Cyrodiil when the war began, I was but a boy. They weren't much older than I, but they were eager to fight the elves! Near the end of the war, Vanik took revenge on a troop of Dominion soldiers who had slain his comrades. When Vanik and his fellow legionnaires were done with most of them, one woman, another young soldier, begged for mercy. Hrollod says Vanik beat her, and then raped her in front of his men. I can't believe that the cousin I know would ever do such a terrible thing. I understand that he was angry, but that goes too far. I didn't ask why Vanik was expelled from the Legion, but I know there must be more for that too happen. And to think I felt pity for the man when Miss Black-Briar ruined his blacksmith business in Riften.\r\n\r\n</font>\r\n\r\n",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n我简直不敢相信我听到的关于瓦尼克表哥的事。强奸犯？是赫罗洛德告诉我的。我真心祈祷这一切都是谎言。瓦尼克和赫罗洛德一样参加过大战。我还记得战争开始时他们去赛瑞迪尔的情景。那时我还是个孩子，他们比我大不了多少，但他们渴望与精灵作战！战争快结束时，瓦尼克向一队杀死他战友的先祖神州士兵复仇。当瓦尼克和他的军团伙伴们解决了大部分人之后，一个女人，另一个年轻的士兵，向他们求饶。赫罗洛德说凡尼克殴打了她，然后当着他手下的面强奸了她。我不相信我认识的表哥会做出这种可怕的事情。我知道他很生气，但这太过分了。我没有问瓦尼克为什么会被军团开除，但我知道一定还有别的原因。黑荆棘小姐毁了他在裂谷城的铁匠生意时，我还觉得他很可怜。\r\n\r\n</font>\r\n\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AddvildJournal",
+    "form_id": "050008D2|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK CNAM",
+    "original": "Details on how a man named Vanik got expelled from the Legion.",
+    "string": "关于一个名叫瓦尼克的人如何被军团开除的详细信息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Love01",
+    "form_id": "050008D5|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Asbjorn",
+    "string": "阿斯乔恩的信",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Love01",
+    "form_id": "050008D5|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face=\"$HandwrittenFont\">\r\n\r\nI love you Gonnar! And I do not care what anyone will think about it. And I do not care for this doom-driven stormcloak Erkir. You know this rebellion will die! Let Erkir die with it, run away with me. Just do it!\r\n\r\nI love you!\r\nSincerely,\r\nyour Asbjorn",
+    "string": "<font face=\"$HandwrittenFont\">\r\n\r\n我爱你，冈纳尔我不在乎任何人会怎么想。我也不在乎那个该死的风暴斗篷埃基尔。你知道，叛军必然失败！让埃基尔和它陪葬吧。和我一起逃跑。就这么做吧！\r\n\r\n\r\n\r\n我爱你！\r\n真诚的\r\n你的阿斯乔恩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Love01",
+    "form_id": "050008D5|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK CNAM",
+    "original": "A letter from Asbjorn to Gonnar.",
+    "string": "阿斯乔恩写给冈纳尔的信。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Love02",
+    "form_id": "050008D6|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Erkir",
+    "string": "埃基尔的信",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Love02",
+    "form_id": "050008D6|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face=\"$HandwrittenFont\">\r\nDear Gonnar,\r\n\r\nI have not heard of you for a while now my love, last I heard was from your brother, Stenvar. I know some do not approve of this relationship of ours, but true nords listen to their hearts, not to the babbling of fools. When we have rid Skyrim of the Empire we will celebrate and build a shack near river Yogrim. A life for the two of us, alone. But trust me, just as serious as you take your duty in Riften, I take it serious to protect the bridge in Windhelm. My arrows will pierce the hearts of all Imperials that dare show their faces here!\r\n\r\nyour beloved,\r\nErkir",
+    "string": "<font face=\"$HandwrittenFont\">\r\n亲爱的冈纳尔\r\n\r\n我已经很久没有听到你的消息了，我的爱人，我最后一次听到你的消息还是从你的哥哥斯顿伐那里。我知道有些人不赞同我们之间的这种关系，但真正的诺德人听从自己的内心，而不是听信愚人的胡言乱语。等我们把帝国从天际赶走 我们会庆祝一番，然后在尤格瑞姆河边建个小屋，过就我们两个人的生活。但相信我，就像你在裂谷城认真履行职责一样，我也会认真保护风盔城的桥梁。我的箭会射穿所有胆敢在此露面的帝国人的心脏\r\n\r\n你的爱人\r\n埃基尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Love02",
+    "form_id": "050008D6|UselessRelationships.esp",
+    "index": 1,
+    "type": "BOOK CNAM",
+    "original": "A love letter?",
+    "string": "情书？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ImperialBowOfLoveAndThunda",
+    "form_id": "050008C4|UselessRelationships.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Erkirs Bow",
+    "string": "埃基尔斯弓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ImperialBowOfLoveAndThunda",
+    "form_id": "050008C4|UselessRelationships.esp",
+    "index": 1,
+    "type": "WEAP DESC",
+    "original": "A bow with an unusual enchantment. Drain stamina from Imperial Legionares. Shock damage below 20% health. Drains Stamina when enemy is blocking above 50% health.",
+    "string": "附有特殊魔法的弓。消耗帝国军团士兵的体力。生命值低于 20% 时造成电击伤害。当敌人的生命值高于 50%时会消耗体力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOImperialPale",
+    "form_id": "00084539|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legate Constantius Tituleius",
+    "string": "康斯坦丁·提图莱斯副官",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS10Haldyn",
+    "form_id": "0001DC04|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Haldyn",
+    "string": "哈丁",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOImperialHaafingar",
+    "form_id": "000844B1|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legate Adventus Caesennius",
+    "string": "艾文图斯·凯西尼奥斯副官",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOImperialHjaalmarch",
+    "form_id": "000844B2|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legate Taurinus Duilis",
+    "string": "陶李纳斯·达利斯副官",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOImperialReach",
+    "form_id": "000844D0|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legate Emmanuel Admand",
+    "string": "埃马纽埃尔·阿德芒副官",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOImperialWhiterun",
+    "form_id": "000844D1|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legate Quentin Cipius",
+    "string": "昆丁·塞皮尔斯副官",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOImperialWhiterun",
+    "form_id": "000844D1|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Cipius",
+    "string": "塞皮尔斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ThonjolfDaughter",
+    "form_id": "05000111|UselessRelationships.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "daughter",
+    "string": "女儿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOImperialWinterhold",
+    "form_id": "0008453A|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legate Sevan Telendas",
+    "string": "赛文·泰伦达斯副官",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOImperialEastmarch",
+    "form_id": "0008454E|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legate Hrollod",
+    "string": "若罗德副官",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOImperialRift",
+    "form_id": "0008454F|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legate Fasendil",
+    "string": "法森迪尔副官",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOSonsHaafingar",
+    "form_id": "00084550|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Istar Cairn-Breaker",
+    "string": "石冢破坏者伊斯塔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOSonsEastmarch",
+    "form_id": "00084551|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Yrsarald Thrice-Pierced",
+    "string": "三孔伊尔萨拉德",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOSonsHjaalmarch",
+    "form_id": "00084552|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Arrald Frozen-Heart",
+    "string": "冰封之心阿拉德",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOSonsPale",
+    "form_id": "00084553|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Frorkmar Banner-Torn",
+    "string": "裂帜者弗洛克马尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOSonsReach",
+    "form_id": "00084556|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Kottir Red-Shoal",
+    "string": "红暗礁科提尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOSonsRift",
+    "form_id": "0008455B|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Gonnar Oath-Giver",
+    "string": "立誓者贡纳尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOSonsWhiterun",
+    "form_id": "0008455D|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Hjornskar Head-Smasher",
+    "string": "碎颅者乔斯卡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOImperialFalkreath",
+    "form_id": "0008455E|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legate Skulnar",
+    "string": "斯库纳副官",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOSonsFalkreath",
+    "form_id": "0008455F|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Thorygg Sun-Killer",
+    "string": "嗜日者托利格",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWFieldCOSonsWinterhold",
+    "form_id": "00084568|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Kai Wet-Pommel",
+    "string": "湿剑柄凯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Erkir",
+    "form_id": "0500087A|UselessRelationships.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Erkir",
+    "string": "埃基尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LailaHusbandCorpse",
+    "form_id": "050008C3|UselessRelationships.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ermund",
+    "string": "埃尔蒙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunCragslaneButcherUnique",
+    "form_id": "05000001|UselessRelationships.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Butcher",
+    "string": "屠夫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Madena_Son",
+    "form_id": "05000110|UselessRelationships.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Celiban",
+    "string": "塞利班",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ShorsStoneSylgjasHouse",
+    "form_id": "0001383A|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Sylgja's House",
+    "string": "喜儿雅的家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmHouseofClanShatterShield",
+    "form_id": "0001677E|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "House of Clan Shatter-Shield",
+    "string": "碎盾氏族宅邸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VampireCastleGuildhall",
+    "form_id": "02000803|Dawnguard.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Volkihar Keep",
+    "string": "弗基哈尔要塞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LeftHandMineMinersBarracks",
+    "form_id": "000198DF|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Miner's Barracks",
+    "string": "矿工营房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthNepossHouse",
+    "form_id": "00016DFB|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Nepos's House",
+    "string": "奈波斯的家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SnowShodFarm",
+    "form_id": "000161EA|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Snow-Shod Farm",
+    "string": "雪蹄农场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DarkwaterCrossingGoldenrockMine",
+    "form_id": "00013A8A|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Goldenrock Mine",
+    "string": "黑水岔口矿场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DarkwaterCrossingVernersHouse",
+    "form_id": "00013A8C|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Verner and Annekke's House",
+    "string": "维尔纳和安尼克的家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenBlackBriarManor",
+    "form_id": "00016BD8|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Black-Briar Manor",
+    "string": "黑棘别墅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DushnikhYalLonghouse",
+    "form_id": "000198E2|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Burguk's Longhouse",
+    "string": "博古克的长屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeBardsCollege",
+    "form_id": "00016A0C|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Bards College",
+    "string": "诗人学院",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenMistveilKeep",
+    "form_id": "00016BD2|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Mistveil Keep",
+    "string": "雾隐堡垒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeProudspireManor",
+    "form_id": "00016A06|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Proudspire Manor",
+    "string": "豪塔别墅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MorthalJorgenandLamisHouse",
+    "form_id": "000138CF|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Jorgen and Lami's House",
+    "string": "约尔根和拉米的家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrokenOarGrotto01",
+    "form_id": "000BA599|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Broken Oar Grotto",
+    "string": "断桨洞窟",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000004|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you met my friend, Thorygg Sun-Killer? He and I grew up together in Whiterun. ",
+    "string": "你见过我的朋友托雷格·弑日者吗？他和我在白漫城一起长大。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000005|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I earned the name Cairn-Breaker fighting a bear. The bear struck me with his paws and as I crashed, a cairn broke into pieces.",
+    "string": "我因与熊战斗而赢得了破坏者的称号。熊用爪子攻击我，当我摔倒时，一座石碑碎成了碎片。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000006|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My brother, Bolgeir, is the Housecarl of that imperial whore Elisif. I still hope he comes to his senses and brings us her head.",
+    "string": "我的兄弟，波盖尔，是那个帝国妓女艾利西弗的侍从。我仍然希望他能清醒过来，给我们带来她的头。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000007|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bolgeir and I once were close, but ever since the Markarth Incident, he and I have only harsh words for one another. ",
+    "string": "波盖尔和我曾经很亲密，但自从马卡斯事件之后，我和他就只有恶语相向。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000008|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My cousin, Tova, married into Clan Shatter-Shield. I have known Torbjorn all my life, he's a good Nord, a warrior and businessman alike.",
+    "string": "我的表弟托瓦嫁给了碎盾氏族。我从小就认识托布乔恩，他是一个优秀的诺德人，既是战士又是商人。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000009|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My cousin works the forge in Riften. Balimund's his name. Should you see him, tell him to visit me some time. ",
+    "string": "我的表弟在裂谷的锻造厂工作。他的名字叫巴利穆德。如果你见到他，请告诉他找个时间来看我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500000A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am in mourning since I got word that my cousin, Balimund has died. He was a good friend. I will avenge him if I can.",
+    "string": "自从得知我的表弟巴利穆德去世后，我一直处于哀悼之中。他是一个好朋友。如果可以的话，我会为他报仇。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500000B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Before the Rebellion, I was a disciple of Talos. Maybe one day I will return to that honor. ",
+    "string": "在叛乱之前，我是塔洛斯的弟子。也许有一天我会重获这份荣誉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500000C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard rumors that the orc necromancer Bashnag has fled cyrodiil and is hiding here in Skyrim. He no doubt seeks to flee the wrath of the Thalmor.",
+    "string": "我听到谣言说兽人死灵法师巴适那已经逃离了赛瑞迪尔并躲在天际这里。毫无疑问，他是在寻求躲避梭默的愤怒。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500000D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I recently spoke with Jarl Skald the Elder about the Blood Horker Raids on the East Empire Company. No doubt he is in league with them.",
+    "string": "我最近与斯卡德领主谈论了血腥长牙对东帝国公司的袭击。毫无疑问，他与他们是一伙的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500000E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I recently spoke with Skald the Elder about the Blood Horker Raids on the East Empire Company. No doubt he was in league with them.",
+    "string": "我最近与斯卡德领主谈论了血腥长牙对东帝国公司的袭击。毫无疑问，他和他们是勾结的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500000F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is no secret that the Blood Horkers have been causing me and my associates great pain. Seeing them dealt with is a top concern.",
+    "string": "血腥长牙给我和我的同事们带来了巨大的痛苦，这已经不是什么秘密了。看到他们得到处理是最关心的问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000010|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have identified the leader of the Blood Horkers as Haldyn the Red. Whoever brings me his head will get a fine payment.",
+    "string": "我已确定血腥长牙的首领是血腥哈丁。谁把他的头给我带来，谁就会得到赏金。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000011|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The death of Thonar Silver-Blood has caused immense problems throughout Skyrim's economy. I aim to fill the void my dear friend left.",
+    "string": "托纳尔银血的死亡给整个天际的经济带来了巨大的问题。我的目标是填补我亲爱的朋友留下的空白。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000012|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Beware the wilderness friend, a dangerous man is on the loose out there. Hamelyn is his name. The man has lost his mind and is unpredictable.",
+    "string": "当心荒野，朋友。一个危险人物正在荒野上逍遥法外。他叫哈姆林。此人已失去理智，难以捉摸。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000013|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I tell you, the security in whiterun is terrible! Just a few weeks ago, that Breton fiend broke out of the dragonsreach dungeon!",
+    "string": "我告诉你，白漫的治安很糟糕！就在几周前，那个布莱顿恶魔从龙宵宫地牢里冲了出来！ ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000014|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard that madman Hamelyn broke out of the prison in Whiterun. Glad he's not my problem anymore. ",
+    "string": "我听说疯子哈姆林越狱了。很高兴他不再是我的问题了。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000015|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard Hamelyn escaped the whiterun dungeon. That man is crazy. I hope he moves on with his life and forgets about what happened here.",
+    "string": "我听说哈姆林逃离了白漫地牢。那个人疯了。我希望他继续他的生活，忘记这里发生的事情。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000016|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can�t blame the people of Skyrim for mistrusting us here. While most of our former members are honorable people, sometimes we also bring about trouble.",
+    "string": "我不能责怪天际人民不信任我们。虽然我们的大多数前成员都是值得尊敬的人，但有时我们也会带来麻烦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000017|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Glad to hear the Stormcloaks exiled that witch Idgrod. I never could stand that woman! I have already invited Jarl Sorli to visit us for dinner here.",
+    "string": "很高兴听到风暴斗篷流放了女巫艾德格洛德。我一直受不了那个女人！我已经邀请索莉领主来我们这儿吃晚饭了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000018|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "People whisper you've killed a dragon. If that's true, you have earned my greatest respect. ",
+    "string": "人们窃窃私语说你杀死了一条龙。如果这是真的，你就赢得了我最大的尊重。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000019|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Even here in the Stronghold we've heard of you. You have slain two dragons. We at the Stronghold respect and envy you. For ages none had the chance.",
+    "string": "即使在兽人城寨这里我们也听说过你。你已经杀死了两条龙。我们的人尊敬你、羡慕你。很长一段时间以来，没有人获得过这项殊荣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500001A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard a rumor you were the one who slew the Dragon that attacked Whiterun. No doubt they must be mistaken...",
+    "string": "我听到谣言说是你杀死了袭击白漫的巨龙。毫无疑问，他们一定是搞错了…… ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500001B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Killing a dragon is an incredible feat. You, Irileth and the others that followed you have earned great fame.",
+    "string": "杀死一条龙是一项令人难以置信的壮举。你、伊瑞莱斯和其他跟随你的人都赢得了巨大的声誉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500001C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard you assisted the famed Irileth in her battle against a dragon. Irileth is a great warrior, I fought alongside her in the Great War.",
+    "string": "我听说你协助著名的伊瑞莱斯对抗巨龙。伊瑞莱斯是一位伟大的战士，我在大战中与她并肩作战。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500001D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard that Ulfric escaped Helgen with the help of a dragon. How can that be true? ",
+    "string": "我听说乌弗瑞克在一条龙的帮助下逃离了圣地镇。这怎么可能是真的呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500001E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have heard rumors that the vampire clan Volkihar intended to condemn Tamriel to eternal night. I also heard you helped put an end to them. ",
+    "string": "我听说有传言说吸血鬼氏族沃尔基哈打算让泰姆瑞尔陷入永夜。我还听说你帮助结束了他们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500001F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is it true what they say? Did you and the Dawnguard really prevent the eternal night?",
+    "string": "他们说的是真的吗？你和黎明守卫真的阻止了永夜吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000020|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is it true what they say? Did you and the Dawnguard really prevent the eternal night?",
+    "string": "他们说的是真的吗？你和黎明守卫真的阻止了永夜吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000021|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was told you are the Archmage of Winterhold now. Congratulations on the title.",
+    "string": "有人告诉我你现在是冬堡的大法师了。恭喜你获得称号。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000022|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is said that you have been appointed Harbinger of the Companions. It is a great honor, but these are big footsteps you are meant to follow.",
+    "string": "据说你已被任命为同伴的先驱者。这是一项巨大的荣誉，但这些都是你应该追随的伟大脚步。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000023|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So you are Archmage of Winterhold? Congratulations. It is good we have you on our side.",
+    "string": "那么你是冬堡的大法师？恭喜。很高兴我们有你在身边。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000024|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard you helped make the burning of King Olaf festival possible after all. That's good, the people need a little distraction in these times.",
+    "string": "我听说是你促成了火烧奥拉夫国王的庆典。这很好，在这个时代，人们需要分散一下注意力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000025|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was told you broke free of imprisonment in Cidhna Mine. You are indeed resourceful, I give you that.",
+    "string": "我听说你从希讷矿坑的监禁中挣脱出来了。我承认，你确实足智多谋。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000026|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My cousin, Jorn, is a bard at the bard�s college. I never liked the man. Soft, a coward. I bet he�s sucking the flute of the headmaster.",
+    "string": "我的表弟乔恩是诗人学院的吟游诗人。我从来不喜欢这个男人。懦夫，胆小鬼。我敢打赌他正在吸校长的笛子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000027|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard my cousin Jorn gave up on it and is now under the ground. Poor kid, but I don�t really care, never liked him. ",
+    "string": "我听说我的表弟乔恩放弃了它，现在已经在地下了。可怜的孩子，但我真的不在乎，从来不喜欢他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000028|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard a rumor that you are Dragonborn. Surely that can't be true. ",
+    "string": "我听到一个谣言说你是龙裔。这当然不可能是真的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000029|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard a rumor that Maven Blackbriar has taken over the skooma trade here in eastern Skyrim. If that's true I need to find eVVVVIDEE",
+    "string": "我听说玛雯黑棘已经接管了天际东部的斯库玛贸易。如果这是真的，我需要找到证据",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500002A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have always loved travelling the Pale. The cold air brings back memories of a great many battles.",
+    "string": "我一直很喜欢在苍白领旅行。寒冷的空气勾起我对许多战斗的回忆。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500002B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My aunt Hilde lives with her son Sven in Riverwood. I haven't seen them in a long time.",
+    "string": "我的希尔德姨妈和她的儿子斯万住在溪木镇。我已经很久没见到他们了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500002C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Rannveig's Fast. I have been here before, many years ago. A pack of werewolves had hidden here, and I was part of a group sent to hunt them down.",
+    "string": "议战壁垒废墟。我以前来过这里，很多年前。一群狼人藏在这里，我是被派去追捕他们的队伍中的一员。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500002D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I haven't been here in ages. This has always been a place for outlaws and mercenaries, betting on wolf-fights, tournaments and card games. ",
+    "string": "我已经好久没来过这里了。这里一直是不法之徒和雇佣兵的聚集地，赌狼斗、锦标赛和纸牌游戏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000031|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You appeared to me in a vision. You wielded a mighty bow, and at your command, the will of the sun was bent to do your bidding.",
+    "string": "你在异象中出现在我面前。你挥舞着强大的弓，在你的命令下，太阳的意志就会听从你的命令。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000032|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard Hajjvar Iron-Hand has been killed. No doubt Balgruuf is delighted to have his old enemy put into the ground!",
+    "string": "我听说哈吉瓦尔铁手被杀了。毫无疑问，巴尔古夫很高兴他的宿敌被埋入地下！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000033|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am glad to have the Archmage of Winterhold on our side. We could use more mages, even though Galmar might disagree.",
+    "string": "我很高兴冬堡大法师站在我们这一边。我们需要更多的法师，尽管加尔玛可能不同意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000034|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did I hear right? You opened the elder's cairn in Volunruud, the final resting place of Kvenel the Tongue? If so, you must be in possession of Okin?",
+    "string": "我没听错吧？你打开了位于沃伦路德的长老石冢，那是舌头克韦内尔的最后安息之地？如果是的话，你一定拥有奥金吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000035|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did I hear right? You opened the elder's cairn in Volunruud, the final resting place of Kvenel the Tongue? Then this must be Okin. Beautiful...",
+    "string": "我没听错吧？你打开了位于沃伦鲁德的长老石冢，那是舌头克韦内尔最后的安息之地？那么这一定是奥金。美丽...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000036|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard you helped Anska retrieve her family's scroll. She is persistent and ambitious as ever. Did you know, she sees me as a rival?",
+    "string": "我听说你帮助安斯卡取回了她家人的卷轴。她还是那么执着，那么有野心。你知道吗，她把我视为对手？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000037|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You freed Skyrim and perhaps all of Mundus from Alduin's hunger. The Nords of Skyrim will never forget you for it.",
+    "string": "你将天际甚至整个梦达思从奥杜因的魔爪中解放出来。天际的诺德人永远不会忘记你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000038|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You freed Skyrim and perhaps all of Mundus from Alduin's hunger. The Nords of Skyrim will never forget you for it!",
+    "string": "你将天际甚至整个梦达思从奥杜因的魔爪中解放出来。天际的诺德人永远不会忘记你！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000039|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Word spreads like wildfire in Skyrim. You prevented the return of Potema, the Wolf Queen. You have my thanks, even if she had taken care of Solitude.",
+    "string": "消息在天际像野火一样传播。你阻止了狼心女王波特玛的回归。即使她已经摧残了独孤城，我也要感谢你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500003A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder if the Stormcloaks would have been able to beat Potema. No doubt the Legion would have made up most of her undead army.",
+    "string": "我想知道风暴斗篷是否能够击败波特玛。毫无疑问，帝国军团会组成她大部分的亡灵大军。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500003B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is it true what they say, you broke out of Cidhna Mine? I admit, you are resourceful indeed.",
+    "string": "你是从希讷矿坑逃出来的，他们说的是真的吗？我承认，你确实足智多谋。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500003C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear Madanach escaped. I am sure he has lost much of his influence over his people. Once the War is ended, I'll deal with him personally.",
+    "string": "我听说迈德纳奇逃脱了。我确信他对他的人民已经失去了很大的影响力。战争结束后，我会亲自对付他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500003D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard you had a great influence on the fate of the people of Raven Rock. Your assistance to them is no doubt honorable.",
+    "string": "我听说你对乌鸦岩人民的命运产生了很大的影响。您对他们的帮助无疑是光荣的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500003E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know you dealt with the Blood Horkers. I am very delighted to see them put out of the picture, I lost a lot of money because of them.",
+    "string": "我知道你对付的是血腥长牙。我很高兴看到他们被除名，因为他们我损失了很多钱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500003F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's very unfortunate that the Dark brotherhood has been destroyed. But I have money, and the world is ripe with assassins.",
+    "string": "黑暗兄弟会被摧毁了，这是非常不幸的。但我有钱，而且这个世界已经充满了刺客。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000040|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You meddle in the affairs of others, you foil plans, step on others toes. You are like a mouse in a granary. One day I'll have you dealt with.",
+    "string": "你干涉别人的事务，你破坏计划，踩别人的脚趾。你就像粮仓里的老鼠。总有一天我会好好对付你的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000041|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When my sister was raped by legionnaires, I swore undying vengeance. I'll see to it that the empire pays for all their crimes, I promise it.",
+    "string": "当我的妹妹被军团士兵强奸时，我发誓要进行不死不休的复仇。我会确保帝国为他们所有的罪行付出代价，我保证。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000042|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When on the battlefield, my thoughts go out to my sister, and with every strike I send prayers to Talos.",
+    "string": "在战场上时，我会想到我的妹妹，每次攻击时我都会向塔洛斯祈祷。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000043|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have no hatred for elves or beastfolk, I hope that once Skyrim has been returned to the Nords, we can welcome all those who want to live with us.",
+    "string": "我对精灵或兽人没有仇恨，我希望一旦天际回归诺德人，我们就能欢迎所有想和我们一起生活的人。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000044|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Elves disgust me! If it were up to me, we would burn them all alive or have me smash their heads in.",
+    "string": "精灵让我恶心！如果由我决定，我们会把他们全部活活烧死，或者让我打碎他们的头。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000045|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My brother, Stenvar, is a great warrior. A shame he chose to be a mercenary instead of a companion or a stormcloak. Little honor has he.",
+    "string": "我的兄弟斯顿伐是一位伟大的战士。遗憾的是他选择成为一名雇佣兵，而不是加入战友团或风暴斗篷。他没什么荣誉感",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000046|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am Kottir Red-Shoal. I earned the name because wherever I go, I leave clouds of blood in my wake.",
+    "string": "我是科蒂尔·红沙。我赢得了这个名字，因为无论我走到哪里，我都会留下血云。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000047|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard you saved Tamriel from the world eater's hunger. I am impressed, you are a hero, just like in the legends.",
+    "string": "我听说你从世界吞噬者的饥饿中拯救了泰姆瑞尔。我很感动，你就像传说中的英雄一样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000048|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know Ulfric. He and I fought together in the Great War. We were friends. It's difficult to see what he has become. ",
+    "string": "我认识乌弗瑞克。他和我一起参加了第一次浩大战争。我们是朋友。很难想象他会变成这样 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000049|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am Taurinus Duilis. How can I help you.",
+    "string": "我是副官陶李纳斯。有什么可以帮您的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500004A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So my aunt Brina and her man Horik rule over the Pale now. I honestly never expected that.",
+    "string": "所以我的阿姨布里那和她的丈夫霍理克现在统治着苍白领。老实说我从来没想过会这样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500004B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard Mralki, the inkeeper in Rorikstead died. He served under me in the Great War. He was a good man, he will be missed.",
+    "string": "我听说洛里斯泰德的穆拉基去世了。第一次浩大战争期间，他在我手下服役。他是一个好人，人们会怀念他的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500004C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Torbjorn Shatter-Shield is my brother in law. Maybe you've met him in Windhelm, he's an influential citizen there.",
+    "string": "托布乔恩·碎盾是我的妹夫。也许您在风盔城见过他，他是那里一位有影响力的公民。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500004E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ermund Shatter-Shield was the father of my two sons. He disappeared years ago, I assume he was murdered.",
+    "string": "埃尔蒙·碎盾是我两个儿子的父亲。他几年前就失踪了，我猜他是被谋杀的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500004D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard Nilsine and Tova Shatter-Shield died. Poor Torbjorn, he must endure such pain.",
+    "string": "我听说尼尔辛和托瓦碎盾死了。可怜的托比昂，他必须忍受这样的痛苦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500004F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You saved Skyrim from certain doom. All of Tamriel owes you a debt we may never be able to repay.",
+    "string": "你将天际从某种厄运中拯救出来。整个泰姆瑞尔都欠你一笔我们可能永远无法偿还的债务。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000050|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You are a true hero. I heard many things about you, Dragonborn. It's my honor to stand before you.",
+    "string": "你是一个真正的英雄。我听说过很多关于你的事情，龙裔。能够站在你们面前是我的荣幸。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000051|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So you are Harbinger of the companions? I'm impressed. Very impressed.",
+    "string": "所以你是战友团的先驱者？真让我印象深刻，非常佩服",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000052|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "With every day the power of the blood grows within me. Thank you for sharing this gift with me, my master.",
+    "string": "血液的力量每天都在我体内增长。感谢您与我分享这份礼物，我的主人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000053|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am really impressed by your heroic deeds, Dragonborn. There are few nowadays that share your spirit.",
+    "string": "龙裔，你的英雄事迹令我印象深刻。如今，很少有人能与你拥有同样的精神。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000054|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am really impressed by your heroic deeds, Dragonborn. There are few nowadays that share your spirit.",
+    "string": "龙裔，你的英雄事迹令我印象深刻。如今，很少有人能与你拥有同样的精神。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000055|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder what it feels like to absorb a dragons soul. It looks amazing.",
+    "string": "我想知道吸收龙魂是什么感觉。看起来棒极了。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000056|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The civil war takes a heavy toll on the people of Skyrim. I hope they will come to their senses and end the bloodshed. But I'm just a deluded dreamer",
+    "string": "内战给天际人民带来了沉重的损失。我希望他们能够清醒过来，结束流血事件。但我只是一个被迷惑的梦想家 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000057|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The life of a soldier is stressful, but full of purpose. They are always on duty.",
+    "string": "士兵的生活压力很大，但充满目标。他们总是在执行任务。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000058|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know a young woman here in Shor's Stone. She was injured in a mining accident, I took care of her for a while on my way to Dawnstar.",
+    "string": "我在舒尔之石认识一位年轻女子。她在一次矿难中受伤，我在去晨星的路上照顾了她一段时间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000059|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know a young woman here in Shor's Stone. She was injured in a mining accident, I took care of her for a while on my way to Dawnstar.",
+    "string": "我在舒尔之石认识一位年轻女子。她在一次矿难中受伤，我在去晨星的路上照顾了她一段时间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500005A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard Dinya Balu has died. She was a good friend, I miss her.",
+    "string": "我听说丁雅去世了。她是一个好朋友，我想念她。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500005B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Blackbriar family is a blight on Skyrim. They are behind a great many criminal activities all over the province.",
+    "string": "黑棘家族是天际的祸害。他们是全省大量犯罪活动的幕后黑手。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500005C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You are the dragonborn, a child of mighty Akatosh. The divines favor you, friend, it explains a lot.",
+    "string": "你是龙裔，强大​​的阿卡托什之子。神灵眷顾你，朋友，这说明了很多问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500005D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You returned, has the world eater been defeated? Is it all over now?",
+    "string": "你回来了，世界吞噬者被打败了吗？现在一切都结束了吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500005E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Azura is one of the few daedra that are more benevolent than callous, service to her is not immoral. No doubt helping her is the right choice here...",
+    "string": "阿祖拉是为数不多的比冷酷更仁慈的魔族之一，为她服务并不是不道德的。毫无疑问，在这里帮助她是正确的选择...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500005F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am delighted that you have agreed to help the temple spread the words of Mara. This is a good deed! And a nice change from all the fighting.",
+    "string": "我很高兴你同意帮助寺庙传播玛拉的话语。这是一件好事！与所有的战斗相比，这是一个很好的变化。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000060|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm so proud of you, your continuing assistance to the Temple of Mara is gracious and praiseworthy. Keep it up, my son!",
+    "string": "我为你感到骄傲，你对玛拉神庙的持续帮助是仁慈且值得赞扬的。坚持下去，我的儿子！ ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000061|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm so proud of you, your continuing assistance to the Temple of Mara is gracious and praiseworthy. Keep it up, my daughter!",
+    "string": "我为你感到骄傲，你对玛拉神庙的持续帮助是仁慈且值得赞扬的。坚持下去，我的女儿！ ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000062|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am very proud of you, my child. You are a true hero to all Skyrim and beyond. I am glad to help you in any way I can. You are my purpose!",
+    "string": "我为你感到骄傲，我的孩子。你是天际内外的真正英雄。我很高兴能尽我所能帮助你。你就是我的目标",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000063|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did you know, the Coterie of Organized Scholars was a scholarly institution in the second era that operated from Solitude.",
+    "string": "你知道吗，学者社团是第二纪元以独孤城为基地的学术机构。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000064|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ever heard of the Shademother? She was a hagraven that prolonged her life by siphoning the the essence from all of Haafingar! Sounds awful.",
+    "string": "听说过影母吗？她是海芬加的乌鸦鬼婆，通过吸取整个海芬加的精华来延长自己的生命！听起来很可怕。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000065|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The walls around Solitude were raised by High King Erling. I'm pretty sure you didn't know that. That's what the dean of history is for, friend. Haha",
+    "string": "独孤城周围的城墙是由至高王埃尔林建造的。我很确定你不知道这一点。我敢肯定你不知道这一点。这就是历史院长的职责，朋友。哈哈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000066|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In the first era, King Harald led a campaign against the snow elves. With their retreat to the Rift, Skorm Snow-Strider discovered the last bastionXX",
+    "string": "在第一纪元，哈拉尔德国王领导了一场针对雪精灵的战役。随着雪精灵向裂谷撤退，斯科姆·雪步发现了它们最后的堡垒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000067|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mistwatch used to be the home of the Ternion Monks, Nords who still worshipped the old gods. They saved High-King Jorunn from assassination.",
+    "string": "迷雾塔楼曾经是特尼恩修道士的家园，这些诺德人仍然崇拜旧神。他们将诗人王乔伦从暗杀中拯救了出来。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000068|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Few know this, but I heard Otar the Mad lies entombed in Ragnvald, an ancient nordic crypt north of Markarth.",
+    "string": "很少有人知道这一点，但我听说疯狂的奥塔被埋葬在拉根沃德，这是马卡斯北部的一个古老的诺德墓穴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000069|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Folgunthur once housed the treasures of the legendary mage Maelmoth. His illusions were unmatched!",
+    "string": "佛古恩瑟曾经藏有传奇法师梅尔莫斯的宝藏。他的幻术无与伦比！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500006A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In the second era, High King Svargrim of Solitude was corrupted by Rada Al-Saran, a vampire lord and sword saint who sought to wipe out all life here",
+    "string": "在第二纪元，独孤城的至高王斯瓦格里姆被萨兰的拉达腐蚀，萨兰的拉达是一位吸血鬼领主和剑圣，他试图消灭这里的所有生命",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500006B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Kilkreath Temple was once a place of worship for the priests of Meridia. The crypt however is much older than the shrine.",
+    "string": "基尔克瑞斯遗址曾是梅瑞狄雅的一个圣坛神庙。然而，墓穴的历史要比神殿悠久得多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500006C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In the third era, there was great rivalry between Whiterun, Dawnstar and Falkreath. Now these days, Dawnstar and Whiterun are foes once again.",
+    "string": "在第三纪元中，白漫、晨星和佛克瑞斯之间展开了激烈的竞争。如今，晨星和白漫再次成为敌人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500006D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am sure you didn�t know the Jagged Crown was forged by King Harald himself! I heard you were the one who helped retrieve it.",
+    "string": "我相信您不知道锯齿王冠是哈拉尔国王亲自铸造的！我听说你是帮忙找回它的人。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500006E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I stumbled upon conjectures saying Lemay Bal�s corpse could be buried underneath Windhelm. Although I doubt this, many sources contradict each other.",
+    "string": "我偶然推测出勒梅·巴尔的尸体可能埋在风盔城下面。尽管我对此表示怀疑，但许多消息来源相互矛盾。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500006F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The legendary Red Eagle is said to be buried within Rebel�s cairn. Only a fool would set foot in there.",
+    "string": "据说传说中的红鹰被埋在叛军的石冢内。只有傻子才会踏足那里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000071|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm Skulnar, a Nord raised in Cyrodiil. I have family here in Skyrim, but we never really talk much. This land is not my home.",
+    "string": "我是斯库纳，一个在赛瑞迪尔长大的诺德人。我在天际有家人，但我们从来没有真正交谈过。这片土地不是我的家。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000070|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Few know that, but there was once an entrance to Blackreach from Solitude, which has collapsed ages ago. A gigantic vampire fortress was down there.",
+    "string": "很少有人知道，曾经有一个从独孤城通往黑境的入口，但它在很多年前就已经倒塌了。那里有一座巨大的吸血鬼堡垒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000072|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm from High Rock. I joined the Legion when I was a young lad. The Legion's been my family ever since.",
+    "string": "我来自高岩。我年轻时就加入了军团。从那时起，军团就成了我的家人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000073|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have seen many wrongdoings in my days. Time to make up for them.",
+    "string": "我一生中见过很多错事。是时候弥补了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000074|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm glad I'm the one in charge of the Imperial Legion here in Whiterun. A lot better than up there in the Pale.",
+    "string": "我很高兴我是白漫帝国军团的负责人。比苍白领那里好多了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000075|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Jarl Balgruuf does well enough for us here. He's a good host. ",
+    "string": "巴尔古夫领主在这里对我们来说已经足够好了。他是一位好人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000076|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll make sure General Tullius' plans go as intended. There is no room for failure.",
+    "string": "我会确保图留斯将军的计划按预期进行。没有失败的余地。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000077|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "With Ulfric and his hound Galmar gone, the Stormcloaks will soon disband, and our duty here finally ends.",
+    "string": "随着乌弗瑞克和他的猎犬加尔玛的离开，风暴斗篷很快就会解散，我们在这里的职责也终于结束。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000078|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't trust the marshes out there. Something's lurking in the fog, I know it.",
+    "string": "我不相信外面的沼泽。有什么东西潜伏在迷雾中，我知道。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000079|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've seen a werewolf a few weeks ago. I hope it stays far away from Morthal.",
+    "string": "几周前我见过狼人。我希望它离墨索尔远点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500007A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My brother, Vanik, is a disgrace to our family. Heard he joined those vampire hunters, maybe they can return his honor.",
+    "string": "我的兄弟瓦尼克是我们家族的耻辱。听说他加入了那些吸血鬼猎人，也许他们给予他荣誉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500007B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Once the Empire is driven out of Skyrim, I'll personally see it that all the elves in Skyrim nourish her soils.",
+    "string": "一旦帝国被赶出天际，我会亲自确保天际的所有精灵都能滋养她的土壤。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500007C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some of my brothers say that Ulfric won't allow me to pursue the cleansing of Skyrim, but I know better.",
+    "string": "有些兄弟说乌弗瑞克不允许我继续净化天际，但我更清楚。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500007D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can't wait to smash another Imperial skull.",
+    "string": "迫不及待地想砸碎另一个帝国头骨。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500007E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It pains me, knowing that some of my comrades from the Great War are now my enemies. I only hope I can give them a quick and honorable death.",
+    "string": "知道我在第一次浩大战争中的一些战友现在成了我的敌人，这让我很痛苦。我只希望能够让他们快速而光荣地死去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500007F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is our burden to bear that our misguided brothers and sisters stand against us in this terrible war, and must die for their treachery.",
+    "string": "我们有责任承受，我们被误导的兄弟姐妹在这场可怕的战争中与我们作对，并且必须为他们的背叛而死。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000080|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Holsgar is the only brother I have left. He is a courier for us, and a damn good ranger.",
+    "string": "霍斯加尔是我唯一的兄弟。他是我们的信使，也是一名出色的游骑兵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000081|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There is so much blood on my hands, no matter what I do, they will never be clean again.",
+    "string": "我的手上沾满了太多的血，无论我做什么，都永远洗不干净了。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000082|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am called Frozen-Heart, because my son joined the Empire when the war began. On the battlefield, I hacked his hands off and choked him to death.",
+    "string": "我被称为冰封之心，因为我的儿子在战争开始时加入了帝国。在战场上，我砍掉了他的双手，把他掐死了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000083|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you met Kai Wet-Pommel? Every Morndas, he says a prayer to Talos for forgiveness for my broken soul. He's a good man.",
+    "string": "你见过凯·雨鞍吗？每个周一，他都会向塔洛斯祈祷，祈求宽恕我破碎的灵魂。他是个好人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000084|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Imperials think we are beasts that they can subjugate, but they'll see soon enough that they will be the ones to kneel.",
+    "string": "帝国人认为我们是他们可以征服的野兽，但他们很快就会发现他们将是跪下的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000085|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am full of grief. My heart is broken, I miss my son.",
+    "string": "我充满悲伤。我的心碎了，我想念我的儿子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000086|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Once the Empire is driven out of Skyrim, I'll personally see it that all the elves in Skyrim nourish her soils.",
+    "string": "一旦帝国被赶出天际，我会亲自确保天际的所有精灵都能滋养她的土壤。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000087|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My uncle is Arrald Frozen heart, he is a Stormcloak general and a respectable and well known fighter.",
+    "string": "我的叔叔是阿拉尔德·冰封之心，他是一名风暴斗篷将军，也是一位令人尊敬的知名战士。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000088|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Empire will bring Order back to Skyrim, I promise that.",
+    "string": "帝国将把秩序带回天际，我保证。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000089|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Eh... I miss Solitude. I have fallen in love with the city, but my duties keep me here.",
+    "string": "呃...我想念独孤城。我爱上了那座城市，但我的职责让我留在这里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500008E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My brother is a stormcloak general. I don't know what got into him, but if he shows up here, I'll cut his head off.",
+    "string": "我的兄弟是一名风暴斗篷将军。我不知道他怎么了，但如果他出现在这里，我会砍下他的头。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500008F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Istar Cairn-Breaker is my brother. Beware him, he's a dangerous man.",
+    "string": "伊斯塔·破冢者是我的兄弟。小心他，他是个危险的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000090|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My aunt, Shel, is the favorite wife of Chief Burguk in Dushnikh Yal. I couldn't stand her, I like that she's there now.",
+    "string": "我的阿姨谢尔是杜什尼克博古克酋长最喜欢的妻子。我受不了她，我喜欢她现在在那里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000091|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am Shel, Burguk's favorite wife. I come from Mor Khazgur, my brother is Chief there. With our marriage, peace was established between the tribes.",
+    "string": "我是谢尔，博古克最喜欢的妻子。我来自莫卡兹古尔，我的兄弟是那里的酋长。通过我们的婚姻，部落之间建立了和平。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000092|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard Skjor of the Companions died at Gallow's Rock. We fought side by side in numerous battles during the Great War. He must be in Sovngarde now.",
+    "string": "我听说战友团的斯科约尔死在绞架岩。第一次浩大战争期间，我们并肩作战无数次。他现在肯定在英灵殿了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000093|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've heard the news, the death of Kodlak Whitemane was avenged. Well done.",
+    "string": "我听说这个消息，克拉科·白鬃大仇得报。做得好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000094|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So the Stormcloaks have been defeated by the Mede Empire. I once thought they'd stand a chance. Doesn't matter to me, though.",
+    "string": "所以风暴斗篷已经被帝国击败了。我曾经以为他们会有机会。不过对我来说没关系。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000095|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's been a long while since I last had a drink at Ambarys Rendar's Cornerclub. But I can barely find the time to have a drink here.",
+    "string": "自从我上次在新格尼西斯街角吧喝一杯以来已经有很长一段时间了。但我几乎找不到时间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000096|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is it true what they say? You are Dragonborn? If so, please don't shout near the mine, I don't want it to collapse.",
+    "string": "他们说的是真的吗？你是龙裔？如果是这样，请不要在矿井附近喊叫，我不想让它塌下来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000097|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't think I didn't know for a second that you've been granted the title of archmage of Winterhold. You work your way up fast, am I right?",
+    "string": "别以为我不知道你被授予了冬堡大法师的称号。你的进步很快，对吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000098|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My daughter, Shel, the wife of Chief Burguk, died. I hope our friendship with the stronghold of Dushnikh Yal remains.",
+    "string": "我的女儿谢尔，博古克酋长的妻子，去世了。我希望我们与杜什尼克的友谊能够继续下去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000099|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you met Erikur? He is a thane of Solitude. He and I have been working together for years, It is a business-relationship that definitely bears fr",
+    "string": "你见过艾瑞库尔吗？他是独孤城的领主。我和他已经合作多年了，这种商业关系肯定会开花结果。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500009A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've heard of a merchant, they call her the Broker, who sells all matter of necromantic wares. Never met her in person though.",
+    "string": "我听说过一个商人，他们叫她 \"掮客\"，出售各种亡灵法术物品。不过从未见过她本人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500009B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How can it be, the dark brotherhood destroyed? Maven must be so furious, 'm certain she'll have anyone killed even just mentioning the incident.",
+    "string": "怎么可能，黑暗兄弟会被毁了？玛雯一定非常愤怒，我敢肯定，即使只是提到这件事，她也会杀人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500009C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard you are the fabled hero who saved Skyrim from Alduin? We are proud to have you as a student in the bard's college, Dragonborn.",
+    "string": "我听说您是从奥杜因手中拯救了天际的传说英雄？很荣幸您能成为吟游诗人学院的学生，龙裔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500009D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These dragons are bad for business. I hope brave heroes will step up to beat them into oblivion. I don't want to lose any more profits, damn it!",
+    "string": "这些龙对生意不利。我希望勇敢的英雄能够挺身而出，将他们击败。我不想再损失任何利润了，该死！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500009E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Too bad Ulfric's dead now. He and his court were excellent business-partners, hopefully the people of Eastmarch are still in the mood to trade.",
+    "string": "太糟糕了，乌弗瑞克现在死了。他和他的宫廷是优秀的商业伙伴，希望东陲的人们仍然有交易的心情。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500009F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Send my regards to Phinis if you are visiting the college. He was a very delightful young student.",
+    "string": "如果您正在参观学院，请向菲尼斯问好。他是一个非常令人愉快的年轻学生。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000A0|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, you wield mighty dawnbreaker. A powerful weapon in a fight against the undead, no doubt. A marvelous sword, even for a conjurer.",
+    "string": "啊，你挥舞着强大的破晓者。毫无疑问，这是对抗不死生物的强大武器。即使对于魔法师来说，也是一把奇妙的剑。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000A1|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The college of winterhold is in your debt. I, for one, would not have cared if the college counted it's last days.",
+    "string": "冬堡学院欠你一个人情。就我而言，我不会在意学院是否走到了尽头。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000A2|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The college of winterhold is in your debt. I, for one, would not have cared if the college counted it's last days.",
+    "string": "冬堡学院欠你一个人情。就我而言，我不会在意学院是否走到了尽头。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000A3|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": " I recently read the entrails of a swamp dear, a vision showed me a battle on the north-western coast of Skyrim on an island. Men against vampires...",
+    "string": "我最近解读了一具沼泽恶魔的内脏。幻觉让我看到了一场战斗——就在天际西北海岸的一座小岛上，人类对抗吸血鬼...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000A4|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Send my regards to Phinis if you are visiting the college. He was a very delightful young student.",
+    "string": "如果您正在参观学院，请向菲尼斯问好。他是一个非常令人愉快的年轻学生。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000A5|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My son, Skald One-Eye is spreading terror across the sea of ghosts! No one can escape the bloodthirst of my family.",
+    "string": "我的儿子，斯卡德独眼正在幽灵之海中散布恐怖！没人能逃脱我家族的嗜血杀戮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000A6|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear we won't be seeing the Blood Horkers for a while now since you paid them a friendly visit. I don't know if I'm angry or grateful. We shall see",
+    "string": "我听说自从你对血腥长牙进行了友好拜访后，我们有一段时间不会见到他们了。我不知道我是生气还是感激。我们将会看到 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000A7|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You have been the talk of the court for days! A Dragonborn, just like the old legends. I must humbly admit that you are a special guest of our palace",
+    "string": "几天来你一直是宫廷上的话题！龙裔，就像古老的传说一样。我必须谦虚地承认你是我们宫殿的特邀客人 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000A8|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard you joined the Stormcloaks. I thought better of you.",
+    "string": "我听说你加入了风暴斗篷。我对你评价更高了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000A9|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your glorious deeds are being talked about everywhere! You flew to Sovngarde on the back of a dragon to slay the world eater and prevailed!",
+    "string": "您的光辉事迹，已为世人所传颂！你骑在龙背上飞往松加德，杀死了世界吞噬者并取得了胜利！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000AA|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So the Rebellion ends. Finally. I only hope this war ends for good now.",
+    "string": "叛乱结束了，终于结束了。我只希望这场战争永远结束。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B5|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, I've heard Mralki runs the Inn in Rorikstead. Good to see he's fine. I know him since the Great War, we fought side by side.",
+    "string": "啊，我听说穆拉基在洛里斯泰德经营着这家旅馆。很高兴看到他没事。我从第一次浩大战争就认识他了，我们并肩作战。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B6|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm sure Malacath is watching our adventures with excitement. I am truly honored to journey Skyrim with you, Dragonborn.",
+    "string": "我确信玛拉凯斯正兴奋地注视着我们的冒险。我真的很荣幸能和你一起旅行天际，龙裔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B7|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Interesting to see Legate Skulnar here in Falkreath. He has risen well amongst the ranks of the Legion.",
+    "string": "在佛克瑞斯见到副官斯库纳很有趣。他在军团中正节节高升。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000BC|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I recently received word that Nurelion, the owner of the White Phial in Windhelm has passed away. He and I worked together once a few years ago.",
+    "string": "我最近收到消息称风盔城雪瓶的主人努瑞莱昂去世了。几年前我和他曾合作过一次。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000BD|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you ever been in Riften? My aunt, Laila, is the Jarl there. She married my deceased uncle many years ago.",
+    "string": "你去过裂谷吗？我的阿姨莱拉是那里的领主。许多年前，她嫁给了我已故的叔叔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000BE|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Jarl Laila Law-Giver hasn't visited us since the start of the Civil War. We planed a great family feast for this month, but had to call it off.",
+    "string": "自从内战开始以来，莱拉立法者领主就再也没有来过我们这里。我们计划在这个月举办一场盛大的家宴，但不得不取消。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000BF|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard you joined the Stormcloaks. That's an honorable cause you are fighting for, friend!",
+    "string": "我听说你加入了风暴斗篷。这是你为之奋斗的光荣事业，朋友！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C0|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard you joined the Imperials. Not a wise choice, they don't have Skyrim's best interests in mind, only those of their emperor, I'm afraid.",
+    "string": "我听说你加入了帝国军队。这不是一个明智的选择，他们不考虑天际的最大利益，恐怕只考虑他们皇帝的利益。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C1|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am most pleased to hear you have joined the ranks of the Imperial Legion! I'm pretty sure they can use someone like you!",
+    "string": "我很高兴听到你加入了帝国军团的行列！我确信他们需要你这样的人才！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C2|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm so glad you are on our side! With your skills, Ulfric should never get a good night's rest again now with you on the front lines!",
+    "string": "我很高兴你站在我们这边！以你的技术，现在你在前线，乌弗瑞克应该再也无法好好休息了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C3|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have come to accept Ulfric's victory over the Empire. It must be the will of the gods, and so I have to surrender to their decree.",
+    "string": "我已经接受了乌弗瑞克对帝国的胜利。这一定是诸神的意志，所以我必须服从他们的法令。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C4|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dragonborn, to what do I owe the honor? I hope you are enjoying your stay in Solitude.",
+    "string": "龙裔，我有什么荣幸？我希望您在孤独中过得愉快。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C5|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have never been here before. The college looks as unique as I imagined. Unlike anything else in Skyrim.",
+    "string": "我以前从未来过这里。学院看起来和我想象的一样独特。与天际中的其他任何东西都不一样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C6|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your skill with destruction magic makes you deadly as a tornado. I bet few mages can stand against you and live to tell about it.",
+    "string": "你的毁灭魔法技能让你像龙卷风一样致命。我敢打赌，很少有法师能够与你对抗并活着讲述这件事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C7|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You are a master of restoration magic, it's good to know there are still capable healers in Skyrim. It's the only school people tolerate here.",
+    "string": "你是恢复系魔法的大师，很高兴知道天际仍然有有能力的治疗师。这是这里唯一能让人容忍的流派",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C8|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm really impressed by your restoration magic, it's the kind of magic I've been most fascinated with since I was a child.",
+    "string": "你的恢复魔法给我留下了深刻的印象，这是我从小就最着迷的魔法。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C9|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You are a Thane here in Haafingar? That's a high status in a large and important hold. I'm impressed.",
+    "string": "你是海芬加的男爵？这是一个位高权重的职务，令我印象深刻。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000CA|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't get how Ulfric could fail like that. He was meant to save us all!",
+    "string": "我不明白乌弗瑞克怎么会失败。他是为了拯救我们所有人！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000CB|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, I was hoping the Stormcloaks would win this god-damned war. It seems I bet on the wrong horse...",
+    "string": "好吧，我希望风暴斗篷能赢得这场该死的战争。看来我赌错了马...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000CC|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, the Imperials aren't as bad as I thought them to be. I just hope they don't prosecute Talos worshippers more often now.",
+    "string": "好吧，帝国队并不像我想象的那么糟糕。我只是希望他们现在不要更频繁地起诉塔洛斯崇拜者。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000CD|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When I heard the news that Kodlak Whitemane has left our world, my heart shattered into pieces. A true Nord hero was he.",
+    "string": "当我听到科德拉克·怀特迈恩离开我们的世界的消息时，我的心碎成了碎片。他是真正的诺德英雄。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000CE|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Horik Halfhand is a great warrior, I remember seeing him duel Jod when I was a lad. It was a pit fight. A shame they don't do these anymore.",
+    "string": "半手霍理克是一位伟大的战士，我记得当我还是个小伙子时看到他与乔德决斗。这是一场混战。很遗憾他们不再做这些了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000CF|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We could stop by my aunt Brina for some food and rest. Maybe we can warm ourselves at her fire and have a pint of mead.",
+    "string": "我们可以去我阿姨布琳娜那里吃点东西，休息一下。也许我们可以在她的火边取暖，喝一品脱蜂蜜酒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000D0|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard Elgrim has died. He was a forgetful old man, but my prayers go out to his wife Hafjorg. I've known her since I was a lad.",
+    "string": "我听说艾格瑞姆死了。他是个健忘的老人，但我为他的妻子哈夫约格祈祷。我从小就认识她了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000128|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard the Stormcloaks took Markarth. I feel pity for Igmund, how awful it must be to be chased from the land you rightfully rule.",
+    "string": "我听说风暴斗篷占领了马卡斯。我为依格蒙德感到遗憾，被逐出你合法统治的土地是多么可怕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000129|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you met Thane Erikur? He is a great businessman and practically owns Solitude. We are friends, you know?",
+    "string": "你见过艾瑞库尔男爵吗？他是一位伟大的商人，实际上掌控了独孤城。我们是朋友，你知道吗？ ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500012A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Maven Blackbriar recently sent me an invitation to one of her parties. Oh, she knows how to celebrate.",
+    "string": "玛雯·黑棘最近向我发出了参加她的一个聚会的邀请。哦，她知道如何庆祝。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500012B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hemming Blackbriar recently visited us here to discuss the future of our collaboration. Soon, I will be one of the richest men in Skyrim!",
+    "string": "海姆英·黑棘最近拜访了我们，讨论了我们未来的合作。很快，我将成为天际最富有的人之一！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500012C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm happy to see Maven Blackbriar rule the Rift. I believe the Rift and Falkreath will benefit greatly from each other.",
+    "string": "我很高兴看到玛雯·黑棘统治裂谷。我相信裂谷和佛克瑞斯将从彼此中受益匪浅。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500012D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm so glad Maven lies under the ground. With her gone, Skyrim has become a much safer place.",
+    "string": "我很高兴 玛雯躺在地下。她走了后，天际变得更加安全。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500012E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Zaynabi's heart is broken, Kharjo will be missed. This one needs time to accept it.",
+    "string": "泽纳比的心碎了，人们会想念哈由的。这个需要时间去接受。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500012F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hahaha! Oh, you missed the great celebration we had when I got the news that this wretch Igmund has been exiled from Markarth! Long live Ulfric!",
+    "string": "哈哈哈！哦，当我得知这个坏蛋依格蒙德已被马卡斯流放时，你错过了我们举行的盛大庆祝活动！乌弗瑞克万岁！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000130|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Poor Laila, to lose the throne of Riften to that bitch Maven Blackbriar must be frustrating. Ulfric should have her killed!",
+    "string": "可怜的莱拉，把裂谷王座输给了玛雯·黑棘那个贱人，一定很令人沮丧。乌弗瑞克应该杀了她！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000131|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Between you and me, I don't very much like the thought of Maven Blackbriar ruling the Rift, but there's nothing I could do about it.",
+    "string": "恕我直言，我不太喜欢玛雯·黑棘统治裂谷，但我对此无能为力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000132|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My brother Jesper is working in Rockwallow Mine. I told him to come here more often, but he rarely speaks to anyone, not even to our cousin Jorgen.",
+    "string": "我的兄弟杰斯帕在滚石矿场工作。我叫他多来这里，但他很少和任何人说话，甚至不和我们的表弟乔尔根说话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000133|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am most pleased to hear Maven is Jarl of the Rift now. Oh, the money we will make, Haha! If you're smart, you'll get something out of it too.",
+    "string": "我很高兴听到 玛雯现在是裂谷领主。哦，我们会赚到钱的，哈哈！如果你聪明的话，你也会从中得到一些东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000134|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I understand you are Archmage of the Winterhold College, am I right? It's good to have a friend there, especially in such a high position.",
+    "string": "我知道你是冬堡学院的大法师，对吗？有朋友在那里真是太好了，尤其是在这么高的职位上。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000135|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Welcome to Solitude, Archmage. Here to do some business?",
+    "string": "欢迎来到孤独，大法师。来这里做生意吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000136|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The hero of the Civil War! What can the richest man in Skyrim help you with?",
+    "string": "内战英雄！天际首富可以帮助你做什么？ ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000137|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thanks for dealing with those Blood Horkers. These pirates have been harassing our brave and righteous sailors of the East Empire Company for years.",
+    "string": "谢谢您对付了那些血腥长牙的人。这些海盗多年来一直在骚扰我们东帝国公司勇敢而正义的水手们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000138|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Between you an me, I have heard you have served Boethiah well. Know this, I do praise some of the Daedra lords. They are more convenient in XXXXXXX",
+    "string": "在你我之间，我听说你为波耶西亚服务得很好。知道这一点，我确实赞扬一些迪德拉领主。他们在某些时候更方便",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000139|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did you hear? The Ebony mines on Solstheim have been reopened! Raven Rock is ripe for business, I tell you!",
+    "string": "你听到了吗？索瑟海姆的乌木矿已经重新开放！我告诉你，去乌鸦岩做生意的时机已经成熟了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500013A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I found out the other day that you were the one who broke Thorald Gray-Mane out of Northwatch Keep and slaughtered the elves on the way out. Amusing!",
+    "string": "前几天我发现你就是把索拉德·灰鬃带出北塔堡垒并在出去时屠杀了精灵的人。有趣！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500013B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know you are with the Legion. I am very disappointed, you made the wrong choice.",
+    "string": "我知道你是军团的一员。我很失望，你做了错误的选择。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500013C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know you are with the Legion. I am very disappointed, you made the wrong choice. I thought you were a child of Skyrim!",
+    "string": "我知道你是军团的一员。我很失望，你做了错误的选择。我还以为你是天际的子民呢！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500013D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Stormcloaks are gaining territory! Talos is with the Stormcloaks, it's quite obvious really.",
+    "string": "风暴斗篷正在夺取领土！塔洛斯和风暴斗篷站在一起，这真的很明显。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500013E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sorli the Builder might not have an ancestral right to rule Hjaalmarch, but that woman has the spirit of a true Nord! That's what Skyrim needs.",
+    "string": "建造者索莉可能没有继承统治哈尔马奇的权利，但那个女人却拥有真正的诺德人的精神！这就是天际所需要的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500013F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Eh, I've got a pretty hard headache from drinking all that spiced wine Torbjorn Shatter-Shield sent me. What do you want?!",
+    "string": "呃，我喝了托布乔恩碎盾送给我的所有香料酒，头疼得厉害。你想要什么？！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000146|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's a pity that Ulfric is gone. He was our only hope, now there is no chance Skyrim will ever be free again.",
+    "string": "可惜乌弗瑞克走了。他是我们唯一的希望，现在天际再也没有自由的机会了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000147|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha! I rejoice at the thought that this ass-kisser Tullius is dead. I tried to convince Galmar to send me his head, but he refused me the honor. Pah!",
+    "string": "哈！一想到这个爱马屁的图留斯死了，我就很高兴。我试图说服加尔玛把他的头颅送给我，但他拒绝了我的荣幸。呸！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000148|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know you were the one who killed my daughter, Uaile. Don't think I will forget this. I shall remember...",
+    "string": "我知道你是杀死我女儿乌哀乐的人。别以为我会忘记这一点。我会记住... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000149|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha! I rejoice at the thought that this ass-kisser Tullius is dead. I tried to convince Galmar to send me his head, but he refused me the honour. Pah!",
+    "string": "哈！一想到这个爱马屁的图留斯死了，我就很高兴。我试图说服加尔玛把他的头颅送给我，但他拒绝了我的荣幸。呸！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500014A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear you were the one who helped restore the Gildergreen in Whiterun. It's good to know Kynareth's glory still shines in Skyrim. Well done.",
+    "string": "我听说你是帮助修复白漫城镀绿树的人。很高兴知道凯娜瑞丝的荣耀仍然在天际闪耀。做得好。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500014B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I mourn the loss of Leigelf! He did a lot for Dawnstar, the people here will surely miss the coin he kept coming in.",
+    "string": "我对雷盖尔夫的去世表示哀悼！他为晨星做了很多事情，这里的人们一定会怀念他不断送来的金币。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500014C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Eh, heard you brought down that murderer plaguing Windhelm. Good job, can't be that nord women get butchered. Heard he was an Imperial, damn them!",
+    "string": "呃，听说你打倒了困扰风盔城的凶手。干得好，诺德女人不能被屠杀。听说他是帝国人，该死的！ ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500014D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So Savos Aren is dead, hm? Can't say we were friends, but it's a pity no less. A powerful conjurer was he.",
+    "string": "所以萨沃斯·阿冉死了，嗯？不能说我们是朋友，但也很遗憾。他是一位强大的法师。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500014E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear you have been recognised as Dragonborn. A fascinating revelation, the Thu'um has always been a subject I've enjoyed studying.",
+    "string": "我听说你被认定为龙裔。这是一个令人着迷的启示，吐姆一直是我喜欢研究的主题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500014F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you want, creature of the night?",
+    "string": "你想要什么，夜之生物？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000150|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear great Haldyn has been killed. This no doubt is the end of the Blood Horkers. They were fearsome pirates, it's surely for the best.",
+    "string": "我听说伟大的哈尔丁被杀了。毫无疑问，这就是血行者的终结。他们是可怕的海盗，这肯定是最好的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000151|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Olfrid Battle-Born has been killed. Finally those traitors got what they deserved! Hahaha!",
+    "string": "战斗出生的奥尔弗里德已被杀死。那些叛徒终于得到了应有的报应！哈哈哈！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000152|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I recently heard the Blood Horkers have been defeated at last. Good to know the sea of ghosts is a little safer now.",
+    "string": "我最近听说血腥长牙终于被打败了。很高兴知道鬼海现在安全了一些。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000155|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sorli the Builder is now Jarl of Morthal? I've known her all my life, we were childhood friends. She's always been an ambitious woman.",
+    "string": "建造者索莉现在是墨索尔领主？我认识她一辈子，我们是儿时的朋友。她一直是一个有野心的女人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000154|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hard to believe the rumors that Alduin the World Eater has come to devour the world.",
+    "string": "很难相信 世界吞噬者奥杜因要来吞噬世界的传言。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000153|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sorli the Builder is now Jarl of Morthal? I've known her all my life, we were childhood friends. She's always been an ambitious woman.",
+    "string": "建造者索莉现在是墨索尔领主？我认识她一辈子，我们是儿时的朋友。她一直是一个有野心的女人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000156|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So you are a dragonborn? Tomes on the subject claim a dragonborn is a shard of Akatosh's soul. I wonder if that's true...",
+    "string": "所以你是龙裔？关于这个主题的书籍声称龙裔是阿卡托什灵魂的碎片。我想知道这是不是真的... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000157|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So you are a dragonborn? Tomes on the subject claim a dragonborn is a shard of Akatosh's soul. I wonder if that's true...",
+    "string": "所以你是龙裔？关于这个主题的书籍声称龙裔是阿卡托什灵魂的碎片。我想知道这是不是真的... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000158|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The news that Falion passed away affected me deeply. He was a friend, and a great mentor to me. We sure have lost one great conjurer.",
+    "string": "法利昂去世的消息对我影响很大。他是我的朋友，也是我的伟大导师。我们确实失去了一位伟大的召唤法师。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500015A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hm, I wonder if there is any way a dragon soul could be captured. It would be fascinating to study their nature in depth.",
+    "string": "嗯，不知道有没有什么办法可以捕获龙魂呢。深入研究它们的本质将会很有趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500015B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear the Civil War has come to an end. In part thanks to your help no less.",
+    "string": "我听说内战已经结束了。部分归功于您的帮助。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500015C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope you are not feeding off our students here. Keep your hunger outside the college, understand?",
+    "string": "我希望你没有欺骗我们的学生。把你的饥饿感留在学院外面，明白吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500015D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I recently heard a rumor you've become a member of House Telvanni. You make quite a name for yourself, friend.",
+    "string": "我最近听说有传言说你已成为泰瓦尼家族的一员。你为自己赢得了相当大的名声，朋友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500015E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Necromancer's Amulet! I'm amazed to see it in your possession.",
+    "string": "死灵法师的护身符！看到你拥有它，我感到很惊讶。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500015F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is no doubt the mask of a dragon priest. I hear they are powerful artefacts.",
+    "string": "这无疑是龙祭司的面具。我听说它们是强大的神器。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000160|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is this Wuuthrad? Must be. Oh, what would I do for such a treasure! Is there any chance you would give me that as a friendship gift?",
+    "string": "这是精灵屠戮者吗？必须是。哦，我要这样的宝物做什么！你有机会把它作为友谊礼物送给我吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000161|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "One day I will rally my friends and servants to reclaim the throne of the Rift. Mark my words!",
+    "string": "有一天，我将召集我的朋友和仆人，夺回裂谷的王座。记住我的话！ ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000162|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I should have seen through the veil of lies the Blackbriars have been clouding our minds with! They will pay for their transgressions against us.",
+    "string": "我本该看穿黑棘家族一直蒙在我们头上的谎言面纱！他们将为对我们的冒犯付出代价。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000163|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mark my words, I will soon lead the Stormcloaks, and together we will avenge Ulfric and our fallen brothers and sisters.",
+    "string": "记住我的话，我很快就会领导风暴斗篷，我们将一起为乌弗瑞克和我们阵亡的兄弟姐妹报仇。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000164|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Soon I will leave Windhelm to train and rally my forces. This war is far from over.",
+    "string": "很快我就会离开风盔去训练和集结我的部队。这场战争还远没有结束。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000165|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dragonborn, good to see you! I am thinking about writing a book about you. Maybe one day you have time for an interview?",
+    "string": "龙裔，很高兴见到你！我正在考虑写一本关于你的书。也许有一天你有时间去我那坐坐？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000166|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard you are the one they call Dragonborn. Maybe you can help me?",
+    "string": "我听说你就是他们所说的龙裔。也许你可以帮助我？ ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000167|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard you are the one they call Dragonborn. I couldn't have asked for anyone better to help me with those shrewd pirates.",
+    "string": "我听说你就是他们所说的龙裔。我找不到比这更好的人来帮助我对付那些精明的海盗了。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000168|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I recognise the bow you wield. It's Auriel's Bow. What a sight.",
+    "string": "我认得你所持的弓。这是奥瑞尔之弓。多么壮观的景象啊。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000169|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did you hear? The Burning of King Olaf was held in Solitude after all. It's been so long since I last partook in it.",
+    "string": "你听到了吗？火烧奥拉夫节是在独孤城中举行的。距离我上次参加这个活动已经过去很久了。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500016A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard a rumor that the volkihar vampire clan waged a war against the newly established dawnguard vampire hunters all across Skyrim. Hard to believe",
+    "string": "我听到谣言说弗基哈尔血鬼氏族与天际各地新成立的黎明守卫发动了战争。难以置信 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500016B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some townsfolk said they saw a monster in the wilds a few weeks ago. A strange beast with claws and wings that flew like a bat. Nonsense, I tell you.",
+    "string": "一些镇民说，几周前他们在野外看到了一个怪物。长着爪子和翅膀，像蝙蝠一样飞来飞去。我告诉你，这都是胡说八道。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500016C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some say the Dark Brotherhood sanctuary has been sacked by the Penitus Oculatus. They say the assassins have almost all been slain.",
+    "string": "有人说黑暗兄弟会庇护所已被锐眼鹰洗劫一空。他们说所有的刺客几乎全部被杀。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500016D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Someone told me the other day that the Wolf Queen Potema was almost resurrected. But some brave hero prevented this horror. Do you believe that?",
+    "string": "前几天有人告诉我，狼心女王波特玛差点复活了。但一些勇敢的英雄阻止了这一切的发生。你相信吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500016E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You are the Thane of the Reach, am I right?",
+    "string": "你是边塞领男爵，对吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500016F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Someone told me Ulfric has been killed. I wonder if that's true.",
+    "string": "有人告诉我乌弗瑞克已经被杀了。我想知道这是不是真的。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000170|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard Thorald Gray-Mane has been rescued from Thalmor imprisonment by his friends and family. I wonder why the Thalmor locked him up.",
+    "string": "我听说索拉德·灰鬃已被他的朋友和家人从梭默监狱中救出。我想知道梭默为什么把他锁起来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000171|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard the Gildergreen in Whiterun has been restored. Kyne must be pleased with us.",
+    "string": "我听说白漫城的镀绿树已经恢复了。凯娜一定对我们很满意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000172|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My nephew, Golldir, has died. He... He was a good man, and will be missed. ",
+    "string": "我的侄子戈尔迪尔去世了。他……他是一个好人，人们会怀念他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000173|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I didn't keep the promise I made to my sister, that I would look after Golldir. He assured me he was doing fine without me. I should have insisted.",
+    "string": "我没有遵守对姐姐的承诺，即我会照顾果迪尔。他向我保证，没有我他也过得很好。我应该坚持的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000174|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "With the Civil War finally over, I can fully embrace my role as Jarl and bring about a new era for Dawnstar.",
+    "string": "随着内战终于结束，我可以完全接受自己作为领主的角色，为晨星带来一个新时代。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000175|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I will keep Dawnstar safe from harm, that is my vow. And I shall never break it!",
+    "string": "我会保护晨星免受伤害，这是我的誓言。我永远不会打破它！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000176|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Horik and I rule over the Pale. We look out for it's people, and we aim to maintain friendships with the other holds so that everyone can benefit.",
+    "string": "霍理克和我统治苍白领。我们关心人民，我们的目标是与其他领主保持友谊，以便每个人都能受益。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000177|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Legion is bringing stability back to Skyrim. Hopefully the remaining Stormcloaks will realize this too and lay down their weapons.",
+    "string": "军团正在为天际带回稳定。希望剩下的风暴斗篷战士也能意识到这一点并放下武器。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000178|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It has now been over a year since Ulfric has been laid to rest. I believe the Stormcloaks have given up now, and are trying to find their peace.",
+    "string": "乌弗瑞克安息至今已有一年多了。我相信风暴斗篷现在已经放弃了，并且正在努力寻找平静。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000179|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Horik has asked Jod to return to Dawnstar, but the man refused our offer to become head of our guard. A pity, we could use someone like him.",
+    "string": "霍理克要求乔德返回晨星，但他拒绝了我们让他担任卫队长的提议。真遗憾，我们正需要他这样的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500017A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Pale is my duty, I would die for it.",
+    "string": "苍白是我的职责，我愿意为此而死。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500017B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pirates to the north, brigands and deserters from the east, giants from the south and animals from each direction. But the west remains an unknown.",
+    "string": "北方的海盗，东方的强盗和逃兵，南方的巨人以及各个方向的动物。但西方仍然是个未知数。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500017C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Many dangers out there trying to get to us, but me and the Legate make sure they all fail in their pursuits.",
+    "string": "外面有很多危险在试图接近我们，但我和副官会确保他们都无法得逞。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500017D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Legate believes that these Stormcloaks will lay down their weapons so easily, but they were loyal to Ulfric, and like me, my duty always survives",
+    "string": "副官相信这些风暴斗篷会轻易放下武器，但他们忠于乌弗瑞克，而且像我一样，我的职责永远存在 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500017E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ulfric is finally out of the picture. Now we are going to be at peace at last.",
+    "string": "乌弗瑞克终于消失了。现在我们终于可以和平相处了。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500017F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In the end, the Empire has been chased from our beloved land. Tullius is dead and the people of Skyrim are free at last. Long live Ulfric!",
+    "string": "最终，帝国被赶出了我们深爱的土地。图留斯死了，天际人民终于获得了自由。乌弗瑞克万岁！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000180|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In the end, the Empire has been chased from our beloved land. Tullius is dead and the people of Skyrim are free at last. Long live Ulfric!",
+    "string": "最终，帝国被赶出了我们深爱的土地。图留斯死了，天际人民终于获得了自由。乌弗瑞克万岁！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000181|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Silver-Bloods are an influential family here in Skyrim. Their silver exports go in all directions, and they have many friends in High Rock.",
+    "string": "银血家族是天际地区一个有影响力的家族。他们的白银出口四通八达，而且他们在高岩有很多朋友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000182|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Jordis the Sword-Maiden is a great warrior. She was trained by many famed warriors, among them Captain Aldis, Horik Halfhand and Istar Cairn-Breaker.",
+    "string": "持剑淑女茱蒂斯是一位伟大的战士。她接受过许多著名战士的训练，其中包括艾迪斯队长、半手霍理克和伊斯塔·破冢者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000183|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am sure Jordis will prove a valuable ally to you, Thane. She had many teachers, and has helped defend Solitude from her enemies more than once.",
+    "string": "我相信茱蒂斯将成为你的宝贵盟友，塔恩。她有很多老师，并且不止一次帮助孤独城抵御敌人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000184|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am glad to have you as thane of our Hold! Dragonborn, Hero of the Civil War, Archmage of Winterhold. I feel this hold has never been safer!",
+    "string": "我很高兴您成为我们领地的领主！龙裔，内战英雄，冬堡大法师。我觉得这里从未如此安全过",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000185|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear Jarl Skald has been exiled from Dawnstar! I'll send a letter to him soon, the Silver-Bloods won't let their friends be treated like that!",
+    "string": "我听说斯卡德伯爵已被逐出晨星！我很快就会给他写信，银血不会让他们的朋友受到这样的对待！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000186|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Maven Blackbriar now rules the Rift in the name of the Empire. I thought better of her! I won't tolerate her in my city, no matter what Thonar says.",
+    "string": "玛雯·黑棘现在以帝国的名义统治裂谷。我对她的看法比较好！无论托纳尔怎么说，我都不会容忍她出现在我的城市。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000187|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear Jarl Skald has joined the Goats! What madness! Surely this is Sheogorath's doing! Goats! Fucking goats, can you believe that? Skald the Goat.",
+    "string": "我听说斯卡德领主加入了山羊队！多么疯狂啊！这肯定是谢尔格拉干的！山羊！该死的山羊，你能相信吗？山羊斯卡德。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000188|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My brother Thonar might be best of friends with Maven Blackbriar, but I don't trust that faithless bitch one bit now that she serves as Jarl.",
+    "string": "我的兄弟托纳尔可能是玛雯·布莱克布瑞尔最好的朋友，但既然她担任了领主，我就一点也不相信她了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000189|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Exiled! A Silverblood. The world's gone mad, I tell you. I own Markarth! Don't they see?! Oh, Talos' wrath will rain down on them all!",
+    "string": "被放逐！一位银血！我告诉你，世界已经疯了。我拥有马卡斯！他们没看见吗？！哦，塔洛斯的愤怒将会降临在他们所有人身上！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500018A|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's good to have you as Thane of Haafingar, Dragonborn. A hero such as yourself deserves a matching title, and benefits us here vastly.",
+    "string": "龙裔，很高兴你能成为海芬加男爵。像您这样的英雄理应获得相应的头衔，这对我们这里大有裨益",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500018B|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh... sorry, I... I was deep in thought. I'm a bit upset as of late. Forgive me, how can I help you?",
+    "string": "哦...抱歉，我...我正在沉思。最近我有点不安。请原谅我，我能帮你什么忙？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500018C|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's a shame Thane Bryling has left our world. She was a... very good woman. Honorable, caring, wise and strong. I miss her kindness.",
+    "string": "很遗憾，白灵离开了我们。她是一个……非常好的女人。可敬、体贴、智慧、坚强。我想念她的善良。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500018D|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, I see you are in company of a great warrior. I heard of her, Jordis the Sword-Maiden, if I'm not mistaken. You're in good hands, I'm certain.",
+    "string": "哦，我看到你和一位伟大的战士在一起。如果我没记错的话，我听说过她，持剑淑女朱蒂斯。我确信你得到了很好的照顾。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500018E|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope you treat your Housecarl with the proper respect. I heard she's one of a kind, so be sure to behave yourself honourable, alright?",
+    "string": "我希望您能适当尊重您的侍卫。我听说她是一个很特别的人，所以一定要表现得正派，好吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500018F|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A new Year! I'm excited to see what it has in store for us. As if the world hadn't almost ended last year already! Hahaha",
+    "string": "新的一年！我很高兴看到它为我们带来了什么。就好像去年世界末日还没有到来一样！哈哈哈 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000190|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's the year 402, let's see what stories we will tell about it. I'm as excited as ever, Harbinger! You bring us to glory.",
+    "string": "现在是 402 年，让我们看看会发生什么故事。我一如既往地兴奋，先驱者！你带我们走向荣耀。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000191|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I just found out recently that my cousins Rundi and Borvir passed away. They brought this on themselves, the fools joined the magic college after all",
+    "string": "我最近刚刚得知，我的表兄弟伦蒂和伯维尔去世了。这是他们自找的，傻瓜才加入魔法学院 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000194|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My girlfriend, Jala, runs a produce stall at the market. She's a fine woman, I tell you!",
+    "string": "我的女朋友加拉在市场上经营一个农产品摊位。我告诉你，她是个好女人！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001C8|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ever been to Shor's Stone? That arrogant slime ball Odfel used to be my boyfriend. Pah, disgusting man. Stay clear of him.",
+    "string": "去过舒尔之石吗？那个傲慢的粘球奥德菲尔曾经是我的男朋友。呸，恶心的男人。远离他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001C9|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ever been to the Silverblood Inn? My sister is married to the Innkeep.",
+    "string": "去过银血旅馆吗？我姐姐嫁给了旅店老板。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001CA|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thanks for saving the Argonian, my daughter loves him very much, and he is a great miner and farmer. Not to mention he always catches the best fish.",
+    "string": "感谢您拯救了亚龙人，我的女儿非常爱他，他是一位伟大的矿工和农民。更不用说他总是钓到最好的鱼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001CB|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hrefna's heart was broken when she heard Derkeethus died. I can't believe it myself, but that's the hard life one lives in Skyrim I guess.",
+    "string": "当荷夫娜听说德吉图斯去世时，她的心都碎了。我自己都不敢相信，但这就是天际中人们的艰苦生活。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001CC|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heard a rumor you and Annekke's daughter have something going on. Lucky her, though I couldn't stand a romance with an adventurer.",
+    "string": "听说你和安尼克的女儿有一腿。她真幸运，虽然我无法忍受和冒险家谈恋爱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001CD|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So you and mother are friends, hm? I bet she loves spending time with you adventuring. I have to admit, I'm a little jealous.",
+    "string": "所以你和妈妈是朋友，嗯？我敢打赌她喜欢和你一起冒险。我不得不承认，我有点嫉妒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001CE|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My father Verner is dead, I'm so heartbroken. I don't know what to do with myself.",
+    "string": "我父亲维尔纳去世了，我心碎了。我不知道自己该怎么办。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001CF|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Should you be adventuring with my mother again, please do look after her, alright? I fear she might be a little too daring at times.",
+    "string": "如果你再次和我妈妈一起冒险，请照顾她，好吗？我担心她有时可能有点太大胆了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D0|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I really hope you two aren't going out to fight dragons or trolls. I couldn't stand losing mother.",
+    "string": "我真的希望你们两个不要出去与龙或巨魔作战。我无法忍受失去母亲。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D1|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I really hope you two aren't going out to fight dragons or trolls. I couldn't stand losing either of you, let alone both. ",
+    "string": "我真的希望你们两个不要出去与龙或巨魔作战。我无法忍受失去你们中的任何一个，更不用说失去你们两个了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D2|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I really hope you two aren't going out to fight dragons or trolls. I couldn't stand losing either of you, let alone both. ",
+    "string": "我真的希望你们两个不要出去与龙或巨魔作战。我无法忍受失去你们中的任何一个，更不用说失去你们两个了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D3|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can't say it surprises me to hear you're one of the champions of the civil war. I bet they couldn't have done it without you.",
+    "string": "听说你是内战的冠军之一，我不能说感到惊讶。我敢打赌，如果没有你，他们不可能做到这一点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D4|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some say you are the Dragonborn everyone's been talking about...",
+    "string": "有人说你是每个人都在谈论的龙裔...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D5|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can't believe I know the Harbinger of the Companions! I'm really glad to have you as a friend.",
+    "string": "不敢相信我认识战友团的先驱！我真的很高兴有你这样的朋友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D6|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did you hear, the murderer that plagued Windhelm has been caught and killed! The poor women he butchered, he got what he deserved.",
+    "string": "你听说了吗，困扰风盔城的凶手已被抓获并被杀！他屠杀了那些可怜的女人，他得到了他应得的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D7|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thanks for saving Derkeethus from those hideous Falmer! Don't want to know what they would have done to him if you hadn't intervened.",
+    "string": "感谢您从那些可怕的伐莫手中拯救了德吉图斯！如果不是你出手相救，我真不知道他们会对他做什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D8|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Finally someone's killed that bastard Rolff Stone-Fist. He got what he deserves if you ask me.",
+    "string": "终于有人杀了罗尔夫·石拳那个混蛋了。如果你问我的话，他得到了他应得的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001D9|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't like it that you and my wife are spending time together out there! If you touch her, you'll end up with a pickaxe in your head, hear me?!",
+    "string": "我不喜欢你和我妻子在外面共度时光！如果你碰她，你的头就会被镐顶住，听到了吗？！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001DA|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't like it that you and my wife are spending time together out there! You better keep her alive, or I'll make you regret it.",
+    "string": "我不喜欢你和我妻子在外面共度时光！你最好保住她的性命，不然我会让你后悔的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001DB|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't like it that you and my wife are spending time together out there! Be thankful I tolerate it...",
+    "string": "我不喜欢你和我妻子在外面共度时光！谢天谢地，我容忍了......",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001DC|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Welcome to the family. But let me make this clear, you keep me daughter safe, no matter what the threat!",
+    "string": "欢迎加入我们的大家庭。但让我把话说清楚，不管有什么威胁，你都要保证我女儿的安全",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001DD|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sorry, I have little time right now. So much work to do, and I received a letter from Maven Blackbriar that needs to be answered.",
+    "string": "抱歉，我现在时间不多。要做的工作太多了，我收到了玛雯·黑棘的一封信，需要回复。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001DE|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, I just returned from a visit to Jarl Igmund of Markarth. Whiterun has to keep relations, you know?",
+    "string": "哦，我刚拜访完马卡斯的伊格蒙德伯爵回来。白漫必须保持中立，你明白吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001DF|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't like it that the Reach has fallen into the hands of the Stormcloaks, even if we are good with the Silverbloods.",
+    "string": "我不喜欢边塞领落入风暴斗篷的手中，即使我们对银血很友好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001E0|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am sorry for Laila Law-Giver having been exiled from the Rift. However, that is what happens to those who choose the wrong side.",
+    "string": "我对莱拉立法者被从裂谷城中放逐感到抱歉。然而，这就是那些选择错误一方的人所面临的后果。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001E1|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard you helped Jarl Idgrod of Morthal, well done.",
+    "string": "我听说你帮助了墨索尔的艾德格洛德领主，干得好。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001E2|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So you are Dragonborn? Hm, very intriguing.",
+    "string": "所以你是龙裔？嗯，非常有趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001E3|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say you are the one they call Dragonborn. Fascinating.",
+    "string": "他们说你就是他们所说的龙裔。迷人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001E4|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really unbelievable that you are a dragonborn. I used to read stories about the dragonborn, most of them fictional, tales of heroes.",
+    "string": "真是难以置信你是龙裔。我曾经读过有关龙裔的故事，其中大部分是虚构的英雄故事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001E5|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard Kai Wet-Pommel was killed! It is truly a tragedy, he was a great warrior and a devoted servant to Talos! He would have made a fine priest.",
+    "string": "我听说凯·雨鞍被杀了！这确实是一个悲剧，他是一位伟大的战士，也是塔洛斯忠实的仆人！他本可以成为一名优秀的牧师。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001E6|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard Kai Wet-Pommel was killed! It is truly a tragedy, he was a great warrior and a devoted servant to Talos! He would have made a fine priest.",
+    "string": "我听说凯·雨鞍被杀了！这确实是一个悲剧，他是一位伟大的战士，也是塔洛斯忠实的仆人！他本可以成为一名优秀的牧师。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IUR_UniqueNPCTopic",
+    "form_id": "050000AD|UselessRelationships.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you a Stormcloak?",
+    "string": "你是风暴斗篷吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000AE|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A Stormcloak? No, I wouldn't call myself that. No, I'm the housecarl and commander of the guard in the Pale.",
+    "string": "风暴斗篷？不，我不会这样称呼自己。不，我是苍原领的管家和守卫指挥官。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000AE|UselessRelationships.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "While Skald and many of the guardsmen certainly view themselves as part of the Stormcloak Rebellion, I do not share this point of view.",
+    "string": "虽然斯卡德和许多守卫肯定认为自己是风暴斗篷叛乱的一部分，但我不同意这个观点。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IUR_JodSkald",
+    "form_id": "050000AF|UselessRelationships.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But you would defend Dawnstar from an imperial attack, wouldn't you?",
+    "string": "但你会保护晨星免受帝国的攻击，不是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B0|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course I would, what kind of question is that? I've sworn my allegiance to Skald. I am his housecarl, and so I must protect him.",
+    "string": "当然会，那是什么类型的问题？我已宣誓效忠斯卡德。我是他的管家，所以我必须保护他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B0|UselessRelationships.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I'm honorbound to carry his burdens and protect his life at all costs, against anyone. I'd have to kill my best friend if they'd try to kill Skald.",
+    "string": "我有义务承担他的重担，不惜一切代价保护他的生命，不受任何人的伤害。如果他们想杀死斯卡德，我就必须杀死我最好的朋友。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B0|UselessRelationships.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Skald is a stout Stormcloak supporter, I must play my role as his last line of defense. I have no choice, but that is alright to me.",
+    "string": "斯卡德是风暴斗篷的坚定支持者，我必须发挥我的作用，成为他的最后一道防线。我别无选择，但这对我来说没关系。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B0|UselessRelationships.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "All my life I have been a soldier. What are some more duties to follow? It's what I do best.",
+    "string": "我一生都是一名士兵。还有哪些其他职责需要遵守？这是我最擅长的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IUR_ByeJod",
+    "form_id": "050000B1|UselessRelationships.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright, that's all I wanted to ask you.",
+    "string": "好吧，这就是我想问你的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B2|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good. Now let me get some well earned rest.",
+    "string": "好的。现在让我好好休息一下。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IUR_JodSonsOpinion",
+    "form_id": "050000B3|UselessRelationships.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Skald isn't here. What do you think of the Stormcloaks?",
+    "string": "斯卡德不在这里。你觉得风暴斗篷怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B4|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hm, what I think of them? They want a free Skyrim, but all they do is bring war to this beautiful land. It's really all rubbish!",
+    "string": "嗯，我对他们有什么看法？他们想要一个自由的天际，但他们所做的只是给这片美丽的土地带来战争。真是垃圾！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B4|UselessRelationships.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Ulfric's not after the throne, no. I think what he desperately wants to be is a hero of Skyrim that can make up for the losses of the Great War.",
+    "string": "乌弗瑞克并不追求王位，不。我想他最想成为的就是能够弥补大战损失的天际英雄。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B4|UselessRelationships.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I fought at his side in Cyrodiil. I knew him back then, a man filled with hope and love for his people. A charismatic young lad...",
+    "string": "我在赛瑞迪尔与他并肩作战。我那时就认识他，他是一个对人民充满希望和爱的人。一个充满魅力的年轻小伙子... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B4|UselessRelationships.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "But for whatever reason, all he see's now is himself, himself bringing agony to the empire for a war lost long ago.",
+    "string": "但无论出于什么原因，他现在看到的只是他自己，他自己为帝国带来了一场早已失败的战争的痛苦。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B4|UselessRelationships.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "You know, I agree with the Stormcloaks on many points, but I don't see how this bloodbath will solve any of our problems? Quite the opposite.",
+    "string": "你知道，我在很多观点上都同意风暴斗篷，但我不知道这场大屠杀将如何解决我们的问题。我认为适得其反。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000B4|UselessRelationships.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "But what can a man like I do? No matter what side we pick, blood will be spilled. I don't care who wins the war. In my eyes everyone has lost already",
+    "string": "但是像我这样的人能做什么呢？无论我们选择哪一边，都会流血。我不在乎谁赢得了战争。在我眼里每个人都已经输了 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000145|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Talos is with you, Dragonborn.",
+    "string": "塔洛斯与你同在，龙裔。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000159|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hm, I think I should let Nenya know I'm in need of a girl in my chambers.",
+    "string": "嗯，我想我应该让南雅知道我的房间里需要一个女孩。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000193|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, I see you are in company of a great warrior. I heard of her, Jordis the Sword-Maiden, if I'm not mistaken. You're in good hands, I'm certain.",
+    "string": "哦，我看到你和一位伟大的战士在一起。如果我没记错的话，我听说过她，持剑淑女朱蒂斯。我确信你得到了很好的照顾。 ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001E7|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, you and the priest are friends! Skyrim really is small, isn't it?",
+    "string": "哦，你和牧师是朋友！ 天际确实很小，不是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050001E8|UselessRelationships.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, you and mother are on an adventure? Please you two, try to not to die okay?",
+    "string": "哦，你和妈妈在冒险？请你们俩尽量不要死，好吗？",
+    "status": "TranslationComplete"
+  }
+]

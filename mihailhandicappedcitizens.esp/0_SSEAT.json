@@ -1,0 +1,1811 @@
+[
+  {
+    "editor_id": "ElderRace",
+    "form_id": "00067CD8|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Old People Race",
+    "string": "老人族",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_sintia_race",
+    "form_id": "05000000|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Imperial",
+    "string": "帝國人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_sintia_race",
+    "form_id": "05000000|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Natives of Cyrodiil, they have proved to be shrewd diplomats and traders. They are skilled with combat and magic. Anywhere gold coins might be found, Imperials always seem to find a few more. They can call upon the Voice of the Emperor to calm an enemy.",
+    "string": "賽瑞迪爾省的在地居民。他們是狡猾的老油條和商人。他們的作戰和魔法技能卓越。一般而言無論何處都有可能找到金幣，但帝國人總能找到更多。他們能使用帝王之聲使敵人冷靜下來。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_whiterunguard_race",
+    "form_id": "05000043|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_whiterunguard_race",
+    "form_id": "05000043|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "居住在天际省的骠悍种族，他们身材魁梧，一头金髮。诺德人的特质是身犟力壮，精于各种战士技巧，且对寒冷天气乃至于寒霜系魔法的抵御能力更是闻名遐迩。此外，他们还能施放战嚎，使敌人惊慌逃跑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_redoranguard_race",
+    "form_id": "05000079|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dark Elf",
+    "string": "暗精灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_redoranguard_race",
+    "form_id": "05000079|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Also known as \"Dunmer\" in their homeland of Morrowind, dark elves are noted for their stealth and magic skills. They are naturally resistant to fire and can call upon their Ancestor's Wrath to surround themselves in fire.",
+    "string": "在故乡晨风省，他们被称作「丹莫」。暗精灵的过人之处在于他们的力量和魔法技艺。他们天生对火焰有高抵抗力，并且能召唤先祖之怒，使全身环绕着火焰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_viceeien_race",
+    "form_id": "05000089|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "In addition to their quick and perceptive grasp of spellcraft, even the humblest of High Rock's Bretons can boast a resistance to magic. Bretons can call upon the Dragonskin power to absorb spells.",
+    "string": "布莱顿人不仅对魔法悟性极佳，而且对于电击伤害有着特殊的抵抗力。他们特别擅长施展召唤系法术。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_kallius_race",
+    "form_id": "050000B0|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Nord",
+    "string": "诺德",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_kallius_race",
+    "form_id": "050000B0|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "居住在天际省的骠悍种族，他们身材魁梧，一头金髮。诺德人的特质是身犟力壮，精于各种战士技巧，且对寒冷天气乃至于寒霜系魔法的抵御能力更是闻名遐迩。此外，他们还能施放战嚎，使敌人惊慌逃跑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_hamgi_race",
+    "form_id": "050000E8|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Citizens of Skyrim, they are a tall and fair-haired people.  Strong and hardy, Nords are famous for their resistance to cold and their talent as warriors. They can use a Battlecry to make opponents flee.",
+    "string": "居住在天际省的骠悍种族，他们身材魁梧，一头金髮。诺德人的特质是身犟力壮，精于各种战士技巧，且对寒冷天气乃至于寒霜系魔法的抵御能力更是闻名遐迩。此外，他们还能施放战嚎，使敌人惊慌逃跑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_maleith_fold",
+    "form_id": "05000052|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Moth Priest Blindfold",
+    "string": "先祖蛾祭司眼罩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_maleith_boots",
+    "form_id": "05000050|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Boots",
+    "string": "靴子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_geolerd_clothes",
+    "form_id": "0500005A|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Fine Clothes",
+    "string": "舒適的衣服",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_geolerd_boots",
+    "form_id": "0500005B|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Fine Boots",
+    "string": "舒適的短靴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_thilin_shoes",
+    "form_id": "05000068|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Footwraps",
+    "string": "綁腿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_thilin_clothes",
+    "form_id": "05000069|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Ragged Trousers",
+    "string": "破爛的褲子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_decessius_clothes",
+    "form_id": "05000077|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Fine Clothes",
+    "string": "舒適的衣服",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_decessius_boots",
+    "form_id": "05000078|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Fine Boots",
+    "string": "舒適的短靴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_decessius_gloves",
+    "form_id": "05000076|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Gilded Wristguards",
+    "string": "鍍金腕甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_whiterunguard_cuirass",
+    "form_id": "05000040|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Whiterun Guard's Armor",
+    "string": "白漫城衛兵護甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_viceeien_bandagesskin",
+    "form_id": "05000094|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Arm Bandages",
+    "string": "綁手帶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_viceeien_clothes",
+    "form_id": "05000097|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Ragged Robes",
+    "string": "破爛的長袍",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_viceeien_shoes",
+    "form_id": "05000099|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Ragged Boots",
+    "string": "破爛的靴子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_gwehvir_skin",
+    "form_id": "05000035|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Hide Armor",
+    "string": "皮製護甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_kallius_skin",
+    "form_id": "050000B2|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Clothes",
+    "string": "衣服",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_hrorir_clothes_skin",
+    "form_id": "050000BE|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Ragged Trousers",
+    "string": "破爛的褲子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_holgke_clothes_skin",
+    "form_id": "050000AE|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Clothes",
+    "string": "衣服",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_hamgi_clothes",
+    "form_id": "050000EE|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Imperial Armor",
+    "string": "帝國護甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_bari_clothes_skin",
+    "form_id": "050000FF|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Fine Clothes",
+    "string": "舒適的衣服",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_maleith_clothes",
+    "form_id": "05000051|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Clothes",
+    "string": "衣服",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_geolerd_wheelchair",
+    "form_id": "05000057|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_redoranguard_NPC",
+    "form_id": "0500007C|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Redoran Guard",
+    "string": "瑞多然禁衛隊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_sintia_NPC",
+    "form_id": "05000003|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sintia Duilianus",
+    "string": "辛蒂亚·杜利亚纳斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_gwelod_NPC",
+    "form_id": "05000016|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Gwelod",
+    "string": "格罗德",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_thilin_NPC",
+    "form_id": "05000062|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Thilin",
+    "string": "西林",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_hrorir_NPC",
+    "form_id": "050000B6|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Hrorir",
+    "string": "霍罗里尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_kallius_NPC",
+    "form_id": "050000B4|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Kallius",
+    "string": "卡利乌斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_decessius_NPC",
+    "form_id": "05000070|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Decessius Acicus",
+    "string": "德克西斯·阿瑟斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_whiterunguard_NPC",
+    "form_id": "05000042|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Whiterun Guard",
+    "string": "白漫衛兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_maleith_NPC",
+    "form_id": "0500004D|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Maleith",
+    "string": "马莱斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_holgke_NPC",
+    "form_id": "050000A9|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Holgke",
+    "string": "霍格克",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_viceeien_NPC",
+    "form_id": "0500008E|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Viceeien",
+    "string": "维森",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_bari_NPC",
+    "form_id": "050000FA|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bari",
+    "string": "巴里",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_gwehvir_NPC",
+    "form_id": "05000032|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Gwehvir Trollslayer",
+    "string": "格维尔·屠魔者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_hamgi_NPC",
+    "form_id": "050000E9|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Hamgi",
+    "string": "哈梅基",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mhc_geolerd_NPC",
+    "form_id": "05000058|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Geolerd",
+    "string": "地质学者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DawnstarWindpeakInn",
+    "form_id": "00013A7F|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Windpeak Inn",
+    "string": "风岳客栈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmCandlehearthHall",
+    "form_id": "00016789|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Candlehearth Hall",
+    "string": "燭爐堂客棧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "OldHroldanInn",
+    "form_id": "000138BE|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Old Hroldan Inn",
+    "string": "古赫洛登客棧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthWarrens",
+    "form_id": "00016D72|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Warrens",
+    "string": "窩棚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeWinkingSkeever",
+    "form_id": "00016A0E|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Winking Skeever",
+    "string": "眨眼惡鼠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunTempleofKynareth",
+    "form_id": "000165A7|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Temple of Kynareth",
+    "string": "凱娜瑞絲神殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmWorld",
+    "form_id": "0001691D|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Windhelm",
+    "string": "風舵城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenWorld",
+    "form_id": "00016BB4|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Riften",
+    "string": "裂谷城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthWorld",
+    "form_id": "00016D71|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Markarth",
+    "string": "马卡斯城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunWorld",
+    "form_id": "0001A26F|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Whiterun",
+    "string": "白漫城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeWorld",
+    "form_id": "00037EDF|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solitude",
+    "string": "独孤城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2SolstheimWorld",
+    "form_id": "04000800|Dragonborn.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solstheim",
+    "string": "索瑟海姆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500000D|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Old Hroldan Inn is a good place to work. It's amazing to think I'm standing on the same floor as Tiber Septim once did.",
+    "string": "老霍尔丹酒馆是个工作的好地方。想到我此刻正站在泰伯·塞普蒂姆曾经站过的地方，真是令人惊叹。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500000E|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Reach is a beautiful place, just beware of the savage Forsworn tribes that wreak havoc on its inhabitants.",
+    "string": "河湾地是个美丽的地方，但要小心那些对当地居民造成严重破坏的野蛮背誓部落。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500000F|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "To this day I have nightmares about the Hagravens who kidnapped me. I was burned alive as they laughed and rejoiced at my screams.",
+    "string": "直到今天，我还会做关于绑架我的哈格拉文人的噩梦。他们在我尖叫时大笑并欢呼，我被活活烧死。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000010|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A lot of people are prejudiced with my appearance, fortunately here I was welcomed like a daughter by these good people.",
+    "string": "很多人对我的外貌持有偏见，但幸运的是，在这里，这些善良的人们像欢迎女儿一样欢迎我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000011|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Leontius Salvius was the good man who rescued me when I was left to die of my burns. I will forever be grateful to him.",
+    "string": "莱昂蒂乌斯·萨尔维乌斯是个好人，在我因烧伤而奄奄一息时救了我。我将永远感激他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000012|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Eydis taught me to have self-esteem and not let mean comments get me down. She gave me the love that as an orphan I never had before!",
+    "string": "埃迪斯教会我保持自尊，不要让刻薄的评论击垮我。她给了我这个孤儿从未拥有过的爱！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000029|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why? Why did I join this damn war? I am alone, I was forgotten by those I defended!",
+    "string": "为什么？我为什么要参加这场该死的战争？我孤身一人，被我所捍卫的人们遗忘了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500002A|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm a miserable shadow that bothers everyone... I hear you whispering! Get out! Get out of here!",
+    "string": "我只是个令人烦恼的可怜影子……我听见你在窃窃私语！滚开！给我滚开！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500002E|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I lost everything... I fought my childhood friends... I lost my parents... all for an Empire of lies!",
+    "string": "我失去了一切……我与儿时的朋友反目成仇……我失去了父母……而这一切，仅仅是为了一个谎言编织的帝国！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500002F|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now I live in a world of darkness with no way out... I deserve this punishment, but I can't take it anymore...",
+    "string": "现在我生活在一个黑暗无边的世界，看不到出路……我应受这样的惩罚，但我再也受不了了。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000030|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Leave me! Get away from me! Why? Why did everyone abandon me? All those who said they were my friends are gone...",
+    "string": "放开我！离我远点！为什么？为什么大家都抛弃了我？那些自称是我朋友的人都走了。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000031|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Damn war! We were at peace before! It was all those damn yellow elves' fault! Damn them!",
+    "string": "该死的战争！我们之前一直和平相处！都是那些该死的黄精灵的错！该死的他们！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000C9|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "College of Wizards? The only college up there is a College of Necromancers!",
+    "string": "巫师学院？那里唯一的学院是亡灵法师学院！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000CA|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Help! Help! They will send their armored demons to destroy me! Please open the door!",
+    "string": "救命！救命！他们会派装甲恶魔来毁灭我！请开门！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000CB|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I spied on the wizards! I saw them summoning ice and fire demons! I saw blood and wine orgies! I know too much! I know too much! They will kill me!",
+    "string": "我偷看了巫师们！我看到他们召唤冰魔和火魔！我看到鲜血和酒的狂欢！我知道得太多了！我知道得太多了！他们会杀了我的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000CC|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The wizards kidnapped me and beat me up! Look at me! Look at me! Give me shelter! I will die! See the marks! I will die!",
+    "string": "巫师们绑架了我，还把我打伤了！看看我！看看我！给我个庇护所！我要死了！看看这些伤痕！我要死了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000CD|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Jarl! Stop giving shelter to the servants of evil!",
+    "string": "领主大人！别再庇护邪恶的奴仆了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000CE|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you want? Oh no... they sent you! Guards! Help! ",
+    "string": "你想要什么？哦不……是他们派你来的！守卫！救命！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000CF|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They will kill me! The mages are controlling their minds!",
+    "string": "他们会杀了我的！法师们正在控制他们的思想！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000D0|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It was the College that destroyed the city! How can you not see this? You imbeciles! Listen to me! Listen to me!",
+    "string": "是学院毁灭了这座城市！你们怎么就看不出来呢？你们这些蠢货！听我说！听我说！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000D2|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ughh!",
+    "string": "啊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000D3|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ughh!",
+    "string": "啊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000D7|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know you are here! It's not because I'm blind that I don't notice your presence. It's not that easy to steal my pocket!",
+    "string": "我知道你在这里！我并非因为失明才没注意到你的存在。想偷我的口袋，没那么容易！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000D8|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Because I've never seen the world with my eyes, I can perceive it intensely in many other ways! Sounds, smells, textures, everything is magnificent!",
+    "string": "因为我从未亲眼见过这个世界，所以我可以通过许多其他方式强烈地感知它！声音、气味、质感，一切都是那么美妙！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000D9|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Never allow anyone to treat you as incapable. There is a place in the world for each of us, and we are all beautiful just the way we are!",
+    "string": "绝不允许任何人把你当成无能之人。世界上总有一个位置属于我们每个人，我们本来的样子就很美！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000DA|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Practice blindness a little, friend. Close your eyes, allow yourself to perceive the world using your other senses... The world is beautiful!",
+    "string": "朋友，试着练习一下“视而不见”吧。闭上眼睛，用其他感官去感知这个世界……这个世界真的很美！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000DB|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Riften is a fantastic place, I love living here! The smell of wet earth, the soft breeze that shakes the leaves on the trees...",
+    "string": "里夫滕是个绝妙的地方，我喜欢住在这里！湿润泥土的气息，轻柔的微风拂过树梢，摇曳着树叶。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000DC|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sometimes I wonder what it's like to see. For me who was born blind, everything about it remains in the realm of my fertile imagination.",
+    "string": "有时候，我很好奇看见东西是什么感觉。对我这个天生失明的人来说，关于看见的一切都停留在丰富的想象中。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000DD|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The town boys say I'm pretty. Do you agree? I'm single, waiting for my enchanted pair... ",
+    "string": "镇上的男孩们说我漂亮。你同意吗？我目前单身，正在等待我的意中人。.. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000E0|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ahh, Riverwood! I love this place! Enough of adventures for this old woman, it's time to rest.",
+    "string": "啊，河木镇！我爱这个地方！对于我这个老女人来说，冒险已经够多了，是时候休息了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000E1|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When I moved here, I was afraid of the forest around the town, but this place is very well protected by the brave town guards.",
+    "string": "我刚搬到这里时，很害怕镇子周围的森林，但这里得到了勇敢的镇守卫的严密保护。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000E2|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Since I came back from Cyrodiil, I haven't been able to travel much. Unfortunately my legs don't work like they used to.",
+    "string": "自从我从赛罗迪尔回来后，我就没怎么出过门。不幸的是，我的腿已经不像以前那么灵便了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000E3|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I still had a few steps left in me, but after falling down the Inn's stairs, I can barely get up from my wheelchair.",
+    "string": "我原本还能走几步，但自从从酒馆的楼梯上摔下来后，我就几乎无法从轮椅上起来了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000E4|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm at a stage in my life where contemplation is worth more than rushing through life. Sit down, get some rest, dear...",
+    "string": "我现在正处于人生的一个阶段，此时沉思比匆匆忙忙地过日子更有价值。亲爱的，坐下来休息一下吧。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000E5|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My dear, enjoy your youth, because it passes quickly. Yesterday I was a young lady, today I'm just this old crone...",
+    "string": "亲爱的，好好享受你的青春吧，因为它转瞬即逝。昨天我还是个年轻姑娘，今天我就成了这个老太婆。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000E6|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Children sometimes misbehave with me, but everyone at Riverwood is very gentle to this poor old lady. May the Divines bless them!",
+    "string": "孩子们有时会对我无礼，但河木镇的每个人都对这位可怜的老太太非常温柔。愿神灵保佑他们！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050000E7|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My darling, when you have a little time to spare, take a moment to talk to this old lady again.",
+    "string": "亲爱的，当你稍有空闲时，请再次抽空与这位老太太聊聊天。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000102|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you want? Get out, get away from me! Guards! I'm being attacked! Help!",
+    "string": "你想要什么？出去，离我远点！守卫！我遭到了袭击！快来帮忙！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000103|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No, no! The voices... the voices in my head... why don't you go away? Please... get out of my head... ",
+    "string": "不，不！那些声音……我脑海中的声音……你为什么不消失？求你了……从我脑海中消失。.. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000104|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know... I know everything they're planning! No! No one will capture me! I'm faster than all of you!",
+    "string": "我知道……我知道他们正在策划的一切！不！没有人能抓到我！我比你们所有人都跑得快！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000105|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They are coming... The end is near! Hide! There will be no one left alive when they arrive!",
+    "string": "他们来了……末日将近！快躲起来！他们一来，就没人能活下来！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000106|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Y'ffre protect me! It's them, they're here! The Wild Hunt will destroy us all! There is no way out! We will all die!",
+    "string": "伊夫雷，保护我！是他们，他们来了！狂猎会毁灭我们所有人！我们无路可逃！我们都会死！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000107|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey, why are you trying to steal from me? What have I done to you? Leave me alone, criminal!",
+    "string": "嘿，你为什么要偷我的东西？我对你做了什么？放开我，你这个罪犯！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000108|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Open your eyes! Imperials, Stormcloaks, Thalmor... you are all puppets in their hands!",
+    "string": "睁开你们的眼睛吧！帝国军、风暴斗篷军、梭莫……你们全都是他们手中的傀儡！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000109|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm? What you want? Why are you looking at me like that? Stop! I don't know you! Guards, help!",
+    "string": "嗯？你想干什么？为什么这样看着我？住手！我不认识你！守卫，快来帮忙！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500010A|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dragon! Dragon! Run, he will burn you all! Dragonborn, save our lives! Dragonborn, where are you?",
+    "string": "龙！龙！快跑，他会把你们都烧死的！龙裔，救救我们！龙裔，你在哪里？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500010D|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you intend to wander Solstheim, you do so at your own risk. The Reavers have imported some of Morrowind's dangerous native fauna to this island.",
+    "string": "如果你打算在索尔斯特姆岛上漫游，后果自负。掠夺者们已经将莫罗温德岛一些危险的本土动物引入了这座岛屿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500010E|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Head over to the Retching Netch if the ash has your throat parched. It's probably the only leisure you'll find around here.",
+    "string": "如果火山灰让你喉咙干渴，那就去雷奇内奇酒吧吧。这可能是你在附近能找到的唯一休闲去处了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500010F|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There's nothing beyond the Bulwark except wild Nords, dumb blue goblins riding pigs, moody netches and ash wastes.",
+    "string": "壁垒之外除了狂野的诺德人、骑着猪的愚蠢蓝色哥布林、喜怒无常的奈奇和灰烬荒原，别无他物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000110|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah yes! Zombies made of ash... that was all that was needed to make this place even better! Hell of a place!",
+    "string": "啊，对了！用灰烬制成的僵尸……只需这一点，这个地方就更加完美了！真是个绝妙的地方！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000111|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Jiub didn't do a good job extinguishing the Cliff Racers. The mainland is still ravaged by them, and they'll be here soon!",
+    "string": "朱布在消灭悬崖掠夺者方面做得并不好。大陆仍饱受其蹂躏，而且他们很快就会卷土重来！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000112|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Kagouti are fierce beasts. A moody mating female ripped off my arm and leg back on the mainland, but I smashed her head with my mace as retribution!",
+    "string": "卡古提兽是凶猛的野兽。在大陆上，一只情绪不佳的交配雌性卡古提兽撕掉了我的胳膊和腿，但我用我的狼牙棒敲碎了它的头作为报复！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000113|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "House Redoran represents the strength and military might of the Dunmer. Where there is a Redoran Guard, there is safety!",
+    "string": "雷多兰家族代表着登梅尔人的力量和军事力量。只要有雷多兰家族的守卫，就意味着安全！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000116|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The only regret I have about the Great War is that I didn't slit more elves' throats with my sword. The only good Thalmor is a dead Thalmor!",
+    "string": "我对那场大战唯一的遗憾就是，我没能用剑割开更多精灵的喉咙。只有死掉的梭莫人才是好的梭莫人！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000117|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've heard that the Khajiit are on the Thalmor side... I've always been suspicious! No walking rug can fool a veteran! Filthy cats...",
+    "string": "我听说卡吉特人站在梭莫那边……我一直都怀疑！老兵不会被地毯上的脚印骗过的！肮脏的猫科动物。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000118|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have nothing against other races, I just think they should stay in their provinces!",
+    "string": "我对其他种族并无恶意，我只是认为他们应该待在自己的省份里！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000119|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I just saw a young guard complaining about an arrow in the knee. What a sissy... even without a leg, I can still kick some Thalmor ass.",
+    "string": "我刚看到一个年轻的守卫在抱怨膝盖中箭。真是个娘们……就算没腿，我也能踢爆梭莫人的屁股。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500011A|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My father was an Imperial and my mother a Nord. Humans are all brothers and sisters! We must unite to fight the elves instead of killing each other!",
+    "string": "我父亲是帝国人，我母亲是诺德人。人类都是兄弟姐妹！我们必须团结起来对抗精灵，而不是自相残杀！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500011B|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This Civil War was all the yellow elves wanted! We are weakening and dividing our race, and they will come and conquer us all! Open your eyes!",
+    "string": "这场内战正是黄精灵们所希望的！我们正在削弱和分裂我们的种族，他们终将到来并征服我们所有人！睁开你们的眼睛吧！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500011C|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Elves! Elves! Too many elves! Cats... talking cats! Lizards wearing clothes! What is this province turning into? Go back to where you came from!",
+    "string": "精灵！精灵！精灵太多了！猫……会说话的猫！穿衣服的蜥蜴！这个省到底要变成什么样子了？快滚回你们来的地方去！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500011D|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Solitude belongs to humans! Stormcloaks and Imperials should stop fighting, and unite against the real threat!",
+    "string": "人类应当独处！风暴斗篷军和帝国军应停止争斗，联合起来对抗真正的威胁！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500011E|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've heard rumors of bestial races entering the Imperial ranks! Disgusting! Is it an Empire or a freak show?",
+    "string": "我听说有兽人种族加入了帝国军队！真令人恶心！这到底是帝国还是怪物展览会？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500011F|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you really think a Khajiit or Argonian has human intelligence? An Elsweyr parrot can also learn to repeat words!",
+    "string": "你真的认为卡吉特人或阿戈尼亚人有人的智力吗？艾尔斯韦尔鹦鹉也能学会重复单词！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000122|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I did nothing! They said I was a thief and a spy for the elves, and they beat me mercilessly!",
+    "string": "我什么都没做！他们说我是小偷，是精灵的间谍，然后他们无情地殴打我！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000123|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I lost my family in a fire, and I came here looking for a new life! Damn racists! They cut off my hands and left me to die...",
+    "string": "我在一场火灾中失去了家人，来到这里寻求新的生活！该死的种族主义者！他们砍断了我的双手，任由我死去。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000124|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Dark Elves saved me, after the Stormcloaks mutilated my arms... But I'm afraid something worse will happen to me... soon or later!",
+    "string": "在风暴斗篷残害了我的双臂之后，黑暗精灵救了我……但我担心，迟早有一天，更糟糕的事情会发生在我身上！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000125|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I never leave the Gray Quarter... out of here it's too dangerous, and I'm afraid it could be the end of me!",
+    "string": "我从不离开灰色区域……离开这里太危险了，我担心那会是我的末日！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000126|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You weren't sent to kill me, were you? Please, I'm just trying to live my life in peace!",
+    "string": "你不是被派来杀我的，对吧？求你了，我只想平静地过日子！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000127|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They said that because I'm a Breton, I'm half-elf, and therefore a spy... they didn't even try to get to know me first...",
+    "string": "他们说因为我是布列塔尼人，有一半精灵血统，所以是个间谍……他们甚至都没先试着去了解我。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000128|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My hands were cut off after I was accused of stealing. I was dragged into an alley, and I was mutilated with a unsharpened dagger in cold blood...",
+    "string": "我被指控偷窃后，双手被砍断。我被拖到一条小巷里，被人用一把未磨过的匕首残忍地肢解。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000129|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I never robbed anyone! I was a farmer on the High Rock border! I came here just to try to rebuild my life after losing everything!",
+    "string": "我从未抢劫过任何人！我曾是位于高岩边境的一名农民！我来到这里只是为了在失去一切后重建我的生活！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500012A|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Who wants to hire me? I can't hold a hoe, or build a wall... I'll forever be a beggar, hiding in the alleys... I didn't do anything to deserve this!",
+    "string": "谁愿意雇用我？我连锄头都拿不起来，更别提砌墙了……我永远只能是个乞丐，躲在巷子里……我什么都没做，为什么要这样对我！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500012D|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Damn wolves, because of them my leg had to be amputated. Damn them, and their nasty bites!",
+    "string": "该死的狼，因为它们，我的腿不得不被截肢。该死的它们，还有它们那该死的咬伤！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500012E|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As if it wasn't enough that I was lame, one day I woke up in the morning and suddenly...  my vision was gone. Great! What's next? Deaf?",
+    "string": "好像我腿瘸还不够糟糕似的，有一天早上我醒来时，突然……我的视力消失了。太棒了 接下来呢？变成聋子吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500012F|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The doctor said that my leg infection had probably spread to my eyes, and blinded me. Damn stinking wolves, I hope he starves to death!",
+    "string": "医生说我的腿部感染可能已经扩散到眼睛，导致我失明。该死的臭狼，我希望它饿死！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000130|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can no longer work on the farm, luckily I am of some use at the Inn.",
+    "string": "我不能再在农场干活了，幸运的是，我在酒馆还有点用武之地。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000131|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful, my bad luck is so great... that it will infect you too...",
+    "string": "小心点，我的霉运太强了……会传染给你的。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000132|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dawnstar... a cold and sad place. I dreamed of one day seeing Cyrodiil with my own eyes, but now... whatever... I can't see shit!",
+    "string": "晨星……一个寒冷而悲伤的地方。我曾梦想着有一天能亲眼看看塞洛迪尔，但现在……管它呢……我什么都看不见！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000135|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This Falion... I don't trust him! He is clearly involved in dark practices! I've seen him performing rituals in the swamp!",
+    "string": "这个法里昂……我不相信他！他显然在从事邪恶的勾当！我见过他在沼泽里施法！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000136|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Vampires! I see them wandering through the night! They will drink our blood! Watch out!",
+    "string": "吸血鬼！我看见他们在夜色中游荡！他们会喝我们的血！小心！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000137|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Soon our blood will all be drained by the beasts of Oblivion! Run away! I know what I'm saying!",
+    "string": "很快，我们都会被湮灭之兽吸干血液！快逃！我知道自己在说什么！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000138|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The swamp is littered with the corpses of those who died in it! I can hear their wails... in the silent nights! I hope I won't become one of those!",
+    "string": "沼泽里到处都是死者的尸体！在寂静的夜晚，我都能听到他们的哀嚎声！我希望自己不要成为其中一员！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000139|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There is an abandoned hut in the middle of the marshes! The brotherhood of death roams around there! Be carefull!",
+    "string": "沼泽中央有一座废弃的小屋！死亡的气息在那里弥漫！小心！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500013A|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This Alva lady is pretty... suspicious! I feel she's into something... morbid!",
+    "string": "这位阿尔瓦女士很……可疑！我觉得她卷入了一些……不寻常的事情！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500013B|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I... I saw a ghost! In ancient armor! In the ruins... east of town!",
+    "string": "我……我看见了一个鬼魂！穿着古董盔甲！在废墟里……在镇子东边！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500013C|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500013D|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No! Please don't kill me! Please don't kill me! No! I don't wanna die!",
+    "string": "不！请不要杀我！请不要杀我！不！我不想死！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000140|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Damned... Damned elves! They tortured me... they took everything from me!",
+    "string": "该死的……该死的精灵！他们折磨我……他们夺走了我一切！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000141|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Divine ones? Why do you let me suffer this way? I can't take it anymore...",
+    "string": "神灵们？你们为何让我如此受苦？我再也受不了了。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000142|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Talos... please... give me the sweet embrace of death... let me rest... please!",
+    "string": "塔洛斯……求你了……让我安详地死去……让我安息吧……求你了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000143|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why don't the Divines let me die? I just want to rest in peace... Who am I nowadays? ",
+    "string": "为什么神灵不让我死去？我只想安息……我现在是谁？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000144|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I served the Empire with my youth and health... now the Emperor left me to my fate...",
+    "string": "我曾用我的青春和健康为帝国效力……如今，皇帝却将我弃之不顾，任由我自生自灭。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000145|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Soldiers! Help! I've been captured by the Thalmor! Help me!",
+    "string": "士兵们！救我！我被塔尔莫尔人抓走了！快来救我！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000150|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "May the Divines bless the healers of the Temple of Kynareth. I'm alive thanks to them!",
+    "string": "愿神灵保佑凯纳瑞斯神庙的疗愈者们。我能活下来，多亏了他们！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000151|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I lost my arm while fulfilling a troll-slaying contract in a remote dark cave. The wound became infected, and I almost died from it.",
+    "string": "我在一个偏僻的黑暗洞穴里履行一份杀怪契约时，失去了我的手臂。伤口感染了，我差点因此丧命。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000152|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The life of a monster hunter is no cakewalk. It's one thing to face a bandit, it's another to face a Giant with 10 times your strength.",
+    "string": "猎魔人的生活绝非轻松。面对强盗是一回事，而面对比你强十倍的巨人则是另一回事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000153|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I specialize in tracking and killing monsters. It's perhaps the most dangerous mercenary job, but the adrenaline is always running high!",
+    "string": "我专门追踪并猎杀怪物。这或许是最危险的雇佣兵工作，但肾上腺素总是飙升！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000154|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When the infection is fully cured, I'll be back in action! I don't need two hands to cut off heads! ",
+    "string": "等感染完全治愈，我就会重返战场！砍头这种事，我可不需要两只手！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000155|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That troll that took my arm? I kept it alive until the very end so it could see its whole family dying first...in front of its own three eyes!",
+    "string": "那个咬断我手臂的巨怪？我让它活到了最后一刻，这样它就能亲眼目睹它的全家老小一个个死去……就在它眼前！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000156|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I fought in many arenas across Cyrodiil. Fame, women, money... but I'm getting too old for that. Ah... I miss Kvatch!",
+    "string": "我在赛罗迪亚的许多竞技场中战斗过。名声、女人、金钱……但我已经太老了，不适合这些了。啊……我想念克瓦奇！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000157|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The second largest arena in Cyrodiil was destroyed during the Oblivion Crisis, when Dagon's forces crushed Kvatch. ",
+    "string": "赛罗迪亚的第二大赛场在湮灭危机期间被摧毁，当时达贡的军队摧毁了克瓦奇。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000158|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The biggest gladiator arena is in the heart of the Empire, in the magnificent Imperial City, place of bravery and glory!",
+    "string": "最大的角斗场位于帝国的中心，坐落在宏伟的帝国城内，这里是勇气的象征和荣耀的殿堂！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000159|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fortunately Kvatch was rebuilt after its destruction, and today its arena stands in triumph, drawing crowds of people again.",
+    "string": "幸运的是，克瓦奇在被摧毁后得以重建，如今其竞技场再次屹立，吸引着众多人群。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500015C|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Falkreath is infested with Trolls! Luckily you have the right person around here, and for a fair price!",
+    "string": "福克瑞斯被巨魔侵扰了！幸运的是，你身边有合适的人选，而且价格公道！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500015D|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I lost my leg to a ferocious troll years ago who ambushed me. In return, he lost his life to my axe!",
+    "string": "几年前，我被一只凶猛的巨怪偷袭，失去了我的腿。作为回报，我的斧头也夺走了它的性命！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500015E|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Falkreath is a nice place to live, it's far from political tensions, and there is always some beast to kill!",
+    "string": "福克瑞斯是个宜居的好地方，远离政治纷争，而且总有一些野兽可以猎杀！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500015F|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A farmer once told me that trolls are sentient creatures. But he changed his mind after having his entire family killed by one! ",
+    "string": "一位农民曾告诉我，巨怪是有感知力的生物。但当他全家都被一只巨怪杀害后，他改变了看法！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000160|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The men here in Falkreath seem to be afraid of me. A one-legged woman who can kick all of their asses at once! ",
+    "string": "福克瑞斯这里的男人们似乎都怕我。一个能同时把他们全踢翻的独腿女人！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000161|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dead Man's Drink is the best place around here. Plenty of food and drink, and... Valga... one day I will win her wild heart!",
+    "string": "“亡者酒馆”是这附近最好的地方。食物和饮料都很丰富，而且……瓦尔加……总有一天我会赢得她那颗狂野的心！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000164|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've always dreamed of being a Whiterun Guard! It's a shame all that happened to me, and it happened so fast...",
+    "string": "我一直梦想成为一名白漫守卫！真遗憾，我遭遇了这一切，而且发生得太快了。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000165|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In my first days of service, a Giant attacked the farms. I tried to stop him, only to have both my arms mercilessly ripped off...",
+    "string": "在我服役的头几天，一只巨怪袭击了农场。我试图阻止它，结果却惨遭双臂被无情撕扯掉的厄运。。。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000166|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "People feel sorry for me, they don't understand that my mind and courage are intact, and stronger than ever!",
+    "string": "人们为我感到难过，他们不明白我的意志和勇气依然坚如磐石，甚至比以往任何时候都更加强大！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000167|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I may not be able to hold a sword any longer, but I will be the best sentry this city has ever seen!",
+    "string": "我或许不能再持剑，但我会成为这座城市有史以来最出色的哨兵！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000168|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I recovered from my near-fatal injuries thanks to the Temple of Kynareth. Their work should receive more recognition and support!",
+    "string": "多亏了凯纳瑞斯神庙，我才从几近致命的伤势中康复。他们的工作应该得到更多的认可和支持！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000169|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Beware of the Giants, they are not peaceful creatures as some fools say. They are evil and merciless demons!",
+    "string": "小心巨人，他们并非如某些愚者所言是和平的生物。他们是邪恶且无情的恶魔！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500016A|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Feel safe, citizen! As long as I'm watching, crime doesn't stand a chance!",
+    "string": "放心吧，公民！只要有我在，犯罪分子就休想得逞！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500016B|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gotta keep my eyes open. Damn Giants can attack at any time!",
+    "string": "我得睁大眼睛，该死的巨人随时都可能进攻！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500016C|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I think we should wipe out all the Giant camps, instead of waiting to be attacked first!",
+    "string": "我认为我们应该先消灭所有巨人的营地，而不是坐以待毙！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500016D|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope you're finding the city in proper order, citizen!",
+    "string": "我希望你发现这座城市秩序井然，市民！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500016F|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(ugghh)",
+    "string": "（啊，真烦人）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000170|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(ugghh)",
+    "string": "（啊，真烦人）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000172|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(uggh)",
+    "string": "（呃）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000173|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(arrrgh)",
+    "string": "（啊呀）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000175|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(arggh)",
+    "string": "（啊，真是的）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000176|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(arggh)",
+    "string": "（啊，真是的）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000178|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(uggh)",
+    "string": "（呃）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000179|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(uggh)",
+    "string": "（呃）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500017B|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(uggh)",
+    "string": "（呃）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500017C|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(arrgh)",
+    "string": "（啊呀）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500017E|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500017F|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000181|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000182|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000184|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000185|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000187|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000188|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500018A|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500018B|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500018D|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500018E|mihailhandicappedcitizens.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  }
+]

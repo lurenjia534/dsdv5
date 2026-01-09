@@ -1,0 +1,299 @@
+[
+    {
+        "editor_id": "Mag_PowerShotDamage",
+        "form_id": "FE000895|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF FULL",
+        "original": "Power shot",
+        "string": "强力之箭",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Mag_BowStagger",
+        "form_id": "FE00080D|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF FULL",
+        "original": "Fortify Bow Stagger",
+        "string": "强化弓箭失衡",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Spell_Dust",
+        "form_id": "FE000836|BowRapidCombo.esp",
+        "index": null,
+        "type": "SPEL FULL",
+        "original": "Dust",
+        "string": "尘",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Mag_PowerShotDamage2",
+        "form_id": "FE000897|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF FULL",
+        "original": "Power shot2",
+        "string": "强力之箭2",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "SD_Daedric",
+        "form_id": "FE000881|BowRapidCombo.esp",
+        "index": null,
+        "type": "ARMO FULL",
+        "original": "Secondary Daedric Dagger",
+        "string": "辅助匕首-魔族",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Mag_BowStagger",
+        "form_id": "FE00080D|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF DNAM",
+        "original": "Arrows stagger targets.",
+        "string": "射箭可使目标失去平衡。",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Mag_BowDamage",
+        "form_id": "FE00080C|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF DNAM",
+        "original": "Increases bow damage by <mag>% for <dur> seconds.",
+        "string": "在<dur>秒内增加弓伤害<mag>%。",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Timing_Start",
+        "form_id": "FE000809|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF FULL",
+        "original": "Start",
+        "string": "开始",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Mag_PowerShotDamage3",
+        "form_id": "FE00089B|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF FULL",
+        "original": "Power shot3",
+        "string": "强力之箭3",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Mag_PowerShotDamage",
+        "form_id": "FE000895|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF DNAM",
+        "original": "Increases bow damage by <mag>% for <dur> seconds.",
+        "string": "在<dur>秒内增加弓伤害<mag>%。",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "SD_Orcish",
+        "form_id": "FE00087C|BowRapidCombo.esp",
+        "index": null,
+        "type": "ARMO FULL",
+        "original": "Secondary Orcish Dagger",
+        "string": "辅助匕首-兽人",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "SD_Dragonbone",
+        "form_id": "FE000882|BowRapidCombo.esp",
+        "index": null,
+        "type": "ARMO FULL",
+        "original": "Secondary Dragonbone Dagger",
+        "string": "辅助匕首-龙骨",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Mag_PowerShotDamage2",
+        "form_id": "FE000897|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF DNAM",
+        "original": "Increases bow damage by <mag>% for <dur> seconds.",
+        "string": "在<dur>秒内增加弓伤害<mag>%。",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Mag_PowerShotDamage3",
+        "form_id": "FE00089B|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF DNAM",
+        "original": "Increases bow damage by <mag>% for <dur> seconds.",
+        "string": "在<dur>秒内增加弓伤害<mag>%。",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "BleedingDamage",
+        "form_id": "FE00080E|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF FULL",
+        "original": "Bleeding Damage",
+        "string": "流血伤害",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "SD_Steel",
+        "form_id": "FE00087B|BowRapidCombo.esp",
+        "index": null,
+        "type": "ARMO FULL",
+        "original": "Secondary Steel Dagger",
+        "string": "辅助匕首-钢制",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "VoiceStaggerPush",
+        "form_id": "FE00080F|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF FULL",
+        "original": "Stagger Push",
+        "string": "失衡推击",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "SD_Elven",
+        "form_id": "FE00087E|BowRapidCombo.esp",
+        "index": null,
+        "type": "ARMO FULL",
+        "original": "Secondary Elven Dagger",
+        "string": "辅助匕首-精灵",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Spell_Effect",
+        "form_id": "FE00083B|BowRapidCombo.esp",
+        "index": null,
+        "type": "SPEL FULL",
+        "original": "Wind",
+        "string": "风",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "StaggerPush",
+        "form_id": "FE00083F|BowRapidCombo.esp",
+        "index": null,
+        "type": "SPEL FULL",
+        "original": "Stagger Push",
+        "string": "失衡推击",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "SD_ForHonor",
+        "form_id": "FE000839|BowRapidCombo.esp",
+        "index": null,
+        "type": "ARMO FULL",
+        "original": "Secondary For Honor Dagger",
+        "string": "辅助匕首-荣耀战魂",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "SD_Nordic",
+        "form_id": "FE000884|BowRapidCombo.esp",
+        "index": null,
+        "type": "ARMO FULL",
+        "original": "Secondary Nordic Dagger",
+        "string": "辅助匕首-诺德",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "SD_Dwarven",
+        "form_id": "FE00087D|BowRapidCombo.esp",
+        "index": null,
+        "type": "ARMO FULL",
+        "original": "Secondary Dwarven Dagger",
+        "string": "辅助匕首-矮人",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Spell_Effect2",
+        "form_id": "FE00083C|BowRapidCombo.esp",
+        "index": null,
+        "type": "SPEL FULL",
+        "original": "Red Wind",
+        "string": "赤风",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "SD_Stalhrim",
+        "form_id": "FE000883|BowRapidCombo.esp",
+        "index": null,
+        "type": "ARMO FULL",
+        "original": "Secondary Stalhrim Dagger",
+        "string": "辅助匕首-魔冰",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Mag_Dust",
+        "form_id": "FE000806|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF FULL",
+        "original": "Dust",
+        "string": "尘",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Timing_Effect",
+        "form_id": "FE00080A|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF FULL",
+        "original": "Wind",
+        "string": "风",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Spell_BleedingDamage",
+        "form_id": "FE00083E|BowRapidCombo.esp",
+        "index": null,
+        "type": "SPEL FULL",
+        "original": "Bleeding Damage",
+        "string": "流血伤害",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "SD_Iron",
+        "form_id": "FE00087A|BowRapidCombo.esp",
+        "index": null,
+        "type": "ARMO FULL",
+        "original": "Secondary Iron Dagger",
+        "string": "辅助匕首-铁制",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "SD_Glass",
+        "form_id": "FE00087F|BowRapidCombo.esp",
+        "index": null,
+        "type": "ARMO FULL",
+        "original": "Secondary Glass Dagger",
+        "string": "辅助匕首-玻璃",
+        "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "SD_Ebony",
+        "form_id": "FE000880|BowRapidCombo.esp",
+        "index": null,
+        "type": "ARMO FULL",
+        "original": "Secondary Ebony Dagger",
+        "string": "辅助匕首-黑檀",
+        "status": "TranslationComplete"
+    },
+    {
+    "editor_id": "BowRapidOnOffSP",
+    "form_id": "05000891|BowRapidCombo.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "BowRapidSwitchPower",
+    "string": "[配置]弓箭速射切换",
+    "status": "TranslationComplete"
+    },
+    {
+        "editor_id": "Timing_Effect2",
+        "form_id": "FE00080B|BowRapidCombo.esp",
+        "index": null,
+        "type": "MGEF FULL",
+        "original": "Red Wind",
+        "string": "赤风",
+        "status": "TranslationComplete"
+    }
+]

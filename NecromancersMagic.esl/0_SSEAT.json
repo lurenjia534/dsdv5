@@ -1,0 +1,920 @@
+[
+  {
+    "editor_id": "_NV_BlastbonesFaction",
+    "form_id": "05000803|NecromancersMagic.esl",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Helps Player",
+    "string": "帮助玩家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BlastbonesRace",
+    "form_id": "05000804|NecromancersMagic.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Skeleton",
+    "string": "骷髅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_LingeringDamageMagickaLivingMGEF",
+    "form_id": "05000805|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Silence The Lamb",
+    "string": "噤声羔羊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_LingeringDamageMagickaLivingMGEF",
+    "form_id": "05000805|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "An unholy curse dealing <mag> points of Magicka damage for <dur> seconds to the living. Targets stagger.",
+    "string": "不洁诅咒，对活体造成 <mag> 点魔力伤害，持续 <dur> 秒，并使其蹒跚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_LingeringDamageStaminaLivingMGEF",
+    "form_id": "05000806|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dark Weight",
+    "string": "黑暗之重",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_LingeringDamageStaminaLivingMGEF",
+    "form_id": "05000806|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "An unholy curse dealing <mag> points of Stamina damage for <dur> seconds to the living. Targets stagger.",
+    "string": "不洁诅咒，对活体造成 <mag> 点耐力伤害，持续 <dur> 秒，并使其蹒跚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BoneSpikeMGEF",
+    "form_id": "05000807|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Blighted Spike",
+    "string": "枯萎尖刺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BoneSpikeMGEF",
+    "form_id": "05000807|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A spike of bone dealing <mag> disease damage.",
+    "string": "骨刺，造成 <mag> 点疾病伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BoneSpikeRestoreMagickaMGEF",
+    "form_id": "05000808|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Blighted Spike",
+    "string": "枯萎尖刺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BoneSpikeRestoreMagickaMGEF",
+    "form_id": "05000808|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Restores <60> magicka if they die within <dur> seconds.",
+    "string": "若其于 <dur> 秒内死亡，回復 <60> 点魔力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SummonBoneArmorCloakDmgRestoreMagickaMGEF",
+    "form_id": "05000809|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Foul Air",
+    "string": "恶臭气息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BlastbonesMGEF",
+    "form_id": "0500080A|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Blastbones",
+    "string": "爆骨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BlastbonesMGEF",
+    "form_id": "0500080A|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A skeleton emerges and explodes, dealing <mag> damage and twice to living targets.",
+    "string": "骷髅出现并爆炸，造成 <mag> 点伤害，对活体造成双倍伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BlastbonesAttackAnimMGEF",
+    "form_id": "0500080B|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "attack anim",
+    "string": "攻击动画",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BlastbonesExpAttackMGEF",
+    "form_id": "0500080C|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Necromantic Blast",
+    "string": "死灵爆破",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BlastbonesLifetimeMGEF",
+    "form_id": "0500080D|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Lifetime",
+    "string": "持续时间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BlastbonesExpAttackLivingMGEF",
+    "form_id": "0500080E|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Necromantic Blast",
+    "string": "死灵爆破",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_ScytheAbsorbHealthMGEF",
+    "form_id": "0500080F|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Lifesteal",
+    "string": "汲血",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_ScytheAbsorbHealthMGEF",
+    "form_id": "0500080F|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Steal <mag>Health per second for <dur> seconds. Steals twice the amount from living targets.",
+    "string": "每秒吸取 <mag> 点生命，持续 <dur> 秒，对活体吸取双倍量",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_ScytheAbsorbHealthLivingMGEF",
+    "form_id": "05000810|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Lifesteal",
+    "string": "汲血",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SummonScytheMGEF",
+    "form_id": "05000811|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Death Scythe",
+    "string": "死亡镰刀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_FlamingSkullMGEF",
+    "form_id": "05000812|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Necromantic Skull",
+    "string": "死灵骷髅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_FlamingSkullMGEF",
+    "form_id": "05000812|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A blast of necrotic energy that does <mag> damage and twice the amount to living targets.",
+    "string": "死灵能量爆发，造成 <mag> 点伤害，对活体造成双倍伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_FlamingSkullLivingMGEF",
+    "form_id": "05000813|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Necromantic Skull",
+    "string": "死灵骷髅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_DeathsTouchLivingMGEF",
+    "form_id": "05000814|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Death's Touch",
+    "string": "死亡之触",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_DeathsTouchLivingMGEF",
+    "form_id": "05000814|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A rush of soul energy dealing <mag> damage. Deals extra damage to repleted Health targets and living targets for up to three times.",
+    "string": "灵魂能量冲击，造成 <mag> 点伤害，对生命已满与活体目标最多造成三倍伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_DeathsTouchMGEF",
+    "form_id": "05000815|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Death's Touch",
+    "string": "死亡之触",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_DeathsTouchMGEF",
+    "form_id": "05000815|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A rush of soul energy dealing <mag> damage. Deals extra damage to repleted Health targets and living targets for up to three times.",
+    "string": "灵魂能量冲击，造成 <mag> 点伤害。对高生命值目标与活体最多造成三倍伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_DeathsTouchHighHeathMGEF",
+    "form_id": "05000816|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Death's Touch",
+    "string": "死亡之触",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_DeathsTouchHighHeathMGEF",
+    "form_id": "05000816|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A rush of soul energy dealing <mag> damage. Deals extra damage to repleted Health targets and living targets for up to three times.",
+    "string": "灵魂能量冲击，造成 <mag> 点伤害，对生命已满与活体目标最多造成三倍伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SummonBoneArmorMGEF",
+    "form_id": "05000817|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ruinous Armor",
+    "string": "毁灭之甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SummonBoneArmorMGEF",
+    "form_id": "05000817|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Improves the caster's armor rating by <mag> points for <dur> seconds.",
+    "string": "施法者的护甲值提高<mag>点，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SummonBoneArmorCloakMGEF",
+    "form_id": "05000818|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Foul Air",
+    "string": "恶臭气息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SummonBoneArmorCloakMGEF",
+    "form_id": "05000818|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> disease damage to nearby opponents and restores <60> magicka if they die.",
+    "string": "造成附近敌人 <mag> 点疾病伤害，若其死亡则回復 <60> 点魔力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SummonBoneArmorCloakDmgMGEF",
+    "form_id": "05000819|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Foul Air",
+    "string": "恶臭气息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SummonBoneArmorCloakDmgMGEF",
+    "form_id": "05000819|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag> disease damage.",
+    "string": "<mag> 点疾病伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BoneyardHazardDamageMGEF",
+    "form_id": "0500081A|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Soul Chill",
+    "string": "灵魂冻寒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BoneyardHazardDamageSlowMGEF",
+    "form_id": "0500081B|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Slow",
+    "string": "降低速度",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BoneyardMGEF",
+    "form_id": "0500081C|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Boneyard",
+    "string": "墓园",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BoneyardMGEF",
+    "form_id": "0500081C|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A desecrated ground dealing <mag> damage per second for <16> seconds. Slows living targets.",
+    "string": "亵渎之地，每秒造成 <mag> 点伤害，持续 16 秒，并使活体目标缓速。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BoneyardHazardDamageLivingMGEF",
+    "form_id": "0500081D|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Soul Chill",
+    "string": "灵魂冻寒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_StaggerEffect",
+    "form_id": "05000AB0|NecromancersMagic.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Stagger Effect",
+    "string": "蹒跚效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_ScytheEnchantment",
+    "form_id": "0500081E|NecromancersMagic.esl",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Soul Reaper",
+    "string": "灵魂收割者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Player_LingeringDamageMagickaSpell",
+    "form_id": "0500081F|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Silence The Lamb",
+    "string": "噤声羔羊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Player_LingeringDamageStaminaSpell",
+    "form_id": "05000820|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dark Weight",
+    "string": "黑暗之重",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Player_BoneSpike",
+    "form_id": "05000821|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Blighted Spike",
+    "string": "枯萎尖刺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Player_Blastbones",
+    "form_id": "05000822|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Blastbones",
+    "string": "爆骨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BlastbonesAttackAnim",
+    "form_id": "05000823|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Blastbones leaping anim",
+    "string": "爆骨跳跃动画",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BlastbonesExpAttack",
+    "form_id": "05000824|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Necromantic Blast",
+    "string": "死灵爆破",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BlastbonesLifetime",
+    "form_id": "05000825|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Lifetime",
+    "string": "持续时间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Player_DeathScythe",
+    "form_id": "05000826|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Death Scythe",
+    "string": "死亡镰刀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Player_FlamingSkull",
+    "form_id": "05000827|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Necromantic Skull",
+    "string": "死灵骷髅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Player_DeathsTouch",
+    "form_id": "05000828|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Death's Touch",
+    "string": "死亡之触",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Player_SummonBoneArmor",
+    "form_id": "05000829|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Ruinous Armor",
+    "string": "毁灭之甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SummonBoneArmorCloakDmg",
+    "form_id": "0500082A|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Foul Air",
+    "string": "恶臭气息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BoneyardHazardDamage",
+    "form_id": "0500082B|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Soul Chill",
+    "string": "灵魂冻寒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Player_Boneyard",
+    "form_id": "0500082C|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Boneyard",
+    "string": "墓园",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_NPC_BoneyardLeftHand",
+    "form_id": "0500087E|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Boneyard",
+    "string": "墓园",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_NPC_FlamingSkullRightHand",
+    "form_id": "05000880|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Necromantic Skull",
+    "string": "死灵骷髅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_NPC_BoneSpikeRightHand",
+    "form_id": "05000881|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Blighted Spike",
+    "string": "枯萎尖刺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Boneyard_Scroll",
+    "form_id": "0500082E|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Boneyard",
+    "string": "白骨地卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_DeathScythe_Scroll",
+    "form_id": "0500082F|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Death Scythe",
+    "string": "死亡镰刀卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_LingeringDamageMagicka_Scroll",
+    "form_id": "05000830|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Silence The Lamb",
+    "string": "噤声羔羊卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_LingeringDamageStamina_Scroll",
+    "form_id": "05000831|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Dark Weight",
+    "string": "黑暗之重卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SummonBoneArmor_Scroll",
+    "form_id": "05000832|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Ruinous Armor",
+    "string": "毁灭之甲卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Blastbones_Scroll",
+    "form_id": "0500082D|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Blastbones",
+    "string": "爆骨卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_TestScroll",
+    "form_id": "05000833|NecromancersMagic.esl",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Test Scroll Art Render",
+    "string": "卷轴美术测试",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_MV_SolemnKnighRobes",
+    "form_id": "05000883|NecromancersMagic.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Wraith Silk Robes",
+    "string": "幽魂丝袍",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_MV_SolemnKnightShoes",
+    "form_id": "05000884|NecromancersMagic.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Wraith Silk Shoes",
+    "string": "幽魂丝鞋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_MV_SolemnKnighGloves",
+    "form_id": "05000882|NecromancersMagic.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Wraith Silk Gloves",
+    "string": "幽魂丝手套",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeSummonBoneArmor",
+    "form_id": "05000840|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Ruinous Armor",
+    "string": "法术书：毁灭之甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeSummonBoneArmor",
+    "form_id": "05000840|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nRuinous Armor",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n毁灭之甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_StoryNote1",
+    "form_id": "050008A9|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter",
+    "string": "信件",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_StoryNote1",
+    "form_id": "050008A9|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Those who've chosen to continue hiding in the keep are too patient for their own good. We have the power to legitimize our cause among the wider world. We will prove them wrong, here and now.\r\n\r\nStrike at Dragon's Bridge, make an example out of them. Only then may they listen.",
+    "string": "<font face='$HandwrittenFont'>那些选择继续躲藏在堡垒中的人，过于耐心而懦弱。我们拥有让世人认可我们使命的力量。现在，就在这里，证明他们错了。\r\n\r\n突袭龙桥，将他们当成示警的代价。唯有如此，他们才会倾听。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeNecromanticSkull",
+    "form_id": "05000838|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Necromantic Skull",
+    "string": "法术书：死灵骷髅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeNecromanticSkull",
+    "form_id": "05000838|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nNecromantic Skull",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n死灵骷髅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeBlastbones",
+    "form_id": "05000839|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Blastbones",
+    "string": "法术书：爆骨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeBlastbones",
+    "form_id": "05000839|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nBlastbones",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n爆骨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeBoneyard",
+    "form_id": "0500083A|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Boneyard",
+    "string": "法术书：白骨地",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeBoneyard",
+    "form_id": "0500083A|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nBoneyard",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n白骨地",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeBoneSpike",
+    "form_id": "0500083B|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Blighted Spike",
+    "string": "法术书：枯萎尖刺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeBoneSpike",
+    "form_id": "0500083B|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nBlighted Spike",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n枯萎尖刺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeDeathScythe",
+    "form_id": "0500083C|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Death Scythe",
+    "string": "法术书：死亡镰刀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeDeathScythe",
+    "form_id": "0500083C|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nDeath Scythe",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n死亡镰刀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeDeathsTouch",
+    "form_id": "0500083D|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Death's Touch",
+    "string": "法术书：死亡之触",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeDeathsTouch",
+    "form_id": "0500083D|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nDeath's Touch",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n死亡之触",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeLingeringDamageMagickaSpell",
+    "form_id": "0500083E|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Silence The Lamb",
+    "string": "法术书：噤声羔羊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeLingeringDamageMagickaSpell",
+    "form_id": "0500083E|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nSilence The Lamb",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n噤声羔羊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeLingeringDamageStaminaSpell",
+    "form_id": "0500083F|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Dark Weight",
+    "string": "法术书：黑暗之重",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SpellTomeLingeringDamageStaminaSpell",
+    "form_id": "0500083F|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nDark Weight",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n黑暗之重",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_StoryNote2",
+    "form_id": "050008AD|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter",
+    "string": "信件",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_StoryNote2",
+    "form_id": "050008AD|NecromancersMagic.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Our brethren will occupy Haafingar in due time. They will need supplies.\r\nYou are to smuggle as much as you can from the keep. Mark the sky with the symbol of death once you've crossed the border, and we will be there.",
+    "string": "<font face='$HandwrittenFont'>Our 我们的同袍即将佔领哈芬加。他们将急需补给。\r\n你要从堡垒中尽可能多地偷运物资。越过边境后，在天空刻下死亡的符号——我们便会前来接应。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_TreasureChestMagicLock_SpellTomes",
+    "form_id": "05000885|NecromancersMagic.esl",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Necromancer's Cache",
+    "string": "死灵法师藏匿物",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_SummonScytheWeapon",
+    "form_id": "05000846|NecromancersMagic.esl",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Death Scythe",
+    "string": "死亡镰刀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_BlastbonesActor",
+    "form_id": "05000847|NecromancersMagic.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Blastbones",
+    "string": "爆骨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Lab_RestoreMagicka",
+    "form_id": "05000849|NecromancersMagic.esl",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Celestial Potion of Magicka",
+    "string": "天界魔力药水",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Lab_RestoreStamina",
+    "form_id": "0500084A|NecromancersMagic.esl",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Celestial Potion of Stamina",
+    "string": "天界耐力药水",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Lab_RestoreAll",
+    "form_id": "0500084B|NecromancersMagic.esl",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Celestial Potion of Well-being",
+    "string": "天界福祉药水",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_Lab_RestoreHealth",
+    "form_id": "05000848|NecromancersMagic.esl",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Celestial Potion of Healing",
+    "string": "天界治癒药水",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_NV_NoStagger",
+    "form_id": "05000862|NecromancersMagic.esl",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "No Stagger",
+    "string": "无蹒跚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonBridgeOverlookLocation",
+    "form_id": "000B2395|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Dragon Bridge Overlook",
+    "string": "龙桥守望营地",
+    "status": "TranslationComplete"
+  }
+]

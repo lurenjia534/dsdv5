@@ -1,0 +1,1838 @@
+[
+  {
+    "editor_id": "aaUlfricDossier0",
+    "form_id": "05000802|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I found your dossier in the Thalmor Embassy.",
+    "string": "我在梭默大使馆找到了你的档案。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000803|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did you, now?",
+    "string": "是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000803|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Not many walked into those witches' den and came out alive - even fewer made it into my city to tell their stories.",
+    "string": "能从那帮女巫的老窝里活着出来，甚至还能走进我的城市里，讲他们故事的人——着实不多。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000803|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Tell me, then. What do the Thalmor have to say about me?",
+    "string": "那就说说看吧，梭默对我有什么评价？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1",
+    "form_id": "05000804|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It says you're the Thalmor's asset.",
+    "string": "那上面说你是梭默的走狗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000805|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see. But tell me - what do you think of such claims?",
+    "string": "我知道。不过告诉我——你对这些说法怎么看？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1a",
+    "form_id": "05000806|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think they were lies.",
+    "string": "我觉得他们在说谎。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000807|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I appreciate your faith. But the truth has always been more complicated than that.",
+    "string": "我对你的信任表示感激。可真相从来都比那更复杂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1b",
+    "form_id": "05000808|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think they were telling the truth. They didn't have to lie on their dossier.",
+    "string": "我觉得他们说的是实话。他们没必要在档案上撒谎。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1c",
+    "form_id": "0500080A|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Your war weakened humanity. You're doing exactly what the Thalmor want.",
+    "string": "你的战争削弱了人类，而你正做着梭默想做的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000849|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As you say.",
+    "string": "就像你说的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000826|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I could throw myself against the Imperial Legion or the Aldmeri Dominion, and they'd crush me despite my Voice.",
+    "string": "就算我拼死对抗帝国军团或先祖神洲，即便拥有龙吼之力，他们也必会将我碾碎。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000826|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Or I could take what resources I can get... strengthen my forces before I took a chance against Skyrim's enemies.",
+    "string": "或者我可以获取力所能及的资源…在冒险对抗天际的敌人之前先壮大我的势力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000826|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I chose the path where I stood a chance.",
+    "string": "我选择了那条尚有胜算的道路。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000814|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Indeed - the Thalmor had a hand in Markarth's events. With their gold, we fought battles that shall become our beginning.",
+    "string": "确实——梭默曾插手了马卡斯的事。凭借他们的黄金，我们打赢了必将成为新起点的战役。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080C|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The truth has always been more complicated than that.",
+    "string": "真相从来都比这更复杂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1d",
+    "form_id": "0500080E|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't know what to make of it, so I came to hear what you have to say.",
+    "string": "我不知道该怎么理解这件事，所以我想听听你的看法。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080F|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And I appreciate your wisdom. Many are inclined to judge when they see a shadow of what might be the truth.",
+    "string": "而我也感谢你的明智。当许多人看到真相的浮光掠影时，总倾向于妄下论断。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080F|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The truth... has always been more complicated than that.",
+    "string": "但真相……往往都比那更复杂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000815|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "But it's not a conversation we'll have here. Meet me in my quarters, and I shall tell you my side of the story.",
+    "string": "但这并非我们在此要谈的话题。到我的住处来，我将向你讲述我的版本。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1ai",
+    "form_id": "05000812|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So it's true - you were working for the Thalmor!",
+    "string": "所以这是真的——你一直在为梭默工作！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000813|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No! I'd die before I ever bow to those elves.",
+    "string": "不！我宁死也不会向那帮精灵低头。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossierUpstairs0",
+    "form_id": "05000817|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Will you tell me about your dossier's truth now?",
+    "string": "现在你愿意告诉我档案里的真相了吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1aii",
+    "form_id": "0500081A|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But that wasn't the whole story, was it?",
+    "string": "但这并非事情的全貌，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081B|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It wasn't.",
+    "string": "不是。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081D|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When I returned to my homeland, I saw an Empire too cowardly to stem the tides, who allowed the Eagle to swallow our men, our ways - even our god!",
+    "string": "当我重返故土，看到的却是一个怯懦到不敢力挽狂澜的帝国——它任由雄鹰吞噬我们的子民，我们的传统，甚至我们的神明！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081D|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Today, it's the Thalmor; the next, it'd just be another foe. The Empire's existence would drag the world to its grave, my beloved Skyrim included.",
+    "string": "今天是梭默，而明天，又会出现另一个敌人。帝国的存在会将世界拖入坟墓，包括我深爱的天际。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081D|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "And yet, I was but one man. A droplet against the stone that was the Ruby Throne.",
+    "string": "然而，我不过是一介凡人。如同冲击红钻王座这块顽石的一滴水珠。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081D|IDE Stormcloaks.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "It was then... a helping hand reached out. That of the beast who threatened to consume my fatherland.",
+    "string": "就在那时……一只援手伸了过来。正是那只曾威胁要吞噬我祖国的野兽。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1ai1",
+    "form_id": "0500081E|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Thalmor.",
+    "string": "梭默。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000821|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They'd give me the gold to equip my followers, hire bards to spread our word - anything that helps them corrode the Empire from within.",
+    "string": "他们会给我黄金来装备我的追随者，雇佣吟游诗人传播我们的理念——任何能从内部腐蚀帝国的手段他们都愿意提供。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier2",
+    "form_id": "0500081F|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Actually, forget it.",
+    "string": "算了，当我没说。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1ai1a",
+    "form_id": "05000822|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "And you took their gold.",
+    "string": "所以你还收了他们的黄金。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1ai1b",
+    "form_id": "05000824|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So you did what the Thalmor wanted you to do.",
+    "string": "所以你做了梭默想让你做的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1ai1c",
+    "form_id": "05000827|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I believe you had your reason.",
+    "string": "我相信你有自己的理由。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1ai1ai",
+    "form_id": "05000829|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But your war weakens humanity against the Thalmor.",
+    "string": "但你的战争却削弱了人类们对抗梭默的力量。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082A|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Or I have made it stronger by ridding it of a corrupt regime. The Empire failed against the Dominion even with its resources and numbers.",
+    "string": "不如说我是在清除腐败而使其更加强大。帝国可是对先祖神州落败了，即便他们有着更多的资源和兵源。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082A|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Yet Hammerfell - once free of its Imperial shackles - was able to cast those elves away from their deserts.",
+    "string": "而落锤——他们一摆脱帝国的枷锁——就将那帮精灵逐出了他们的沙漠。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082A|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "It was no mere luck. The truth is that the Empire, with all its noble houses, hierarchy and bureaucracy, had grown too big and deep to be efficient.",
+    "string": "这绝不是偶然。事实上，帝国连同他们所有的上层贵族，等级制度和官僚体系，早已臃肿复杂，效率低下。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082A|IDE Stormcloaks.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "The truth is that we can defeat the Thalmor - but we can only do so without the Empire's corrupt ways.",
+    "string": "真相是——我们能够击败梭默——但唯有摒弃帝国的腐败才能做到。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1ai1aii",
+    "form_id": "0500082B|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So what happens to me now? I've known your secret.",
+    "string": "那你打算怎么处置我？我已经知道了你的秘密。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082C|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'll return to your duties as my soldier, and I expect you to keep your knowledge to yourself.",
+    "string": "你将回归岗位继续担任我的士兵，而我要求你对所知之事守口如瓶。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082D|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'll go about your business as you were, unless you give my guards a reason to revoke your freedom.",
+    "string": "你将如常处理自己的事务，除非你给我的卫兵提供剥夺你自由的理由。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1ai1aii1",
+    "form_id": "0500082E|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why allow me to walk free?",
+    "string": "为什么放我自由离开？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082F|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Because deep down, you only sought the truth. Deep down, I know you love this land at least as much as I do.",
+    "string": "因为你的内心深处，不过是想找到一个真相。我知道的，你对这片土地的热爱丝毫不逊于我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000831|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're a child of Skyrim, because you're one of us.",
+    "string": "你是个天际的孩子，因为你就是我们的一员。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000832|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're a child of Skyrim, even if you're not one of us.",
+    "string": "你是个天际的孩子，即便并非我们族人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1ai1aii2",
+    "form_id": "05000833|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I will go then, Jarl Ulfric.",
+    "string": "那我就先告退了，乌弗瑞克领主。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000834|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now leave. I wish a moment of peace.",
+    "string": "走吧，我想我需要点时间静静。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricDossier1ai1aii3",
+    "form_id": "05000835|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "One day, our blades will meet.",
+    "string": "终有一日，我们的刀锋将会相遇。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000836|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And I look forward to that day... Whatever the circumstances that may be by then.",
+    "string": "我期待着那天……无论届时会是何种境况。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000838|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You made it this far. It's only right that you're rewarded with this knowledge.",
+    "string": "你能走到这一步，这份知识便是你应得的奖赏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricPersonal0",
+    "form_id": "0500083A|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can you tell me something about your personal life, Jarl Ulfric?",
+    "string": "乌弗瑞克领主，能和我聊聊您的私人生活吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083B|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't recall being your close friend. If it's a chat you desire, why don't you go talk to an innkeeper?",
+    "string": "我可不记得我和你什么交情。想闲聊的话，怎么不去找酒馆的老板聊聊？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083C|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course, my friend. You've more than proven yourself to me... It's only right that you know your liege better.",
+    "string": "当然，我的朋友。你早就向我充分证明了你的价值……你理应更了解你的君主。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricPersonal1",
+    "form_id": "0500083D|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you ever had a family?",
+    "string": "您曾有过家人吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083E|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes. I once did.",
+    "string": "是的。我曾有过。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083E|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I was father to three proud warriors and the finest maiden in all of Eastmarch.",
+    "string": "我曾是三位骄傲战士的父亲，也是整个东陲最优秀少女的父亲。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricPersonal1a",
+    "form_id": "0500083F|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened to them?",
+    "string": "他们后来怎么样了?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000840|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My sons... They're in the halls of Sovngarde now, with their grandfathers, their comrades - and all who gave their lives to our cause.",
+    "string": "我的儿子们…他们现在已身处松加德殿堂，与他们的祖父，战友——以及所有为我们的事业献出生命的人们同在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000840|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But my daughter Gunnhild... she was murdered in cold blood by Imperial assassins. She never deserved her fate.",
+    "string": "但我的女儿贡希尔德……她被帝国刺客的冷血杀害。她根本不该遭遇这样的命运。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricPersonal1ai",
+    "form_id": "05000841|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Your daughter was killed by Imperial assassins?",
+    "string": "您的女儿是被帝国刺客杀害的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000842|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Apparently, a few guards had sold their honor to the Empire and let those assassins in.",
+    "string": "显然，有几名守卫出卖了荣誉投靠帝国，放那些刺客混了进来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000842|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My daughter and I were dining alone when that happened. Those bastards charged at me, their blades poised at my throat-",
+    "string": "事发时我和女儿正在独自用餐。那群混蛋突然冲了过来，刀刃直抵我的喉咙——",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000842|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "And Gunnhild... my little daughter, she was in the way.",
+    "string": "而贡希尔德……我的小女儿，她挡在了那里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricPersonal1ai1",
+    "form_id": "05000843|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Those Imperials were heartless.",
+    "string": "那些帝国狗真是冷酷无情。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000844|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And you'd be right, because I fed their hearts to the wolves after the murder.",
+    "string": "你说得没错，因为谋杀之后，我就把他们的心喂给了狼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricPersonal1ai2",
+    "form_id": "05000845|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "All your children would still be alive if you hadn't started this war.",
+    "string": "若是您没有发动这场战争，您所有的孩子都还能活着。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000846|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And that's the price I must pay for my fatherland... However it may grieve me.",
+    "string": "这就是我必须为祖国付出的代价……无论这让我多么悲痛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000846|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Ysgramor lost his sons to the elves and the seas, yet he would claim Skyrim for us.",
+    "string": "伊斯格拉默的儿子们葬身于精灵与大海，但他终将为我们夺回天际。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000846|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "When we finally defeat the Empire and the Thalmor... It will be time for me to grieve for my children in peace.",
+    "string": "当我们最终击败帝国与梭默时……我便能安然为我的孩子们哀悼了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricxExit0",
+    "form_id": "05000848|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's talk about something else.",
+    "string": "让我们聊点别的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricPersonal1b",
+    "form_id": "0500084B|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What about your wife?",
+    "string": "那您的妻子呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084C|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She was an honorable woman, and a fearsome shield-maiden. Back in those days, everyone said she met her lesser half.",
+    "string": "她是位可敬的女性，也是位令人敬畏的盾女。那时的人们都说，她遇到了配不上自己的另一半。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084C|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Indeed. If she had chosen to make her life on the battlefield instead of this palace... She would've been happier.",
+    "string": "确实。倘若她选择在战场上而非这座宫殿里度过一生……她本会更快乐些。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084C|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The world may have forgotten her stories, but I won't. Her smiles, her wrath, and when she spent her last to bring our daughter to this world.",
+    "string": "世人或许早已遗忘她的故事，但我不会。她的微笑，她的怒火，还有她倾尽所有将女儿带到这个世界时——那一刻的模样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricHeir0",
+    "form_id": "0500084E|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who will succeed you if you fall?",
+    "string": "倘若有朝一日您倒下了，谁又将接替您的位置？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084F|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've been eyeing on a worthy successor. Someone who can lead Skyrim to victory, keep our homeland safe from those who'd conquer it.",
+    "string": "我一直在物色一位合格的继任者。一位能带领天际走向胜利，守护我们家园不被征服者蹂躏的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000857|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've been eyeing on a few senior commanders. Someone who can lead Skyrim to victory, keep our homeland safe from those who'd conquer it.",
+    "string": "我一直在物色几位资深的指挥官。必须有人能带领天际走向胜利，保卫我们的家园免遭他人蹂躏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000857|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "When I pick a successor, I ask that you remain faithful to them as you are to me, for I will have trusted them with our kingdom.",
+    "string": "当我选定继任者时，我要求你像忠于我一样忠于他们，因为我将把我们的王国托付于他们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000851|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And I think I'm looking at him.",
+    "string": "而我认为我正看着他。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000852|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And I think I'm looking at her.",
+    "string": "而我认为我正看着她。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricHeir1",
+    "form_id": "05000853|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why me?",
+    "string": "为什么是我？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000854|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You are the Dragonborn. In your veins flows the blood that once fueled Talos's holy war.",
+    "string": "你是龙裔。你的血脉中流淌着曾为塔洛斯的圣战提供力量的血液。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000854|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Your name alone will be a rallying call to every Nord, and your deeds an inspiration to those who value honor and courage.",
+    "string": "仅凭你的名字就足以号召所有诺德人，而你的壮举将激励所有珍视荣誉与勇气之人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000854|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I cannot think of a more fitting leader for our kingdom.",
+    "string": "我想不到还有谁更适合领导我们的王国了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricHeir2",
+    "form_id": "05000855|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What about your own kin?",
+    "string": "那您的亲人呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000856|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My children... They are all with Shor now.",
+    "string": "我的孩子们……他们现在都与舒尔同在。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000856|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But even if they were still alive, their blood alone wouldn't make them worthy kings or queens.",
+    "string": "但即便他们还活着，仅凭血统也无法使他们成为合格的国王或女王。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000856|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Yours is different, for your blood came from the Divines instead of ordinary men.",
+    "string": "但你不同，你的血脉源自圣灵而非凡人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricHeirNot1",
+    "form_id": "05000858|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I promise you, Jarl Ulfric.",
+    "string": "我向您保证，乌弗瑞克领主。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000859|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you, my friend.",
+    "string": "谢谢你，我的朋友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricHeirNot2",
+    "form_id": "0500085A|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We'll see.",
+    "string": "等着瞧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085B|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope that's not a hint of ambition... But I believe in your wisdom, my friend.",
+    "string": "我希望这不是野心作祟……但我相信你的智慧，我的朋友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricHeir3",
+    "form_id": "0500085C|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thank you for your trust, Jarl Ulfric.",
+    "string": "感谢您的信任，乌弗瑞克领主。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085D|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No. Thank you for preserving the fruit of our struggle, and becoming the king my homeland deserves.",
+    "string": "不。感谢你守护了我们为之奋斗的果实，成为我故土应有的君王。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085E|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No. Thank you for preserving the fruit of our struggle, and becoming the queen my homeland deserves.",
+    "string": "不。感谢你守护了我们为之奋斗的果实，成为我故土应有的女王。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000860|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course, there's still much for you to learn in the ways of governing and politics... But you already have a seasoned mentor, have you not?",
+    "string": "当然，在治国理政方面你还有许多需要学习的……不过你已经有位经验丰富的导师了，不是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricHeir4",
+    "form_id": "05000861|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't know if I'm worthy...",
+    "string": "我不知道自己是否配得上……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000862|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If the Dragonborn and the Stormblade is not worthy, then by what right can anyone take the throne?",
+    "string": "如果连“龙裔”与“风暴之刃”都不配，那么还有谁有资格坐上那王座？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricHeir5",
+    "form_id": "05000863|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't want it.",
+    "string": "我不想要。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000864|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's a pity. But hopefully, my years remain long enough for you to change your mind. Until then, I will make sure my heir inherits a strong Skyrim.",
+    "string": "这很遗憾。但愿我的余生足够长久，足以让你改变心意。在那之前，我必将确保我的继任者接掌一个强盛的天际。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricPS0",
+    "form_id": "05000867|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We've won the Civil War, but are the fightings truly over?",
+    "string": "我们赢得了内战，但战斗真的结束了吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000868|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's a good question, and one I'm glad veterans like you are asking.",
+    "string": "这是个好问题，我很高兴像你这样的老兵能提出这样的问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000868|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Skyrim was battered by dragons, bandits, and Daedric cults while we had our gaze at the war.",
+    "string": "当我们专注于战争时，天际正遭受着巨龙，强盗与迪德拉教派的蹂躏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000868|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Soon enough, the Dominion's gluttonous maw will encroach our lands; and all the while, Imperial opportunists remain eager to continue the bloodshed.",
+    "string": "要不了多久，先祖神州的贪婪血口就会蚕食我们的土地;而帝国投机分子却始终热衷于延续这场血腥的杀戮。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricPS1",
+    "form_id": "05000869|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What will it take to protect Skyrim's independence?",
+    "string": "要如何才能守护天际的独立？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086A|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We'll need more than courage and the gods' favor.",
+    "string": "我们需要的不仅是勇气与诸神的眷顾。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086A|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "First, we must rebuild our economy. Only with a plentiful vault can we afford more armors, and only with a filled stomach can a soldier fight wars.",
+    "string": "首先，我们必须重振经济。唯有国库充盈，我们才能购置更多盔甲;唯有粮草充足，士兵才能征战沙场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086A|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Second, we'll need reliable allies. The Nords are proud and mighty warriors, but it'll take numbers and resources to end the Aldmeri threat for good.",
+    "string": "其次，我们需要可靠的盟友。诺德人是骄傲而强大的战士，但要彻底终结先祖神州的威胁，还需要足够的人力和资源。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricPS1a",
+    "form_id": "0500086B|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who would make a good ally?",
+    "string": "谁会是可靠的盟友呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086C|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have my eyes set on Hammerfell. They stopped the Thalmor once, and with a powerful Nord army at their side, we may even march to Alinor's gates.",
+    "string": "我已将目光投向落锤。他们曾阻挡过梭默的脚步，如今若能与强大的诺德军队并肩作战，我们甚至能直抵艾琳诺的城门。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086C|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But I've also been informed that it's suffering from numerous local conflicts. Random, destructive attacks by the group called \"the Alik'r Warriors\".",
+    "string": "但同时我也获悉，那里正遭受众多地方冲突的困扰。名为“阿里克'尔战士”的团体正发动随机的破坏性袭击。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086C|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I'll have to study their situation at length. Perhaps we'll help the Alik'r to take over, or perhaps the Crowns would make a more stable ally.",
+    "string": "我必须深入研究他们的处境。或许我们会协助阿里克'尔夺取政权，又或许王冠派会成为更可靠的盟友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086C|IDE Stormcloaks.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "And then - we'll see how High Rock reacts to our alliance. They may join us as a worthy, willing ally, or we'll free them from the Empire's clutch.",
+    "string": "届时——我们便能见证高岩对我们联盟的反应。他们或许会作为值得信赖的自愿盟友加入我们，抑或我们将他们从帝国的掌控中解放出来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricPS1ai",
+    "form_id": "0500086D|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wars and more wars.",
+    "string": "又是接踵而至的战争。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086E|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My friend - we live in the Fourth Era. Wars are the norm, and the mothers always mourn... But our wars just might change that.",
+    "string": "我的朋友——我们生活在第四纪元。战争是常态，而母亲们永远在哀悼……但我们的战争或许能改变这一切。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaUlfricPS1aii",
+    "form_id": "0500086F|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you plan to do with High Rock?",
+    "string": "你打算怎么处理高岩？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000870|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "With our victory, High Rock has become an exclave to the Empire. Cut off from Cyrodiil, it will soon have to seek better friends.",
+    "string": "随着我们的胜利，高岩已成为帝国的飞地。与希罗帝尔隔绝后，它很快将不得不寻求更可靠的盟友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000870|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I pray that the Bretons will see reason. But if not, I will not suffer being surrounded by Imperial armies from the west and the south.",
+    "string": "我祈祷布莱顿人能明事理。但若他们执迷不悟，我绝不会容忍帝国军队从西面和南面包围我们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarBrother0",
+    "form_id": "05000873|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What can you tell me about Rolff Stone-Fist?",
+    "string": "关于罗尔夫·石拳，你能告诉我些什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000874|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aye, he's my brother, and I don't much take pride from admitting that.",
+    "string": "是啊，他是我兄弟，不过我可不怎么以承认这点为荣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000874|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But he and I share a father - what can I do but to keep him alive?",
+    "string": "但我和他同父异母——除了保全他的性命，我还能做什么呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarBrother1",
+    "form_id": "05000875|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You shared a father? What about your mother?",
+    "string": "你们的父亲是同一个人？那么你们的母亲呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000876|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha! No. My stepmother was a woman from Winterhold. Married into Clan Stone-Fist for the prestige, you see.",
+    "string": "哈！不。我的继母是位来自冬堡的女子。她嫁入了石拳氏族，纯粹是为了攀附权势，你懂的吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000876|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Like mother, like son, I'd say.",
+    "string": "要我说，有其母必有其子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarBrother1a",
+    "form_id": "05000877|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What makes you say that?",
+    "string": "你为何这么说？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000878|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "His mother knew nothing but hate and greed.",
+    "string": "他的母亲只懂得仇恨与贪婪。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000878|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I could excuse that if she at least knew how to fight like a Nord. But it seemed all she knew was being a lazeabout and yelling to the air.",
+    "string": "如果她至少懂得如何像诺德人那样战斗，我或许还能原谅她。可她似乎只会游手好闲，对着空气大吼大叫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000878|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "No doubt, my \"brother\" learned all his habits from that woman.",
+    "string": "毫无疑问，我那位“兄弟”所有习惯都是从那个女人那里学来的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarBrother2",
+    "form_id": "05000879|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You don't seem to like your brother.",
+    "string": "你似乎不太喜欢你兄弟。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087A|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Like? I'd kick that milk-drinker back to Winterhold if he didn't have my name.",
+    "string": "喜欢？要不是那个吃奶的软蛋冠着我的姓氏，我早把他踹回冬堡了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087A|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "He eats and gambles all day, and he refuses to even join the Stormcloaks. His favorite pass-time? Making troubles for his brother.",
+    "string": "他整天除了吃喝就是赌博，甚至不愿加入风暴斗篷。你猜他最喜欢什么消遣？给他兄弟找麻烦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087A|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Army life would chew my brother up easily, and I take all the pleasure in seeing that. But of course, Rolff has half the wit to know that.",
+    "string": "军队生活会轻易吞噬我的兄弟，而我对此乐在其中。当然，罗尔夫还算有点自知之明。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarBrother2a",
+    "form_id": "0500087B|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Want me to... \"remove\" him?",
+    "string": "需要我…\"除掉\"他吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087C|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't like what you are trying to say.",
+    "string": "我不喜欢你话里的意思。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087C|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Milk-drinker or not, he is a Stone-Fist, and I will keep him alive by my father's honor.",
+    "string": "不管他是不是个喝奶的软蛋，他终究是石拳氏族的人。凭我父亲的荣誉起誓，我定会护他周全。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087C|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But rough him up, show him the real world - that, I will allow.",
+    "string": "但给他点苦头吃，让他见识下真实的世界——这点，我倒是可以允许。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarxExit0",
+    "form_id": "0500087E|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's talk about something else.",
+    "string": "让我们聊点别的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087F|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good.",
+    "string": "很好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarBrother2b",
+    "form_id": "05000880|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You should be rougher on him.",
+    "string": "你该对他更严厉点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000881|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And for what? I have far more important business than fixing a broken cart.",
+    "string": "那又是为了什么？比起修理破车，我还有更要紧的事要办。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000881|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Ulfric is a strong man, but he can't run an army all by himself. As long as my brother is alive, I won't waste my time on a lost cause.",
+    "string": "乌弗瑞克是个强者，但他不可能独自统率整支军队。要是我兄长还活着，我绝不会把时间浪费在必败的战局上。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarMS090",
+    "form_id": "05000883|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A Stormcloak was imprisoned by the Thalmor in Northwatch Keep.",
+    "string": "一名风暴斗篷士兵被梭默关押在北望堡垒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000884|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The gall of those elves! To take our soldiers and claim a fort on our land?",
+    "string": "这些精灵真是厚颜无耻！竟敢抓走我们的士兵，还声称要在我们的土地上占领一座堡垒？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000884|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I will send a small force to aid your rescue. No son of Skyrim's should be held against his will by a foreign invader.",
+    "string": "我会派遣一支小部队协助你们的营救行动。天际的子民绝不应被外来侵略者强行扣押。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000884|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Leave no Thalmor alive.",
+    "string": "不留任何梭默活口。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000885|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The gall of those elves! To take our soldiers and claim a fort on our land?",
+    "string": "这些精灵真是厚颜无耻！竟敢抓走我们的士兵，还声称要在我们的土地上占领一座堡垒？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000885|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I wish we could do something to save him, but Haafingar remains out of our reach. For now, you must do it in discreet. ",
+    "string": "我真希望我们能做点什么来救他，但海芬加领实在太远了。眼下，你必须谨慎行事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000885|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I believe in you, soldier.",
+    "string": "我相信你，士兵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarBelief0",
+    "form_id": "05000889|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why do you fight for Ulfric?",
+    "string": "你为何为乌弗瑞克而战？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088A|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Clan Stone-Fist have always been staunch allies to Clan Stormcloak, and I've known Ulfric since we grew our first teeth.",
+    "string": "石拳氏族一直是风暴斗篷氏族的坚定盟友，我和乌弗瑞克从刚长乳牙时就认识了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088A|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I know this man more than I know myself. He alone has the will and strength to release Skyrim from Cyrodiil's yoke.",
+    "string": "我对他的了解要胜过自己。唯有他拥有将天际从希罗帝尔枷锁中解放出来的意志与力量。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088A|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "And by Talos, I will give whatever it takes to see the Empire dead and Skyrim freed.",
+    "string": "以塔洛斯之名，我愿付出一切，只为见证帝国覆灭，天际自由。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarBelief1",
+    "form_id": "0500088B|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why the hate for the Empire?",
+    "string": "你为什么这么憎恨帝国？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088C|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why don't I tell you a story of my own time in the Great War?",
+    "string": "要不我给你讲讲我在浩大战争时的亲身经历？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088C|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Thirty years ago, I sold everything I owned to buy what I needed for the war, then donated the rest to the war chest.",
+    "string": "三十年前，我变卖了所有家当购置军需物资，并将剩余的钱财全部捐作军饷。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088C|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I fought hard, and the Thalmor struck back even harder, but I persevered - because to falter was to lose my homeland and fail the Emperor.",
+    "string": "我奋力作战，梭默的反击却更为猛烈，但我坚持了下来——因为一旦退缩，就会失去家园并辜负皇帝的期望。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088C|IDE Stormcloaks.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "But soon, I found out the Emperor never much cared what we think.",
+    "string": "但很快我就发现，皇帝根本不在乎我们的想法。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarBelief1a",
+    "form_id": "0500088D|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you mean?",
+    "string": "你是什么意思？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088E|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When the Thalmor knocked on the Imperial City's gates, the Emperor was swift to make a run and leave all its people to rot.",
+    "string": "当梭默敲响帝都大门时，皇帝便仓皇逃窜，任由所有子民自生自灭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088E|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But I did not leave with him. I defied my commander and stayed with my people - those who had no swords or shields.",
+    "string": "但我并未随他离去。我违抗了指挥官的命令，选择与我的人民同在——那些手无寸铁的人们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarBelief1ai",
+    "form_id": "0500088F|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You deserted the army.",
+    "string": "你当了逃兵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000890|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aye. What use is an army that wouldn't stand for its people?",
+    "string": "是啊。一支不愿为人民而战的军队，又有何用？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarBelief1aii",
+    "form_id": "05000891|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Did you save anyone?",
+    "string": "你救下了什么人吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000892|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "...I tried.",
+    "string": "…我尽力了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000892|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My next memories were all black and red... But I lived. When I woke up, I had to push aside dozens of corpses just to breathe.",
+    "string": "我之后的记忆只剩下黑暗与血色……但我活了下来。醒来时，我不得不推开数十具尸体才得以呼吸。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000892|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Talos only knew how long I've climbed on the corpses until I could gain a view... to realize I was in a mass grave outside the city.",
+    "string": "塔洛斯才知道我踩着尸体爬了多久才得以看清——我意识到自己正身在城外的万人坑中。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000892|IDE Stormcloaks.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Piles of Imperials, Nords, Redguards, even elves - discarded to the moat like they were dirt. Nameless. Forgotten. Unsung.",
+    "string": "成堆的帝国人，诺德人，红卫人，甚至精灵——像垃圾般被丢弃在护城河里。无名无姓。被人遗忘。无人歌颂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000892|IDE Stormcloaks.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "And I understood then. The Emperor had murdered them as much as the Thalmor did.",
+    "string": "那时我才明白，皇帝的罪行与梭默同样罪不可赦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGalmarBelief1aii1",
+    "form_id": "05000893|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is that why you fight? So that no one would be discarded by the Emperor again?",
+    "string": "这就是你战斗的原因吗？为了不再有人被皇帝抛弃？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000894|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was meant for Sovngarde thirty years ago, but Shor did not receive me. I knew then that I still had purposes to serve.",
+    "string": "三十年前我就该前往松加德了，但舒尔并未接纳我。那时我便明白，自己仍有使命需要完成。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000894|IDE Stormcloaks.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "When I saw Ulfric alive - his heart burning with the same rage as mine? I realized he was my destiny. For him, I would brave Oblivion and return.",
+    "string": "当我看到活着的乌弗瑞克——他心中燃烧着与我同样的怒火时。我意识到他就是我的宿命。为了他，我甘愿直面湮灭并安然归来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000894|IDE Stormcloaks.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Until the Emperor's reign on my homeland ends, and a worthy king sits on the throne, my lips will not touch Sovngarde's mead.",
+    "string": "在皇帝对我故土的统治结束，一位贤王登上王座之前，我绝不会沾一口松加德的蜜酒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000898|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've received troubling news from Riften.",
+    "string": "我从裂谷城收到了令人不安的消息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089A|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Imperials are mustering their forces on the mountains. It may be signs of a new invasion from Cyrodiil.",
+    "string": "帝国军队正在山脉集结兵力。这可能是赛洛迪尔发动新入侵的征兆。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AF|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Maven Black-Briar is going to attend a Colovian soiree. The woman's always been cozy with the Empire.",
+    "string": "玛雯。黑荆棘将参加一场科洛文晚宴。这女人向来与帝国关系亲密。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089F|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some elves have been skulking about in the forests, ambushing our patrols. It may be the Thalmor.",
+    "string": "有些精灵一直在森林里鬼鬼祟祟地活动，伏击我们的巡逻队。可能是梭默的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A1|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Strange elven hunters have set up camps in the forests, attacking any passer by. I think they are the Thalmor's agents.",
+    "string": "奇怪的精灵猎人在森林中设立了营地，袭击任何路过者。我认为他们是梭默的特工。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089C|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Send words to Jarl Laila. We'll make sure it does not become a threat.",
+    "string": "向莱拉领主传话。我们会确保它不会构成威胁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A0|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I trust you know what to do, my friend.",
+    "string": "我相信你知道该怎么做，我的朋友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089E|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aye, my Jarl.",
+    "string": "遵命，我的领主。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A5|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've received troubling news from Solitude.",
+    "string": "我从独孤城收到了令人不安的消息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A7|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It seems the Imperials are sending Erikur funds. He could use the gold to build a rebellion in Haafingar.",
+    "string": "看来帝国正在向埃瑞库尔输送资金。他可能会用这些金币在海芬加领组建叛乱势力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B5|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It seems the Imperials are inviting Erikur to invest in Cyrodiil. He could pull his funds from Skyrim to give to the enemy.",
+    "string": "看来帝国正邀请埃瑞库尔投资塞洛迪尔。他可能会从天际撤资转投给敌人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B4|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It seems an Imperial general has interests in marrying Erikur's sister Gisli. They could be plotting an alliance - even a coup.",
+    "string": "似乎有位帝国将军有意迎娶埃瑞克的妹妹吉丝莉。他们可能在策划结盟——甚至是一场政变。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A9|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Erikur is a reasonable man. The Imperials are wasting their coin and effort.",
+    "string": "埃里克是个明事理的人。帝国完全是在浪费他们的金币和精力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B6|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Erikur is a man of benefits, not of faith - and right now, his benefits lie with us.",
+    "string": "埃里克是个重利而非重信之人——而眼下，他的利益与我们一致。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AB|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have said this many times. Marry Torygg's widow and smother the embers of conflict.",
+    "string": "这话我说过很多次了。娶了托依格的遗孀，彻底扑灭冲突的火种。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AD|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No. She will grieve for her man in peace, and that is final.",
+    "string": "不行。她会安安静静地哀悼她的男人，这事就这么定了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B3|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How is Thongvor faring on Markarth's throne?",
+    "string": "依格蒙德在马卡斯城的王座上过得如何？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B7|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How is the situation in the Reach?",
+    "string": "瑞驰领的局势如何？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B9|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Forsworn continue to disturb our patrols, but soon, we will bring order to the Reach.",
+    "string": "弃誓者仍在滋扰我们的巡逻队，但很快，我们就会让瑞驰领恢复秩序。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BA|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Silver-Bloods have proven to be good allies. The flow of silver allows us to better equip our soldiers.",
+    "string": "银血家族已被证明是优秀的盟友。白银的流通让我们能更好地装备士兵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BB|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Reachmen are growing bolder by the day in Markarth. My men are prepared to suppress any revolt.",
+    "string": "马卡斯城的瑞驰人日益猖獗。我的部下已做好镇压任何叛乱的准备。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BD|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can always rely on you, Galmar.",
+    "string": "我总能指望你，加尔玛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BE|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let no one take the Reach from us.",
+    "string": "绝不让任何人夺走我们的瑞驰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BF|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good. If Thongvor needs anything, tell me and I will provide.",
+    "string": "很好。如果依格蒙德需要任何东西，告诉我，我会提供。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C3|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How is Sorli faring on Morthal's throne?",
+    "string": "索莉在莫萨尔城的王座上过得如何？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C5|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll be honest with you - many are questioning her ability to rule.",
+    "string": "坦白说——现在有很多人质疑她的执政能力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C6|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She just sits her arse on the throne, doing nothing.",
+    "string": "她就一屁股坐在王座上，什么都不干。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C8|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She wasn't the best ruler around, but there were few choices in a place like Hjaalmarch. Just help her how you see fit.",
+    "string": "她并不是最好的统治者，但在希雅陲领这种地方本就没多少选择余地。你就尽你所能帮助她吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C9|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Just help her rule. Rule for her, if need be.",
+    "string": "协助她的统治，如果有必要话，就替她统治。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CB|IDE Stormcloaks.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aye. But I have a feeling we are sinking our resources into the swamps.",
+    "string": "是啊。但我有种感觉，我们正把资源白白浪费在沼泽地里。",
+    "status": "TranslationComplete"
+  }
+]

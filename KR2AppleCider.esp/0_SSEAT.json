@@ -1,0 +1,20 @@
+[
+  {
+    "editor_id": "AppleCiderBarrel01",
+    "form_id": "01000806|KR2AppleCider.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Apple Cider Barrel",
+    "string": "苹果酒桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KR2AppleCider",
+    "form_id": "01000800|KR2AppleCider.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Apple Cider",
+    "string": "苹果酒",
+    "status": "TranslationComplete"
+  }
+]

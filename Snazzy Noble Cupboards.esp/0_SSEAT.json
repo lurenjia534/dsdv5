@@ -1,0 +1,272 @@
+[
+  {
+    "editor_id": "GM_NobleChestDrawers01BOS_A",
+    "form_id": "05000001|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Wardrobe",
+    "string": "衣柜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_NobleChestDrawers01BOS_B",
+    "form_id": "05000002|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Wardrobe",
+    "string": "衣柜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_NobleChestDrawers01BOS_C",
+    "form_id": "05000003|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Wardrobe",
+    "string": "衣柜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_NobleChestDrawers02BOS_A",
+    "form_id": "05000004|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Wardrobe",
+    "string": "衣柜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_NobleChestDrawers02BOS_B",
+    "form_id": "05000005|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Wardrobe",
+    "string": "衣柜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_NobleChestDrawers02BOS_C",
+    "form_id": "05000006|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Wardrobe",
+    "string": "衣柜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_NobleCupboard01BOS_A",
+    "form_id": "05000007|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Cupboard",
+    "string": "碗橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_NobleCupboard01BOS_B",
+    "form_id": "05000008|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Cupboard",
+    "string": "碗橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_NobleCupboard01BOS_C",
+    "form_id": "05000009|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Cupboard",
+    "string": "碗橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_NobleCupboard02BOS_A",
+    "form_id": "0500000A|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Cupboard",
+    "string": "碗橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_NobleCupboard02BOS_B",
+    "form_id": "0500000B|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Cupboard",
+    "string": "碗橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_NobleCupboard02BOS_C",
+    "form_id": "0500000C|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Cupboard",
+    "string": "碗橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_noblenighttable01BOS_A",
+    "form_id": "0500000D|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "End Table",
+    "string": "边桌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_noblenighttable01BOS_B",
+    "form_id": "0500000E|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "End Table",
+    "string": "边桌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_noblenighttable01BOS_C",
+    "form_id": "0500000F|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "End Table",
+    "string": "边桌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleChestDrawers01BOS_A",
+    "form_id": "05000010|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Wardrobe",
+    "string": "衣柜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleChestDrawers01BOS_B",
+    "form_id": "05000011|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Wardrobe",
+    "string": "衣柜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleChestDrawers01BOS_C",
+    "form_id": "05000012|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Wardrobe",
+    "string": "衣柜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleChestDrawers02BOS_A",
+    "form_id": "05000013|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Wardrobe",
+    "string": "衣柜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleChestDrawers02BOS_B",
+    "form_id": "05000014|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Wardrobe",
+    "string": "衣柜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleChestDrawers02BOS_C",
+    "form_id": "05000015|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Wardrobe",
+    "string": "衣柜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleCupboard01BOS_A",
+    "form_id": "05000016|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Cupboard",
+    "string": "碗橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleCupboard01BOS_B",
+    "form_id": "05000017|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Cupboard",
+    "string": "碗橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleCupboard01BOS_C",
+    "form_id": "05000018|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Cupboard",
+    "string": "碗橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleCupboard02BOS_A",
+    "form_id": "05000019|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Cupboard",
+    "string": "碗橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleCupboard02BOS_B",
+    "form_id": "0500001A|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Cupboard",
+    "string": "碗橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleCupboard02BOS_C",
+    "form_id": "0500001B|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Cupboard",
+    "string": "碗橱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleNightTable01BOS_A",
+    "form_id": "0500001C|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "End Table",
+    "string": "边桌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleNightTable01BOS_B",
+    "form_id": "0500001D|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "End Table",
+    "string": "边桌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GM_BYOHHouseNobleNightTable01BOS_C",
+    "form_id": "0500001E|Snazzy Noble Cupboards.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "End Table",
+    "string": "边桌",
+    "status": "TranslationComplete"
+  }
+]

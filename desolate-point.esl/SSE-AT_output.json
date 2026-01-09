@@ -1,0 +1,2477 @@
+[
+  {
+    "editor_id": "ADESDungeonFaction",
+    "form_id": "010001D1|desolate-point.esl",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Prisoner",
+    "string": "囚犯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaTeam01Faction",
+    "form_id": "01000440|desolate-point.esl",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Team 1",
+    "string": "队伍1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardFaction",
+    "form_id": "01000441|desolate-point.esl",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Guard",
+    "string": "卫兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardFaction",
+    "form_id": "01000441|desolate-point.esl",
+    "index": 1,
+    "type": "FACT MNAM",
+    "original": "Guard",
+    "string": "卫兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardFaction",
+    "form_id": "01000441|desolate-point.esl",
+    "index": 1,
+    "type": "FACT FNAM",
+    "original": "Guard",
+    "string": "卫兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardFaction",
+    "form_id": "01000441|desolate-point.esl",
+    "index": 2,
+    "type": "FACT MNAM",
+    "original": "Chef",
+    "string": "厨师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardFaction",
+    "form_id": "01000441|desolate-point.esl",
+    "index": 2,
+    "type": "FACT FNAM",
+    "original": "Chef",
+    "string": "厨师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardFaction",
+    "form_id": "01000441|desolate-point.esl",
+    "index": 3,
+    "type": "FACT MNAM",
+    "original": "Bailiff",
+    "string": "法警",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardFaction",
+    "form_id": "01000441|desolate-point.esl",
+    "index": 3,
+    "type": "FACT FNAM",
+    "original": "Bailiff",
+    "string": "法警",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardFaction",
+    "form_id": "01000441|desolate-point.esl",
+    "index": 4,
+    "type": "FACT MNAM",
+    "original": "Captain",
+    "string": "船长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardFaction",
+    "form_id": "01000441|desolate-point.esl",
+    "index": 4,
+    "type": "FACT FNAM",
+    "original": "Captain",
+    "string": "船长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardFaction",
+    "form_id": "01000441|desolate-point.esl",
+    "index": 5,
+    "type": "FACT MNAM",
+    "original": "General",
+    "string": "将军",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardFaction",
+    "form_id": "01000441|desolate-point.esl",
+    "index": 5,
+    "type": "FACT FNAM",
+    "original": "General",
+    "string": "将军",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardFaction",
+    "form_id": "01000441|desolate-point.esl",
+    "index": 6,
+    "type": "FACT MNAM",
+    "original": "Warden",
+    "string": "典狱长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardFaction",
+    "form_id": "01000441|desolate-point.esl",
+    "index": 6,
+    "type": "FACT FNAM",
+    "original": "Warden",
+    "string": "典狱长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaTeam02Faction",
+    "form_id": "01000442|desolate-point.esl",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Team 2",
+    "string": "队伍2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaTeam03Faction",
+    "form_id": "01000443|desolate-point.esl",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Team 3",
+    "string": "队伍3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaTeam04Faction",
+    "form_id": "01000444|desolate-point.esl",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Team 4",
+    "string": "队伍4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaTeam05Faction",
+    "form_id": "01000B3E|desolate-point.esl",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Team 5",
+    "string": "队伍5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArrestEnch",
+    "form_id": "010001CB|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Desolate Arrest",
+    "string": "荒芜之点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArrestEnch",
+    "form_id": "010001CB|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "If target is low on health, arrest to Desolate Point.",
+    "string": "如果目标生命值低，则将其逮捕至荒芜之点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArrestEffect",
+    "form_id": "010001CE|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Desolate Arrest",
+    "string": "荒芜之点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArrestEffect",
+    "form_id": "010001CE|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Arrest target to Desolate Point.",
+    "string": "逮捕目标至荒芜之点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESReleaseEffect",
+    "form_id": "01000529|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Desolate Release",
+    "string": "从荒芜之点释放",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESReleaseEffect",
+    "form_id": "01000529|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Release target from Desolate Point.",
+    "string": "从荒芜之点释放目标。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTransferEffect",
+    "form_id": "010005CE|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Desolate Transfer",
+    "string": "在荒芜之点转移",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTransferEffect",
+    "form_id": "010005CE|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Transfer target at Desolate Point.",
+    "string": "在荒芜之点的转移目标。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESResetArenaEffect",
+    "form_id": "01000943|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Reset Arena",
+    "string": "重置竞技场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESResetArenaEffect",
+    "form_id": "01000943|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Reset Desolate Point.",
+    "string": "重置荒芜之点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESResetDungeonEffect",
+    "form_id": "01000944|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Reset Dungeon",
+    "string": "重置地牢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESResetDungeonEffect",
+    "form_id": "01000944|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Reset Desolate Point.",
+    "string": "重置荒芜之点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTeleportEffect",
+    "form_id": "01000B1F|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Desolate Teleport",
+    "string": "传送到荒芜之点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTeleportEffect",
+    "form_id": "01000B1F|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Teleport to Desolate Point.",
+    "string": "传送至荒芜之点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDevCheckArenaEffect",
+    "form_id": "01000B33|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Desolate Point Check",
+    "string": "荒芜之点的检查",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDevCheckDungeonEffect",
+    "form_id": "01000B34|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Desolate Point Check",
+    "string": "荒芜之点的检查",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESReleaseSelfEffect",
+    "form_id": "01000B3F|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Desolate Release Self",
+    "string": "在荒芜之点释放自己",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESReleaseSelfEffect",
+    "form_id": "01000B3F|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Release self from Desolate Point.",
+    "string": "从荒芜之点释放自己。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaOverflowEffect",
+    "form_id": "01000C94|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Desolate Overflow",
+    "string": "荒芜之点人员溢出",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESResetChamberEffect",
+    "form_id": "01000CED|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Reset Chamber",
+    "string": "重置酷刑室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESResetChamberEffect",
+    "form_id": "01000CED|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Reset Desolate Point.",
+    "string": "重置荒芜之点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESResetMineEffect",
+    "form_id": "01000F1E|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Reset Mine",
+    "string": "重置矿场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESResetMineEffect",
+    "form_id": "01000F1E|desolate-point.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Reset Desolate Point.",
+    "string": "重置荒芜之点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArrestEnchWeaponBase",
+    "form_id": "010001CC|desolate-point.esl",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Desolate Arrest",
+    "string": "荒芜之点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArrestSpell",
+    "form_id": "010001CF|desolate-point.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Desolate Arrest",
+    "string": "荒芜之点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESReleaseSpell",
+    "form_id": "01000536|desolate-point.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Desolate Release",
+    "string": "从荒芜之点释放",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTransferSpell",
+    "form_id": "010005D0|desolate-point.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Desolate Transfer",
+    "string": "在荒芜之点转移",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESResetArenaSpell",
+    "form_id": "01000945|desolate-point.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Reset Arena",
+    "string": "重置竞技场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESResetDungeonSpell",
+    "form_id": "01000946|desolate-point.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Reset Dungeon",
+    "string": "重置地牢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTeleportSpell",
+    "form_id": "01000B20|desolate-point.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Desolate Teleport",
+    "string": "传送到荒芜之点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDevCheckArenaSpell",
+    "form_id": "01000B35|desolate-point.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Desolate Check",
+    "string": "监狱检查",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDevCheckDungeonSpell",
+    "form_id": "01000B36|desolate-point.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Desolate Check",
+    "string": "监狱检查",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESReleaseSelfSpell",
+    "form_id": "01000B40|desolate-point.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Desolate Release Self",
+    "string": "在荒芜之点释放自己",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaOverflowSpell",
+    "form_id": "01000C96|desolate-point.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Desolate Overflow",
+    "string": "荒芜之点人员溢出",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESResetChamberSpell",
+    "form_id": "01000CEE|desolate-point.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Reset Chamber",
+    "string": "重置酷刑室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESResetMineSpell",
+    "form_id": "01000F1F|desolate-point.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Reset Mine",
+    "string": "重置矿场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaPullBarStormcloak",
+    "form_id": "0100060F|desolate-point.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Stormcloaks",
+    "string": "风暴斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaPullBarImperial",
+    "form_id": "01000610|desolate-point.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Imperials",
+    "string": "帝国",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaPullBarWolf",
+    "form_id": "01000611|desolate-point.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Wolves",
+    "string": "狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaPullBarBear",
+    "form_id": "01000612|desolate-point.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Bear",
+    "string": "熊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaPullBarFlame",
+    "form_id": "01000613|desolate-point.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Flame Atronachs",
+    "string": "火焰元素",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaPullBarStorm",
+    "form_id": "01000614|desolate-point.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Storm Atronachs",
+    "string": "风暴元素",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaPullBarGate",
+    "form_id": "01000615|desolate-point.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Gates",
+    "string": "闸门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaPullBarFire",
+    "form_id": "01000616|desolate-point.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Fire",
+    "string": "发射",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaPullBarCleaner",
+    "form_id": "01000621|desolate-point.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Cleaner",
+    "string": "清理",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaPullBarFloor",
+    "form_id": "0100062B|desolate-point.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Floor",
+    "string": "地面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESRopeLadderPlayer",
+    "form_id": "01000A00|desolate-point.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Ladder",
+    "string": "梯子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESClothesHood01",
+    "form_id": "010001C1|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Hood",
+    "string": "兜帽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaCleanerBoots",
+    "form_id": "0100062E|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cleaner Boots",
+    "string": "更干净的靴子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaCleanerCuirass",
+    "form_id": "0100062F|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cleaner Armor",
+    "string": "更干净的护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaCleanerGauntlets",
+    "form_id": "01000630|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cleaner Gauntlets",
+    "string": "更干净的护腕",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaCleanerHelmet",
+    "form_id": "01000631|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cleaner Helmet",
+    "string": "更干净的头盔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaCleanerShield",
+    "form_id": "01000633|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cleaner Shield",
+    "string": "更干净的盾",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaArmorCuirassBlue",
+    "form_id": "01000791|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Arena Armor",
+    "string": "竞技场护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaArmorCuirassGreen",
+    "form_id": "01000792|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Arena Armor",
+    "string": "竞技场护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaArmorCuirassYellow",
+    "form_id": "01000793|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Arena Armor",
+    "string": "竞技场护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaArmorCuirassIndigo",
+    "form_id": "01000794|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Arena Armor",
+    "string": "竞技场护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaArmorGauntletsHide",
+    "form_id": "01000795|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Arena Bracers",
+    "string": "竞技场护腕",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaArmorBootsHide",
+    "form_id": "01000796|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Arena Boots",
+    "string": "竞技场靴子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaArmorCuirassRed",
+    "form_id": "01000A68|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Arena Armor",
+    "string": "竞技场护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESClothesSaturaliaHat01",
+    "form_id": "01000F43|desolate-point.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Saturalia Hat",
+    "string": "冬至帽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArrestSpellTome",
+    "form_id": "010001D0|desolate-point.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell: Desolate Arrest",
+    "string": "法术：监狱逮捕",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArrestSpellTome",
+    "form_id": "010001D0|desolate-point.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nDesolate Arrest",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n逮捕到荒芜之点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESReleaseSpellTome",
+    "form_id": "01000537|desolate-point.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell: Desolate Release",
+    "string": "法术：从荒芜之点释放",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESReleaseSpellTome",
+    "form_id": "01000537|desolate-point.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nDesolate Release",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n从荒芜之点释放",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTransferSpellTome",
+    "form_id": "010005D1|desolate-point.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell: Desolate Transfer",
+    "string": "法术：在荒芜之点转移",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTransferSpellTome",
+    "form_id": "010005D1|desolate-point.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nDesolate Transfer",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n在荒芜之点转移",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESStartNote",
+    "form_id": "010008E9|desolate-point.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Desolate Point Brief",
+    "string": "荒芜之点简报",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESStartNote",
+    "form_id": "010008E9|desolate-point.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><div align=\"left\">Desolate Point Spells\r\n- Arrest Spell: Send target to Desolate Point dungeon.\r\n- Transfer Spell: Transfer target between cell blocks, arena, and sectors.\r\n- Release Spell: Release target from Desolate Point.\r\n- Desolate Weapons: Arrest when target loses half of health.\r\n\r\nSpeak to a General to authorize arresting essential members of society, or choose an alliance within the realm. Desolate weapons are found in the General office.",
+    "string": "<font face='$HandwrittenFont'><div align=\"left\">荒芜之点法术\r\n- 逮捕法术：将目标送至荒芜之点地下城。\r\n- 转移法术：在牢房区域、竞技场区域之间转移目标。\r\n- 释放法术：将目标从荒芜之点释放。\r\n- 监狱武器：目标生命值减半时逮捕。\r\n\r\n与将军对话，授权逮捕社会重要成员，或选择帝国内的盟友。监狱武器可在将军办公室获取。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTeleportSpellTome",
+    "form_id": "01000B21|desolate-point.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell: Desolate Teleport",
+    "string": "法术：传送到荒芜之点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTeleportSpellTome",
+    "form_id": "01000B21|desolate-point.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nDesolate Teleport",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n传送至荒芜之点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESChestMerchantChef",
+    "form_id": "01000498|desolate-point.esl",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESChestCommon",
+    "form_id": "010004AD|desolate-point.esl",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESBarrelMead",
+    "form_id": "010004D7|desolate-point.esl",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESChestMerchantBlacksmith",
+    "form_id": "01000528|desolate-point.esl",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESChestNoble",
+    "form_id": "0100055E|desolate-point.esl",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESBarrelBlacksmith01",
+    "form_id": "01000890|desolate-point.esl",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESBarrelBlacksmith02",
+    "form_id": "01000891|desolate-point.esl",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESChestMerchantBartender",
+    "form_id": "010009E8|desolate-point.esl",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoor01",
+    "form_id": "010001E2|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoor02",
+    "form_id": "010001E4|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTowerDoorSingleLoad01",
+    "form_id": "010003B5|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDweDoorLarge01NSMU",
+    "form_id": "010009DD|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDweDoorSmall01NSMU",
+    "form_id": "010009DE|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTitlePtnDoor01",
+    "form_id": "010009FF|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Desolate Point",
+    "string": "荒芜之点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorBlock01",
+    "form_id": "01000A99|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Block 1",
+    "string": "格挡 1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorBlock02",
+    "form_id": "01000A9A|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Block 2",
+    "string": "格挡 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorBlock03",
+    "form_id": "01000A9B|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Block 3",
+    "string": "格挡 3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorBlock04",
+    "form_id": "01000A9C|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Block 4",
+    "string": "格挡 4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorBlock05",
+    "form_id": "01000A9D|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Block 5",
+    "string": "格挡 5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorBlock06",
+    "form_id": "01000A9E|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Block 6",
+    "string": "格挡 6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTowerDoorExtHoleDoorLoad01",
+    "form_id": "01000ABB|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTowerDoorExtHoleDoorLoad01NSMU",
+    "form_id": "01000ABC|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell01",
+    "form_id": "01000AC9|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 1",
+    "string": "1号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell03",
+    "form_id": "01000ACA|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 3",
+    "string": "3号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell05",
+    "form_id": "01000ACB|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 5",
+    "string": "5号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell08",
+    "form_id": "01000ACC|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 8",
+    "string": "8号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell10",
+    "form_id": "01000ACD|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 10",
+    "string": "10号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell12",
+    "form_id": "01000ACE|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 12",
+    "string": "12号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell02",
+    "form_id": "01000ACF|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 2",
+    "string": "2号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell04",
+    "form_id": "01000AD0|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 4",
+    "string": "4号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell06",
+    "form_id": "01000AD1|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 6",
+    "string": "6号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell07",
+    "form_id": "01000AD2|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 7",
+    "string": "7号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell09",
+    "form_id": "01000AD3|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 9",
+    "string": "9号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell11",
+    "form_id": "01000AD4|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 11",
+    "string": "11号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell13",
+    "form_id": "01000AD5|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 13",
+    "string": "13号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell15",
+    "form_id": "01000AD6|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 15",
+    "string": "15号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell17",
+    "form_id": "01000AD7|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 17",
+    "string": "17号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell20",
+    "form_id": "01000AD8|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 20",
+    "string": "20号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell22",
+    "form_id": "01000AD9|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 22",
+    "string": "22号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell24",
+    "form_id": "01000ADA|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 24",
+    "string": "24号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell14",
+    "form_id": "01000ADB|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 14",
+    "string": "14号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell16",
+    "form_id": "01000ADC|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 16",
+    "string": "16号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell18",
+    "form_id": "01000ADD|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 18",
+    "string": "18号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell19",
+    "form_id": "01000ADE|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 19",
+    "string": "19号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell21",
+    "form_id": "01000ADF|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 21",
+    "string": "21号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell23",
+    "form_id": "01000AE0|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 23",
+    "string": "23号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell25",
+    "form_id": "01000AE1|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 25",
+    "string": "25号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell27",
+    "form_id": "01000AE2|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 27",
+    "string": "27号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell29",
+    "form_id": "01000AE3|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 29",
+    "string": "29号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell26",
+    "form_id": "01000AE4|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 26",
+    "string": "26号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell28",
+    "form_id": "01000AE5|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 28",
+    "string": "28号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell30",
+    "form_id": "01000AE6|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 30",
+    "string": "30号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell31",
+    "form_id": "01000AE7|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 31",
+    "string": "31号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell33",
+    "form_id": "01000AE8|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 33",
+    "string": "33号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell35",
+    "form_id": "01000AE9|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 35",
+    "string": "35号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell32",
+    "form_id": "01000AEA|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 32",
+    "string": "32号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell34",
+    "form_id": "01000AEB|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 34",
+    "string": "34号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorCell36",
+    "form_id": "01000AEC|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Cell 36",
+    "string": "36号牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaTeam01Door",
+    "form_id": "01000B2A|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Team 1",
+    "string": "队伍1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaTeam02Door",
+    "form_id": "01000B2B|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Team 2",
+    "string": "队伍2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaTeam03Door",
+    "form_id": "01000B2C|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Team 3",
+    "string": "队伍3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaTeam04Door",
+    "form_id": "01000B2D|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Team 4",
+    "string": "队伍4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeonDoorChamber",
+    "form_id": "01000D4A|desolate-point.esl",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Chamber",
+    "string": "酷刑室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaCleanerWarAxe",
+    "form_id": "01000632|desolate-point.esl",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Cleaner War Axe",
+    "string": "更干净的战斧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArrestEnchEbonyMace",
+    "form_id": "01000A70|desolate-point.esl",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Desolate Ebony Mace",
+    "string": "恐惧黑檀锤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArrestEnchEbonyWarhammer",
+    "form_id": "01000A71|desolate-point.esl",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Desolate Ebony Warhammer",
+    "string": "恐惧黑檀战锤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArrestEnchSteelWarhammer",
+    "form_id": "01000A72|desolate-point.esl",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Desolate Steel Warhammer",
+    "string": "恐惧钢制战锤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArrestEnchSteelMace",
+    "form_id": "01000A73|desolate-point.esl",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Desolate Steel Mace",
+    "string": "恐惧钢制锤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArrestEnchDwarvenWarhammer",
+    "form_id": "01000AA1|desolate-point.esl",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Desolate Dwarven Warhammer",
+    "string": "恐惧锻莫战锤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESShivIsGuardFaction",
+    "form_id": "01000B2E|desolate-point.esl",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Shiv",
+    "string": "小刀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESShivGuardDialogueFaction",
+    "form_id": "01000DA8|desolate-point.esl",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Shiv",
+    "string": "小刀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneral01",
+    "form_id": "010001C2|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "General Weeltul",
+    "string": "韦尔图尔将军",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneral01",
+    "form_id": "010001C2|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Weeltul",
+    "string": "韦尔图尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGuardTemplate",
+    "form_id": "010001C3|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Guard",
+    "string": "卫兵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESChef01",
+    "form_id": "01000495|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Chef Agnar",
+    "string": "厨师安格纳",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESChef01",
+    "form_id": "01000495|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Agnar",
+    "string": "安格纳",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESChefTemplate",
+    "form_id": "010004BC|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Chef",
+    "string": "厨师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESChef02",
+    "form_id": "010004BD|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Chef Sillen",
+    "string": "厨师赫林",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESChef02",
+    "form_id": "010004BD|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Sillen",
+    "string": "赫林",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralTemplate",
+    "form_id": "0100054A|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "General",
+    "string": "将军",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneral02",
+    "form_id": "0100054B|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "General Jensine",
+    "string": "詹辛将军",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneral02",
+    "form_id": "0100054B|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Jensine",
+    "string": "詹辛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaGhostImperial01",
+    "form_id": "010005D7|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Imperial Shade",
+    "string": "帝国之影",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaGhostImperial02",
+    "form_id": "010005D8|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Imperial Shade",
+    "string": "帝国之影",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaGhostStormcloak01",
+    "form_id": "010005D9|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Stormcloak Shade",
+    "string": "风暴斗篷之影",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaGhostStormcloak02",
+    "form_id": "010005DA|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Stormcloak Shade",
+    "string": "风暴斗篷之影",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaAtronachFlame01",
+    "form_id": "010005DD|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Flame Atronach",
+    "string": "火焰元素",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaAtronachStorm01",
+    "form_id": "010005DE|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Storm Atronach",
+    "string": "风暴元素",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaWolf02",
+    "form_id": "010005F0|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wolf",
+    "string": "狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaWolf01",
+    "form_id": "010005F1|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wolf",
+    "string": "狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaBear01",
+    "form_id": "010005F6|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bear",
+    "string": "熊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArenaCleaner",
+    "form_id": "010005FE|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cleaner",
+    "string": "清理",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESBlacksmithTemplate",
+    "form_id": "0100078E|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Blacksmith",
+    "string": "铁匠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESBlacksmith01",
+    "form_id": "01000889|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Smith Brokk",
+    "string": "铁匠布鲁克",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESBlacksmith01",
+    "form_id": "01000889|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Brokk",
+    "string": "布鲁克",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESBlacksmith02",
+    "form_id": "010008CF|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Smith Yakov",
+    "string": "铁匠雅库尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESBlacksmith02",
+    "form_id": "010008CF|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Yakov",
+    "string": "雅库尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESBartender01",
+    "form_id": "010009EB|desolate-point.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bartender",
+    "string": "调酒师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESPlayerKey",
+    "form_id": "0100030B|desolate-point.esl",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Desolate Point Key",
+    "string": "荒芜之点钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralKey",
+    "form_id": "0100055D|desolate-point.esl",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Desolate Point General Key",
+    "string": "荒芜之点将军钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMerchantKey",
+    "form_id": "0100088E|desolate-point.esl",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Desolate Point Merchant Key",
+    "string": "荒芜之点商人钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESBarracks01",
+    "form_id": "01000001|desolate-point.esl",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Barracks",
+    "string": "营房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESArena01",
+    "form_id": "01000002|desolate-point.esl",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Arena",
+    "string": "竞技场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeon01",
+    "form_id": "01000003|desolate-point.esl",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dungeon",
+    "string": "地牢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESBarracksWarden01",
+    "form_id": "01000161|desolate-point.esl",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Warden's Quarters",
+    "string": "典狱长宿舍",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESDungeon02",
+    "form_id": "01000B44|desolate-point.esl",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dungeon",
+    "string": "地牢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMine01",
+    "form_id": "01000DCF|desolate-point.esl",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Mine",
+    "string": "矿井",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DreadPrisonMineDUPLICATE001",
+    "form_id": "01000D62|desolate-point.esl",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Mine",
+    "string": "矿井",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESRelease01",
+    "form_id": "01000530|desolate-point.esl",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Release Ward",
+    "string": "释放病房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01000A01|desolate-point.esl",
+    "index": 1,
+    "type": "REFR FULL",
+    "original": "Desolate Point",
+    "string": "荒芜之点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestAllyTopic",
+    "form_id": "0100066C|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's discuss our allegiance.",
+    "string": "让我们讨论一下我们的立场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestAllyDefault",
+    "form_id": "0100066E|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Our operation should be independent.",
+    "string": "我们的运营应该是独立的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestAllyImperial",
+    "form_id": "01000670|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Imperials are our allies.",
+    "string": "帝国是我们的盟友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestAllyStormcloak",
+    "form_id": "01000672|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Stormcloaks are our allies.",
+    "string": "风暴斗篷是我们的盟友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestAllyThalmor",
+    "form_id": "01000674|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Thalmor are our allies.",
+    "string": "梭莫是我们的盟友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestArrestTopic",
+    "form_id": "0100079A|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We must review our arrest policies.",
+    "string": "我们必须重新审视我们的逮捕政策。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestArrestEssentialTrue",
+    "form_id": "0100079C|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We should be able to arrest essential members of society.",
+    "string": "我们可以逮捕社会中的关键成员。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestArrestEssentialFalse",
+    "form_id": "0100079E|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We should not arrest essential members of society.",
+    "string": "我们不可以逮捕社会中的关键成员。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESStartQuestBriefTopic",
+    "form_id": "010008E5|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am the newly appointed Warden, <Alias=Player>.",
+    "string": "我是新任的典狱长， <Alias=Player> 。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESStartQuestBriefItems",
+    "form_id": "010008E7|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Brief me on Desolate Point operations.",
+    "string": "向我简要介绍一下荒芜之点的情况。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetTopic",
+    "form_id": "0100092C|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We should scale back operations at Desolate Point.",
+    "string": "我们应该缩减在荒芜之点的运营规模。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetArena",
+    "form_id": "0100092E|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Reset the arena.",
+    "string": "重置竞技场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetArenaConfirm",
+    "form_id": "01000930|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, reset the arena.",
+    "string": "是的，重置竞技场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetArenaReject",
+    "form_id": "01000932|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, don't reset the arena.",
+    "string": "不，不要重置竞技场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestAllyBye",
+    "form_id": "01000934|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Bye.",
+    "string": "再见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestArrestBye",
+    "form_id": "01000936|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Bye.",
+    "string": "再见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetDungeon",
+    "form_id": "01000938|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Reset the dungeon.",
+    "string": "重置地牢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetDungeonConfirm",
+    "form_id": "0100093A|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, reset the dungeon.",
+    "string": "是的，重置地牢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetDungeonReject",
+    "form_id": "0100093C|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, don't reset the dungeon.",
+    "string": "不，不要重置地牢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetBye",
+    "form_id": "0100093E|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Bye.",
+    "string": "再见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestByeTopic",
+    "form_id": "01000941|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Bye.",
+    "string": "再见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetSpells",
+    "form_id": "01000B23|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Reset the spells.",
+    "string": "重置法术。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetSpellsReject",
+    "form_id": "01000B25|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, don't reset the spells.",
+    "string": "不，不要重置法术。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetSpellsConfirm",
+    "form_id": "01000B27|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, reset the spells.",
+    "string": "是的，重置法术。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetChamber",
+    "form_id": "01000CE7|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Reset the chamber.",
+    "string": "重置酷刑室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetChamberReject",
+    "form_id": "01000CE9|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, don't reset the chamber.",
+    "string": "不，不要重置酷刑室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetChamberConfirm",
+    "form_id": "01000CEB|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, reset the chamber.",
+    "string": "是的，重置酷刑室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetMine",
+    "form_id": "01000F20|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Reset the mine.",
+    "string": "重置矿井。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetMineReject",
+    "form_id": "01000F22|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, don't reset the mine.",
+    "string": "不，不要重置矿井。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestResetMineConfirm",
+    "form_id": "01000F24|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, reset the mine.",
+    "string": "是的，重置矿井。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESGeneralQuestAllySaturalia",
+    "form_id": "01000F45|desolate-point.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The spirit of Saturalia is our ally.",
+    "string": "萨图拉利亚的精神是我们的盟友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESStartQuest",
+    "form_id": "01000676|desolate-point.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Desolate Point",
+    "string": "荒芜之点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESStartQuest",
+    "form_id": "01000676|desolate-point.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I must speak to a General at Desolate Point about being the newly appointed Warden.",
+    "string": "我必须去荒芜之点与一位将军谈谈关于我新任典狱长的事宜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESStartQuest",
+    "form_id": "01000676|desolate-point.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Speak to a General at Desolate Point",
+    "string": "在荒芜之点与将军交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESLocation",
+    "form_id": "01000004|desolate-point.esl",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Desolate Point",
+    "string": "荒芜之点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferCategories",
+    "form_id": "010005CB|desolate-point.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Select transfer location.",
+    "string": "选择转移地点",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferCategories",
+    "form_id": "010005CB|desolate-point.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Prisoner Transfer",
+    "string": "转移犯人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferCategories",
+    "form_id": "010005CB|desolate-point.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Arena",
+    "string": "竞技场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferCategories",
+    "form_id": "010005CB|desolate-point.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Dungeon",
+    "string": "地牢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferCategories",
+    "form_id": "010005CB|desolate-point.esl",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Sector",
+    "string": "区域",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferCategories",
+    "form_id": "010005CB|desolate-point.esl",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "取消",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferDungeon",
+    "form_id": "010005CC|desolate-point.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Select cell block.",
+    "string": "选择牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferDungeon",
+    "form_id": "010005CC|desolate-point.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Dungeon Transfer",
+    "string": "地牢转移",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferDungeon",
+    "form_id": "010005CC|desolate-point.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "1",
+    "string": "1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferDungeon",
+    "form_id": "010005CC|desolate-point.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "2",
+    "string": "2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferDungeon",
+    "form_id": "010005CC|desolate-point.esl",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferDungeon",
+    "form_id": "010005CC|desolate-point.esl",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "4",
+    "string": "4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferDungeon",
+    "form_id": "010005CC|desolate-point.esl",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "5",
+    "string": "5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferDungeon",
+    "form_id": "010005CC|desolate-point.esl",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "6",
+    "string": "6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferDungeon",
+    "form_id": "010005CC|desolate-point.esl",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "取消",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferArena",
+    "form_id": "010005CD|desolate-point.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Select arena team.",
+    "string": "选择竞技场队伍。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferArena",
+    "form_id": "010005CD|desolate-point.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Dungeon Transfer",
+    "string": "地牢转移",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferArena",
+    "form_id": "010005CD|desolate-point.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "1",
+    "string": "1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferArena",
+    "form_id": "010005CD|desolate-point.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "2",
+    "string": "2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferArena",
+    "form_id": "010005CD|desolate-point.esl",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferArena",
+    "form_id": "010005CD|desolate-point.esl",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "4",
+    "string": "4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferArena",
+    "form_id": "010005CD|desolate-point.esl",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "取消",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageCancel",
+    "form_id": "010005CF|desolate-point.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Canceled.",
+    "string": "已取消。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageCancel",
+    "form_id": "010005CF|desolate-point.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Canceled",
+    "string": "已取消。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageCellFull",
+    "form_id": "01000782|desolate-point.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cell full.",
+    "string": "牢房已满。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageCellFull",
+    "form_id": "01000782|desolate-point.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Cell Full",
+    "string": "牢房已满",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageResist",
+    "form_id": "010007A0|desolate-point.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Resisted arrest.",
+    "string": "拒捕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageResist",
+    "form_id": "010007A0|desolate-point.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Resisted Arrest",
+    "string": "拒捕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTeleportMessageLocSelect",
+    "form_id": "01000B22|desolate-point.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Select location.",
+    "string": "选择位置。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTeleportMessageLocSelect",
+    "form_id": "01000B22|desolate-point.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Select Location",
+    "string": "选择位置。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTeleportMessageLocSelect",
+    "form_id": "01000B22|desolate-point.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Arena",
+    "string": "竞技场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTeleportMessageLocSelect",
+    "form_id": "01000B22|desolate-point.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Dungeon",
+    "string": "地牢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTeleportMessageLocSelect",
+    "form_id": "01000B22|desolate-point.esl",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Chamber",
+    "string": "酷刑室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESTeleportMessageLocSelect",
+    "form_id": "01000B22|desolate-point.esl",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "取消",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferSector",
+    "form_id": "01000CE5|desolate-point.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Select sector.",
+    "string": "选择区域。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferSector",
+    "form_id": "01000CE5|desolate-point.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Sector Transfer",
+    "string": "区域转移",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferSector",
+    "form_id": "01000CE5|desolate-point.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Chamber",
+    "string": "酷刑室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferSector",
+    "form_id": "01000CE5|desolate-point.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Mine",
+    "string": "矿井",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADESMessageTransferSector",
+    "form_id": "01000CE5|desolate-point.esl",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "取消",
+    "status": "TranslationComplete"
+  }
+]

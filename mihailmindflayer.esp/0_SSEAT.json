@@ -1,0 +1,263 @@
+[
+  {
+    "editor_id": "mihailmindflayer_race",
+    "form_id": "05000800|mihailmindflayer.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Argonian",
+    "string": "阿尔贡人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailmindflayer_race",
+    "form_id": "05000800|mihailmindflayer.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly.",
+    "string": "有着类似于爬虫类动物外观的种族。这也使他们能适应故乡黑沼泽的危险沼地。阿尔贡人具备了对疾病的自然抵抗力和在水下呼吸的能力。他们能使用“希树之肤”特殊能力”，来提高生命恢复速度。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailmidnflayer_spell_fx_1",
+    "form_id": "05000811|mihailmindflayer.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Magicka Damage",
+    "string": "法力减损",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailmidnflayer_spell_fx_2",
+    "form_id": "05000812|mihailmindflayer.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Damage",
+    "string": "伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailmindflayer_weapon_ench_fx",
+    "form_id": "05000815|mihailmindflayer.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "speed",
+    "string": "速度",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailmidnflayer_spell_fx_1b",
+    "form_id": "05000817|mihailmindflayer.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Magicka Damage",
+    "string": "法力减损",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailmindflayer_weapon_enchDEF",
+    "form_id": "05000816|mihailmindflayer.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "speed",
+    "string": "速度",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailmindflayer_AB",
+    "form_id": "0500080C|mihailmindflayer.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Seeker Abilities",
+    "string": "探索者技能",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailmidnflayer_spell_1",
+    "form_id": "05000810|mihailmindflayer.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Silence",
+    "string": "沉默",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailmidnflayer_spell_2",
+    "form_id": "05000813|mihailmindflayer.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Spell2",
+    "string": "法术2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailmindflayer_weapontemplate",
+    "form_id": "0500080E|mihailmindflayer.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Unenchanted Staff",
+    "string": "无附魔法杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailmindflayer_weapon1",
+    "form_id": "0500080F|mihailmindflayer.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Staff",
+    "string": "杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailmindflayer_NPC",
+    "form_id": "05000805|mihailmindflayer.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Illithid",
+    "string": "灵吸者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2Book01Dungeon",
+    "form_id": "0403109D|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Apocrypha",
+    "string": "晦典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2POIBookLevel03",
+    "form_id": "0401EDE3|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Apocrypha",
+    "string": "晦典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2Book03Dungeon",
+    "form_id": "040142F3|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Apocrypha",
+    "string": "晦典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2POIBookLevel02",
+    "form_id": "040142F5|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Apocrypha",
+    "string": "晦典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081A|mihailmindflayer.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your mind is open... let me crawl inside.",
+    "string": "你的心灵已敞开…… 让我钻进去吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081B|mihailmindflayer.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Knowledge is pain. Let me share it with you.",
+    "string": "知识是痛苦的，让你也尝尝这份滋味。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081C|mihailmindflayer.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see your thoughts unraveling already.",
+    "string": "瞧你的思绪，已经乱作一团了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081D|mihailmindflayer.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You read the words... but never understood the price.",
+    "string": "你读了那些文字…… 却从未懂其中的代价。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081F|mihailmindflayer.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Curiosity kills... You should have stayed ignorant!",
+    "string": "好奇心害命…… 你本该安于无知！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000820|mihailmindflayer.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Surrender your mind! Resist, and it will be torn.",
+    "string": "交出你的心灵！敢反抗，它就会被撕碎！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000821|mihailmindflayer.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I watched your thoughts form... now I shall watch them break.",
+    "string": "我看着你的思绪悄然成形…… 此刻，便要亲眼看着它们彻底碎裂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000822|mihailmindflayer.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The chapter ends here... with your silence.",
+    "string": "这一篇章在此落幕…… 以你的沉寂作结。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000823|mihailmindflayer.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I peel the thoughts from your skull, one whisper at a time.",
+    "string": "我从你的颅骨里剥出那些念头，一次一个低语，慢慢来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000824|mihailmindflayer.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You will beg for silence... long after it has consumed you!",
+    "string": "你会乞求寂静…… 而那时，它早已将你吞噬殆尽！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000825|mihailmindflayer.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your mind will scream long after your body forgets how!",
+    "string": "你的身体早已不知痛苦为何物，可你的心灵，还会痛苦不休！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailmindflayer_dialogue",
+    "form_id": "05000818|mihailmindflayer.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Dremora Dialogue",
+    "string": "魔人对话",
+    "status": "TranslationComplete"
+  }
+]

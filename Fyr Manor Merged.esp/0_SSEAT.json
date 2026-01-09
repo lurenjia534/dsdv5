@@ -1,0 +1,3485 @@
+[
+  {
+    "editor_id": "Fyr_Fabricant",
+    "form_id": "050549EE|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dark Elf",
+    "string": "暗精灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Fabricant",
+    "form_id": "050549EE|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Also known as \"Dunmer\" in their homeland of Morrowind, dark elves are noted for their stealth and magic skills. They are naturally resistant to fire and can call upon their Ancestor's Wrath to surround themselves in fire.",
+    "string": "在故乡晨风省，他们被称作“丹莫”。暗精灵的过人之处在于他们的力量和魔法技艺。他们天生对火焰有高抵抗力，并且能召唤先祖之怒，使全身环绕着火焰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FabricantNew",
+    "form_id": "05077808|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Also known as \"Dunmer\" in their homeland of Morrowind, Dark Elves are noted for their stealth and magic skills. They are naturally resistant to fire and can call upon their Ancestor's Wrath to surround themselves in fire.",
+    "string": "在故乡晨风省，他们被称作“丹莫”。暗精灵的过人之处在于他们的力量和魔法技艺。他们天生对火焰有高抵抗力，并且能召唤先祖之怒，使全身环绕着火焰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyAutoDamage",
+    "form_id": "050A40B6|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Automaton Damage",
+    "string": "自动机械伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyAutoDamage",
+    "form_id": "050A40B6|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Do <mag>% more damage to automatons.",
+    "string": "对自动机械能造成<mag>%的额外伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyAlchemy",
+    "form_id": "050A40B7|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Alchemy",
+    "string": "强化炼金",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyAlchemy",
+    "form_id": "050A40B7|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Created potions are <mag>% stronger.",
+    "string": "制作药水效果增强<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyMagicFFSelf",
+    "form_id": "050A40BD|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Magic Resistance",
+    "string": "魔法抗性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyMagicFFSelf",
+    "form_id": "050A40BD|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Resist <mag>% magicka.",
+    "string": "魔法抗性提高<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_DwemerOilSpider",
+    "form_id": "050B2ADB|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dwemer Leaking Spider",
+    "string": "锻莫漏油蜘蛛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_DwemerOilSpider",
+    "form_id": "050B2ADB|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Spawns a dwemer spider that secretes a flammable oil when it feels threatened.",
+    "string": "召唤一只锻莫蜘蛛，当它感到受到威胁时会分泌出易燃油。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_DwemerSpider",
+    "form_id": "050B2ADC|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dwemer Leaking Spider",
+    "string": "锻莫漏油蜘蛛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_DwemerSpider",
+    "form_id": "050B2ADC|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Spawns a dwemer spider.",
+    "string": "召唤一个锻莫蜘蛛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Clockbolt",
+    "form_id": "050C17A8|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Clockbolt",
+    "string": "发条箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Clockbolt",
+    "form_id": "050C17A8|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A slow moving blast of magical damage that does <mag> points of damage. Spawns a useful object where it hits.",
+    "string": "一道缓慢移动的冲击波，造成<mag>点魔法伤害。击中时会生成一个有用的物体。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifySmithing",
+    "form_id": "050D019C|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Smithing",
+    "string": "强化锻造",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifySmithing",
+    "form_id": "050D019C|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, weapon and armor improving is <mag>% better.",
+    "string": "锻造能力提高<mag>%，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_SehtsSoul",
+    "form_id": "050D01A0|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Seht's Soul",
+    "string": "塞特之魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_SehtsSoul",
+    "form_id": "050D01A0|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "When low on magicka, has a chance to fully restore user's magicka.",
+    "string": "当法力值较低时，有机会完全回复的法力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_TesserEF",
+    "form_id": "050D01B2|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Tesseroot",
+    "string": "泰瑟根",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_TesserEF",
+    "form_id": "050D01B2|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Teaches you a random spell from the depths of time. If you already know this spell, your magicka is completely restored.",
+    "string": "教你一道来自时间深渊的随机法术。如果你已经知道了这个法术，则完全回复你的法力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_DisarmEffect",
+    "form_id": "050D01B8|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Disarm",
+    "string": "卸载武器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_DisarmEffectOther",
+    "form_id": "050D01BA|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Disarm",
+    "string": "卸载武器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_SonicBoom",
+    "form_id": "050D01BC|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Sonic Boom",
+    "string": "音速爆炸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_SonicBoom",
+    "form_id": "050D01BC|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Staggers enemies slightly.",
+    "string": "使敌人略微失衡。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrSlowTimeEffect",
+    "form_id": "050D308A|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Slow Time Effect",
+    "string": "减缓时间效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrSlowTimeEffect",
+    "form_id": "050D308A|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Slows time for <dur> seconds.",
+    "string": "减缓时间流逝<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Cure",
+    "form_id": "050D308B|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Disease",
+    "string": "治愈疾病",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_CureP",
+    "form_id": "050D8E1E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Poison",
+    "string": "解毒药水",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_CureP",
+    "form_id": "050D8E1E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Stops poison's continuing effects.",
+    "string": "解除毒药的持续效果。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_DamageDragon",
+    "form_id": "05083D2F|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragon Damage",
+    "string": "巨龙伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_DamageDragon",
+    "form_id": "05083D2F|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Damages dragons for <mag> points of damage.",
+    "string": "对巨龙造成<mag>点伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyOneHandedFFSelf",
+    "form_id": "050A40A8|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify One-Handed",
+    "string": "强化单手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyOneHandedFFSelf",
+    "form_id": "050A40A8|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Do <mag>% more damage with one-handed weapons.",
+    "string": "单手武器伤害提高<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyTwoHandedFFSelf",
+    "form_id": "050A40AA|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Two-Handed",
+    "string": "强化双手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyTwoHandedFFSelf",
+    "form_id": "050A40AA|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Do <mag>% more damage with two-handed weapons.",
+    "string": "双手武器伤害提高<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyFlameFFSelf",
+    "form_id": "050A40AC|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fire Resistance",
+    "string": "火焰抗性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyFlameFFSelf",
+    "form_id": "050A40AC|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Resist <mag>% fire.",
+    "string": "火焰抗性提高<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyPickpocket",
+    "form_id": "050A40AF|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Pickpocketing",
+    "string": "强化扒窃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyPickpocket",
+    "form_id": "050A40AF|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Pickpocketing <mag>% easier.",
+    "string": "扒窃能力提高<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyDaedraDamage",
+    "form_id": "050A40B4|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Daedra Damage",
+    "string": "魔族伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FortifyDaedraDamage",
+    "form_id": "050A40B4|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Do <mag>% more damage to daedra.",
+    "string": "对魔族能造成<mag>%的额外伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_DamageHealth",
+    "form_id": "050D8E1F|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Damage Health",
+    "string": "减损生命",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_DamageHealth",
+    "form_id": "050D8E1F|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Causes <mag> points of poison damage.",
+    "string": "减损目标<mag>点生命。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_CooEffect",
+    "form_id": "050DBCEA|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Coo Companion",
+    "string": "咕咕伙伴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_CooEffect",
+    "form_id": "050DBCEA|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Creates a hovering dwemer bird friend that lasts for <dur> seconds.",
+    "string": "创造一个锻莫鸟伙伴，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Sehtstaff_EN",
+    "form_id": "050C17A7|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Clockbolt",
+    "string": "发条箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_MaskEnch",
+    "form_id": "050D019E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Seht's Soul",
+    "string": "塞特之魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Sunbath",
+    "form_id": "05083D63|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Power Core Infusion",
+    "string": "注入能源核心",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_ShoutAchieveSpell",
+    "form_id": "050A40A1|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Tongue Tied",
+    "string": "舌头打结",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_RichBlessing",
+    "form_id": "050A40A2|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Filthy Rich",
+    "string": "肮脏财富",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_CollegSpell",
+    "form_id": "050A40A4|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Eye for an Eye",
+    "string": "以眼还眼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_AssassinSpell",
+    "form_id": "050A40A6|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "This Time It Wasn't The Mythic Dawn",
+    "string": "这次不是破晓神话",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FighterSpell",
+    "form_id": "050A40AB|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Swordbrothers",
+    "string": "剑友",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_CivilWarSpell",
+    "form_id": "050A40AE|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Generality",
+    "string": "概论",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Thieves",
+    "form_id": "050A40B1|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Up On Your Luck",
+    "string": "祝福之运",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_MainQuestSpell",
+    "form_id": "050A40B2|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "World Eater Beater",
+    "string": "世界吞噬者击败者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_NirnrootSpell",
+    "form_id": "050A40B8|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "STOP RINGING ALREADY",
+    "string": "停止响铃",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_DwemerSpell",
+    "form_id": "050A40B9|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Geargrinder",
+    "string": "磨齿器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_DaedraSpell",
+    "form_id": "050A40BB|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Planeswalker",
+    "string": "位面行者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Dragonborn",
+    "form_id": "050A40BF|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Scammed By A Daedra",
+    "string": "被魔族欺骗",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_MithasSpell",
+    "form_id": "050D019D|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Song of the Architects",
+    "string": "设计师之歌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_SehtHealing",
+    "form_id": "050D01A2|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Seht's Imbibement",
+    "string": "塞特之识",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Recycle",
+    "form_id": "050D01B3|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Recycle Magicka",
+    "string": "法力循环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Recycle",
+    "form_id": "050D01B3|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Restore <1> point of magicka per second.",
+    "string": "每秒恢复<1>点法力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Purgebody",
+    "form_id": "050D01B4|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Purge Body",
+    "string": "净化身体",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Purgebody",
+    "form_id": "050D01B4|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Cures you of all ailments and poisons, but damages you for <15> points of poison damage as it purges your body.",
+    "string": "治愈你的所有疾病和毒素，但在净化时会对你造成<15>点毒素伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_TransferRust",
+    "form_id": "050D01B6|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Transfer Rust",
+    "string": "生锈转移",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_TransferRust",
+    "form_id": "050D01B6|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Disarms you and your enemy.",
+    "string": "使你和你的敌人丢下武器。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_TransferRustSelf",
+    "form_id": "050D01BB|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Transfer Rust Self",
+    "string": "生锈转移自身",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_TransferRustSelf",
+    "form_id": "050D01BB|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Disarms you and your enemy.",
+    "string": "使你和你的敌人丢下武器。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Sonic",
+    "form_id": "050D01BE|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Sonic Boom",
+    "string": "音速爆炸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Sonic",
+    "form_id": "050D01BE|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Staggers enemies slightly.",
+    "string": "使敌人略微失衡。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_StopTime",
+    "form_id": "050D01BF|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Stop Time",
+    "string": "时间停止",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_StopTime",
+    "form_id": "050D01BF|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Stops time for <30> seconds.",
+    "string": "暂停时间，持续<30>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_CooSpell",
+    "form_id": "050DBCEB|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Summon Coo",
+    "string": "召唤咕咕",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Spider",
+    "form_id": "050AFC05|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Dwemer Spider",
+    "string": "锻莫蜘蛛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_SpiderOil",
+    "form_id": "050AFC04|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Leaking Dwemer Spider",
+    "string": "锻莫漏油蜘蛛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_SothaLabTeleport",
+    "form_id": "0504B948|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Ancient Ring Holder",
+    "string": "古老戒指展示架",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PortalLever1",
+    "form_id": "0504B982|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Portal to Whiterun",
+    "string": "前往白漫城的传送门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PortalLever2",
+    "form_id": "0504B985|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Portal to Windhelm",
+    "string": "前往风舵城的传送门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PortalLever3",
+    "form_id": "0504B986|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Portal to Riften",
+    "string": "前往裂谷城的传送门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PortalLever4",
+    "form_id": "0504B987|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Portal to Solitude",
+    "string": "前往独孤城的传送门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PortalLever5",
+    "form_id": "0504B988|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Portal to Markarth",
+    "string": "前往马卡斯城的传送门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PortalLever6",
+    "form_id": "0504B989|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Portal to Raven Rock",
+    "string": "前往鸦石镇的传送门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PortalLever7",
+    "form_id": "0504B98A|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Portal to Tel Mithryn",
+    "string": "前往泰尔密希临的传送门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_NirnRoot",
+    "form_id": "05066733|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Harvest",
+    "string": "收获",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_NirnrootRed",
+    "form_id": "05066734|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Harvest",
+    "string": "收获",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_AlchemySpawner",
+    "form_id": "0502149E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Alchemical Spawner",
+    "string": "炼金材料生成器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_AtronachFire",
+    "form_id": "0502753B|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Spawn Fire Atronach",
+    "string": "生成火焰元素",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_AtronachFrost",
+    "form_id": "0502753C|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Spawn Frost Atronach",
+    "string": "生成寒霜元素",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_AtronachStorm",
+    "form_id": "0502753D|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Spawn Storm Atronach",
+    "string": "生成风暴元素",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_BlackBookPedestal1",
+    "form_id": "0502D8FD|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Waking Dreams Pedestal",
+    "string": "清醒梦境台座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_BlackBookPedestal2",
+    "form_id": "0502D90C|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Epistolary Acumen Pedestal",
+    "string": "信札巧笔台座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_BlackBookPedestal3",
+    "form_id": "0502D90D|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Untold Legends Pedestal",
+    "string": "无尽传奇台座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_BlackBookPedestal4",
+    "form_id": "0502D90E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "The Winds of Change Pedestal",
+    "string": "变化之风台座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_BlackBookPedestal5",
+    "form_id": "0502D90F|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Sallow Regent Pedestal",
+    "string": "蜡黄的摄政王台座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_BlackBookPedestal6",
+    "form_id": "0502D910|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Filament and Filigree Pedestal",
+    "string": "长丝与银丝网台座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_BlackBookPedestal7",
+    "form_id": "0502D911|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "The Hidden Twilight Pedestal",
+    "string": "隐匿暮光台座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Lightswitch",
+    "form_id": "050336DF|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Light Switch",
+    "string": "灯开关",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_BoneCrusherLever",
+    "form_id": "05042B0B|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Bone Crusher Machine",
+    "string": "碎骨机",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_ElevatorSwtich",
+    "form_id": "05086C4E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Secret Switch",
+    "string": "隐藏开关",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HallofAchievementModule",
+    "form_id": "050927BA|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Module for the Hall of Achievements",
+    "string": "成就馆模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "fyr_anvil",
+    "form_id": "050A9E6C|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Anvil of Mithas",
+    "string": "米萨斯铁砧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "fyr_faceinajar",
+    "form_id": "050B8A74|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Nerevar's Face in a Jar",
+    "string": "瓶装尼瑞瓦之容",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Exploder",
+    "form_id": "050CA408|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Explosion",
+    "string": "爆炸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_ServerTalker",
+    "form_id": "05069772|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "TACT FULL",
+    "original": "Server",
+    "string": "伺服器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Mask",
+    "form_id": "050065CA|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Sotha Sil's Mask",
+    "string": "索萨·希尔的面具",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Locket",
+    "form_id": "050B8A8C|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Almalexia's Locket",
+    "string": "阿玛莱西娅之盒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_MazedBand",
+    "form_id": "050B8B3E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Mazed Band",
+    "string": "迷宫烙印",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_MazedBand",
+    "form_id": "050B8B3E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "A strange and ancient ring. It seems as if it once had power that is now long lost.",
+    "string": "一枚古老而奇怪的戒指。它似乎曾经拥有过一种现已失传的力量。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book2",
+    "form_id": "05033710|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Harquebuses",
+    "string": "火绳枪的历史与发展",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book2",
+    "form_id": "05033710|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nOn the Propulsion of Matter, Mind, and Mathematics via Magickal Means: A Treatise upon Primitive Harquebuses and their Descendents as used by the Peoples of the Aurbis\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he earliest harquebuses known were created, as many things were, by the Dwemer of Stros M'kai, who used tonal reverberation applied via miniscule tuning forks to the interior of a long rod containing a round pellet of the metal for which that race is so known. This would vibrate the pellet to an intense degree, eventually propelling it from the end of the device to whatever unfortunate soul aforesaid was pointed at. This pellet would lodge itself in the target, vibrating at such intensity as to cause it to explode. This early proof-of-concept would later be refined so as to bypass the primitive need for physical matter altogether.\r\n\r\nThe Aldmer of Alinor made the next great advancement, using the large rods to act as stabilizing magnifiers for their own magicka. In this regard, their harquebuses were not so much independent weapons as magickal tools, and were regarded more as a curiosity than anything else. However, after the first incorporation of Alinor under Reman, the early Guild of Mages saw potential in these devices and created self-sustaining enchantments, allowing the much bulkier devices to be used by those with minimal magickal potential. However, the fall of the first Reman empire saw a discontinuation in the production and usage of these weapons, as they were merely too expensive and impractical to warrant mass production.\r\n\r\nIt would not be until the late Second Era that the concept of harquebuses would be rediscovered by the Redguards of Stros M'kai. They could not replicate the internal workings of the device, and so had to massively increase the size and use combustive propulsion to launch large iron balls. This weapon, being unwieldy, would be strapped in large batteries to ships, creating the basic structure which most later large harquebuses would emulate. <BR>\r\n\r\nThis brings us to the present. Marrying the earlier, more sophisticated design under Reman and the masterful utilization of the harquebus pioneered by the Redguard sailors, nearly all aetherships, whether the grand Vehkships of New Resdayn or the blink-root-ships of the Hist, have some form of harquebus battery, though all are far removed from the earliest models in sophistication.</p>",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n论通过魔法手段推动物质、思想和数学的发展：一篇关于这个奥比斯人使用的原始火枪及其迭代的论文\r\n</p>\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>\r\n最早的火枪和许多其它事物一样，是由斯图尔斯·迈凯的锻莫发明的。其构造为内含金属弹丸的长管，内置小型音叉以实现音调混响。这可以使弹丸以极高的频率振动，最终从装置终端将其发射出去，击中被瞄准的可怜目标。弹丸会嵌入目标体内，高强度振动后发生爆炸。\r\n\r\n阿里诺尔的奥德莫进行了重大的改良，把大型枪管作为他们法力的稳定放大器，因此，他们的火枪与其说是一把独立的武器，倒不如说是神秘的魔法工具。但是，阿里诺尔第一次被雷曼帝国吞并后，早期的法师公会看出了这种装置的潜力，给予其自保持的附魔，使得那些魔法潜能很少的人也能使用这种庞然大物。不过，随着第一雷曼帝国崩塌，此武器的生产和使用都停滞了，因为维持较大产量实在是过分昂贵又不实用。\r\n\r\n直到第二纪元晚期，斯图尔斯·迈凯的红卫人才重新发现了火枪。他们无法复制装置的内部构造，因此只好大大扩展其体积，使用燃烧推力来发射大型铁制弹丸。这种笨拙的、需要用皮条绑在能源仓里带到舰船上的武器创立了大部分后世火绳枪的基本构造。\r\n\r\n然后是当代，结合雷曼时期的精巧设计和红卫水手的熟练手艺，几乎所有的神光飞船—包括新瑞斯戴恩的维克巨舰和海斯坦的神足船——都有某种火枪的能源仓。</p>\r\n\r\n译者注：\r\n奥比斯（Aurbis） - 相当于老滚世界观的宇宙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_ModulesList3",
+    "form_id": "05003BA4|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Server's List of Hearthfire Modules",
+    "string": "伺服器的炉火模块清单",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_ModulesList3",
+    "form_id": "05003BA4|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "I cannot say exactly where these modules are, but I can give you some hints, based on what I feel.\r\n\r\nNursery Module: I feel children. And they are sad. Very very sad.\r\n\r\nKitchen Module: I feel tall trees... and dead men in a bar? Or dead men eating and drinking.\r\n\r\nGreenhouse Module: I feel something about running, and alchemy, and a cauldron.",
+    "string": "我无法确切地说出这些模块在哪里，但我可以根据自己的直觉给你一些提示。\r\n\r\n儿童房间模块：我感受到孩子们的悲伤。他们非常非常悲伤。\r\n\r\n厨房模块：我感受到高大的树木……和旅店里的亡者？或者死者在饮食。\r\n\r\n温室模块：我感受到跑腿、炼金术和釜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_ModulesList2",
+    "form_id": "05005903|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Server's List of Dawnguard Modules",
+    "string": "伺服器的黎明守卫模块清单",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_ModulesList2",
+    "form_id": "05005903|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "I cannot say exactly where these modules are, but I can give you some hints, based on what I feel.\r\n\r\nSoul Lab Module: I feel it is near the Soul Cairn. I sense gargoyles, and vampires, but elsewhere.\r\n\r\nCrossbow Module: I feel it is in a mine, somewhere near... huskies? Or some type of dog.\r\n\r\n\r\n",
+    "string": "我无法确切地说出这些模块在哪里，但我可以根据自己的直觉给你一些提示。\r\n\r\n灵魂实验室模块：我觉得它就在灵魂石冢附近。我感觉到了石像鬼和吸血鬼，但好像又在别处。\r\n\r\n弩制造厂：我觉得它在一个矿井里，在……哈士奇？或者某种狗附近。\r\n\r\n\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book1",
+    "form_id": "050336DD|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Wind Up And Wound Down",
+    "string": "发条上弦和发条释放",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book1",
+    "form_id": "050336DD|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nWind Up And Wound Down\r\n\r\n\r\nBy \r\nGoveri-999\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/I_letter.png'>t is a matter of some misconception when people refer to those unfortunate automata existing in the crypts as 'undead', while they are nothing of the sort. They are not, in fact, even dead. Their mechanics still function normally. They are perfectly, and even preternaturally, healthy. However, they lack the breath of God that infuses us all; they have no pneuma, and are soulless husks, half-mer bound to this world. The Rewound.\r\n\r\nUnwinding is a rather natural, though euphemistic, phrase that means the death of the body and the passing of the soul to the Dreaming Sleeve and the collective well of souls from which all spring. Through some accident or errant twitch of fate, the mechanisms powering our bodies can, on rare occasion, begin operating again even after the pneuma has faded. They retain access to some flickering memories, here and there, and are even capable of some level of thought, but largely merely attempt to follow through with whatever the fabricant was doing when he died, over and over again, stuck in a loop, and if jarred from this loop will become hostile and enraged.\r\n\r\nAt this point, it is tempting to attempt to destroy the body and move on. However, it is not so simple to do so. The rewinding process gives their bodies a massive surge of power, without will or soul to restrain it, and even if attacked will shrug off immediately fatal wounds and heal absurdly quickly. The only way to defeat them is to unwind them once again, to slow their mechanisms and stop them completely. Merely paralyzing them is ineffective, as it is a temporary and essentially illusory suspension of function rather than an actual degradation of the corpus. Only when they stop moving will they shut down for a second and final time.</p>",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n发条上弦和发条释放\r\n\r\n葛伟瑞-999\r\n著\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n人们把这些不幸的自动机械称为“亡灵”，其实它们根本不是，这是一种误解。事实上，它们甚至没有死。它们的机械装置仍然正常运转。它们非常的，甚至是超常的健康。然而，他们那缺乏我们所有人都受到过的——神的气息；他们是没有机魂，只是无魂的外壳，被绑定在这个世界上的半精灵——他们的发条被重新拧上了。\r\n\r\n发条释放是相当自然的，简单地说，在肉身死亡之后通过一些巧妙的意外，我们的身体机制可以重新开始放电并为肌肉供给能量，在极少数情况下身体再次开始运转后能够达到自由活动的程度，不过灵魂已经在渐渐地淡去。一般而言他们能够保留一些闪烁的回忆，甚至能够做到一定程度的思考，但在一般而言只是在模仿械构体的行动而已。他们的意识已经死了，逻辑一遍又一遍陷在一个循环，并当他们循环一定次数后会变得充满敌意和怒意。 \r\n\r\n在这种时候，人们很容易就会以为可以将他们的身体摧毁并全身而退。然而，他们不是那么简单能被放倒的。这种重新被上发条的过程使他们的身体爆发出巨大的能量，由于没有意愿或灵魂来约束它，即使遭受攻击，也会立即恢复致命的伤口，恢复的速度快的荒谬。击败他们的唯一方法是再次让他们的发条再次释放，放慢他们的机械结构从而使他们停止行动。仅仅瘫痪它们是无效的，因为它那样只能短暂地停止而不能彻底解决问题。只有当他们彻底停止运动，它们才会第二次，也是最后一次，真正的关闭它们。 \r\n</p>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book4",
+    "form_id": "0508C9F4|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Xrib",
+    "string": "埃克斯利布",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book4",
+    "form_id": "0508C9F4|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nXrib\r\n\r\n\r\nTranslated by Sotha Sil and Divayth Fyr\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/I_letter.png'>n start, there was nothing, and we cannot see. Then, there was light, and he was Birx. \r\nBirx show us way, tell us \"Do things\" and we do them.\r\nBut soon, Birx show way to menfolk, tell them \"do things\" and they do them to us. \r\nSo we run back to dark, find deepfolk. Deepfolk laugh. They say to us \r\n\"Birx not show you way, Xrib not show you way. We show you way.\"\r\nWe say \"Who the hell is Xrib?\", but Deepfolk know who Xrib is and gone, forget to show us way out of dark.\r\nWe stumble in dark, crying out, nothing but night. \r\nBabes die, everyone die, Birx not help us, Birx reason we in dark in first place.\r\nThen, voice ask us why we crawling around. We tell voice we cannot see in the blackness.\r\nVoice ask what color of black, confuses us. We demand to know what voice is.\r\nVoice is Xrib. Xrib opens other eyes. Shows all colors of black. Colors we could see all along.\r\nWe grateful to Xrib, so we build temple, build altar. Xrib never ask for this, but happy that we do it.\r\nBirx always ask, always never happy with things we do. Birx make us need him. \r\nXrib not Birx, Birx see for us, Xrib teach us to see.\r\nXrib better than Birx.</p>",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n埃克斯利布\r\n\r\n\r\n由索萨·希尔和迪维斯·菲尔翻译\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/I_letter.png'>一开始，什么都没有，我们什么都看不见。然后，出现了光，他就是布利斯克埃。\r\n布利斯克埃给我们指路，告诉我们“做事”，然后我们就去做。\r\n但很快，布利斯克埃就给人类们指路，告诉他们“做事”，然后他们就对我们做事。\r\n于是我们跑回黑暗中，找到了深渊族。深渊族笑了。他们对我们说\r\n“布利斯克埃不给你指路，埃克斯利布不给你指路。我们给你指路。”\r\n我们说“埃克斯利布到底是谁？”，但深渊族知道埃克斯利布是谁，然后就走了，忘了带我们走出黑暗。\r\n我们在黑暗中跌跌撞撞，哭喊着，除了黑夜什么也没有。\r\n婴儿死了，每个人都死了，布利斯克埃不帮助我们，是布利斯克埃让我们首先处于黑暗之中。\r\n然后，声音问我们为什么爬来爬去。我们告诉声音我们在黑暗中看不见。\r\n声音问黑色是什么颜色，让我们困惑。我们想知道声音是什么。\r\n声音是埃克斯利布。埃克斯利布打开了另一双眼睛。展示了黑色的所有颜色。我们一直可以看到的颜色。\r\n我们感谢埃克斯利布，所以我们建造了神殿，建造了祭坛。埃克斯利布从不要求这样做，但很高兴我们这样做。\r\n布利斯克埃总是提出要求，从不满意我们所做的事情。布利斯克埃让我们需要他。\r\n埃克斯利布不是利布斯克埃，利布斯克埃替我们看，埃克斯利布教我们看。\r\n埃克斯利布比布利斯克埃更好。</p>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book5",
+    "form_id": "0508C9F7|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "A Type of Zero",
+    "string": "一种零",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book5",
+    "form_id": "0508C9F7|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n'A Type of Zero Still to Be Discovered' -- a traditional Dwemeri children's rhyme --\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"center\">\r\nWake up, khundakar, it¡¦s a new day, traditional style, and thank you for breathing.\r\n\r\nWake up, suchi-el, get dressed, reconsider your [science], here¡¦s an official daguerreotype.\r\n\r\nGood morning, Ae, here¡¦s a side of the story you seldom suffer.\r\n\r\nGood morning, Aurbis, you¡¦ve got numbers to ignore.\r\n\r\nLook out, First Moon, wearing those are dangerous in this industry, so try to enjoy.\r\n\r\nLook out, Second Moon, not everything is inexplicable and extortion is for [skeptics].\r\n\r\nNice day, khundakar, we have your table ready, the divinities are already waiting.\r\n\r\nNice day, suchi-el, the world-nirn cannot be mapped, so forward your dismissals to the eight givers.\r\n\r\nAfternoon, Ae, I hope all is well in the world of modern folklore.\r\n\r\nAfternoon, Aurbis, the reports are true, there is a type of zero still to be discovered, all [critics- ?] agree.\r\n\r\nGood night, First Moon, stay out past [supper], return these to the [proper authorities].\r\n\r\nGood night, Second Moon, it¡¦s time to go, love the metal all you want, three easy ways of comfort.\r\n\r\nBedtime, khundakar, put away your star-mobiles, [anecdotes- ?], and bone collection.\r\n\r\nBedtime, suchi-el, stay over, bring your astrolabe, we think there¡¦s still some ghosts.\r\n\r\nSleep well, my children, tomorrow I¡¦ll buy you both the sea.</p>",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n“一种零有待发现”——一首传统的锻莫童谣——\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"center\">\r\n醒醒吧，昆达卡尔，这是新的一天，传统风格，谢谢你的呼吸。\r\n\r\n醒醒吧，苏祺-埃尔，穿好衣服，重新考虑你的[科学]，这是正式的银版摄影法。\r\n\r\n早上好，埃伊，这是你很少遭受的故事的一面。\r\n\r\n早上好，奥比斯，你有数字要忽略。\r\n\r\n注意，第一月，在这个行业里穿那些很危险，所以尽量享受吧。\r\n\r\n注意，第二月，不是所有的事情都是无法解释的，敲诈勒索是[怀疑论者]的行为。\r\n\r\n美好的一天，昆达卡尔，我们已经为你准备好了桌子，圣灵们已经在等你了。\r\n\r\n美好的一天，苏祺-埃尔，世界是无法绘制的，所以把你的解雇权转交给八个给予者。\r\n\r\n下午好，埃伊，我希望现代民间传说的世界一切安好。\r\n\r\n下午好，奥比斯，报告是真的，还有一种零有待发现，所有[批评者-？]都同意。\r\n\r\n晚安，第一月，晚饭后再出去，把这些还给[有关当局]。\r\n\r\n晚安，第二月，该走了，尽情爱金属吧，三种简单的舒适方式。\r\n\r\n睡觉了，昆达卡尔，收起你的星车、[轶事-？]和骨头收藏。\r\n\r\n睡觉了，苏祺-埃尔，留下来，带上你的星盘，我们认为还有一些鬼魂。\r\n\r\n睡个好觉，我的孩子们，明天我会给你们俩买大海。</p>\r\n\r\n译者注：\r\n埃伊（Ae） - 是一个用来指代所有分裂了原本充满宇宙的永恒虚空（事实上，是由虚空引起的）的存在。埃伊是一种力量，它允许凡人的灵魂在死亡后返回他们所属的原灵或湮灭位面，这种交易被称为“月球货币”。这里应该是指两个孩子。\r\n奥比斯（Aurbis） - 相当于老滚世界观的宇宙。这里应该是指两个孩子，类似于“你是我的世界”，纯瞎猜XD。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book6",
+    "form_id": "0508C9FF|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "De Rerum Mutabilitatis",
+    "string": "论事物的可变性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book6",
+    "form_id": "0508C9FF|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\nDe Rerum Mutabilitatis\r\nby Quintus Sextus Septus VIII\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\nI write this treatise in honor and mourning of the death of the last known Mimic, hacked to pieces by an irate adventurer who found that the door he was opening led to a closet filled with gnashing teeth rather than the handful of Septims he was presumably expecting. It is a great blow to the academic community, given that mimics were unique in their ability to shift forms at will and their willingness to remain stationary for extended periods.\r\n\r\nCreated by a mad Chimeri wizard some time in the first two centuries of the First Era, mimics were designed to be the perfect guardians of the treasure troves that old mages inevitably seem to collect. However, they were an odd blend of flesh and metal the likes of which Nirn had never before seen, nor would ever see again. Because of their artificial creation, there was a finite number of them, though over the centuries they disseminated throughout northern Tamriel, ranging from Morrowind to High Rock.\r\n\r\nThey would typically find for themselves a disused room and take on a form alluring to people rummaging about, blending well with the surrounding environs. They did not actually require sustenance, but seemed to relish feasting on the unwary regardless, most probably because their creator had a twisted sense of humor.</p>",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n论事物的可变性\r\n昆图斯·塞克提乌斯·塞普町八世\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n我写这篇论文是为了纪念和哀悼最后一个已知的拟态者，他被一个愤怒的冒险者砍成了碎片，因为他发现他打开的门通向一个装满牙齿的壁橱，而不是他可能期待的金币。这对学术界来说是一个巨大的打击，因为拟态者具有随心所欲地改变形态和长时间保持静止的意志。\r\n\r\n拟态者是由一个疯狂的歧莫法师在第一纪元的前两百年创造的，旨在成为老法师们收集的宝藏的完美守护者。然而，它们是肉体和金属的奇怪混合物，在奈恩从未见过，也永远不会再见到。由于它们是人工创造的，它们的数量是有限的，尽管几个世纪以来，它们遍布整个泰姆瑞尔北部，从晨风到高岩。\r\n\r\n它们通常会找到一间废弃的房间，然后变成一种吸引人们翻找的形态，与周围环境融为一体。它们实际上并不需要食物，但似乎无论如何都喜欢以粗心大意的人为食，很可能是因为它们的创造者有一种扭曲的幽默感。</p>\r\n\r\n译者注：\r\n拟态者（Mimic），俗称宝箱怪。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book7",
+    "form_id": "050B8A5B|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Realm Creation",
+    "string": "创造位面",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book7",
+    "form_id": "050B8A5B|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\nHow To Moon\r\nby Andy\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n...I hypothesize, based on de-encoded Dreamsleeve memospores intended for the thrice-forsaken House Wizards of the varliance-rend, that, with high probability, it may be possible to re-enact the traumatic birth of this world without, as it were, the trauma. By reversing the failure of the C-signs, Pigmius in particular, through use not of padhomaic nor draconid-wrought thaumaturgy, but rather through the metals and machinations of Our Lord, we avoid the drama caused by personality and the violence of self. We avoid both the Scarab and the Scarab-framer, don't you see? They intended it to the thus! They were created, they create, and we created them in return! And now we create anew a perfect clockwork world, drifting through Oblivion, unmarred by fleshy imperfection....</p>",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n如何月亮\r\n\r\n安迪\r\n著\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n……我假设，基于为三次被抛弃的光裂家族的巫师准备的，已提取的梦袖位面的记忆孢子，很有可能可以重演这个世界的诞生，且可以避免曾经诞生时伴随的产伤。藉由神君的金属和机械，而非帕多梅或使龙产生的秘术，我们可以扭转C-星座（尤其是皮格米乌斯）的失败，我们可以避免由性格和自我内部暴力冲突造成的那幕悲剧。我们既避免了圣甲虫，也避免了圣甲虫制造者，难道你不明白吗？他们的最终目标正是如此！他们被创造，他们创造我们，而我们再反过来创造他们！现在，我们重新创建了一个完美的发条世界，在湮灭间漂流，不再受肉体缺憾的束缚……</p>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Poem",
+    "form_id": "050B8A8E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Vehk's Poem",
+    "string": "维克之诗",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Poem",
+    "form_id": "050B8A8E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "For you, I would shave this head. It would not do that your new friend shook an inconstant kwam-lice from it. I'd take the sigil of Vel, the V, and wear it twice. And I would be new, and believe in the one moon and star as your banner does. I’d make a legend of this netch longhook. Make no frown that this will be my weapon in your guard, however low its station. We all drink from the milk of our fathers. I’d learn to read and then write so that I could see right your name forever. And I would clean your feet so that the next time you made treaty it would be with an assured step.",
+    "string": "为了你，我会剃去头发。但你的新朋友不会从头上甩掉反复无常的虱子。我会拿走维尔的徽章，戴上两次。我会焕然一新，像你的旗帜一样相信同一个月与星。我会让这把气母长钩成为传奇。不要皱眉，这将是我为守卫你的武器，无论它的地位多么低。我们都喝着父辈的奶。我会学会读书写字，这样我就能永远正确地看到你的名字。我会洗净你的脚，这样下次你签订条约时，你就能迈出坚定的步伐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book3",
+    "form_id": "05033725|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "The Cacophony",
+    "string": "不和谐音",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book3",
+    "form_id": "05033725|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nThe Xal-Gosleigh Letters: On the Cacophony\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he Cacophany wear gold and hideous masks and their instruments are built into their armor. Most have flute helms that span a foot or more, while the leader plays his ribs like a xylophone with broken bird bones. Their bottom halves all dance the same kind of impetuous, exaggerated march, kicking up dust, scaring off scribs. The natives say this is all that’s left of Sotha Sil. Maybe that’s why there are so many Swooners, silk-webbed women (or painted men) that crawl behind them, crawl or wriggle in the dirt, an entourage of excess in the din. That’s what strikes you most.\r\n\r\nWhat strikes you most is the clamor, their red noise wandering, a boom-boom-blare as they advance through the plain. They say this is a membership drive or a spell or a reenactment. They say this might all be a great joke of Sotha Sil. One Swooner dies or pretends to. The priest beside me, a Mephalite sporting a sigil-halo in lieu of the regular horned abbot’s hat, tells me that these are the last dead leaves of the Velothi south. Seeing that I don’t understand, he tries to correct himself: ‘but the music they make is a skill that has been useful to ALMSIVI many times since. Songs are words reborn.’ By which, I guess, he meant to counteract the common saying, ‘By the word I mean the dead.’\r\n\r\nAch, if only you were here, Gosleigh! Your notions that the Ayleid shaper talents have moved east and into melody are proved correct!\r\n\r\nWe left earlier than expected. I doubt our correspondence will be as immediate as it has been in the past. Perhaps you have already responded; if so, forgive my delay, as the road through the south mainland is full of listening frames that I dare not compromise. Again, I urge you to procure for me the Adompha scroll, and hope that you will not meet with hindrance.</p>",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n沙尔和戈斯利的书信集：不谐显音节选\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>不谐显音们身穿金装，戴着丑陋的面具，他们的乐器被嵌护甲中。大多数人戴着长一英尺或更长的长笛头盔，而领队用碎鸟骨弹奏自己的肋骨就像在弹木琴。他们的下半身全都跳着步调一致的迅速又夸张的行军舞，扬尘漫天，能把虫子都吓跑。本地人说这就是索塔·希尔的全部遗物。也许正因为此他们身后才爬满了这么多斯沃纳，那些穿丝网的女人（或者涂油彩的男人），在尘土中蠕动爬行，作为随从实在是吵闹得过分。这是最令人震撼的。 \r\n\r\n最让你印象深刻的是喧闹声，他们的红色噪音四处飘荡，他们在平原上前进时发出轰隆轰隆的轰鸣声。他们说这是一次会员招募，或者是一个咒语，或者一次重演。他们说这可能是索萨·希尔的一个大笑话。一个斯沃纳死了，或者假装死了。我旁边的祭司是一名梅法拉信徒，戴着一个徽章光环代替了普通的而不是通常的长角修道院院长帽，他告诉我，这些是维洛锡南部最后的枯叶。看到我不明白，他试图纠正自己：“但他们创作的音乐是一种技能，对阿玛希维非常有效。歌曲是重生之言。”我猜，他想用这句话来反驳瓦登费尔之歌的那句：“言意指死者”\r\n\r\n啊，要是你在这里就好了，戈斯利！你认为亚历德塑造者的天赋已经转向到东方并进入了旋律领域，这被证明是正确的！\r\n\r\n我们比预期的早出发了。我怀疑我们的通信是否会像过去那样及时。也许你已经回复了；如果是这样，请原谅我的拖延，因为穿过南方大陆的道路充满了我不敢冒险的听道。再次，我敦促你为我获得亚冬法卷轴，并希望你不会遇到阻碍。</p>\r\n\r\n译者注：\r\n阿玛希维（ALMSIVI） - 指审判席。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book_Guar",
+    "form_id": "05033744|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Child's Book of Guar Secrets",
+    "string": "儿童读物——轧兽的秘密",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Book_Guar",
+    "form_id": "05033744|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nA Child's Book of Guar Secrets\r\n\r\n\r\nby \r\nSotha Sil\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar1.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nThis is a guar.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar2.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nGuars are not clever like fabricants.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar3.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nGuars ruin clothing.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar4.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nGuars can fly.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar5.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nGuars ruin boots.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar6.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nGuars are skilled alchemists.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar7.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nIn Skyrim, there are fuzzy guars called \"khajiits\".\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar8.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nThere are also nordguars. They are not very smart.\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar9.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nSotha Sil is secretly a guar, but the biggest guar secret of all is...\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar10.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nThat I don't actually know anything about guars.\r\n[pagebreak]\r\n</p>",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n儿童读物——轧兽的秘密\r\n\r\n\r\n索萨·希尔\r\n著\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar1.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\n这是一只轧兽。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar2.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\n轧兽不像械构体那么聪明。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar3.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\n轧兽会毁掉衣物。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar4.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\n轧兽可以飞。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar5.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\n轧兽会毁掉靴子。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar6.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\n轧兽是技艺精湛的炼金术士。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar7.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\n在天际，有一种毛茸茸的轧兽被称为“凯季特”。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar8.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\n还有诺德轧兽。他们不太聪明。\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar9.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\n索萨·希尔其实是一只轧兽，但轧兽最大的秘密是……\r\n[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Fyr_Guar10.png' height='300' width='300'>\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\n其实我对轧兽一无所知。\r\n[pagebreak]\r\n</p>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_ModulesList",
+    "form_id": "050752EC|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Server's List of Modules",
+    "string": "伺服器的模块清单",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_ModulesList",
+    "form_id": "050752EC|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "I cannot say exactly where these modules are, but I can give you some hints, based on what I feel.\r\n\r\nAlchemy Module: I feel it is still here in the manor.\r\n\r\nArmory Module: It is in the hands of a powerful smith, but he does not keep it near the forge.\r\n\r\nAtronach Arena Module: I feel an obsession with vampires, and a swamp, but it is not in the hands of a vampire.\r\n\r\nBone Crusher Module: It is near a graveyard. A large one, surrounded by trees.\r\n\r\nEnchanting Lab Module: I feel it near an enchanter, but a condescending and bitter one.\r\n\r\nFabricant Lab Module: I sense... spiders? Not normal spiders though, if that makes any sense.\r\n\r\nHall of Achievement Module: I feel that it sits in a museum, and also something about a spoon.\r\n\r\nLibrary Module: I feel it is among books. Many many books, and it is very cold.\r\n\r\nObservatory Module: I feel it deep underground. There is ringing, and something about an alchemist.\r\n\r\nPortal Room Module: I feel a console, and an arena. There is something about fighting ancient machines for rewards.\r\n\r\nPower Core Module: I feel a long long drop, and the churning of lost mechanisms.\r\n\r\nServer Module: I feel that it is has been taken by the obscure deity, Xrib, to somewhere far below.\r\n\r\nShrine Module: I feel shrines. Many many shrines, and long hallways.\r\n\r\nThrone Room Module: I feel it is in the throne room of a cruel priest. There is something about gates as well.",
+    "string": "我无法确切地说出这些模块在哪里，但我可以根据自己的直觉给你一些提示。\r\n\r\n炼金模块：我觉得它仍然在这个别墅里。\r\n\r\n武器室模块：它在一个强大的铁匠的手中，但他并没有把它放在锻炉附近。\r\n\r\n元素竞技场模块：我感觉和吸血鬼，以及一片沼泽有关，但它并不在吸血鬼的手中。\r\n\r\n碎骨厂模块：位于一个很大的墓地附近。周围有很多树。\r\n\r\n附魔实验室模块：我感觉它在一个附魔师附近，但那个附魔师傲慢而惹人厌烦。\r\n\r\n构装实验室模块：我感觉到……蜘蛛？但不是普通的蜘蛛，如果这说得通的话。\r\n\r\n成就馆模块：我觉得它位于一个类似博物馆的房子，还有一些关于汤勺的东西。\r\n\r\n图书馆模块：我感觉它在很多书的地方。很多很多书，而且很冷。\r\n\r\n天文台模块：我感觉它位于地下深处。那里有音律，还有炼金术士。\r\n\r\n传送室模块：我感觉到一个控制台和一个竞技场。与古老的机器战斗以赢得奖励。\r\n\r\n能源核心模块：我感觉到一阵漫长的下落，以及失落机械的扰动。\r\n\r\n伺服器模块：我感觉它已被晦涩难懂的神灵——埃克斯利布带到了某个很远的地方，并且在很深的地下。\r\n\r\n祭坛模块：我感觉到很多很多祭坛，以及长长的走廊。\r\n\r\n王座室模块：我感觉它在一个残忍祭司的王座室里。并且还和“门”有关。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_BoneBox",
+    "form_id": "05042A89|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Insert Bones Here",
+    "string": "放入骨头",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_BarrelEmpty01",
+    "form_id": "0505A807|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Barrel",
+    "string": "木桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PlayerSortChest1",
+    "form_id": "0505D832|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Armor and Clothing Chest",
+    "string": "护甲和衣物箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PlayerSortChest2",
+    "form_id": "0505D833|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Weapon Chest",
+    "string": "武器箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PlayerSortChest3",
+    "form_id": "0505D834|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Ammo Chest",
+    "string": "弹药箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PlayerSortChest4",
+    "form_id": "0505D835|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Scroll Chest",
+    "string": "卷轴箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PlayerSortChest5",
+    "form_id": "0505D836|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Spellbook Chest",
+    "string": "法术书箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PlayerSortChest6",
+    "form_id": "0505D837|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Book Chest",
+    "string": "书籍箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PlayerSortChest7",
+    "form_id": "0505D838|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Alchemy Chest",
+    "string": "炼金箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PlayerSortChest8",
+    "form_id": "0505D839|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Crafting Materials Chest",
+    "string": "锻造材料箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PlayerSortChest9",
+    "form_id": "0505D83A|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Treasure Chest",
+    "string": "宝物箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PlayerSortChest10",
+    "form_id": "0505D83B|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Key Chest",
+    "string": "钥匙箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PlayerSortChest11",
+    "form_id": "0505D83C|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Artifact Chest",
+    "string": "神器箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_PlayerSortChestMain",
+    "form_id": "0505D83D|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Autosorting Chest",
+    "string": "自动分类箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_ServerTestingBoxing",
+    "form_id": "05104C8F|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Testing Box",
+    "string": "测试盒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrServerBox",
+    "form_id": "050122E5|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Module Node Connector",
+    "string": "模块节点连接器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HouseDoor",
+    "form_id": "0501527B|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Heavy Metal Door",
+    "string": "沉重的金属门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_MetalDoor",
+    "form_id": "0501527A|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Heavy Metal Door",
+    "string": "沉重的金属门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fy_Bonepowder",
+    "form_id": "05083D31|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Dragon Bone Powder",
+    "string": "龙骨粉末",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_DwemerCore",
+    "form_id": "050A6F9D|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Dwemer Tonal Core",
+    "string": "锻莫音律核心",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Tesseroot_ingredient",
+    "form_id": "050B8B21|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Tesseroot",
+    "string": "泰瑟根",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Slime",
+    "form_id": "05083D2E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Dragon Slime",
+    "string": "龙液",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrThroneKey",
+    "form_id": "050065B1|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Throne Room Module",
+    "string": "王座室模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrCrusherKey",
+    "form_id": "050065B2|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bone Crusher Module",
+    "string": "碎骨厂模块。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrCrossbowKey",
+    "form_id": "050065B3|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Crossbow Manufactory Module",
+    "string": "弩制造厂模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrSoulKey",
+    "form_id": "050065B4|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Soul Lab Module",
+    "string": "灵魂实验室模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrKitchenKey",
+    "form_id": "050065B5|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Kitchen Module",
+    "string": "厨房模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrGreenhouseKey",
+    "form_id": "050065B6|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Greenhouse Module",
+    "string": "温室模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrNurseryKey",
+    "form_id": "050065B7|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Nursery Module",
+    "string": "儿童房间模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrDummyModule",
+    "form_id": "05015286|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Example Module",
+    "string": "模块样品",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "fyr_skull",
+    "form_id": "0501B4B3|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Strange Skull",
+    "string": "奇怪的头骨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "fyr_puzzleCube",
+    "form_id": "0501B4B6|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Nerevarine's Puzzle Cube",
+    "string": "尼瑞瓦因的魔方",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_VivecDoll",
+    "form_id": "0509E2EF|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Vivec Doll",
+    "string": "维威克玩偶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_SothaSilDoll",
+    "form_id": "0509E2F0|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Sotha Sil Doll",
+    "string": "索萨·希尔玩偶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Coo",
+    "form_id": "050A11BD|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Coo in a Box",
+    "string": "笼子里的咕咕",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_CooBox",
+    "form_id": "050DEBB5|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Coo's Box",
+    "string": "咕咕之笼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_TeleportKey",
+    "form_id": "050E1A80|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Sehtic Teleport Ball",
+    "string": "塞特传送球",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrAlchemyKey",
+    "form_id": "050065A5|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Alchemy Module",
+    "string": "炼金模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrArmoryKey",
+    "form_id": "050065A6|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Armory Module",
+    "string": "武器室模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrArenaKey",
+    "form_id": "050065A7|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Atronach Arena Module",
+    "string": "元素竞技场模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrEnchantKey",
+    "form_id": "050065A8|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Enchant Lab Module",
+    "string": "附魔实验室模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrFabLabKey",
+    "form_id": "050065A9|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fabricant Lab Module",
+    "string": "构装实验室模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrAchieveKey",
+    "form_id": "050065AA|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hall of Achievement Module",
+    "string": "成就馆模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrLibraryKey",
+    "form_id": "050065AB|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Library Module",
+    "string": "图书馆模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrObservKey",
+    "form_id": "050065AC|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Observatory Module",
+    "string": "天文台模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrPortalKey",
+    "form_id": "050065AD|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Portal Room Module",
+    "string": "传送室模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrCoreKey",
+    "form_id": "050065AE|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Power Core Module",
+    "string": "能源核心模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrServerKey",
+    "form_id": "050065AF|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Server's Room Module",
+    "string": "伺服器的房间模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrShrineKey",
+    "form_id": "050065B0|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Shrine Module",
+    "string": "祭坛模块",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Lego1",
+    "form_id": "05003B3E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MSTT FULL",
+    "original": "Building Brick",
+    "string": "积木",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Lego2",
+    "form_id": "05003B40|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MSTT FULL",
+    "original": "Building Brick",
+    "string": "积木",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Lego3",
+    "form_id": "05003B41|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MSTT FULL",
+    "original": "Building Brick",
+    "string": "积木",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HeartYam1",
+    "form_id": "05021445|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "TREE FULL",
+    "original": "Flesh Yam",
+    "string": "新鲜山药",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HeartYam2",
+    "form_id": "05021446|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "TREE FULL",
+    "original": "Flesh Yam",
+    "string": "新鲜山药",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Tesser",
+    "form_id": "050B8B24|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "TREE FULL",
+    "original": "Tesseroot",
+    "string": "泰瑟根",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_CrossbowFurn",
+    "form_id": "05005905|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Crossbow Manufacturer",
+    "string": "造弩机",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FabMachine",
+    "form_id": "0503FA08|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Fabricant Breakdown Machine",
+    "string": "构装分析机",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "fyr_throneChair",
+    "form_id": "0504E9F2|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Clockwork Throne",
+    "string": "发条王座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Scrollwriter",
+    "form_id": "050B8B1E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Scrollwriting Machine",
+    "string": "卷轴书写机",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Staff",
+    "form_id": "05095691|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Staff of the Clockwork King",
+    "string": "发条之王法杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Dagger",
+    "form_id": "0509B425|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "House Sotha Dagger",
+    "string": "索萨家族匕首",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HammerOfGharen",
+    "form_id": "050ACD3A|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Hammer of Gharen",
+    "string": "加仑之锤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HammerOfGharen",
+    "form_id": "050ACD3A|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "WEAP DESC",
+    "original": "Grants a <300%> smithing bonus for <60> seconds if the user strikes the Anvil of Mithas with it.",
+    "string": "如果持有者用它击打米萨斯铁砧，则会获得<300%>的锻造加成，持续<60>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Netch",
+    "form_id": "05003B9B|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Arhi",
+    "string": "阿希",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Ghost",
+    "form_id": "0508CA08|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dead Redoran Girl",
+    "string": "死亡的瑞多然家族女孩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_OilFriend",
+    "form_id": "050B2AE1|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Leaking Dwemer Spider",
+    "string": "锻莫漏油蜘蛛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_Spiderfriend",
+    "form_id": "050B2AE2|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dwemer Spider",
+    "string": "锻莫蜘蛛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_TesserootReal",
+    "form_id": "050D01AC|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Tesseroot",
+    "string": "泰瑟根",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VampireCastleDungeon02",
+    "form_id": "0200285A|Dawnguard.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Volkihar Ruins",
+    "string": "弗基哈尔废墟",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrAlchemy",
+    "form_id": "050065B8|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Alchemy Lab",
+    "string": "菲尔别墅·炼金实验室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrPortal",
+    "form_id": "050065C2|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Portal Room",
+    "string": "菲尔别墅·传送室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HunterCave02",
+    "form_id": "020181C8|Dawnguard.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dead Drop Mine",
+    "string": "死落矿场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunHouseGrayMane",
+    "form_id": "000165B2|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "House Gray-Mane",
+    "string": "灰鬃氏族宅邸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MorthalFalionsHouse",
+    "form_id": "000138D0|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Falion's House",
+    "string": "法利昂的家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HighGateRuins03",
+    "form_id": "0002F83D|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Vokun's Throne Room",
+    "string": "沃坤王座室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrArmory",
+    "form_id": "050065B9|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Armory",
+    "string": "菲尔别墅·武器室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrPower",
+    "form_id": "050065C3|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Power Core",
+    "string": "菲尔别墅·能源核心",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2Kagrumez01",
+    "form_id": "040142F9|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Kagrumez",
+    "string": "卡谷梅兹",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SightlessPit02",
+    "form_id": "00081972|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Temple of Xrib",
+    "string": "埃克斯利布神殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrAtronach",
+    "form_id": "050065BA|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Atronach Arena",
+    "string": "菲尔别墅·元素竞技场",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrServer",
+    "form_id": "050065C4|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Server's Room",
+    "string": "菲尔别墅·伺服器的房间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrBedrooms",
+    "form_id": "050065BB|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Bedrooms",
+    "string": "菲尔别墅·卧室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrShrine",
+    "form_id": "050065C5|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Shrine",
+    "string": "菲尔别墅·祭坛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrEnchant",
+    "form_id": "050065BC|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Enchanting Lab",
+    "string": "菲尔别墅·附魔实验室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrThrone",
+    "form_id": "050065C6|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Throne Room",
+    "string": "菲尔别墅·王座室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunArcadiasCauldron",
+    "form_id": "000165B6|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Arcadia's Cauldron",
+    "string": "阿尔凯迪雅之釜",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeTempleoftheDivines",
+    "form_id": "00016A02|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Temple of the Divines",
+    "string": "圣灵神殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BlackreachZCell10",
+    "form_id": "000EEC55|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Sinderion's Field Laboratory",
+    "string": "辛德莱昂户外研究室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrKitchen",
+    "form_id": "050036C9|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Kitchens",
+    "string": "菲尔别墅·厨房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TelMithryn",
+    "form_id": "04017787|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Tel Mithryn",
+    "string": "泰尔密希临",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrFablab",
+    "form_id": "050065BD|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Fabricant Lab",
+    "string": "菲尔别墅·构装实验室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrCrusher",
+    "form_id": "050065C7|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Bone Crusher",
+    "string": "菲尔别墅·碎骨厂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrSoulLab",
+    "form_id": "05005901|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Soul Lab",
+    "string": "菲尔别墅·灵魂实验室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrGreenhouse",
+    "form_id": "050036CA|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Greenhouse",
+    "string": "菲尔别墅·温室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrFoyer",
+    "form_id": "050065BE|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Main Hall",
+    "string": "菲尔别墅·主厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FalkreathDeadMansDrink",
+    "form_id": "0003A184|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dead Man's Drink",
+    "string": "亡者之饮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrSothaSilLab",
+    "form_id": "050065C8|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Sotha Sil's Lab",
+    "string": "索萨·希尔的实验室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrCrossbow",
+    "form_id": "05005902|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Crossbow Manufactory",
+    "string": "菲尔别墅·弩制造厂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrNursery",
+    "form_id": "050036CB|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Nursery",
+    "string": "菲尔别墅·儿童房间",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Kagrenzel01",
+    "form_id": "00052FEB|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Kagrenzel",
+    "string": "卡格雷泽尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrAchieve",
+    "form_id": "050065BF|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Hall of Achievements",
+    "string": "菲尔别墅·成就馆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrCity",
+    "form_id": "050065C9|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Clockwork City, Hub District",
+    "string": "发条城·枢纽区",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FalkreathHouseofArkay",
+    "form_id": "00013A71|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hall of the Dead",
+    "string": "亡者之厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2WhiteRidgeBarrow02",
+    "form_id": "0403C7F5|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "White Ridge Sanctum",
+    "string": "白脊圣所",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrLibrary",
+    "form_id": "050065C0|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Library",
+    "string": "菲尔别墅·图书馆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WinterholdCollegeArcanaeum",
+    "form_id": "00013810|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Arcanaeum",
+    "string": "秘藏馆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmCalixtosHouseofCuriosities",
+    "form_id": "00016787|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Calixto's House of Curiosities",
+    "string": "卡利斯托的珍品屋",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenHonorhallOrphanage",
+    "form_id": "00016BD3|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Honorhall Orphanage",
+    "string": "荣耀堂孤儿院",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrObservatory",
+    "form_id": "050065C1|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fyr Manor, Observatory",
+    "string": "菲尔别墅·天文台",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrManorPortalMapMarker",
+    "form_id": "050E7813|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "REFR FULL",
+    "original": "Fyr Manor Entrance",
+    "string": "菲尔别墅入口",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069778|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hello mortal! It has been centuries since anyone has set foot in Fyr Manor. In fact, it has been centuries since anyone has set foot in Sotha Sil!",
+    "string": "你好，凡人！几个世纪以来，没有人踏足菲尔别墅。事实上，几个世纪以来，甚至没有人踏足索萨·希尔！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069778|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Tell me mortal, do you perhaps require residence? A nice cozy home for you and others who share your company?",
+    "string": "告诉我，凡人，你是否需要住所？一个适合你和与你共处的人的温馨之家？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069778|Fyr Manor Merged.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Well look no further mortal, I am prepared to offer the services of this fine house, free of charge!",
+    "string": "好吧，别再犹豫了，凡人，我准备免费提供这所好房子的服务！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069778|Fyr Manor Merged.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "And you need not even say a word to make it yours, I shall do it now!",
+    "string": "你甚至一句话都不需要说就可以成为这所房子的主人，我现在就去做！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069778|Fyr Manor Merged.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Behold Sir, you are now the proud master of Fyr Manor! I am your server, Server, and I am prepared to answer all your questions!",
+    "string": "先生，您现在是菲尔别墅的主人了！我是您的伺服器，名字叫“伺服器”，我随时准备回答您的所有问题！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069778|Fyr Manor Merged.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "Of course, there is the matter of the... missing modules.",
+    "string": "当然，还有……丢失模块的问题。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_IntroBranch_WhyHouse",
+    "form_id": "05069779|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You gave me a house? Why?",
+    "string": "你把这个房子送我了？为什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506977A|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not just any house Sir, Fyr Manor, the finest house in any realm, mortal, Aetherial, or Daedric!",
+    "string": "先生，菲尔别墅可不像其他普通的房子，而是所有位面中最好的房子，无论是凡间、光界还是湮灭位面！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506977A|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "To be honest Sir, it's been centuries since I've had company of any sort.",
+    "string": "说实话，先生，我已经好几个世纪没有遇到过任何伙伴了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506977A|Fyr Manor Merged.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "First Lord Fyr stopped visiting the city, then my second master left, mumbling something about \"tiger dragons\"...",
+    "string": "先是菲尔大人不再来城里了，然后我的第二任主人也离开了，嘴里嘟囔着什么“虎龙”之类的话……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506977A|Fyr Manor Merged.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "And now even the denizens of the city have left on that enormous ship of theirs.",
+    "string": "现在，甚至连这座城市的居民都乘坐他们的巨型飞船离开了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506977A|Fyr Manor Merged.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "An Intelligence such as I desires to fulfill the purpose it was concieved for, and what good is a house if no one lives in it?",
+    "string": "像我这样的智灵渴望实现它被设想的目的，如果没有人住在里面，房子还有什么用呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506977A|Fyr Manor Merged.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "You are clearly alive, and as such, you are a perfect choice to live in the Manor.",
+    "string": "你显然还活着，因此，你是住在别墅里的最佳人选。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_GeneralDialogueBranch_Who",
+    "form_id": "0506977C|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are you?",
+    "string": "你是谁？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506977D|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I, Sir, am Server! I am a second-generation Intelligence, built by His Divinity Sotha Sil, the Clockwork King and Lord of this realm.",
+    "string": "先生，我是伺服器！我是第二代智能，由神明索萨·希尔创造，他是发条之王和这个位面的领主。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506977D|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I was tasked to watch over and manage the vacation home of his good friend, Lord Divayth Fyr.",
+    "string": "我负责照看和管理他好朋友——迪维斯·菲尔大人的度假屋。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506977D|Fyr Manor Merged.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "As you are now the owner, I will answer any questions you have, as well as rearrange the rooms for you when you ask.",
+    "string": "由于您现在是所有者，我会回答您的任何问题，并在您提出要求时为您更换房间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_RearrangeRooms",
+    "form_id": "0506977E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Rearrange rooms?",
+    "string": "更换房间？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506977F|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes sir. Fyr Manor has many mechanisms that switch doors to other door.",
+    "string": "是的，先生。菲尔别墅有许多可以切换通往不同房间的门的机制。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506977F|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "If you have found the room module and reconnected it, simply ask me in front of this door, and I may change the location of where that door leads!",
+    "string": "如果你找到了房间模块并重新连接了它，只需在这扇门前问我，我可以更换这扇门通向的房间！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_RoomExplanationsTopic",
+    "form_id": "05069789|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is this room?",
+    "string": "介绍一下这个房间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506978A|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir stands in the foyer of Fyr Manor. The server box may be accessed here, and Sir may of course leave and depart from here as they wish.",
+    "string": "先生您站在菲尔别墅的门厅里。在这里可以使用服务器机箱，而先生当然也可以随意进出这里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506978B|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah sir, this room was made for your predecessor, but I have converted it for you. Sir may store their trophies here.",
+    "string": "啊，先生，这个房间是为前主人准备的，但我把它改建成了你的房间。先生您可以把战利品存放在这里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506978B|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But perhaps more importantly, if sir achieves great things in sir's life, sir will find a statue carved to them appear in this room. Quite pleasing.",
+    "string": "但或许更重要的是，如果先生您取得了伟大的成就，先生您会发现一尊为这个成就雕刻的雕像出现在这个房间里。相当令人兴奋。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506978C|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is the alchemy lab sir. Sir's predecessors were quite prolific in their mixtures, and so this room was constructed to fit their purposes.",
+    "string": "这是炼金实验室，先生。您的前辈们在炼金方面有着非常丰富的知识，所以这个房间就是为他们而建造的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506978C|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Sir will also find a rare variety of plants growing, perfect for sir's potions.",
+    "string": "先生您还会发现几种稀有的植物正在生长，非常适合您制作药水。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506978D|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This sir, is the armory. Sir may forge and repair their equipment at the provided utilities, but perhaps more to sir's interests are the displays.",
+    "string": "先生，这是武器室。先生您可以在提供的设施中锻造和修理的装备，但您可能对展示物品更感兴趣。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506978D|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "As you can see, the mannequins have been briefed on the new owner, and are ready and willing to wear sir's armor without complaint.",
+    "string": "正如您所见，这些人偶已经知道了它们的新主人，并且愿意毫无怨言地穿上先生您的盔甲。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506978D|Fyr Manor Merged.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "And of course, sir may put many other things in weapon racks and cases.",
+    "string": "当然，先生您还可以在武器架和展示箱里放很多其他东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506978E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This sir, is the Atronach Arena. Your predecessors were something of experts on daedric magic, and so this arena was constructed for them.",
+    "string": "先生，这就是元素竞技场。您的前辈们是魔族魔法方面的专家，所以这个竞技场是为他们建造的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506978E|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Simply select the control panel, select which enemies sir would like to fight, and sir may subsequently enjoy the battle.",
+    "string": "只需使用控制面板，选择先生您想要战斗的敌人，然后您就可以享受战斗了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506978F|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The bedroom, sir. As I understand it, those from outside the city require sleep, and as such these quarters were built for sir.",
+    "string": "卧室，先生。据我所知，发条城外的人是需要睡觉的，所以这个房间是为先生您建造的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506978F|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "One may also store their possessions on the tables and places provided if sir wishes, and beds are provided for sir's friends and others.",
+    "string": "如果先生您愿意，还可以将您的财产存放在提供的桌子和其他地方，并且为先生的朋友和其他人也提供了额外的床铺。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506978F|Fyr Manor Merged.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Do not worry sir, I will give you plenty of privacy if sir wishes to perhaps create possible new caretakers. That is a hint, sir.",
+    "string": "别担心，先生。如果您希望在这个房间创造新的未来别墅主人，我会给您足够的隐私。这是个暗示，先生。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069790|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This room was actually ported over from the catacombs sir! If sir will provide the mechanism with bones or scales, sir will find them ground up!",
+    "string": "这个房间实际上是从地下墓穴移植过来的，先生！如果先生您能为这个装置提供骨头或鳞片，这个装置可以把它们磨碎！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069791|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This, sir, is the enchanting lab, essential for any aspiring mage.",
+    "string": "先生，这是附魔实验室，对于任何有抱负的法师来说都是必不可少的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069791|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The table near the quartz shall begin the enchanting process, and of course, sir may use the other facilities as sir wishes.",
+    "string": "先生您可以使用晶体附近的桌子附魔，当然，您也可以根据自己的意愿使用其他设施。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069792|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is the fabricant lab, or 'fab-lab' if sir wishes to call it that.",
+    "string": "这是构装实验室。如果先生您想的话，也可以叫它制造实验室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069792|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Sir would find this room most useless, as sir would normally need a pneuma, a fabricant life-gem, to do things.",
+    "string": "先生您可能会发现这个房间最没用，因为通常需要一个精气，一种械构体生命原石，来进行制造。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069792|Fyr Manor Merged.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But... perhaps if Sir finds fragments of say, a soul gem, or a dynamo core of a centurion, sir may break them down or construct them up?",
+    "string": "但是……也许如果先生您发现了一些灵魂石，或者百夫长的动力核心，先生您或许可以将它们分解或构建起来？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069792|Fyr Manor Merged.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "And of course, there is that odd spider-based contraption some of the staff brought in recently. I have no idea what it does sir, sorry.",
+    "string": "当然，最近一些员工带来了一种奇怪的蜘蛛装置，但我不知道它是干什么的。抱歉，先生。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069793|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If Sir is a reading man, Sir may store their books on these shelves, or read the ones already here.",
+    "string": "如果先生您是一位爱读书的人，您可以会把书存放在这些书架上，或者阅读已经在这里的书。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069794|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have taken the liberty of finding these \"doom stones\" for Sir. ",
+    "string": "我冒昧地为先生您找到了这些“立石”。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069794|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "As they have links to Aetherial magic, I found it appropriate to place it in the old observatory.",
+    "string": "由于它们与神光魔法有联系，我认为将它放置在旧天文台是合适的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069794|Fyr Manor Merged.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I doubt Sir would have a use for it otherwise, the telescope hasn't worked in years.",
+    "string": "不然的话，我怀疑这个地方对先生您来说完全没用，因为这里的望远镜早就已经无法使用了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069795|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir will find that this room is able to create two portals to places Sir may find important.",
+    "string": "这个房间能够创建两个通往先生您可能认为重要的地方的传送门。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069795|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Unfortunately, the component for the third portal is lost, though I do not know where that portal lead in the first place...",
+    "string": "不幸的是，第三个传送门的组件丢失了，尽管我不知道该传送门到底通向何处……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069796|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is the power core, sir! If you'll excuse me, sir, the mechanisms that power it are very advanced, and I'd feel safer if Sir did not touch it.",
+    "string": "这是能源核心，先生！但请您原谅，先生，驱动它的机制非常先进，所以如果先生不去碰它，我会感到更安全。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069796|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But sir is welcome to look.",
+    "string": "但欢迎先生您观赏。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069797|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hello, sir! Nice of you to visit! This is the room where my machinery is stored.",
+    "string": "您好，先生！欢迎您来访！这是存放我本体的房间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069797|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I'm afraid it isn't used for much else, other than storage.",
+    "string": "恐怕这个房间除了存储物品以外没有其他用途。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069798|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A joke between Lord Fyr and Lord Sotha Sil, I believe. He was never a religious man,  so a gift of a religious shrine was taken as a light joke.",
+    "string": "我相信这是菲尔大人和索萨·希尔大人之间的一个玩笑。他从来都不是一个虔诚的人，所以赠送宗教祭坛被认为是一个玩笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069798|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Nevertheless, it has been kept, as it may prove useful to sir nowadays.",
+    "string": "尽管如此，它还是被保留了下来，因为它现在可能对先生您有用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069799|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A throne room, sir, if Sir is inclined to feel like a ruling king.",
+    "string": "如果先生您想体验自己当一位统治者的感觉的话，这间王座室很适合您。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B09D|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is the crossbow manufactory, sir! I stole it from another Intelligence, but I think he was dead at any rate.",
+    "string": "先生，这是弩制造厂！我从另一个智灵那里偷来的，反正我猜他也早就死了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B09D|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Here Sir may forge new crossbows and ammunition for them from materials Sir has collected!",
+    "string": "先生您可以在这里用收集到的材料来锻造新的弩和弹药！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B09E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lord Fyr and Lord Sil had often played many practical jokes on the Ideal Masters back in their youth.",
+    "string": "菲尔大人和希尔大人年轻的时候经常对理想之主们开很多玩笑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B09E|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And when the manor was created, this room was built as a tribute to their misadventures. Sir will find all their soul-related needs fulfilled here.",
+    "string": "而别墅建造时，为了纪念他们的不幸遭遇，所以建造了这个房间。先生您将在这里找到所有与灵魂相关的需求。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B09F|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This room is rather unused sir. It is the ovens of Fyr Manor. Back when Lord Fyr was a regular resident, his meals were prepared here.",
+    "string": "这个房间很少用上，先生。这是菲尔别墅的厨房。当初菲尔大人还是常住居民时，他的饭菜就是在这里做的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B09F|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Perhaps Sir will make use of it.",
+    "string": "也许先生您会利用好它。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B0A0|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Clockwork City has quite the history of farming sir! As such, I thought Sir would like to try their hand at it in their own greenhouse.",
+    "string": "发条城有着悠久的农业历史，先生！因此，我想先生您会想在自己的温室里尝试一下。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B0A0|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Here Sir may plant and grow their mortal harvest.",
+    "string": "先生您可以在这里播种并收获。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B0A1|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lord Fyr often would bring his young daughters with him on his visits, so full of energy and... eh, drool. This room was created to entertain them.",
+    "string": "菲尔大人经常带着他的小女儿一起来拜访，她们精力充沛，而且……呃，口水流个不停。这个房间就是为招待她们而建的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B0A1|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It has all the things a child could want, though Lord Sil's old pet pygmy netch, Arry, insists on sleeping here.",
+    "string": "这里拥有孩子们想要的一切东西，但希尔大人的宠物小气母——阿里却坚持要睡在这里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B0A1|Fyr Manor Merged.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Don't worry though sir, his stingers were removed millenia ago, he's as docile as he is harmless.",
+    "string": "不过先生，别担心，他的毒刺几千年前就被去除了，他很温顺，而且无害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_WhatTopicTopic",
+    "form_id": "0506C664|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is an Intelligence?",
+    "string": "什么是智灵？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069781|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well sir, it would take a long time to fully explain such a question.",
+    "string": "好吧，先生，要完全解释这个问题需要很长时间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069781|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Suffice to say that there are four types of beings in the Clockwork City; Fabricants, transicants, replicants, and Intelligences.",
+    "string": "可以说，发条城中有四种类型的生物：械构体、转移者、仿生者和智灵。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069781|Fyr Manor Merged.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Fabricants are the living machines built by Sotha Sil to populate his city. They are forged and raised in the city entirely.",
+    "string": "械构体是索萨·希尔为填充城市而制造的活体机器。他们完全在城市中制造和培养。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069781|Fyr Manor Merged.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Transicants are mortals like yourself, who have, by the grace of Seht, chosen to have their minds placed in a fabricant body.",
+    "string": "转移者是像你一样的凡人，承蒙塞特的恩赐，选择将自己的思想移至人造身体内。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069781|Fyr Manor Merged.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Replicants are fabricants built in the likeness of existing beings, though, they were discontinued after quite a few problems.",
+    "string": "仿生者是按照现有生物的形象制造的械构体，然而，它们在出现相当多的问题后就停止生产了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069781|Fyr Manor Merged.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "And finally, there are the Intelligences. We are powerful entities of light and clockwork who oversee the running of the city.",
+    "string": "最后，还有智灵。我们是强大的光与发条之灵，负责监督城市的运行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069781|Fyr Manor Merged.esp",
+    "index": 7,
+    "type": "INFO NAM1",
+    "original": "Of course, this was all back when the city still functioned. His Majesty left his so long ago, and I dread that I am but the only thing left.",
+    "string": "当然，这一切都发生在这座城市还在运转的时候。阁下已经离开很久了，我恐怕是这座城市唯一剩下的东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_WhereTopicTopic",
+    "form_id": "0506C666|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where am I?",
+    "string": "我在哪？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069783|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You sir stand within the Clockwork City, the realm of the great god Sotha Sil.",
+    "string": "先生，您站在发条城内，这是伟大的神明索萨·希尔的位面。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069783|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Within this you stand in Fyr Manor, the home-away-from-home of Lord Sil's good friend Divayth Fyr, built so that he might have somewhere to stay.",
+    "string": "你在菲尔别墅里，这是希尔大人的好友迪维斯·菲尔的临时居所，是为了让他有个地方住而建造的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069783|Fyr Manor Merged.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Oh sir, if you could see the city in its prime, you would have been awed. Unfortunately, it is long abandoned.",
+    "string": "哦先生，如果您能看到这座城市的鼎盛时期，您一定会惊叹不已。不幸的是，它早已荒废。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069783|Fyr Manor Merged.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Not even the manor's front door to the Hub District works.",
+    "string": "甚至连别墅通往城市枢纽区的前门都无法使用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069783|Fyr Manor Merged.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Thankfully, Fyr Manor exists on its own private sub-realm, and I have upkept it awaiting for the old master, or a new one, to return.",
+    "string": "值得庆幸的是，菲尔别墅有着自己的私人位面，我一直维护着它，等待老主人或新主人的回归。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_FeministBitchingTopic",
+    "form_id": "0506C668|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why do you call me sir?",
+    "string": "你为什么叫我“先生”？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069785|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well Sir, I am afraid that my registry spores only have room for one denomination, and of course, Lord Fyr was a sir.",
+    "string": "嗯，先生，恐怕我的登记回复只能为先生，当然，菲尔大人是一位“先生”。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069785|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "If Sir is not a sir, then I apologize, but I simply am not advanced enough of an intelligence to tell the difference.",
+    "string": "如果您不是一位“先生”，那么我很抱歉，但我的智能还不够先进，无法分辨出其中的区别。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_MissingModulesTopic",
+    "form_id": "0506C66A|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Missing modules?",
+    "string": "丢失模块？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069787|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fyr Manor has a wide variety of rooms, which I am able to load and connect to the mansion via the server box over there.",
+    "string": "菲尔别墅有各种各样的房间，我可以通过那边的服务器机箱将房间加载并连接到豪宅。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069787|Fyr Manor Merged.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But the city has been in a state of disrepair for so long, that almost all of the modules have been lost, and only the bedroom remains.",
+    "string": "但这座城市长期处于失修状态，几乎所有模块都已丢失，只剩下卧室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069787|Fyr Manor Merged.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I am not able to leave the mansion for obvious reasons, but I nonetheless feel them, out in Nirn, like a hand under a pillow.",
+    "string": "显然，我无法离开这座别墅，但是我仍然能在奈恩感受到它们，就像一只枕头下的手一样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069787|Fyr Manor Merged.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Sir can go where I can not, if Sir came across these modules in Sir's travels and returned them to the server box, I would have new rooms for Sir!",
+    "string": "而先生您可以去我不能去的地方，如果您在旅行中偶然发现这些模块并将它们放回服务器机箱内，我就会为先生提供新的房间！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069787|Fyr Manor Merged.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Now, sir would need some direction of where to find these modules, so I have taken the liberty of printing a list of where I feel the modules.",
+    "string": "现在，先生您需要一些关于在哪里可以找到这些模块的线索，所以我擅自打印了一份我认为这些模块的位置列表。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05069787|Fyr Manor Merged.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "There is also a dummy module on the planter over there, if sir needs to know what to look for.",
+    "string": "如果先生您想知道模块的外观的话，那边的栽种盆上还有一个模块样品。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_RoomHookupBranchTopic",
+    "form_id": "0506F537|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hook up a room for me.",
+    "string": "帮我安排一个房间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F538|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes sir, which room would Sir like?",
+    "string": "好的，先生，您想要哪个房间？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupBedroom",
+    "form_id": "0506F539|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Bedroom.",
+    "string": "卧室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F53A|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir is tired no doubt from their long travels, and touching the dreamsleeve shall do them good.",
+    "string": "先生您肯定因为长途旅行而疲惫不堪，触摸梦袖会让你感觉好受些。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupAchieve",
+    "form_id": "0506F53C|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Hall of Achievements.",
+    "string": "成就馆。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F53D|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir no doubt has many trophies and tales to regale the staff and myself with!",
+    "string": "先生无疑拥有许多成就和故事可供员工和我欣赏！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupAlchemy",
+    "form_id": "0506F53E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Alchemy Lab.",
+    "string": "炼金实验室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F53F|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir will find the brewing mechanisms to be in top condition, and the plants blooming!",
+    "string": "先生会发现酿造机处于最佳状态，植物也开花结果！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupArena",
+    "form_id": "0506F540|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Atronach Arena.",
+    "string": "元素竞技场。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F541|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope Sir has brought their game face, for the atronachs are merciless foes!",
+    "string": "我希望先生您能认真对待，因为元素是不会留情的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupArmory",
+    "form_id": "0506F542|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Armory.",
+    "string": "武器室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F543|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir wishes to try their hand at smithing no doubt? I am certain sir is already a master.",
+    "string": "先生您想试试锻造技术吗？我相信您已经是大师了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupCrusher",
+    "form_id": "0506F544|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Bone Crusher.",
+    "string": "碎骨厂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F545|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir has been fighting dragons again no doubt.",
+    "string": "毫无疑问，先生您又去杀龙了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupEnchant",
+    "form_id": "0506F546|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Enchanting Lab.",
+    "string": "附魔实验室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F547|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir is looking to establish themselves in the most noble of arts I see.",
+    "string": "先生您想在最崇高的技艺领域立足。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupFabLab",
+    "form_id": "0506F548|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Fabricant Lab.",
+    "string": "构装实验室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F549|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not sure if Sir has the materials for this room, but it is always worth a try.",
+    "string": "我不确定先生您是否有在这个房间使用的材料，但总是值得一试。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupLibrary",
+    "form_id": "0506F54A|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Library.",
+    "string": "图书馆。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F54B|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I did peg Sir as a scholar, and your choice supports this theory!",
+    "string": "我确实认为先生您是一位学者，而您的选择支持了这一理论！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupObserv",
+    "form_id": "0506F54C|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Observatory.",
+    "string": "天文台。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F54D|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I would say to Sir that the stars are good, but there are no stars in Sotha Sil.",
+    "string": "我想对先生您说，想看星星是好的，但是索萨·希尔里没有星星。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupPortal",
+    "form_id": "0506F54E|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Portal Room.",
+    "string": "传送室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F54F|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir has heard of the new \"fast travel\" systems no doubt? Sir will enjoy this room then.",
+    "string": "先生您肯定听说过新的“快速旅行”系统吧？那么您一定会喜欢这个房间的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupPower",
+    "form_id": "0506F550|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Power Core.",
+    "string": "能源核心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F551|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir will be pleased to know it is operating at one-hundred percent efficiency.",
+    "string": "先生您会很高兴地知道它正以百分之百的效率运行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupServer",
+    "form_id": "0506F552|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Server Room.",
+    "string": "伺服器的房间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F553|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am honored to have a visit from you, sir.",
+    "string": "先生，我很荣幸您能来访。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupShrine",
+    "form_id": "0506F554|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Shrine.",
+    "string": "祭坛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F555|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir's grace is only matched by their piety, I see.",
+    "string": "我明白了，先生您受到的恩惠与您的虔诚是相称的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupThrone",
+    "form_id": "0506F556|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Throne Room.",
+    "string": "王座室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0506F557|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, feeling regal today are we sir?",
+    "string": "啊，先生，今天想体验一下尊贵的感觉吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupCrossbow",
+    "form_id": "0507B093|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Crossbow Manufactory.",
+    "string": "弩制造厂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B094|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir is feeling a bit mechanically oriented today, I see!",
+    "string": "看来先生您今天想搞点机械！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupSoul",
+    "form_id": "0507B095|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Soul Lab.",
+    "string": "灵魂实验室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B096|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir will find the souls are particularly quiet today.",
+    "string": "先生您可能会发现今天的灵魂特别安静。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupKitchen",
+    "form_id": "0507B097|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Kitchen.",
+    "string": "厨房。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B098|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I do hope Sir knows how to cook a silberry pie, they are my favorite!",
+    "string": "我真的希望先生您知道如何烹制希尔莓派，这是我最喜欢吃的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupGreenhouse",
+    "form_id": "0507B099|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Greenhouse.",
+    "string": "温室。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B09A|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I never pegged Sir as a farmer, but I am sure Sir will be as perfect at it as they are everything else.",
+    "string": "我从来没把先生您看作一个农民，但我确信先生在农业这方面也会像在其他方面一样完美。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Fyr_HookupNursery",
+    "form_id": "0507B09B|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Nursery.",
+    "string": "儿童房间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507B09C|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sir is as good a parent as they are an owner.",
+    "string": "先生您是一位好的房产所有者，也是一位好的监护人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05080E64|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Goodbye sir.",
+    "string": "再见，先生。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFINFyrHouse",
+    "form_id": "050ED5B6|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Fyr Manor, my house in... I don't really know.",
+    "string": "菲尔别墅，我在……不知道哪儿的家。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingHouseFyr",
+    "form_id": "050F0487|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's live in Fyr Manor, my house in... somewhere.",
+    "string": "让我们住在菲尔别墅，我在……某个地方的房子吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050FEEF8|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Welcome back si- Oh, you're someone different! It has been a while since I recieved visitors. Please, come closer, up to the glowing box.",
+    "string": "欢迎回来，希——哦，你不是他！我已经有一段时间没有接待访客了。请靠近点，靠近发光的机盒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrManorExterior",
+    "form_id": "05039D2F|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Fyr Manor Grounds",
+    "string": "菲尔别墅庭院",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FyrManor",
+    "form_id": "0506675C|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Fyr Manor",
+    "string": "菲尔别墅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "notEnoughGold",
+    "form_id": "05006041|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You haven't enough gold to activate the machine!",
+    "string": "您的金币不足以启动机器！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "noBook",
+    "form_id": "05006042|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You don't have the book that goes here!",
+    "string": "你没有应该放置与此的书！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "needRing",
+    "form_id": "05006043|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This machine looks like it requires some sort of ring, or band.",
+    "string": "这台机器看起来需要某种戒指或烙印。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "orbMsg",
+    "form_id": "05058BD4|Fyr Manor Merged.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "With a sudden clanking sound, a mysterious orb appears in your pocket. Odd. ",
+    "string": "随着一声突然的叮当声，一个神秘的球体出现在你的口袋里。奇怪。",
+    "status": "TranslationComplete"
+  }
+]

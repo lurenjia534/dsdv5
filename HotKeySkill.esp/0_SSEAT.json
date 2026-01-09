@@ -1,0 +1,20 @@
+[
+  {
+    "editor_id": "HKS_ON/OFF_SP",
+    "form_id": "01008EEA|HotKeySkill.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "HKSSwitchPower",
+    "string": "[配置]热键技能切换",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HKSKeyConfig",
+    "form_id": "01008E9C|HotKeySkill.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "HKSKeyConfig",
+    "string": "[配置]热键技能配置",
+    "status": "TranslationComplete"
+  }
+]

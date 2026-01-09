@@ -1,0 +1,5177 @@
+[
+  {
+    "editor_id": "JB1BalwingNote",
+    "form_id": "06000CF2|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Balwing's Note",
+    "string": "巴尔温的笔记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1BalwingNote",
+    "form_id": "06000CF2|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>\r\n\r\nFribble! Fribble! Nobody understands me! The people here look at me like I'm crazy!\r\n\r\nIf I only had The Fork. The Fork makes people understand me.  Last I heard, that buffoon Ulrand Lelich in Riften had it. I don't even think he knows what it does.\r\n\r\nGal bursten it.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>\r\n\r\n弗里布尔！弗里布尔！没人懂我！这里的人看我的眼神就像我疯了一样！\r\n\r\n要是我有那把叉子。那把叉子能让人们理解我。我听说最后那把叉子在裂谷城那个蠢货乌尔兰德-莱利希手里。我甚至觉得他都不知道那叉子有什么用。\r\n\r\n格尔整爆了它。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1CourierBook1",
+    "form_id": "06000EC4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Assassination!",
+    "string": "暗杀!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1CourierBook1",
+    "form_id": "06000EC4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Courier.png'height='240' width='320'>\r\n[pagebreak]\r\n\r\nSPECIAL EDITION!\r\nEMPEROR AND HEIRS ASSASSINATED!\r\nA newspaper article on the assassination of Emperor Uriel Septim VII and his heirs.\r\nElder Council Named as Regents!\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/E_letter.png'>mperor Uriel Septim VII is dead, at the age of 87, having ruled Tamriel for 65 years. He was killed by assassins unknown. At the same time, in separate locations, the late emperor's three sons and heirs (Crown Prince Geldall, 56; Prince Enman, 55; Prince Ebel, 53] were slain by other assassins. An investigation into the identity and motives of the assassins is under way, but the Elder Council, Imperial Guard, and Blades Guard have forbidden the publication of reports and rumors concerning the event until further notice.\r\n\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/B_letter.png'>y ancient precedent, the Elder Council rules the empire until a new emperor is crowned. No direct heirs survive, and the council has proposed no list of candidates. Chancellor Ocato, Imperial Battlemage, speaking for the Elder Council, presented an appeal to the empire's citizens for calm, and asked that the people remember the Emperor, his sons, and the Elder Council in their prayers.\r\n\r\n\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/E_letter.png'>mperor Uriel's early reign was marked by peace and prosperity. The Empress Caula Voria bore him three healthy sons, was a loving companion to the Emperor, and a great favorite of the people. However, the emperor and the empire suffered terribly during the Imperial Simulacrum (3E 389-399], when he was held captive in Oblivion while the usurper Jagar Tharn assumed his appearance and ruled in his stead. Emperor Uriel was finally rescued and restored and the impostor defeated by the agency of the sorceress Ria Silmane and her shadowy protege, but the affairs of the empire were in great disorder, and Empress Caula Voria, exhausted by her ordeal, withdrew from public life.\r\n\r\n\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he decades following the Restoration were once again peaceful and prosperous, but increasing political tensions among the petty states of northwest Tamriel finally erupted in the Wars of the Iliac Bays, resulting in the establishment of the modern borders of Daggerfall, Sentinel, Wayrest, and Orsinium, and culminating with the remarkable events associated with the Warp in the West.\r\n\r\n\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he latter years of the Emperor's reign have seen a flourishing of Imperial influence in the provinces, and with the fortunate resolution of the religious wars and the Vvardenfell Crisis, and with the wise and firm guidance of King Helseth and his mother, Queen Barenziah, an extension of high Imperial culture even into the more remote parts of Morrowind.\r\n\r\n\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he Emperor's murder, and the murder of his three sons, is a terrible crime, and a great tragedy for the Empire. Battlemage Ocato assures us that all the resources of the Elder Council, the Legions, the Guard, the Arcane University, and the Imperial Battle College are being employed to bring the assassins to justice. But, in the meantime, the greatest tribute we citizens can offer to the memory of our beloved Emperor is to go earnestly and diligently about our daily affairs, honoring the life of the great Empire he loved so much, and served so faithfully for so long.",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n<img src='img://Textures/Interface/Books/Courier.png'height='240' width='320'>\r\n[pagebreak]\r\n\r\n特别报道！ 皇帝及其继承人遇刺！ 关于尤里尔·赛普汀七世皇帝及其继承人遇刺事件的报道。 元老议会被任命摄政！\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/E_letter.png'>泰姆瑞尔皇帝尤里尔·赛普汀七世驾崩，享年87岁，执掌帝国权柄逾六十五载。其遗体于水晶塔密室遭身份不明的暗杀者伏击。同日不同地点，故皇三位继承人（皇储盖尔多，56岁；恩曼亲王，55岁；艾伯尔亲王，53岁）亦遭神秘力量屠戮。元老议会、帝国近卫军及刃卫禁军已立案彻查此次弑君事件，惟三方机构严令禁止传播与此案相关的任何报道及流言，直至另行通告。\r\n\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/B_letter.png'>根据古老宪章，元老议会将在新皇加冕前摄政帝国。皇统嫡脉已绝嗣枝尽断，议会尚未议定储君人选。元老议会发言人、帝国战法师兼首席执政官奥卡托面向全境发布告谕，恳请子民保持克制，并在祷告时追思先皇、众皇子及议会元勋。\r\n\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/E_letter.png'>尤里尔七世治世前期以太平盛世著称。皇后考拉·沃莉娅为皇室诞下三位康健皇子，既是皇帝的贤内助，亦是深受爱戴的国民之母。然第三纪元389-399年的「帝国幻象时期」使帝国蒙受浩劫——皇帝遭囚于湮灭领域，僭主贾加尔·索恩以幻术窃据皇帝的长相以偷取政权。最终经巫女莉亚·西尔曼与其无名门徒的斡旋，真皇得以重掌权柄。然经此剧变，帝国纲纪废弛，心力交瘁的皇后亦从此退隐深宫。\r\n\r\n\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>复辟后的数十年间，泰姆瑞尔重归和平繁荣。然而西北诸邦日趋紧张的政治局势最终引爆了伊利亚克湾战争，这场冲突不仅确立了匕落城、哨城、途歇城与奥辛纽姆的现代疆界，更以引发「西部异变」的传奇事件收场。\r\n\r\n\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>帝权暮年，帝国的荣光普照诸省。宗教纷争与瓦登费尔危局得以安然化解，在赫尔斯王与巴兰兹亚女王睿智果决的治术引领下，帝国文明之辉穿越晨风省的重峦叠嶂，终至泽被边陲。\r\n\r\n\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>皇帝陛下与三位皇子遇刺，是动摇帝国的重大罪行，也是整个泰姆瑞尔最惨痛的悲剧。战法师奥卡托代表元老院向民众保证：帝国军团、都城守卫、奥秘大学和帝国战争学院已动用所有力量追查凶手。在此期间，我们作为公民对陛下最好的悼念，就是恪尽职守维持日常生活，以此传承他毕生挚爱并倾尽心血守护的伟大帝国精神。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1EOOFork",
+    "form_id": "06000CB6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mysterious Fork",
+    "string": "神秘的叉子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Ulrand",
+    "form_id": "06000C74|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ulrand Lelich",
+    "string": "乌尔兰德-莱利希",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Ulrand",
+    "form_id": "06000C74|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Ulrand",
+    "string": "乌尔兰德",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Balwing",
+    "form_id": "06000CE6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Balwing",
+    "string": "巴尔温",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Porter",
+    "form_id": "06000D69|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Companions Porter",
+    "string": "战友团搬运工",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Porter",
+    "form_id": "06000D69|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Porter",
+    "string": "看门人",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Runs",
+    "form_id": "06000D86|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Runs-In-Circles",
+    "string": "绕-圈-跑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Megellus",
+    "form_id": "06000E23|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Megellus Aximus",
+    "string": "梅杰卢斯·阿克西穆斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Megellus",
+    "form_id": "06000E23|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Megellus",
+    "string": "梅杰卢斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Atinia",
+    "form_id": "06000E24|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Atinia Astius",
+    "string": "阿蒂妮娅-阿斯提乌斯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Atinia",
+    "form_id": "06000E24|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Atinia",
+    "string": "阿蒂妮娅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Courier",
+    "form_id": "06000EC5|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dead Imperial Courier",
+    "string": "死去的帝国信使",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Courier",
+    "form_id": "06000EC5|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Courier",
+    "string": "邮差",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Viku",
+    "form_id": "06000ED1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Viku",
+    "string": "维库",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Viku",
+    "form_id": "06000ED1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Viku",
+    "string": "维库",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Falanu",
+    "form_id": "06000EF4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Falanu Hlaalu",
+    "string": "法拉努-哈拉鲁",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Falanu",
+    "form_id": "06000EF4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Falanu",
+    "string": "法拉努",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Rugdump",
+    "form_id": "06000F2D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rugdump gro-Shurak",
+    "string": "鲁格邓普·格鲁-舒拉克",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Rugdump",
+    "form_id": "06000F2D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Rugdump",
+    "string": "鲁格邓普",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JBEEOPoisonedRedApple",
+    "form_id": "06000F2A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "PoisonedRed Apple",
+    "string": "毒红苹果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1EEOPoisonedGreenApple",
+    "form_id": "06000F2B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Poisoned Green Apple",
+    "string": "毒青苹果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmNewGnisisCornerclub",
+    "form_id": "0001677F|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "New Gnisis Cornerclub",
+    "string": "新奈西斯街角吧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenMistveilBarracks",
+    "form_id": "00045A1D|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Mistveil Keep Barracks",
+    "string": "雾隐堡垒营房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunJorrvaskr",
+    "form_id": "000165B5|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Jorrvaskr",
+    "string": "勇士之家",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthWarrens",
+    "form_id": "00016D72|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Warrens",
+    "string": "窝棚",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeBardsCollege",
+    "form_id": "00016A0C|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Bards College",
+    "string": "诗人学院",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunDragonsreach",
+    "form_id": "000165A3|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dragonsreach",
+    "string": "龙临堡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeBluePalace",
+    "form_id": "00016A04|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Blue Palace",
+    "string": "蓝宫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D6D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have no greeting.",
+    "string": "我没有想说的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D6E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have no greeting.",
+    "string": "我没有想说的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D6F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have no greeting.",
+    "string": "我没有想说的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D70|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have no greeting.",
+    "string": "我没有想说的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D71|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have no greeting.",
+    "string": "我没有想说的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D72|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have no greeting.",
+    "string": "我没有想说的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D73|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have no greeting.",
+    "string": "我没有想说的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E04|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The prey approaches.",
+    "string": "猎物靠近了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E05|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What hole did you crawl out of?",
+    "string": "你从哪个洞里爬出来的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E06|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You remind me of a witch I once knew. I hate witches.",
+    "string": "你让我想起了我曾经认识的一个女巫。我讨厌女巫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E07|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you're looking for trouble, you're getting very warm.",
+    "string": "如果你在自找麻烦，那你可真是越来越接近目标了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E18|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard a rumor that you're an idiot. Any truth to that?",
+    "string": "我听说有个传言说你是个白痴。这是真的吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E19|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Look. A fly. Buzz, buzz. Hey. Look everybody! I'm talking to a fly! Buzz, buzz, buzz!",
+    "string": "看。苍蝇。嗡嗡声，嗡嗡声。嘿。看！大家！我在苍蝇说话！嗡嗡声，嗡嗡声，嗡嗡声！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E1A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Buzz, buzz, buzz. Go away, little fly.",
+    "string": "嗡嗡嗡。走开，小苍蝇。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E1B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Best way to take out a skeleton is with a big weapon. Forget spells. Just smack them and watch the bones fly!",
+    "string": "对付骷髅最棒的方法就是用超大的兵器。别想什么魔法了。直接猛干它们，看着骨头乱飞！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E1C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you're on a road, you can usually outrun anything. If you're in good shape, and not wearing a tin suit.",
+    "string": "如果你在大路上，通常能跑赢任何东西。只要你身体状况良好，又没穿着那种笨重的装备。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E44|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My favorite town? Anvil. Lovely old stone buildings, and the harbor at sunset is beautiful.",
+    "string": "我最喜欢的小镇？安维尔。可爱的古老石头建筑，夕阳下的港口美不胜收。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EC3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you met Magellus? Think he's taken a bash to the head, or had too much Skooma. Seems to think he's back in Cyrodiil half the time.",
+    "string": "你见过梅杰卢斯吗？我觉得他脑袋撞坏了，或者吸了太多 斯库玛。他动不动以为自己回到了赛洛迪尔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000ED6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "State your business.",
+    "string": "说明你的来意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EE5|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Something on your mind, furlicker?",
+    "string": "你有心事吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EE6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You have something to say, dungheap?",
+    "string": "你有话要说吗，粪堆？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EE7|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come to bother me with a war story, Redguard?",
+    "string": "来跟我讲战争故事啊，红卫人？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EE8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you want, treehugger?",
+    "string": "你要怎样，树生的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EE9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you want, ashborn?",
+    "string": "你想怎样，暗精灵？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EEA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you here to challenge me? I don't think so.",
+    "string": "你是来挑战我的吗？我不这么想。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EEB|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is it necessary that you speak with ME?",
+    "string": "你有必要和我说话吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EEC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you want, Breton trash?",
+    "string": "你想怎样，布莱顿废物？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EED|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What is it, pondscum?",
+    "string": "怎么，你这池塘里的浮渣？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EEE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Speak, snowman, and stop wasting my time.",
+    "string": "雪人，说话，别浪费我的时间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F19|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Me? I'm Falanu. House Hlaalu. As if that matters here.",
+    "string": "我？我是法拉努。哈拉鲁家族的。不过在这儿好像也无所谓。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F1A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Been a very long time since I was in Morrowind. I'm still wanted, even after all this time. Touch a few dead b... uh.. actually... never mind.",
+    "string": "我已经很久没来晨风了。即便过了这么久，我还是被通缉着。接触了点尸体……呃……算了，还是别提了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F1B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know, me and Sinderion had a friendly rivalry back in Skingrad. I'm not sure what happened to him. He was obsessed with something called Crimson Nirnroot. I bet it got him into trouble.",
+    "string": "你知道吗，在斯金格拉德的时候我和辛德里昂是友好竞争的关系。我不太清楚他后来怎么样了。他痴迷于一种叫作“猩红奈恩根”的玩意儿。我打赌这玩意给他惹了不少麻烦。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F1C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What? I'm just here to enjoy the peace and quiet.",
+    "string": "什么？我只是来这儿享受宁静的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F1D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I come to the temple to cleanse myself of - uh - never mind.",
+    "string": "我来神庙是为了净化自己的……呃，算了，当我没说。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F1F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There's just something wrong with that Falanu woman. And she has an odd smell about her. ",
+    "string": "那个叫法拉努的女人就是有些不对劲。而且她身上有股怪味。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F20|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Falanu says she comes in here for the quiet. But I don't know... she seems oddly obsessed with the corpses. It's... creepy, is what it is.",
+    "string": "法拉努说她来这里是为了平静……但……我不知道……她似乎对这些尸体很着迷。真是……让人毛骨悚然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F21|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'd stay away from her if I were you. There's something very wrong with that woman. Even for a grayskin. ",
+    "string": "如果我是你，我就离她远点。那个女人很不正常。就算在灰皮中也是。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F22|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Maybe it's just me, but I find Falanu Hlaalu really odd. And I've seen her hanging around the Hall of the Dead with a strange smile on her face.",
+    "string": "也许只是我的感觉，但我觉得哈拉鲁家族的法拉努真的很奇怪。我还看到她脸上带着怪异的笑容在亡者大厅附近晃悠。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F23|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Falanu Hlaalu might be of the same house as me. But that woman is just weird. I've heard stories about her... predilections... that make my skin crawl.",
+    "string": "法拉努-哈拉鲁或许和我同属一个家族。但那个女人实在太怪异了。我听过一些有关她……癖好……的传闻，让我不寒而栗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F32|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Salutations and conflagellations, most preposterous acquaintance!",
+    "string": "向你致以问候与热烈的欢呼，最有趣的朋友！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F33|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is with much exuberant gratitude that I does impale your presence!",
+    "string": "我怀着万分热烈的感激之情欢迎你的到来！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F34|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You have arriven most fortituously, like a majestic mudcrab of destiny!",
+    "string": "您来得真是恰逢其时，宛如命中注定的巨大泥沼蟹！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F35|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "May your toenails be ever lubricated with the oils of victory!",
+    "string": "愿你的脚趾甲永远被胜利的油膏滋润！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F36|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah! You has bespoken me with your oculars, truly, a friend most gregarious!",
+    "string": "啊！你用你那双眼睛向我表达了心意，确实，你是个非常友善的人！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F37|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your visitation is like a banquet of jubilee upon my soul basket!",
+    "string": "您的来访犹如一场欢庆的盛宴，盛满我心灵的篮子！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F38|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "To see you is like smothering oneself in the gravy of companionship!",
+    "string": "见到你，就像把自己淹没在友谊的浓汁里！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F39|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A thousand whelps of joy upon thee, most undignified yet adorablized visitor!",
+    "string": "千般欢快向你涌来，最不庄重却惹人怜爱的访客！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F3A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Greetings and saltations! I is most prematurely excitable to be encountered by thou!",
+    "string": "问候与欢腾！能与你相遇，我真是迫不及待地兴奋！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F3B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aha! A friendface has been confronticated unto mine eyebulbs!",
+    "string": "啊哈！我的眼中多了一张朋友的脸！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F3C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your approach is like thunderous ham upon the banquet of destiny!",
+    "string": "你的到来，就像命运盛宴上雷鸣般的火腿！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F3D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You smell of valor and week old cabbage... how exquisitely bravurated!",
+    "string": "你身上散发着英勇的气息和一周前的卷心菜味……真是英勇得令人陶醉！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F3E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I does prostrate my gesticles in humble salutations!",
+    "string": "我匍匐在地，向您致以谦卑的敬意！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F3F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hath scrubben my finest booties for this occasionous meeting!",
+    "string": "为了参加这次盛会，我穿上了我最好的靴子！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F40|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your presence fills mine nose holes with the aroma of celebration... or perhaps sausage.",
+    "string": "你的到来让我的鼻孔充满了庆祝的香气......或许是香肠的香气。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F41|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You hath interruptified my boredom! A thousand gratefulations! ",
+    "string": "你打断了我的无聊！万分感谢！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F42|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Trolls, I have been foretold, are particular to unflammable weapons.",
+    "string": "有人说，巨怪特别惧怕不会燃烧的武器。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F43|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The will-o-the-wisp is a luminous being. It has naturalized residences to many types of spells.",
+    "string": "幽魂是一种发光的存在。它对多种法术都免疫。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F44|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am resident to encounter the minotaur. Its horny protuberants cause me great conflagrations.",
+    "string": "我时常遇见牛头人。它那突出的尖角让我十分苦恼 。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F45|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Though I am replicant to spread rumors, I am led to believe the philogy of skeletous beings makes them resistive to magic.",
+    "string": "尽管我并不热衷于传播谣言，但我还是不禁相信，骷髅生物的特性使它们对魔法有抗性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F46|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Speaketh you on.",
+    "string": "你继续说。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F47|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hither to me, good varlet.",
+    "string": "到我这儿来，好小子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F48|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We is most pleased... eth... ified.",
+    "string": "我们非常高兴……呃……极其高兴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F49|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We are so very sooth.",
+    "string": "我们非常欣慰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F62|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you're looking for a bed, this is the wrong place. I reserve my beds for seamen.",
+    "string": "如果你在找床铺，那你来错地方了。我的床铺只提供给海员。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F63|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your wardrobe appendage seems multifunctional.",
+    "string": "你衣柜里的那件配饰似乎有多种功能。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F64|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmmph? Why does your equipment displayage thus ensued?",
+    "string": "哼？为何你的装备会呈现出这般模样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F65|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fool! You stand before me without a stitch on? In this brutal weather?",
+    "string": "傻瓜！你竟一丝不挂站在这儿？在这么恶劣的天气里？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000805|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I saw a mudcrab a couple of days ago. Ugly little animals.",
+    "string": "几天前我看到了一只泥蟹。真是丑陋的小动物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000806|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I ran across a couple of mudcrabs not long ago. Annoying creatures.",
+    "string": "不久前我碰到了几只泥沼蟹。真是烦人的家伙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000807|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I saw some mudcrabs by the water recently. I steered clear of them.",
+    "string": "最近我在水边看到了一些泥沼蟹。我避开了它们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000808|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Disgusting creatures. I hope to never see another.",
+    "string": "恶心的生物。我希望再也不要看到它们了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000809|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can't stand the sight of those creatures.",
+    "string": "我是真受不了看到那些玩意儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600080A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I avoid those things whenever I can. Horrible creatures.",
+    "string": "只要有可能，我会避开那些东西。它们是很可怕的生物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600080B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hello.",
+    "string": "你好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600080C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hello there.",
+    "string": "你好啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600080D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good morning.",
+    "string": "早安。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600080E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good afternoon.",
+    "string": "午安。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600080F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good evening.",
+    "string": "晚安。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000810|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good night.",
+    "string": "晚安.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000811|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's going on with you?",
+    "string": "最近你过的怎样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000812|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's happening?",
+    "string": "怎么回事？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000813|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's new with you?",
+    "string": "你有什么新消息？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000814|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What have you been up to?",
+    "string": "你最近在忙什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000815|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bye.",
+    "string": "再见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000816|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Farewell.",
+    "string": "再会。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000817|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be seeing you.",
+    "string": "再见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000818|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So long.",
+    "string": "别了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000819|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Take care.",
+    "string": "多保重。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600081A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've heard others say the same.",
+    "string": "我听别人也这么说。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600081B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is that so?",
+    "string": "是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600081C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Interesting.",
+    "string": "真有意思。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000827|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hi there.",
+    "string": "你好啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000828|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well met.",
+    "string": "很高兴见到你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000829|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Greetings.",
+    "string": "你好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000842|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Horrid beasts. I hate the things.",
+    "string": "可怕的野兽，我讨厌这些东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000843|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nasty creatures, but I hear their meat is rather tasty.",
+    "string": "这些生物看着挺恶心的，但我听说它们的肉相当美味。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000844|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ugly things, with their thick shells and sharp claws. I avoid them.",
+    "string": "丑陋的东西，有着厚厚的外壳和锋利的爪子。我会躲开它们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000845|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, at least they're slow, and not too bright. Their pincers are sharp, though.",
+    "string": "至少它们行动迟缓，而且不太聪明。不过它们的钳子很锋利。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000850|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stop talking!",
+    "string": "别说了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000851|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enough talk.",
+    "string": "别再说了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000852|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm through with you.",
+    "string": "我受够你了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000853|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Go bother someone else.",
+    "string": "去烦别人吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000854|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm done talking with you.",
+    "string": "我已经不想和你说话了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000863|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How do you do?",
+    "string": "你过的怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000865|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I ran into some goblins in the woods not long ago. Nasty little beasts.",
+    "string": "不久前我在树林里碰到了几个哥布林。讨厌的小东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000866|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard there were some goblins around here recently. Awful creatures.",
+    "string": "我听说最近这附近有几只哥布林。真是些可怕的家伙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000867|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard people saying they ran into goblins around here not long ago. I can't stand those things.",
+    "string": "我听说不久前有人在这附近碰到了哥布林。我实在受不了那些家伙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000868|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Goblins. Ugh. Evil, foul-smelling little brutes.",
+    "string": "哥布林。呃。邪恶、臭烘烘的小畜生。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000869|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Horrible things. I hear that the High Elves train them. I can't imagine it.",
+    "string": "可怕的东西。我听说高精灵会训练它们。我简直无法想象那是什么画面。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600086A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Terrible creatures. They travel in packs, and they're always up to no good.",
+    "string": "可怕的家伙。他们成群结队，总是不怀好意。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600086B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Any new books you've been reading?",
+    "string": "你最近有在读什么新书吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600086C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Read any good books lately?",
+    "string": "最近读过什么好书吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600086D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you heard any word about the other provinces?",
+    "string": "有其他省份的消息吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600086E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's the news from the other parts of Tamriel?",
+    "string": "泰姆瑞尔其他地区有什么消息？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600086F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heard any news from the other provinces?",
+    "string": "有其他省份的消息吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000870|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Any news?",
+    "string": "有新消息吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000871|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's the latest?",
+    "string": "最新消息是什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000872|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heard any news lately?",
+    "string": "最近有什么新闻吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000873|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is most disturbing. We can only hope this madness is over soon.",
+    "string": "这太令人不安了。我们只能希望这场疯狂尽快结束。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000874|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is unbelievable. How can the gods let this happen?",
+    "string": "这简直难以置信。神怎么能让这种事发生？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000875|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It seems it is a dire situation throughout all of Tamriel.",
+    "string": "看来整个泰姆瑞尔的形势都很严峻。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000876|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've been trying to get through \"Mysterious Akavir.\" It's a fairly interesting read.",
+    "string": "我一直在读《神秘的阿卡维尔》，挺有意思的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000877|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've been reading \"Fundaments of Alchemy.\" I figure it can't hurt to learn something new.",
+    "string": "我一直在读《炼金术基础》。我觉得学点新东西总归没坏处。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000878|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've been reading \"Overview of Gods and Worship.\" I'm not sure if I like it yet.",
+    "string": "我一直在读《诸神概览与信仰》。我还不确定自己是否喜欢这本书。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000879|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I read \"The Real Barenziah\" recently. Quite a piece of work.",
+    "string": "我最近读了《真正的巴兰兹亚》。真是一部佳作。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600087A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've been trying to finish \"Brief History of the Empire.\" It's a lot to take in.",
+    "string": "我一直在努力读完《帝国简史》。内容实在太多，有点难以消化。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600087B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A friend gave me \"The Book of Daedra.\" It's an interesting study.",
+    "string": "一位朋友给了我一本《魔族之书》。这是一本有趣的读物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600087C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I picked up \"Frontier, Conquest.\" Haven't read much, though.",
+    "string": "我拿了本《前线，征服》。不过还没怎么读。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600087E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm finally getting around to reading \"Five Songs of King Wulfharth.\" I just wish I had more time to read it.",
+    "string": "我终于开始读《武夫哈斯王的五首歌》了。只是希望我能有更多时间来读它。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600087F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was given \"The Legendary Scourge.\" I don't know what to think about it yet.",
+    "string": "我得到了《传奇的灾难》这本书。我还不知道该怎么评价它。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000880|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've never read that. Been meaning to pick it up, though. Perhaps I can read it when you're finished.",
+    "string": "我从未读过那本书。一直想找个时间读一读。或许等你读完后我可以看看。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000881|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah... an excellent read, though it's been a while since I've read it myself. Let me know how you like it.",
+    "string": "啊......这是一本很好的读物，虽然我自己已经有一段时间没有读过了。你喜欢吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000882|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm... not my favorite work, but many enjoy it.",
+    "string": "嗯......不是我最喜欢的作品，但很多人喜欢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000883|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That sounds interesting. Perhaps I'll have to read it as well.",
+    "string": "听起来很有趣。也许我也要读一读。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000884|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've not read that yet. It's a shame there isn't more time to spend with good books.",
+    "string": "我还没读过。可惜没有更多的时间来读好书。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000885|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I believe I read that some time ago. I'll have to give it another read.",
+    "string": "我想我前段时间读过这本书。我得再读一读。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000886|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say Helgen got hit by a dragon.",
+    "string": "他们说海尔根被一条龙袭击了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000887|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Greybeards have summoned the Dragonborn to High Hrothgar. Such a thing has not happened for... hundreds of years.",
+    "string": "灰髯士召唤龙裔前去高吼修道院了。这种事已经……好几百年没发生过了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000888|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There was a fight down in the Ratway, but reports are... sketchy. Some say it was Thalmor Agents, others say Thieves Guild. Some say it was both.",
+    "string": "在鼠道发生了一场斗殴，但是回报结果……十分含糊。有人说是梭默特使，另外一些人说是盗贼公会。还有说两者都有的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000889|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Word is Elenwen's furious. Big party at the Thalmor Embassy, and one of the guests went someplace they shouldn't. Caused quite a commotion.",
+    "string": "据说爱琳温最近很暴躁。在梭默大使馆举行的盛大的聚会里，有一个客人进入了不该进的地方。这事造成了很大的骚动。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600088A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you heard? There's been another dragon attack. Kynesgrove, this time.",
+    "string": "你听说了吗？又有龙发动攻击。这次在凯娜之林。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600088B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Greybeards have arranged a truce between the Stormcloaks and Imperials. How long can such a thing last?",
+    "string": "在灰髯士的斡旋下风暴斗篷和帝国之间达成了停战协定。这能维持多久？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600088C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Greybeards have called a peace council, at High Hrothgar. And can you believe it - both Ulfric Stormcloak and General Tullius have agreed to go.",
+    "string": "灰髯士在高吼修道院安排了一个和平会议。而且你能相信吗——风氅氏的乌弗瑞克和图利乌斯将军居然都同意出席。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600088D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You hear the news? The Emperor has been murdered! Right here, in Skyrim. By the gods, if the Dark Brotherhood can do that, nobody's safe...",
+    "string": "你听说了吗？皇帝被杀了！就在这里，在天际。天啊，要是黑暗兄弟会能做到这种程度，那就没有他们杀不了的人了……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600088E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By the gods. The Emperor's been murdered. On his own ship... moored in the inlet. It was... the Dark Brotherhood. There was nothing we could do...",
+    "string": "天啊。皇帝被刺杀了。就在港湾里停泊着的……他自己的私人船只上。是……黑暗兄弟会做的。我们什么也做不了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600088F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That old woman who runs the orphanage has been murdered.",
+    "string": "孤儿院那个老太婆被杀了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000890|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Been a murder, over in Riften. Some old lady who runs an orphanage. Those poor children must be heartbroken.",
+    "string": "在裂谷城，发生了一起谋杀。被害者是经营孤儿院的一位年老女性。那些可怜的孩子们一定很伤心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000891|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Emperor's cousin has been killed. Right here in Solitude.",
+    "string": "皇帝的表亲遇刺了。就在独孤城。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000892|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The cousin of the Emperor was murdered! In Solitude, at her own wedding I hear.",
+    "string": "皇帝的表妹被谋杀了！听说是在独孤城的婚礼上。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000893|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There are some that say the Dark Brotherhood is back and stronger than ever. That they've made Dawnstar their home.",
+    "string": "有人说黑暗兄弟会卷土重来了，比以往更强。他们把晨星当成了新据点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000894|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They're saying the Dark Brotherhood has been destroyed. Wiped off the face off Tamriel.",
+    "string": "传言说黑暗兄弟会被彻底铲除了。从塔姆瑞尔大陆上消失了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000895|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Maybe you haven't heard, but the Thieves Guild is back.",
+    "string": "或许你还没听说——盗贼公会东山再起了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000896|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The say the College has been snooping around Saarthal. Mages in a burial crypt. No good can come of that...",
+    "string": "他们说学院最近在萨瑟尔城周边有所动作。有法师在墓穴里活动。恐怕不会干出什么好事……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000897|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some are saying the Psijic Monks have been seen in Skyrim. They're an ancient order. I had 'em figured for dead.",
+    "string": "传说最近赛伊克僧侣出现在天际各地。他们是一个古老的组织。我一直以为他们已经消失了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000898|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You hear the news? Those damn mages blew up Winterhold! Guess it was just a matter of time...",
+    "string": "你还没有听说吗？那些该死的法师炸毁了冬堡！用猜的也知道不过是时间问题而已……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000899|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Word is the College of Mages is back to normal. If there's such a thing for that lot.",
+    "string": "听说法师学院已经恢复正常了。如果像他们一样的地方有很多就糟了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600089A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As if Skyrim didn't have enough outsiders. Now we've got mercenaries from Hammerfell struttin' about...",
+    "string": "好像天际的异乡人还不够多似的。现在我们又有了来自落锤省的佣兵四处游荡……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600089B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Kodlak killed. Jorrvaskr attacked. How could this happen within the walls of Whiterun?",
+    "string": "科拉克被杀，月瓦斯卡遭袭。白漫城墙之内怎会发生这种事？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600089C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear the East Empire Company has reopened. All of Skyrim benefits from their trade.",
+    "string": "东帝国公司重新开张了。整个天际省的贸易都能沾光。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600089D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "First Torygg and now Elisif. Damn those Stormcloaks. Let's hope that Erikur fares better than they did.",
+    "string": "先是托依格然后是艾利西弗。该死的风暴斗篷。希望艾瑞克尔不要步上他们的后尘。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600089E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Looks like it's really happening. A peace council, attended by both Ulfric and Tullius, up on High Hrothgar. Maybe there's hope for Skyrim yet.",
+    "string": "看来真的成功了。一个和平会谈，有乌弗瑞克和图利乌斯同时出席，在高吼修道院举行。说不定天际真的还有一线希望。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600089F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thalmor in the Ratway? What's next, Spriggans in the Bee and Barb?",
+    "string": "鼠道里出现梭默？下一个是什么？蜂与钩里出现树精？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A0|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Helgen... destroyed by a dragon. Hard to believe, isn't it?",
+    "string": "赫迩镇……被一只龙摧毁了。难以置信，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Emperor's cousin Vittoria Vici is getting married soon. The reception will be public - anyone in Solitude can attend.",
+    "string": "皇帝的表姐妹维多利亚·薇齐就快要结婚了。婚礼对大众开放——到时候只要是待在独孤城的人都可以参加。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A2|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "One of the guards said he saw a mage appear out of thin air. Claimed it was one of those Psijic Monks. Man's been hitting the skooma, I say.",
+    "string": "有一个卫兵说看见一个法师凭空出现。据他说那是一个赛伊克僧侣。要我的说，这家伙肯定嗑了斯库玛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say that when you murder someone, the Dark Brotherhood comes to you in your sleep. It's how they recruit new members.",
+    "string": "传言说如果你杀了人，黑暗兄弟会会趁你睡觉时找上门。他们就这么招募新成员的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I might swim more if it weren't for the slaughterfish. Sharp teeth, and some carry disease.",
+    "string": "要不是有食人鱼，我倒愿意多游游泳——牙尖嘴利，有些还带毒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A5|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say there's a cave north of Whiterun where the dead don't stay dead...",
+    "string": "据说白漫城北边有个洞穴，里面的死者不会安息……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did you hear? A ghost ship was seen off the coast of Solitude. Vanished before anyone could get close.",
+    "string": "听说了吗？有人看见独孤城海岸外有艘幽灵船。还没等靠近就消失无踪了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A7|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Something strange is happening with the moons. The mages in Winterhold are worried, but they won't say why.",
+    "string": "双月出异象。冬堡那群法师慌得很，可谁也不肯说缘由。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some farmers near Rorikstead claim their livestock were drained dry. Vampires, maybe?",
+    "string": "罗瑞林德附近的农户说牲畜全被吸干了血。八成是吸血鬼干的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008A9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Jarl of Markarth is acting strange. He's holding closed-door meetings with unknown visitors.",
+    "string": "马卡斯城的领主举止古怪，总关着门和神秘访客密谈。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008AA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There's talk of a dragon priest stirring in an old tomb. Best keep away from ancient ruins, I say.",
+    "string": "传闻有龙祭司在古墓里苏醒。要我说，离那些遗迹远点儿为妙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008AB|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A child in Morthal hasn't spoken in weeks. Some say she's cursed. Others say she's a seer.",
+    "string": "莫萨尔有个孩子几周不说话了。有人说她中了咒，也有人称她是先知。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008AC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say a man in Windhelm was cursed to live forever... but no one's seen him in years.",
+    "string": "听说风盔城有个人被诅咒永生……但好些年没人见过他了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008AD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The miners in Shor's Stone dug too deep. Now they're hearing things at night.",
+    "string": "舒尔之石的矿工挖得太深，现在夜里总能听见怪声。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008AE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fishermen in Dawnstar keep pulling up old Nord artifacts. Must be something under the ice.",
+    "string": "晨星城的渔夫总捞到诺德古物。冰层底下怕是有大东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008AF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They found a shrine to Namira in a cave near Falkreath. Whole place smelled like death.",
+    "string": "佛克瑞斯附近的洞穴里发现了娜米拉祭坛。整个洞窟弥漫着尸臭味。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B0|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "An Argonian was dragged out of the river in Eastmarch - eyes wide open, but no breath in him. Looked like he drowned in pure fear.",
+    "string": "东境领河里捞上来个亚龙人——眼睛瞪得老大，却没了气息。活活被吓死的模样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Children near Dawnstar are drawing symbols in the snow. No one taught them, and none of them remember doing it.",
+    "string": "晨星城的小孩在雪地上画神秘符号。没人教过，他们自己也不记得画过。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B2|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say a hunter found a deer with silver blood. Melted his blade when he tried to carve it.",
+    "string": "听说猎人逮到只流银色血的鹿。用刀割肉时刀刃都熔化了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Someone's been leaving black feathers on the Jarl's throne in Falkreath. No one's seen who... or what.",
+    "string": "佛克瑞斯领主的王座上总出现黑羽毛。没人瞧见是谁……或什么东西放的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say a Nord girl vanished during a storm and came back weeks later, eyes glowing blue. Says she 'spoke to Shor.'",
+    "string": "有个诺德姑娘在暴风雨中失踪，几周后回来时双眼泛蓝光。声称“与舒尔交谈过”。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B5|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A boy in Riverwood keeps drawing circles on the floor with ash. Claims he's keeping 'them' out. No one knows who 'they' are.",
+    "string": "河木镇男孩总用灰烬在地上画圈，说是要防“他们”进来。可谁都不知道“他们”是谁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The College in Winterhold is hiding something. One of their apprentices exploded - twice - and no one's talking.",
+    "string": "冬堡学院藏着秘密。有个学徒炸了两次，结果所有人闭口不谈。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B7|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There's a tree near Kynesgrove that grows apples in the shape of faces. No one will eat them.",
+    "string": "凯娜之林附近长了棵怪树，结的苹果全像人脸。没人敢吃。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fishermen near the Sea of Ghosts say the water sings some nights. Real low, like it's mourning something.",
+    "string": "亡灵海边的渔民说，某些夜晚海水会低吟，像在哀悼什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008B9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A black goat's been seen wandering the roads at night. Doesn't eat, doesn't blink. Just stares.",
+    "string": "有只黑山羊总在夜路上游荡。不吃不眨，只会死盯着人看。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008BA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A guard near Solitude said he caught a glimpse of a man without a shadow. He reported it - and disappeared the next day.",
+    "string": "独孤城守卫说他瞥见个没影子的人。刚上报完，次日自己就失踪了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008BB|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "An old woman in the Reach was found with no eyes, but she'd sewn her mouth shut. Still alive. Still humming.",
+    "string": "边塞领发现个没眼珠的老太婆，自己用线缝死了嘴。还活着，还哼着曲儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008BC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A man in Riften found an old staff in a chest. Every time he touches it, he forgets the last three days.",
+    "string": "裂谷城有人从箱子里翻出根旧法杖，每摸一次就忘记前三天的事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008BD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you heard? The Jesters College in Camlorn graduated another class.",
+    "string": "最新消息！卡姆伦的滑稽戏学院又毕业了一批小丑。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008BE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Red Mountain is still erupting. You can see it if you go to Solstheim.",
+    "string": "红山仍在喷发。去索瑟姆就能望见滚滚烟柱。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008BF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Empire's falling apart at the seams. I heard bandits are running parts of Cyrodiil now, and even the Colovian nobles don't trust the Emperor.",
+    "string": "帝国正分崩离析。听说西罗帝尔的某些区域已被匪帮控制，连科洛维亚贵族都不再信任皇帝。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C0|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Many believe Cyrodiil is rife with political strife and warlords rising in the provinces. The Thalmor's influence is said to be choking the Imperial Court.",
+    "string": "都说西罗帝尔党争四起，各省军阀割据。而梭默的影响力正扼住帝国宫廷的咽喉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Redguards told the Thalmor to get out, and they meant it. I hear they're still fighting skirmishes on the border.",
+    "string": "红卫人把梭默轰了出去。边境至今仍有小规模冲突——他们可是动真格的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C2|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Breton kings are always plotting. Some say they're preparing for war - maybe even against each other.",
+    "string": "布莱顿的国王们总在密谋。有人说他们在备战——说不定要内战。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say the Thalmor are doing... strange things in Alinor. People vanish, and nobody asks questions.",
+    "string": "梭默在艾琳诺搞些……邪门勾当。活人凭空蒸发，却没任何人追问。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard the Green Pact is being twisted by the Thalmor. Whole villages wiped out for breaking sacred laws.",
+    "string": "听说绿约律法被梭默曲解。好几个村庄因触犯圣律遭到屠戮。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C5|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Thalmor have a firm grip on Valenwood, and Bosmer loyal to the old ways may be rebelling in the forests. Some say the Wild Hunt may rise again if things get worse.",
+    "string": "梭默牢牢掌控着瓦伦森林，而坚守旧道的木精灵可能在密林反抗。若局势恶化，狂猎兽潮或将再现。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No one goes into Argonia anymore. They say the Hist are changing the Argonians into something... different.",
+    "string": "如今没人敢踏入黑沼泽。传言希斯特古树正把阿尔贡人改造成……异化之物。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C7|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some whisper that the Hist are preparing for a new era - one where Argonia becomes the dominant power in Tamriel.",
+    "string": "私语说希斯特在筹备新纪元——届时阿尔贡人将主宰塔姆瑞尔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Rumors from Morrowind tell of strange Daedric cults rising again in secret corners of the land, and of Telvanni mages rebuilding ancient towers.",
+    "string": "晨风省传来秘闻：隐秘角落滋生着诡异的迪德拉邪教，泰尔瓦尼法师正在重建古塔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008C9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say the Legion's got deserters patrolling the roads now. Can't tell if you're safer with 'em or without 'em.",
+    "string": "如今连帝国军团都派逃兵巡路。说不好遇上他们算不算安全。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008CA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Imperial City's still standing, but barely. Half the nobles are bought by the Thalmor, the other half are dead.",
+    "string": "帝都虽未陷落，却也摇摇欲坠。半数贵族被梭默收买，余下的坟头草已三丈高。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008CB|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Redguards don't take orders from anyone - kicked the Dominion out on their arses. Now that's a people with backbone.",
+    "string": "红卫人只听自己的号令——用刀剑请走先祖神州。这才叫有骨气的民族！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008CC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Alik'r talk of a 'silent war' in the sands. Border raids, assassins... wouldn't surprise me if Hammerfell's preparing for something big.",
+    "string": "阿里克尔沙漠流传着\"无声战争\"：边境突袭、暗杀行动……若说落锤在谋划大动作，我绝不意外。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008CD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some say the Direnni are stirring again. No proof, but... old names have power, you know?",
+    "string": "有人称迪仁尼家族正悄然复苏。虽无实据……但古老姓氏的余威，你懂吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008CE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bosmer don't like outsiders anymore. Friend of mine went looking for rare game - came back missing a hand.",
+    "string": "木精灵不再待见外人。我有个朋友去猎珍兽——回来时少了只手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008CF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heard the Green Pact's gone mad. A village was burned for planting flowers. Flowers!",
+    "string": "绿约律法疯了！听说有个村子因种花被焚毁——种花啊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D0|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We've got our freedom, but it didn't come cheap. My brother still fights in the Alik'r deserts.",
+    "string": "自由代价惨重。我哥还在阿里克尔沙漠征战。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Crowns and Forebears nearly came to civil war again last season. Hammerfell's wounds are deep, even without the Dominion's blade.",
+    "string": "拥王派与先祖蛾教团上季度几乎内战重燃。即便没有梭默，落锤的旧伤依然溃烂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D2|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Saw ships fly banners I've never seen. Strange glyphs. Mages in High Rock have started their own kingdom, I wager.",
+    "string": "见过挂着诡异纹章的船队。八成是高岩法师自立了王国。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Something's wrong in the Isles. Even the sun feels different there now... like it's watching you.",
+    "string": "夏暮群岛不对劲。连阳光都阴恻恻的……像在监视你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Dominion's building a road straight through the jungle. Chopped down half a grove - next day, every worker was dead. No wounds. Just... gone.",
+    "string": "先祖神州的穿林大道工程砍伐了半片圣林——次日所有劳工暴毙。无伤无痕……就这么断了气。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D5|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard there's a plague in the Tenmar Forest. Or maybe a rebellion. Hard to say - Khajiit don't talk much about what's really going on.",
+    "string": "听说坦玛尔森林闹瘟疫——也可能是起义。虎人从不多谈真实动向。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hist sap's changing. More potent. Dangerous, even. A few Argonian students drank it - woke up days later speaking languages no one knew.",
+    "string": "希斯特树液愈发浓烈，甚至带毒。几个亚龙人学生误饮后，醒来竟说着无人知晓的古老语言。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D7|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Black Marsh is growing. Literally. Swamps swallowing villages near the border. Bet the trees'll reach Cyrodiil in a few years.",
+    "string": "黑沼泽在蔓延——字面意义。边境村庄正被沼泽吞噬，不出五年能吞到西罗帝尔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They found an entire village outside Daggerfall... sleeping. No wounds, no signs of struggle. Just asleep. And none of them will wake up.",
+    "string": "达格斯城外发现整座沉睡村庄。无伤无争——就是叫不醒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008D9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heard the Empire's crumbling faster than a draugr's tomb. They say the Imperial City's still scarred from the Great War, and the nobles bicker while bandits rule the roads.",
+    "string": "听说帝国崩塌得比尸鬼墓穴还快。帝都仍残留大战伤疤，贵族扯皮时匪徒已占山为王。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008DA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A traveler from Cyrodiil came through last week. Said the Thalmor are strutting about the Imperial City like they own it. Makes my blood boil!",
+    "string": "上周有个西罗帝尔旅人说梭默在帝都横行霸道。听得我红温了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008DB|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say High Rock's wizards are meddling with things best left alone. Some fool mage opened a gate to Oblivion, or so the caravans claim.",
+    "string": "高岩巫师总摆弄禁忌之物。商队传言有个蠢货法师打开了湮灭之门。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008DC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some Redguard sailors washed up in Dawnstar, muttering about sea monsters off the coast of Hammerfell. Probably just drank too much rum, if you ask me.",
+    "string": "几个红卫水手漂到晨星城，念叨着落锤海岸有海怪。要我说准是朗姆酒喝多了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008DD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say Hammerfell's deserts are crawling with bandits now that the Empire's gone. Good. Let the Redguards handle their own mess.",
+    "string": "自帝国撤军后，落锤沙漠匪帮横行。挺好——红卫人的烂摊子自己收拾。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008DE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heard the Argonians are brewing poisons that can kill a man with a single drop. Probably selling 'em to the Thalmor, the sneaky lizards.",
+    "string": "亚龙人在炼一滴毙命的奇毒。八成卖给梭默——那些狡猾的蜥蜴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008DF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heard the High Elves are building ships to invade Tamriel again. Mark my words, they won't stop 'til we're all bowing to their so-called 'superiority.'",
+    "string": "高等精灵在造舰准备再侵塔姆瑞尔。记住我的话：他们不逼所有人跪拜\"优越种族\"誓不罢休！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E0|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some crazy fool in Whiterun's claiming they're the Dragonborn, shouting at the sky like a lunatic. Probably just drank too much mead.",
+    "string": "白漫城有个疯子自称龙裔，整天对天吼叫。八成是蜜酒灌多了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dawnstar's cursed, I swear. Nightmares plague the folk there, and some say it's Daedra work from that old museum.",
+    "string": "晨星城绝对遭了诅咒！镇上的人夜夜噩梦，都说是那旧博物馆里的迪德拉作祟。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E2|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Those mages at the College of Winterhold are meddling with forbidden magic. No wonder the Nords don't trust 'em.",
+    "string": "冬堡学院的法师在鼓捣禁忌魔法。难怪诺德人不待见他们。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A hunter from Falkreath swore he saw a ghost in the woods, glowing pale and muttering about betrayal. Probably just the fog playing tricks.",
+    "string": "佛克瑞斯的猎人赌咒说林子里有苍白的鬼影，念叨着背叛。大概是大雾迷了眼。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say Maven Black-Briar's got a deal with a Daedric Prince. How else does she keep Riften under her thumb?",
+    "string": "都说玛雯·黑荆棘和迪德拉王子做了交易。不然她哪能把裂谷城捏得死死的？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E5|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thalmor agents were seen snooping around Falkreath's graveyard. Probably looking for Talos worshippers to drag off.",
+    "string": "梭默特工在佛克瑞斯墓地转悠。准是来抓塔洛斯信徒的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heard Whiterun's mead supply ran dry last week. The whole city panicked - folk were trying to brew ale from cabbages!",
+    "string": "听说白漫城的蜜酒上周断供了！全城都疯了——有人甚至试图用卷心菜酿麦酒！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E7|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Folk in Morthal swear the marsh is haunted by a ghost who keeps stealing their boots. Only the left ones, mind you.",
+    "string": "莫萨尔居民发誓沼泽有专偷左靴的鬼魂。只偷左脚，绝不拿错。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say a dragon landed in Ivarstead and demanded a tribute of sweetrolls. Ate a whole cart and flew off burping flames!",
+    "string": "传言有条龙降在伊瓦斯泰德，索要甜卷当贡品。吃完整辆推车，打着火嗝飞走了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008E9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heard a draugr in a barrow near Rorikstead keeps waking up to sweep the floors. Tidiest tomb in Skyrim, that one.",
+    "string": "听说洛里斯泰德附近的古坟里有尸鬼定期醒來扫地。那恐怕是天际最整洁的墓穴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008EA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heard the Thieves Guild stole Maven Black-Briar's favorite goblet, then sold it back to her for a hundred septims. She's still fuming!",
+    "string": "盗贼公会偷了玛雯·黑荆棘最爱的酒杯，又以一百金币卖还给她。她现在还在跳脚呢！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008EB|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say a skeever in Markarth's learned to pick locks. Keeps sneaking into the Silver-Bloods' treasury for snacks.",
+    "string": "马卡斯城有只耗子学会开锁，专溜进银血家族金库偷零食。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008EC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard the Jarl of Markarth got stuck in his own throne after eating too many sweetrolls. Took three guards to pry him out.",
+    "string": "听说马卡斯领主甜卷吃太多卡在王座里，三个守卫才把他撬出来",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008ED|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you think of this weather?",
+    "string": "你觉得这天气如何？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008EE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you enjoying the weather?",
+    "string": "你喜欢这天气吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008EF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lovely weather today, isn't it?",
+    "string": "多好的天气啊，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F0|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Glorious weather today, don't you think?",
+    "string": "今天天气真好，你觉得呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't think much of this weather, do you?",
+    "string": "你不觉得这天气很糟吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F2|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Raining again? It seems like it's always raining to me.",
+    "string": "又下雨了？我觉得好像一直在下雨。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's glorious, beautiful to be out in it.",
+    "string": "置身其中，真是美妙绝伦，美不胜收。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's lovely isn't it?",
+    "string": "多讨人喜欢啊，不是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F5|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't mind it actually, it's quite refreshing.",
+    "string": "实际上我不介意，空气挺清新的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The rain is horrible, but I guess it's good for the crops.",
+    "string": "雨下得真大，但我想这对庄稼有好处。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F7|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm soaking wet. Hope it's better tomorrow.",
+    "string": "我都湿透了。希望明天会好些。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It seems like it's snowing all the time to me.",
+    "string": "我觉得好像一直在下雪。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008F9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's horrible!",
+    "string": "太糟了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008FA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's awful. I hope it changes soon.",
+    "string": "太糟糕了。只能希望它尽快改变吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008FB|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Snowing again, but it's about what you'd expect round here.",
+    "string": "又下雪了，不过这一直都这样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008FC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's not great is it?",
+    "string": "不是很好吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008FD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's quite windy isn't it?",
+    "string": "风很大吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008FE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's very windy today, nearly blew my head off.",
+    "string": "今天风很大，差点把我的头吹走。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060008FF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There's a nice breeze today, it's quite pleasant.",
+    "string": "今天风和日丽，令人心旷神怡。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F2|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm... these are interesting reports...",
+    "string": "嗯……这些报告很有意思……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009FA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Go away fool.",
+    "string": "滚开，傻瓜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009FD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm in the middle of reading \"Cats of Skyrim\". It's got some funny bits, I can tell you.",
+    "string": "我正在读《天际的猫》，里面有些桥段可真够滑稽的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009FE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm reading the \"Charwich-Koniige Letters\". I've read three of them so far, only one to go. It's fascinating to learn about their search for Azura's Star.",
+    "string": "刚读到《查维奇-柯尼格书信集》的第三封，还剩最后一封。他们对阿祖拉之星的追寻太有意思了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009FF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've just read \"Cleansing of the Fane\". It's a fragment from a First Era chronicle surrounding the destruction of the Ayleid city of Malada.",
+    "string": "刚读完《神殿净化》，这是第一纪元编年史残章，记载了马拉达这座亚历德城市的覆灭。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A00|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've just started reading \"Death of a Wanderer\". Pretty sure from the title it's going to have a bad ending.",
+    "string": "刚开始看《流浪者之死》，光看书名就能猜到结局肯定好不了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A01|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm right in the middle of \"Death of a Snow Prince\". It's not that good really.",
+    "string": "《雪王子之死》读到一半，说实话不怎么样。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A02|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've just read \"Hanging Gardens\". Not much to say really, it was only a fragment. I'd love to read the whole thing.",
+    "string": "《悬空花园》读完了，不过是残本没多少内容。真想看到完整版啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A03|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've just read all three volumes of \"History of Raven Rock\". Something all Dunmer should be familiar with, of course.",
+    "string": "《鸦石镇史》三部曲通读完毕，每个丹莫都该了解这段历史。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A04|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm currently reading \"Invocation of Azura\". It's quite fascinating.",
+    "string": "现在正读着《阿祖拉祷文》，非常引人入胜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A05|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm reading \"Myths of Sheogorath\". Reads like a load of nonsense if you ask me.",
+    "string": "在读《谢尔格拉神话集》，要我说的话——通篇都是胡言乱语。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000A06|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I tried to read \"N'Gasta! Kvata! Kvakis!\" But as it's untranslated, I have no idea what it was about.",
+    "string": "试着读了《恩伽斯塔！克瓦塔！克瓦基斯！》，但这书没翻译，根本看不懂写什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C6F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm. Body's still warm. Looks like there's a killer about.",
+    "string": "哼，尸体还是热的，看来凶手就在附近。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C70|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph. Better them than me.",
+    "string": "嗤，还好是他们不是我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CC7|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wait... I know you.",
+    "string": "等等……我认识你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CC8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So tiresome.",
+    "string": "真够烦人的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CC9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Get lost.",
+    "string": "给我滚。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CCA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Get out of my face. ",
+    "string": "从我面前消失。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D75|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gah!",
+    "string": "嘎！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D76|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hunh!",
+    "string": "喝！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D77|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Grrargh!",
+    "string": "呀啊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D78|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yah!",
+    "string": "！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D79|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nyyarrggh!",
+    "string": "嗯呀啦啦！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D7A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nnh!",
+    "string": "哪！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DF8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're a sneaky looking sort.",
+    "string": "你看上去鬼鬼祟祟的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DF9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You have the hands of a healer.",
+    "string": "这双手天生就该行医。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DFA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There's an air of Mysticism about you.",
+    "string": "你身上萦绕着神秘的气息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DFB|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You have the eyes of a trained marksman.",
+    "string": "这眼神…受过正规训练的弓箭手吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DFC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You have the hands of an illusionist.",
+    "string": "你有一双幻术师的手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DFD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There's a charge in the air. Been casting some destruction spells?",
+    "string": "空气里有电在颤动，刚施展过毁灭系法术？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DFE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You smell of death. Been conjuring up dead things?",
+    "string": "你身上有亡者气息，你召唤过不死生物？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DFF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Look at the muscles on you!",
+    "string": "看看你身上的肌肉！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E00|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're a fit one. Been running a lot?",
+    "string": "体格不错嘛，经常跑步锻炼？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E01|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You've got a real bounce to your step. I'll bet you're quite the acrobat.",
+    "string": "你的步伐真轻快得很，我打赌你是个杂技好手。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E02|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You look like a shrewd businessman.",
+    "string": "你满脸精明，是个商人吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E03|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You've got some nimble fingers. What have you been getting into?",
+    "string": "你的手指真灵活，你平时都在干些什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E21|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ho hey, sweet lady of Wayrest! Ho hey, sweet lady of mine! Oh I'll see you again,  yes I'll see you again, sweet lady of Wayrest so fine!",
+    "string": "嘿，可爱的韦勒斯女士嘿，我亲爱的女士哦，我会再见到你的，是的，我会再见到你的 可爱的韦勒斯小姐，如此美好",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E2A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, hello Atinia.",
+    "string": "哦，你好呀，阿蒂妮娅。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E2B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hello there.",
+    "string": "你好啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E2C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good morning.",
+    "string": "早安。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E2D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good afternoon.",
+    "string": "午安。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E2E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well met.",
+    "string": "很高兴见到你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E2F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bye.",
+    "string": "再见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E30|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Farewell.",
+    "string": "再会。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E31|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be seeing you.",
+    "string": "再见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E58|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, hello there Megellus.",
+    "string": "哦，你好呀，梅杰卢斯.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E59|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Greetings.",
+    "string": "你好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E5A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How goes it?",
+    "string": "过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E5B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's going on with you?",
+    "string": "最近你过的怎样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E5C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good morning.",
+    "string": "早安。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E5D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good afternoon.",
+    "string": "午安。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E5E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Take care.",
+    "string": "多保重。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E5F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Goodbye.",
+    "string": "再见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E60|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be seeing you.",
+    "string": "再见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E7F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How are you?",
+    "string": "最近如何？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E80|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How are you today?",
+    "string": "今天过得如何？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E81|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Great!",
+    "string": "非常好！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E82|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fantastic! Thanks for asking.",
+    "string": "过的非常棒！谢谢你关心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E83|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fine.",
+    "string": "好嘛。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E84|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That is good news.",
+    "string": "那真是好消息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E85|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good to hear.",
+    "string": "听到你这么说我很高兴。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E86|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good for you.",
+    "string": "挺好的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E87|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not bad.",
+    "string": "还行吧.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E88|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've been better.",
+    "string": "我情况好多了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E89|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear you.",
+    "string": "我听见你说的了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E8A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is that so?",
+    "string": "是吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E8B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right.",
+    "string": "好的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E8C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Terrible. Just terrible.",
+    "string": "太糟了，真的非常糟糕。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E8D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Awful. I don't want to talk about it.",
+    "string": "很糟，我都不想谈这些。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E8E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's too bad.",
+    "string": "那真是太糟了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E8F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm sorry to hear that.",
+    "string": "我感到很遗憾。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E90|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? What a shame.",
+    "string": "真的吗？真遗憾。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E91|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope things get better.",
+    "string": "我希望一切都会好起来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EC8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stop right there, criminal scum! Nobody breaks the law on my watch!",
+    "string": "站住！你这人渣！没人能在我眼皮子底下犯案！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000ECC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's all over, lawbreaker!",
+    "string": "结束了，罪犯！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000ECD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What luck! You're trespassing! I'm a guard! And I LOVE my job!",
+    "string": "多幸运啊！你在擅闯私人领地！恰好我是个卫兵，而且我相当称职！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E20|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There once was hardy young lad of the sea... A Redguard of courage and honor was he... Sail on, my Cyrus, sail on...",
+    "string": "有位坚毅的年轻水手郎... 红卫男儿英勇且高尚... 启航吧，我的赛勒斯，扬帆远航...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600098D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know what you mean, we Argonians love the rain.",
+    "string": "我不知道你在说什么，我们蜥蜴人最爱雨季",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600098E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's awful. I can't stand it. It's so cold, my joints are killing me and I feel terrible.",
+    "string": "太可怕了，我受不了了。冷得关节发痛，感觉糟透了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0600098F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If it got any colder I think I'd just die.",
+    "string": "要是再冷些我怕是活不成了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000990|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can't stand it. I think my bones are going to seize up if I don't get near a fire soon.",
+    "string": "再不烤火我骨头都要冻僵了，实在扛不住了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000991|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We Nords don't really mind the cold that much.",
+    "string": "我们诺德人其实不太在乎这点寒冷。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000992|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nords are made of sturdier stuff, our blood can stand the cold.",
+    "string": "诺德人穿的更结实，我们的血脉也能抵御严寒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000993|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Orcs aren't bothered by a bit of bad weather.",
+    "string": "兽人可不会因为这点坏天气就犯愁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F7|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Look at the sky. Be a terrible day tomorrow. I know it.",
+    "string": "看看这天空。明天一定会很糟。我敢肯定。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These are dark times.",
+    "string": "这暗无天日的日子啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Unbelievable!",
+    "string": "难以置信！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Terrible times.",
+    "string": "悲惨的日子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060009F9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh... so terrible. When will these dark times be over?",
+    "string": "喔……太悲惨了。黑暗的日子什么时候才会结束？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CC2|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say that Ulrand is trying to make himself Captain of the Guard and if he gets the job we will be charged 5 septims for littering! - Littering!? I barely make that in a year! That's just ridiculous!",
+    "string": "他们说乌尔兰德想当守卫队长，要是得逞了，乱丢垃圾都要罚5金币！- 乱丢垃圾！？我一年都挣不了多少钱！这简直荒唐！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CC3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ulrand keeps his quarters locked, but I've glimpsed inside. The things he has in there could never be purchased on a his salary. At first I thought maybe he was from wealthy stock, but many of the goods have been delivered recently.",
+    "string": "尔兰德总锁着房间，但我瞥见过里头。凭他那点薪水根本置办不起那些东西。起初我以为他出身显贵，可好多货物都是最近才运来的……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CC4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ulrand fancies himself Captain of the Guard here in Riften. But he's not even a guard. I don't get it.",
+    "string": "乌尔兰德自以为是裂谷城的守卫队长，可他连守卫都不是，真叫人费解。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CC5|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That Ulrand fellow is an odd one eh? Struts about like he's someone important, but really, who is he?",
+    "string": "那个叫乌尔兰德的怪人，总端着架子装大人物，他算哪根葱啊？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CC6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Rumour is that Ulrand wants to become Captain of the Guard. And if he does, he'll introduce a wide range of fines for all sorts of nonsense reasons.",
+    "string": "听说乌尔兰德要是当上守卫队长，就会找各种荒唐理由乱罚款。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000B9F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh... so terrible. When will these dark times be over?",
+    "string": "喔……太悲惨了。黑暗的日子什么时候才会结束？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C68|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Huh? Oh my goodness. Excuse me, are you all right? I... By the Divines, this person's dead!",
+    "string": "啊？我的神啊，拜托，你还好吗？我……圣灵哪，这人已经死了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C69|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "May you rest in peace.",
+    "string": "愿你安息。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C6A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tsk. Such terrible times we live in. Is no place safe anymore?",
+    "string": "啧，这世道太不太平了，哪里还有安全的地方？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C6B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Someone's been murdered!",
+    "string": "有人被谋杀了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C6C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Man down! Man down!",
+    "string": "有人倒下！有人倒下！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C6D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph. Better them than me.",
+    "string": "嗤，还好是他们不是我。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F55|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alas and oweth! They hath unbreathed most tragiculously!",
+    "string": "哎呀！这死得也太惨了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F56|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Methinks this fellow hath taken a nap most permanented.",
+    "string": "我看这哥们儿是睡了个永久回笼觉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F57|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ooooh, that do be a sprawlin'. Much sprawlin'. Very deceasedly.",
+    "string": "嚯，躺得那叫一个板正。标准挺尸姿势。死透透的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F58|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By the tusks of Trinimac! This one's soul hath evacuolized!",
+    "string": "崔尼马克的獠牙啊！这人的魂都散干净了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C77|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can't you see that I'm busy?",
+    "string": "你没看到我很忙吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C87|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What now?",
+    "string": "又怎么了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C88|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's the hold up? I don't have all day.",
+    "string": "怎么非得烦我？我不是无所事事的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C89|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've nothing to say to you.",
+    "string": "我对你无话可说。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C8A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've better things to do than waste time speaking with you.",
+    "string": "我有更好的事情要做，而不是浪费时间和你说话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C79|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know you and I don't care to know you.",
+    "string": "我不认识你，我也不想认识你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C7A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know you and I don't care to know you.",
+    "string": "我不认识你，我也不想认识你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C7B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know you and I don't care to know you.",
+    "string": "我不认识你，我也不想认识你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C7C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know you and I don't care to know you.",
+    "string": "我不认识你，我也不想认识你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C7D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know you and I don't care to know you.",
+    "string": "我不认识你，我也不想认识你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C7E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know you and I don't care to know you.",
+    "string": "我不认识你，我也不想认识你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C7F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know you and I don't care to know you.",
+    "string": "我不认识你，我也不想认识你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C80|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know you and I don't care to know you.",
+    "string": "我不认识你，我也不想认识你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C81|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know you and I don't care to know you.",
+    "string": "我不认识你，我也不想认识你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C82|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Get out of my way before I have you slapped in irons.",
+    "string": "在我给你戴上镣铐之前，给我滚开。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C84|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't like being disturbed.",
+    "string": "我不喜欢被打扰。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C85|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Piss off!",
+    "string": "滚开!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000C86|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're really pushing it. Just keep disturbing me.",
+    "string": "你真的太过分了，别打扰我了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CB0|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hunh!",
+    "string": "喝！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CB4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yearrgh!",
+    "string": "耶啊啊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CAF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeagh!",
+    "string": "呀！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CB1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gah!",
+    "string": "嘎！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CB2|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hyargh!",
+    "string": "嘿呀！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CB3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oof!",
+    "string": "哦！！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CB5|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Rragh!",
+    "string": "啦啦！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CB8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We've got a burglar!",
+    "string": "我们这有贼！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CBB|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stop! Thief!",
+    "string": "站住，小偷！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CBC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you think you're doing?",
+    "string": "你以为自己在做什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CBD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stop right there criminal scum!",
+    "string": "人渣罪犯，给我站住！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CBA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We've got a burglar!",
+    "string": "有窃贼啊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CBF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I never knew you and I don't care you're dead.",
+    "string": "我不认识你，我也不想在意一个死人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D60|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hunh!",
+    "string": "喝！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D61|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gah!",
+    "string": "嘎！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D5F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeagh!",
+    "string": "呀！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D62|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Unf!",
+    "string": "唔嗯！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D63|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oof!",
+    "string": "哦！！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D66|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Get your hand out of my pocket!",
+    "string": "把你的手拿出我的口袋！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D5D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Grrargh!",
+    "string": "呀啊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D5E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aggghh!",
+    "string": "啊啊啊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D64|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch where you're going!",
+    "string": "看着点路！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D65|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey! Don't be so mean!",
+    "string": "嘿！别那么刻薄！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CF7|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll Kalicrak the Findoo. I will. You Terratet it.",
+    "string": "我要把芬朵给卡利克拉克喽！说到做到！你早特雷泰特过了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CF8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Rany Roo! Rany Roo!",
+    "string": "兰尼鲁兰尼鲁！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CF9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I saw the Zaxer. And I magged it too. Aw, fribble!",
+    "string": "我瞅见扎克了。还给它马格了。啊，傻乐吧！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CFA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tell the daen! Tell the daen! Karn sky is relfing.",
+    "string": "告诉戴恩！告诉戴恩！卡恩天空是热尔芬！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CFB|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fribble! Just Fribble!",
+    "string": "胡扯淡！就是胡扯淡！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CFC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gal bursten it.",
+    "string": "格尔爆炸它！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CFD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Naryan that! I'll balitoe before I krayble.",
+    "string": "纳瑞安它！我会巴拉透在我克雷波之前!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CFE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Friend no dorpidity? Communce to Uungor. Uungor communces he no deliriotic, that he mented fine. But Uungor is very deliriotic. Oversit me? Uungor communces he \"bye-bye\".",
+    "string": "朋友没痴呆病？跟温格通讯。温格宣称他不疯癫，说脑瓜灵得很。但温格可癫得紧呐。懂啦？温格说他要\"拜拜\"。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000CFF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Communce with Uungor. Are you identing me? Communce with Uungor! Give friend dorpidity in Uungor's dormitiloo.",
+    "string": "跟温格通讯。认得出我吗？跟温格通讯！在温格的多米特鲁里给朋友塞痴呆病。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D00|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Grundy obelisks! Always tetterating knights and festars. Use the dookas to fix them.",
+    "string": "葛伦迪方尖碑！骑盔甲和星节兽总在咯噔响。用渡鸦石把它们治服帖。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D01|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dark-dark. We've been yinging a zeffle.",
+    "string": "黑黢黢。咱们一直在叽喳泽弗尔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D02|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Give them gargen to emeet with.",
+    "string": "给它们嘎金去汇面吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D03|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They die quickly if you jejinak them. Jejinak! Jejinak!",
+    "string": "如果耶吉纳个克他们，他们就死得快。耶吉纳！耶吉纳！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D04|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Foul tergens they are. Heffin all of them.",
+    "string": "他们都是些卑鄙的家伙。全都如此。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D05|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sendockle the Klen. Do you understand? The Klen!",
+    "string": "森多科尔那个克伦，你明白吗？那个克伦！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D06|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gorble. Can't you hear them gorbling?",
+    "string": "戈布勒。难道你听不到他们在戈布勒吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D07|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've got a Quintat that says they can ipanate.",
+    "string": "我有一个昆塔特，上面写着他们能进行伊潘纳特。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D08|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have zickle to it. Nobody does rebby zickles any more.",
+    "string": "来点儿姿锅吧，现在可没人做这个甜姿锅喽。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D09|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Greetings and salutations!",
+    "string": "你好，致敬！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D0A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why does everyone in this city look at me like I'm speaking gibberish?",
+    "string": "为什么这座城市里的每个人看我的眼神都像在说胡话？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D0B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're the only one that understands me.",
+    "string": "你是唯一懂我的人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D3C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't you get it? You can't understand me unless you have the fork! You need the fork!",
+    "string": "你还不明白吗？除非你有叉子，否则你无法理解我！你需要叉子！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D3D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You don't understand a word I'm saying, do you?",
+    "string": "你根本听不懂我在说什么，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D3E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's the point? You won't understand me. Not without the fork.",
+    "string": "有什么意义？你不会理解我的没有叉子就听不懂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D53|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Goodbye then.",
+    "string": "那么再见了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000D54|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nice talking to you, even if you didn't understand a word I said.",
+    "string": "很高兴和你聊天，即使你完全听不懂我说的话。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DBA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, a stranger in town. But as I always say, a stranger is just a friend I haven't met yet!",
+    "string": "啊，城里来了个陌生人。但正如我常说的那样，陌生人只是我还没遇到的朋友！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DDA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you think you can spare a little something for an old friend? You know I'm good for it.",
+    "string": "你能为老朋友做点什么吗？你知道我很能干的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DDB|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you need, friend? Anything for you.",
+    "string": "你需要什么，朋友？什么都行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DDE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What? I'm in kind of a hurry.",
+    "string": "什么？我赶时间。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DE6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I need to keep retracing the circle or it will break.",
+    "string": "我需要继续维持这个循环，否则它就会坏掉。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DA6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ni-ni-ni-ni-ni-ni-ni-ni-ni-ni!",
+    "string": "尼-尼-尼-尼-尼-尼-尼-尼-尼-尼！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DA7|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ni-ni-ni-ni-ni-ni-ni-ni-ni-ni!",
+    "string": "尼-尼-尼-尼-尼-尼-尼-尼-尼-尼！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DA8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ni-ni-ni-ni-ni-ni-ni-ni-ni-ni!",
+    "string": "尼-尼-尼-尼-尼-尼-尼-尼-尼-尼！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DA9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ni-ni-ni-ni-ni-ni-ni-ni-ni-ni!",
+    "string": "尼-尼-尼-尼-尼-尼-尼-尼-尼-尼！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DAA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch it!",
+    "string": "小心！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DAB|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey, be careful!",
+    "string": "嘿，小心点！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DAF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gah!",
+    "string": "嘎！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DB0|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hyargh!",
+    "string": "嘿呀！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DB3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Rrrraaaaarrggghhhh!",
+    "string": "噢噢啊啊啊！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DB4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hhyyaarargghhhh!",
+    "string": "呵呀呀呀！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DB1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gah!",
+    "string": "嘎！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DB2|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oof!",
+    "string": "哦！！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DAD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You dirty thief!",
+    "string": "你这肮脏的贼！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DAE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pickpocket! We've got a pickpocket!",
+    "string": "小偷！这里有个小偷！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1RunsDialogueMeetBranchTopic",
+    "form_id": "06000DB8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Did you say you needed money?",
+    "string": "你说你需要钱？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DB9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey, friend, do you think you could help me out? I'm caught a bit short at the moment... anything at all would be much appreciated.",
+    "string": "嘿，朋友，你能帮帮我吗？我现在手头有点紧......如果能帮上忙，我将感激不尽。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1RunsDialogueMeet2Topic",
+    "form_id": "06000DBD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry, I can't help you right now.",
+    "string": "对不起，我现在帮不了你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1RunsDialogueMeet3Topic",
+    "form_id": "06000DC0|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Get lost.",
+    "string": "给我滚。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1RunsGiveCoinTopic",
+    "form_id": "06000DC3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have a coin, beggar.",
+    "string": "给你个硬币，乞丐。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1RunsDialogueGiveShoesTopic",
+    "form_id": "06000DC6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "[Give Shoes]",
+    "string": "[给鞋]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DC7|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm... not bad! Better than my old pair. Thanks, friend!",
+    "string": "嗯......还不错！比我的那一双好。谢谢，朋友！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1RunsGiveAppleTopic",
+    "form_id": "06000DC9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "[Give Apple]",
+    "string": "[给苹果]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DCA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sweet and juicy! I can always count on you, my best pal!",
+    "string": "甜美多汁！我总是可以依靠你，我最好的朋友！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DCC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh no. Oh no no no. No no no no no no no!!  Ni-ni-ni-ni-ni-ni-ni-ni-ni-ni! Ni-ni-ni-ni-ni-ni-ni-ni-ni-ni!",
+    "string": "哦不，不不不不。不不不不不不！！尼-尼-尼-尼-尼-尼-尼-尼-尼-尼-尼-尼-尼-尼！尼-尼-尼-尼-尼-尼-尼-尼-尼-尼！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DCD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What? What did you say? What did you say?! Ni-ni-ni-ni-ni-ni-ni-ni-ni-ni! Ni-ni-ni-ni-ni-ni-ni-ni-ni-ni!",
+    "string": "什么？你说什么？你说什么？!尼-尼-尼-尼-尼-尼-尼-尼-尼-尼-尼-尼-尼-尼！尼-尼--尼-尼-尼-尼-尼-尼-尼！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DCE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thanks. Thanks a lot.",
+    "string": "谢谢。非常感谢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1RunsShoesTopic",
+    "form_id": "06000DD0|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where are your shoes?",
+    "string": "你的鞋呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DD1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My feet hurt so bad. I could sure use a new pair of shoes. Can you help me out? Please?",
+    "string": "我的脚疼得厉害。我肯定需要一双新鞋。你能帮帮我吗？求你了？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1RunsFoodTopic",
+    "form_id": "06000DD3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you hungry?",
+    "string": "你饿了吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DD4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey, got any apples? Or carrots? Anything at all crunchy and yummy to eat?",
+    "string": "嘿，有苹果吗？或者胡萝卜？任何脆脆的好吃的东西？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1RunsGiveCarrotTopic",
+    "form_id": "06000DD6|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "[Give Carrot]",
+    "string": "[给胡萝卜]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DD7|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nice and crunchy! Thanks!",
+    "string": "又香又脆！谢谢！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DE1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? She wanted help? I could use some help. Actually I could use some food. Do you have any? I'm not picky. Anything at all.",
+    "string": "啥？她需要帮忙？我自己还缺帮手呢...不对，是缺吃的！你有吗？不挑的，随便什么能填肚子的都行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DE3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you have any shoes? No? Sorli offered me some shoes if I ran an errand for her. I just ran instead. Say, do you have any shoes?",
+    "string": "有靴子吗？没有？索莉说帮她跑腿就给双鞋...结果我直接光脚开溜了。喂，你真的没有靴子？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DE5|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ow! These holes in my shoes are killing me. Well, gotta run!",
+    "string": "熬！这破鞋窟窿扎得我脚疼！算了，该跑路了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DE8|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I tried to tidy up for Sorli, but she just shooed me away. Then she had the nerve to ask for my help fetching things for her.",
+    "string": "我想帮索莉整理一下，她却把我推开了。然后，她还大言不惭地要我帮她拿东西。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DEA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No. You'd just spill it on yourself anyway. Well, I have to keep carrying these logs. It's been over an hour. Goodbye.",
+    "string": "不，反正你迟早会洒到自己身上。好了，我得继续搬这些木头了。都一个多小时了。再见。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000DEC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No, no shoes. But how about a bath? You really should take a bath. You shouldn't run any errands for Sorli until you take a bath.",
+    "string": "不行，不能穿鞋。不过洗个澡怎么样？你真该洗个澡。在你洗完澡之前，别给索莉跑腿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E17|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Must have been the wind.",
+    "string": "一定是风。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E39|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you heard? There are goblins near the Imperial City!",
+    "string": "你听说了吗？帝国城附近有哥布林！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E3A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you think what happened to Kvatch could happen here?",
+    "string": "你觉得科瓦奇发生的事会在这里重演吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E3B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I plan to visit the Imperial City soon to pay my respects at the Temple of the One. They say the Dragon Statue is 100 feet high!",
+    "string": "我打算很快去帝都拜谒一神殿。据说那里的龙像有 100 英尺高！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E3C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There's been trouble with smugglers and Khajiit bandits in the Trans-Niben.",
+    "string": "在跨尼本地区，走私者和卡吉特强盗一直很猖獗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E3D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The legions patrol the roads, and they've always been sufficient. I can't imagine we'll ever be at war with the provinces... not in my lifetime.",
+    "string": "军团把道路巡逻得很好，向来都够用。我这辈子可想象不到帝国会和外省开战……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E3E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've sometimes thought I'd like to make a pilgrimage to the wayshrines, but my duties prevent me from such extensive and dangerous travel.",
+    "string": "我曾想去圣灵祭坛朝圣，但职责所限，难以踏上如此漫长又危险的旅途。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E3F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What can be said about taxes? They're high, but we must pay. At least they are administered efficiently, and the shrinkage is within decent limits.",
+    "string": "关于税收能说些什么呢？税负很重，但我们必须缴纳。至少税收征管高效，而且缩减幅度在合理范围内。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E40|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've heard that the Fighters Guild has been having some problems with their contracts recently. That's not like them.",
+    "string": "我听说最近战士公会的合同出了些问题。这可不像他们的作风。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E41|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Tiber Septim Hotel is a nice place. It's not cheap, though.",
+    "string": "泰伯·赛普汀旅店是个不错的地方。不过价格不便宜。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E42|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you're an alchemist, The Main Ingredient is a good place to shop.",
+    "string": "要买炼金材料的话，主料坊是个好去处。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E43|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I lived in the Imperial City for a while, but city life just isn't for me. I'm much happier in Chorrol.",
+    "string": "在帝都住过阵子，但城里生活不适合我。还是住在科洛尔更舒心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EA0|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So, have you bet on any Arena matches lately?",
+    "string": "最近赌过竞技场比武吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E46|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh - uh - right.",
+    "string": "噢-嗯-对。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E47|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I... I'm sorry! I didn't realize!",
+    "string": "我……对不起！我没想到！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E48|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course.",
+    "string": "当然。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E4A|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well - uh - obviously I was joking - couldn't you - uh - tell?",
+    "string": "嗯——呃——我当然是在开玩笑——难道你——呃——看不出来吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E4B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stop talking!",
+    "string": "别说了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E4C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm done talking with you",
+    "string": "我不会和你说话了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E52|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you been on the Skooma again? Where do you think you are?",
+    "string": "你是不是又吸斯库玛了，你觉得你在哪？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E53|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sometimes I wonder what's going on in that head of yours.",
+    "string": "有时我真不知道你脑袋里在想些什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E54|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you lost your mind? This is Skyrim.",
+    "string": "你疯了吗？这里是天际！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E55|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you lost?",
+    "string": "你迷路了吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E56|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What are you going on about? You're in Solitude. In Skyrim?",
+    "string": "你在说什么？你在独孤城，在天际省？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000E57|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Huh? We're in Skyrim.",
+    "string": "啊？我们在天际。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F4E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Welcome to die!",
+    "string": "欢迎来送死！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F4F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm gonna remove your orbital appendage and give your body new venetration holes!",
+    "string": "我要剜掉你的眼珠子，再给你的臭皮囊开几个通风口！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F50|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've fougthen mudcrabs most forthwith betwixt you!",
+    "string": "我杀过的泥蟹都比你像样！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F53|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stand still and receive your thrashment, most odiferous goatspawn!",
+    "string": "老实站好挨揍吧，浑身羊骚味的杂种！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F54|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By the beard of my aunt Grulgasha, you shall be hammified!",
+    "string": "凭我格鲁加沙姑妈的胡子起誓，必把你锤成肉泥！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1EOODialogueVikuTopic",
+    "form_id": "06000ED9|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let me into the embassy, or else!",
+    "string": "让我进大使馆，不然……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EDA|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'll have to do better than that, you mud-crawling sap-licking jumped-up reptile. Crawl back to your hole.",
+    "string": "就这水平？钻泥巴舔树汁的蜥蜴怪，滚回你的耗子洞！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EDB|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'll have to do better than that, you yellow-faced pointy-eared monkey.",
+    "string": "黄脸尖耳的猴子，你该弄点新花样！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EDC|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dog? You greet me as a Breton, the mongrel race of Tamriel, motherless lackeys of every great empire that ever conquered your homeland?",
+    "string": "管我叫狗？你好像把我当成布莱顿人，被哪个帝国征服就舔哪个的贱骨头！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EDD|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'll have to do better than that, you ashen-faced god-cursed product of a Daedra's bowels.",
+    "string": "面无血色的迪德拉肠渣，遭魔神诅咒的秽物！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EDE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'll have to do better than that, you pasty-faced mongrel of an upstart race. Back to the slave pens where you were bred.",
+    "string": "你得再努努力，你这面如死灰的暴发种族杂种，滚回培育你的奴隶围栏！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EDF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'll have to do better than that, you pasty-faced mongrel of an upstart race. Back to the slave pens where you were bred.",
+    "string": "你得再努努力，你这面如死灰的暴发种族杂种，滚回培育你的奴隶围栏！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EE0|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I expected better from you. Are you the one witless Khajiit in all the world?",
+    "string": "你太弱了。莫非你是全奈恩唯一没脑子的虎人？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EE1|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dog? You greet me as a fellow, then, you tusk-faced brute. Did your human master let you off the leash? Crawl back under his table. Maybe he'll throw you a bone to gnaw on.",
+    "string": "当我是同类？你这獠牙暴突的蠢物。人类主子解开狗链了？爬回去啃桌底骨头吧！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EE2|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'll have to do better than that, you dust-dwelling goat-herder, pathetic remnant of infamous Yokuda.",
+    "string": "你必须再努力点，沙漠里放羊的尤库达废物，身上只有泥巴味！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EE3|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is that truly the best you can do? Your \"threats\" might be better suited elsewhere.",
+    "string": "这就是你的能耐？留着这些“威胁”去别处吧！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EE4|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're not very good at this are you?",
+    "string": "你不是很擅长这个，对吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EFE|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hello.",
+    "string": "你好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000EFF|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good day.",
+    "string": "祝你今日顺心。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F00|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hello Ambarys.",
+    "string": "你好，安巴利。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F02|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was the only alchemist in Skingrad. Not much business here, but I can't go back to Morrowind. It's just like anywhere else in Tamriel. By the way... do you happen to know what the fine is here in Skyrim for necrophilia? Just asking.",
+    "string": "我以前是斯金格拉德唯一的炼金师。这儿生意差，但总比回晨风强...对了，你知道天际对恋尸癖怎么罚吗？只是问问。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F04|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh. Nothing. I was just wondering.",
+    "string": "噢，当我没问，我就是……好奇罢了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F06|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's assume 'no'.",
+    "string": "让我们假设 \"没有\"。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F08|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's nothing compared to Morrowind. Thanks.",
+    "string": "跟晨风比起来，这不算什么。谢谢。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F0E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uh... excuse me?",
+    "string": "呃......不好意思？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F10|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is it the first offense?",
+    "string": "是初犯吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F12|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Then it's at least 500 gold.",
+    "string": "那么，至少要 500 金币吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F4B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Anon us most soon again, for sooth.",
+    "string": "我们很快就会再见面的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F4C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Go to, bold fighterperson.",
+    "string": "去吧，勇敢的斗士。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F52|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Prepare thyself for unscheduled discombobulance!",
+    "string": "准备好迎接突如其来的混乱吧！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F5B|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey! That consumption was most unwelcomified!",
+    "string": "嘿！这种消费方式是最不受欢迎的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F5C|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I thinketh that your oculars need testifying!",
+    "string": "我觉着你的眼睛得好好检查检查了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F5D|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Please. Mind your cromulent mannequins!",
+    "string": "请注意你的礼貌举止！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F5E|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you taken afront to my belongeth-ness?",
+    "string": "你对我拥有的东西有什么意见？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F5F|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey! My chesticles are not for your amateur-ness!",
+    "string": "嘿！我的胸可不是给你们这些外行看的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F60|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch out! Are you trying to vanquish my posterity?",
+    "string": "小心点！你这是想我断子绝孙吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06000F61|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You touch my buttocks in a way that stabilises every suggestion of personal chastisement!",
+    "string": "你触摸我臀部的方式，足以平息所有关于我应受责罚的念头！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JB1Ataxia",
+    "form_id": "06000CE5|Echoes of Oblivion.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Ataxia",
+    "string": "运动失调",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "StonehillsLocation",
+    "form_id": "00018A52|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Stonehills",
+    "string": "石山",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunLocation",
+    "form_id": "00018A56|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Whiterun",
+    "string": "白漫城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmLocation",
+    "form_id": "00018A57|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Windhelm",
+    "string": "风舵城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenLocation",
+    "form_id": "00018A58|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Riften",
+    "string": "裂谷城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthLocation",
+    "form_id": "00018A59|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Markarth",
+    "string": "马卡斯城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeLocation",
+    "form_id": "00018A5A|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Solitude",
+    "string": "独孤城",
+    "status": "TranslationComplete"
+  }
+]

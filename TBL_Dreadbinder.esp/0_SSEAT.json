@@ -1,0 +1,524 @@
+[
+  {
+    "editor_id": "TBL_ExplosionAutoCastMGEF",
+    "form_id": "03000007|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dreadbinder Auto Cast Script",
+    "string": "缚惧之杖自动施法脚本",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_ExplosionAutoCastMGEF",
+    "form_id": "03000007|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Make an offering of 5 grand souls to the Ideal Masters. In return, all dead bodies in large area around you will be raised under your command for 180 seconds.",
+    "string": "向理想之主献上5个特大灵魂。作为回报，你周围的所有死尸都将在你的指挥下复活180秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_UndeadLimitPerkApply",
+    "form_id": "03000008|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dreadbinder: Undead Limit",
+    "string": "缚惧之杖：亡灵极限",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_UndeadLimitPerkApply",
+    "form_id": "03000008|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your deal with the Ideal Masters is allowing you to control ridiculous amount of undead for <dur> seconds.",
+    "string": "你与理想之主的交易，使你能短时间内控制大量亡灵，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_PassiveCloakScriptMGEF",
+    "form_id": "03000002|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dreadbinder: Soul Devour Effect",
+    "string": "缚惧之杖：灵魂吞噬效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_FortifyConjuration",
+    "form_id": "03000004|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dreadbinder: Fortify Conjuration",
+    "string": "缚惧之杖：强化召唤系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_FortifyConjuration",
+    "form_id": "03000004|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Conjuration spells cost <mag>% less to cast.",
+    "string": "召唤系法术消耗减少<mag>%。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_AoE",
+    "form_id": "03000005|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dreadbinder: Mass Reanimate",
+    "string": "缚惧之杖：群体复活",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_AoE",
+    "form_id": "03000005|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Reanimates all corpses up to <mag> level nearby to serve you for <dur> seconds.",
+    "string": "复活周围所有等级不超过<mag>级的尸体为你作战，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_AoEDMG",
+    "form_id": "03000006|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dreadbinder: Soul Burst",
+    "string": "缚惧之杖：灵魂爆炸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_AoEDMG",
+    "form_id": "03000006|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "If no soul gem is available, Dreadbinder disperses captured soul, causing <mag> soul damage to nearby enemies.",
+    "string": "如果没有可用的灵魂石，缚惧之杖将爆散捕获的灵魂，对周围的敌人造成<mag>点灵魂伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_PassiveCloak",
+    "form_id": "03000009|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dreadbinder: Soul Devour",
+    "string": "缚惧之杖：灵魂吞噬",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_PassiveCloak",
+    "form_id": "03000009|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Dreadbinder devouring souls of your enemies, trapping them for you and restoring your magicka depending on soul size. If no soul gems available, souls are dispersed, damaging your foes that are still alive.",
+    "string": "缚惧之杖会吞噬你敌人的灵魂，困住它们，并根据灵魂的大小恢复你的魔力。如果没有灵魂石可用，灵魂将被爆散，杀伤还活着的敌人。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_RestoreMagickaMGEF",
+    "form_id": "0300000A|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dreadbinder: Restore Magicka",
+    "string": "缚惧之杖：魔力恢复",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_RestoreMagickaMGEF",
+    "form_id": "0300000A|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Absorbing a soul with Dreadbinder restores wielder's magicka for <mag> points.",
+    "string": "用缚惧之杖吸收一个灵魂，恢复持有者<mag>点魔力。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_RestoreHealthMGEF",
+    "form_id": "0300000B|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dreadbinder: Restore Health",
+    "string": "缚惧之杖：生命恢复",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_RestoreHealthMGEF",
+    "form_id": "0300000B|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Absorbing a Black soul with Dreadbinder heals the wielder for <mag> points.",
+    "string": "用缚惧之杖吸收一个黑色灵魂，恢复持有者<mag>点生命值。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MassReanimateENCH",
+    "form_id": "0300000C|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Dreadbinder: Mass Reanimation",
+    "string": "缚惧之杖：群体复活",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_RestoreHealthSPEL",
+    "form_id": "0300000D|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dreadbinder: Restore Health",
+    "string": "缚惧之杖：生命恢复",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_SoulDevourSpell",
+    "form_id": "0300000E|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dreadbinder: Soul Devour",
+    "string": "缚惧之杖：灵魂吞噬",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_RestoreMagickaSPEL_0",
+    "form_id": "0300000F|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dreadbinder: Restore Magicka Grand",
+    "string": "缚惧之杖：魔力恢复-特大",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_RestoreMagickaSPEL_4",
+    "form_id": "03000010|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dreadbinder: Restore Magicka Petty",
+    "string": "缚惧之杖：魔力恢复-微",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_SoulBurstSPEL",
+    "form_id": "03000011|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dreadbinder: Soul Burst",
+    "string": "缚惧之杖：灵魂爆炸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_SoulDevourScriptSPEL",
+    "form_id": "03000012|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dreadbinder: Soul Devour Effect",
+    "string": "缚惧之杖：灵魂吞噬效果",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_FortifyConjurationSpell",
+    "form_id": "03000013|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dreadbinder: Fortify Conjuration",
+    "string": "缚惧之杖：强化召唤系",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_MassReanimationSPEL",
+    "form_id": "03000014|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dreadbinder: Mass Reanimation",
+    "string": "缚惧之杖：群体复活",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_UndeadLimitSPEL",
+    "form_id": "03000015|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dreadbinder: Undead Limit",
+    "string": "缚惧之杖：亡灵极限",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_RestoreMagickaSPEL_3",
+    "form_id": "03000016|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dreadbinder: Restore Magicka Lesser",
+    "string": "缚惧之杖：魔力恢复-小",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_RestoreMagickaSPEL_2",
+    "form_id": "03000017|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dreadbinder: Restore Magicka Common",
+    "string": "缚惧之杖：魔力恢复-普通",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_RestoreMagickaSPEL_1",
+    "form_id": "03000018|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dreadbinder: Restore Magicka Greater",
+    "string": "缚惧之杖：魔力恢复-大",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_RavenSkullACTI",
+    "form_id": "03000019|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Ominous Raven Skull",
+    "string": "凶兆之鸦骷髅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_RavenSkullACTI",
+    "form_id": "03000019|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Pick up",
+    "string": "捡起",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_ValericasJournal",
+    "form_id": "0300001A|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Valerica's Notes - Artifact",
+    "string": "瓦蕾莉卡的笔记-神器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_ValericasJournal",
+    "form_id": "0300001A|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face=\"$HandwrittenFont\">\r\n\r\nDate Unknown. Time has lost meaning here.\r\n\r\nI once believed myself above the petty ambitions of mortal necromancers - those crude manipulators of bone and soul. But centuries in this wretched prison of the Ideal Masters have tested the limits of even my resolve. The Soul Cairn is vast and hollow, and in its silence I have heard whispers - not from the Masters themselves, but from what remains of those who served them... and were discarded.\r\n \r\nThere is talk, if such a thing can be called talk in this place, of an <b>artifact</b>. A creation of dread purpose - one that allows a necromancer to <b>bind themselves to the Ideal Masters</b>, a conduit for offering them souls in return for power beyond the veil. Not just dominion over the dead... but a siphoning pact. Souls consumed - magicka restored. A grotesque economy of death.\r\n\r\nAt first, I dismissed it as lunatic rambling, but the pattern returned again and again: <b>a staff broken</b>, <b>shattered</b>, its pieces scattered through the Cairn like bones across a battlefield. A skull of some raven-creature... a shard of twisted wood... and something more, something <b>missing</b> - a cost, a toll.\r\n\r\nI cannot locate the fragments from within this accursed barrier. But should I ever break free - or be freed - I will find them. I must.\r\n\r\nThough I suspect the fragments were not simply left unguarded. The Ideal Masters do not part with power lightly. From what I've gathered, each piece may be tied to a guardian - a soul twisted into servitude, warped by the Cairn's unnatural laws. Recovering them will likely require force... and caution.\r\n\r\nThe question then becomes: what to do with them? These aren't artifacts to be mended with spell and glue. Their essence is Daedric - bound not to Nirn, but to the void itself. Only one place comes to mind: <b>the Atronach Forge</b>, beneath the College of Winterhold. Ancient, Daedric, and still tethered to realms beyond.\r\n\r\nAs for the offering... the Ideal Masters care for one thing only: souls. Black ones. Five such offerings may suffice to draw their attention - perhaps enough to persuade them to restore what was broken.\r\n\r\nIf nothing else, this will keep my mind occupied. Perhaps hope is the cruellest illusion of all, but I will entertain it, if only to spite my jailors.\r\n\r\n</font>",
+    "string": "<font face=\"$HandwrittenFont\">\r\n\r\n日期未知，时间在此毫无意义。\r\n\r\n我曾相信，自己肯定能超越那些凡人死灵法师的渺小野心，那些只不过是粗暴操纵尸骨与灵魂的鼠辈。但在理想之主的悲惨监狱里几百年了，我的决心受到了考验。灵魂石冢巨大而空旷，寂静之中总有低语传来，并非理想之主，而是那些曾效劳于他们又被丢弃在此之人的……遗骸。\r\n \r\n据传（如果这地方还有传言的话），这里有一件<b>神器</b>。那恐怖的造物能让<b>死灵法师与理想之主</b>相绑定，建立一个为理想之主提供灵魂以换取力量的通道。不仅仅是凌驾死者，更是一个吸收协议。通过消耗灵魂，来恢复魔力。真是荒诞的死亡经济。\r\n\r\n起初我以为不过是无稽之谈，但低语一次又一次出现：<b>一根破碎的法杖</b>，<b>支离破碎</b>，它的碎片散落在石冢之中，如同战场的骸骨。一个乌鸦的头骨……一块扭曲的木头碎片……还有其他，其他<b>遗失</b>之物，那是一种代价。\r\n\r\n我没能在这个被诅咒的屏障内找到碎片。但如果我能挣脱，或者被救出去，那我一定会找到它们。一定。\r\n\r\n不过这些碎片大概会有看守之人。理想之主可不会轻易放弃力量。据我所知，每个碎片都有一个看守者，那些是被灵魂石冢的法则扭曲、奴役的灵魂。想要回收这些碎片八成需要动武……以及谨慎。\r\n\r\n那么现在的问题就是：如何修复它们？这东西可不是靠法术或者胶水就能粘起来的。我只想到了一个地方：<b>侍灵熔炉</b>，在冬堡学院的地下。古老的迪德拉造物，至今仍被束缚在遥远的国度。\r\n\r\n至于贡品……理想之主只关心一件东西，那就是黑色灵魂。献上5个应该足够引起他们的注意，说服他们修复破碎的神器。\r\n\r\n就算没别的事，这也足够让我忙一阵子了。也许所有幻想中最残酷的莫过于希望二字，但还是得心怀希望。我有希望，那些狱卒才会失望。\r\n\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_ReaperChest",
+    "form_id": "0300001B|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Reaper's Chest",
+    "string": "收割者的箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_CursedWood",
+    "form_id": "0300001C|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Deathroot Fragment",
+    "string": "死亡之根碎片",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_RavenSkullMisc",
+    "form_id": "0300001D|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ominous Raven Skull",
+    "string": "凶兆之鸦骷髅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_StaffConjWitch",
+    "form_id": "03000D62|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dreadbinder",
+    "string": "缚惧之杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1SoulCairnReaperCell",
+    "form_id": "02006429|Dawnguard.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Reaper's Lair",
+    "string": "收割者巢穴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC01SoulCairn",
+    "form_id": "02001408|Dawnguard.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Soul Cairn",
+    "string": "灵魂石冢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC01Boneyard",
+    "form_id": "0200528D|Dawnguard.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Boneyard",
+    "string": "墓园",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_Dreadbinder_Quest",
+    "form_id": "03000025|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Dreadbinder Utility",
+    "string": "缚惧之杖效用",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Binding Dread",
+    "string": "被束缚的恐惧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "In a bleak silence of the Soul Cairn, I've come across a strange, ominous object. Its purpose is unknown, but perhaps I can learn more about it somewhere within this realm of the dead.",
+    "string": "在灵魂石冢一片荒凉寂静之中，我遇到了一个奇怪不祥之物。它用途未知，但也许我能在这片死亡之域寻找更多线索。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've found one of Valerica's journals. It might shed light on the nature and purpose of the object I discovered. I should read it.",
+    "string": "我找到了瓦蕾莉卡的一本日记。也许能告诉我那东西的性质和用途。我应该读一读。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Valerica's journal speaks of the lost fragments of a powerful staff - a conduit to the Ideal Masters themselves. A raven's skull and a warped shard of wood, hidden and likely guarded by some of the most dangerous souls in the Cairn. If I can recover both, the staff might be restored.",
+    "string": "瓦蕾莉卡的日记里提到了一根强力法杖遗失的碎片。这根法杖是沟通理想之主的通道。现在还差一颗乌鸦头骨和一块扭曲的木头碎片，很可能被石冢里最危险的灵魂守卫着。只要找回这两样东西，就能修复法杖了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I now have both fragments. According to Valerica's notes, only the Atronach Forge beneath the College of Winterhold can restore the staff's power. I must follow her instructions to prepare an offering for the Ideal Masters.",
+    "string": "我已经取回了碎片。根据瓦蕾莉卡的笔记，只能去冬堡学院地下的侍灵熔炉才能修复法杖。我必须按照笔记的指示为理想之主准备祭品。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "The Ideal Masters have accepted my offering. The Dreadbinder has been restored through the Forge's magic. All that remains is to claim it and seal the pact.",
+    "string": "理想之主们接受了我的提议。缚惧之杖已经通过熔炉的魔法恢复了。剩下的就是拿取它并签订契约。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I have claimed the Dreadbinder, sealing my pact with the Ideal Masters. The price is paid, and the bond is forged.",
+    "string": "我已经拿到了缚惧之杖，与理想之主们签订了契约。付出代价之后，纽带已经建立。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Search the Soul Cairn for information about the strange object",
+    "string": "在灵魂石冢搜索关于奇怪物品的信息",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 35,
+    "type": "QUST NNAM",
+    "original": "Read Valerica's journal",
+    "string": "阅读瓦蕾莉卡的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Obtain both fragments of the artifact",
+    "string": "获取神奇的两个碎片",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 42,
+    "type": "QUST NNAM",
+    "original": "Find the Ominous Raven Skull",
+    "string": "找到凶兆之鸦骷髅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 44,
+    "type": "QUST NNAM",
+    "original": "Find the Deathroot Fragment",
+    "string": "找到死亡之根碎片",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Use the Atronach Forge as described in the journal",
+    "string": "按日记的描述使用侍灵熔炉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MainQuest",
+    "form_id": "03000026|TBL_Dreadbinder.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Take the Dreadbinder to seal your pact with the Ideal Masters",
+    "string": "拿取缚惧之杖并与理想之主签订契约",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MassReanimationPerk",
+    "form_id": "03000032|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Dreadbinder: Mass Reanimation",
+    "string": "缚惧之杖：群体复活",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TBL_DB_MassReanimationPerk",
+    "form_id": "03000032|TBL_Dreadbinder.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Dark powers within the Dreadbinder have temporarily granted you the ability to control more undead minions.",
+    "string": "缚惧之杖的黑暗力量使你暂时能够控制更多亡灵奴仆。",
+    "status": "TranslationComplete"
+  }
+]

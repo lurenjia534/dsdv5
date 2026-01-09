@@ -1,0 +1,38 @@
+[
+  {
+    "editor_id": "HFs_WoodenBowl_V1",
+    "form_id": "01000D62|HFs_BowlsRedone_Diversification.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wooden Bowl",
+    "string": "木碗",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HFs_WoodenBowl_V2",
+    "form_id": "01000D63|HFs_BowlsRedone_Diversification.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wooden Bowl",
+    "string": "木碗",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HFs_WoodenBowl_V3",
+    "form_id": "01000D64|HFs_BowlsRedone_Diversification.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wooden Bowl",
+    "string": "木碗",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HFs_WoodenBowl_V4",
+    "form_id": "01000D65|HFs_BowlsRedone_Diversification.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wooden Bowl",
+    "string": "木碗",
+    "status": "TranslationComplete"
+  }
+]

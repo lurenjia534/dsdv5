@@ -1,0 +1,479 @@
+[
+  {
+    "editor_id": "FGCFieryDamageMGEF",
+    "form_id": "01000003|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fire Damage",
+    "string": "火焰伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFieryDamageMGEF",
+    "form_id": "01000003|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Burns the target for <mag> points. Targets on fire take extra damage.",
+    "string": "灼烧目标，造成<mag>点伤害。着火目标会受到额外伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFireAndAtkDmgActive01MGEF",
+    "form_id": "01000007|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Fire",
+    "string": "火焰抗性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFireAndAtkDmgActive01MGEF",
+    "form_id": "01000007|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Resist <mag>% of fire damage for <dur> seconds. Bonus 10% damage on Battleaxe of Fiery Souls.",
+    "string": "增加<mag>%火焰抗性，持续<dur>秒。灼魂巨斧额外造成10%伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFrostActiveMGEF",
+    "form_id": "01000008|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Frost",
+    "string": "寒霜抗性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFrostActiveMGEF",
+    "form_id": "01000008|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Resist <mag>% of frost damage for <dur> seconds.",
+    "string": "寒霜抗性提高<mag>%，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFireAndAtkDmgActive02MGEF",
+    "form_id": "0100000F|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Fire",
+    "string": "火焰抗性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFireAndAtkDmgActive02MGEF",
+    "form_id": "0100000F|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Resist <mag>% of fire damage for <dur> seconds. Bonus 20% damage on Battleaxe of Fiery Souls.",
+    "string": "增加<mag>%火焰抗性，持续<dur>秒。灼魂巨斧额外造成20%伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFireAndAtkDmgActive03MGEF",
+    "form_id": "01000010|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Fire",
+    "string": "火焰抗性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFireAndAtkDmgActive03MGEF",
+    "form_id": "01000010|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Resist <mag>% of fire damage for <dur> seconds. Bonus 30% damage on Battleaxe of Fiery Souls.",
+    "string": "增加<mag>%火焰抗性，持续<dur>秒。灼魂巨斧额外造成30%伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFireAndAtkDmgActive04MGEF",
+    "form_id": "01000011|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Fire",
+    "string": "火焰抗性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFireAndAtkDmgActive04MGEF",
+    "form_id": "01000011|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Resist <mag>% of fire damage for <dur> seconds. Bonus 40% damage on Battleaxe of Fiery Souls.",
+    "string": "增加<mag>%火焰抗性，持续<dur>秒。灼魂巨斧额外造成40%伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFireAndAtkDmgActive05MGEF",
+    "form_id": "01000012|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Fire",
+    "string": "火焰抗性",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFireAndAtkDmgActive05MGEF",
+    "form_id": "01000012|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Resist <mag>% of fire damage for <dur> seconds. Bonus 50% damage on Battleaxe of Fiery Souls.",
+    "string": "增加<mag>%火焰抗性，持续<dur>秒。灼魂巨斧额外造成50%伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireCloakFFSelf01",
+    "form_id": "01000013|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Flame Cloak",
+    "string": "火焰斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireCloakFFSelf01",
+    "form_id": "01000013|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, opponents in melee range take <8> points fire damage per second. Targets on fire take extra damage.",
+    "string": "近身的敌人每秒受到<8>点火焰伤害，着火目标将承受额外伤害。持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireCloakFFSelf02",
+    "form_id": "01000017|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Flame Cloak",
+    "string": "火焰斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireCloakFFSelf02",
+    "form_id": "01000017|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, opponents in melee range take <8> points fire damage per second. Targets on fire take extra damage.",
+    "string": "近身的敌人每秒受到<8>点火焰伤害，着火目标将承受额外伤害。持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireCloakFFSelf03",
+    "form_id": "0100001A|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Flame Cloak",
+    "string": "火焰斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireCloakFFSelf03",
+    "form_id": "0100001A|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, opponents in melee range take <8> points fire damage per second. Targets on fire take extra damage.",
+    "string": "近身的敌人每秒受到<8>点火焰伤害，着火目标将承受额外伤害。持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireCloakFFSelf04",
+    "form_id": "0100001E|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Flame Cloak",
+    "string": "火焰斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireCloakFFSelf04",
+    "form_id": "0100001E|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, opponents in melee range take <8> points fire damage per second. Targets on fire take extra damage.",
+    "string": "近身的敌人每秒受到<8>点火焰伤害，着火目标将承受额外伤害。持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireCloakFFSelf05",
+    "form_id": "0100001F|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Flame Cloak",
+    "string": "火焰斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireCloakFFSelf05",
+    "form_id": "0100001F|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, opponents in melee range take <8> points fire damage per second. Targets on fire take extra damage.",
+    "string": "近身的敌人每秒受到<8>点火焰伤害，着火目标将承受额外伤害。持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFlameclaimEffect",
+    "form_id": "01000028|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Flameclaim",
+    "string": "火焰之契",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFireMGEF",
+    "form_id": "0100002A|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Kindled Attunement",
+    "string": "炽燃调和",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCResistFireMGEF",
+    "form_id": "0100002A|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "10% Fire resistance, being hit by fire spells grants 1 stack, increasing the resistance up to a max of 20%. At 10 Stacks, there is a 10% chance of releasing an explosion, consuming all stacks.",
+    "string": "10%火焰抗性，受到火焰法术攻击时获得1层效果，最高可叠加至20%抗性。达到10层时，有10%几率触发爆炸，消耗所有层数。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireExplosionMGEF",
+    "form_id": "0100002C|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fireball",
+    "string": "火球术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireExplosionMGEF",
+    "form_id": "0100002C|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A fiery explosion for <mag> points of damage in a 15 foot radius. Targets on fire take extra damage.",
+    "string": "释放一团火焰爆炸，对15码范围内造成<mag>点伤害。着火目标将承受额外伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFieryAxeEnchant",
+    "form_id": "01000002|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Fire Damage",
+    "string": "火焰伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFlameCloakDmg01",
+    "form_id": "01000014|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flames",
+    "string": "火舌术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFlameCloak01",
+    "form_id": "01000015|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flame Cloak",
+    "string": "火焰斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFlameCloakDmg02",
+    "form_id": "01000016|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flames",
+    "string": "火舌术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFlameCloak02",
+    "form_id": "01000018|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flame Cloak",
+    "string": "火焰斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFlameCloakDmg03",
+    "form_id": "01000019|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flames",
+    "string": "火舌术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFlameCloak03",
+    "form_id": "0100001B|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flame Cloak",
+    "string": "火焰斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFlameCloakDmg04",
+    "form_id": "0100001C|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flames",
+    "string": "火舌术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFlameCloak04",
+    "form_id": "0100001D|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flame Cloak",
+    "string": "火焰斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFlameCloakDmg05",
+    "form_id": "01000020|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flames",
+    "string": "火舌术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFlameCloak05",
+    "form_id": "01000021|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flame Cloak",
+    "string": "火焰斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFlameclaim",
+    "form_id": "01000022|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flameclaim",
+    "string": "火焰之契",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFlameclaim",
+    "form_id": "01000022|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Consume your Emberwisps to give yourself a burst of power, fire and frost resistance, Flame Cloak and double fire damage on the Battleaxe of Fiery Souls.",
+    "string": "消耗你的烬魂以获得力量、火焰抗性与寒霜抗性爆发，火焰斗篷，以及灼魂巨斧双倍火焰伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCSoulBrazierSpell01",
+    "form_id": "01000023|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flameclaim",
+    "string": "火焰之契",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCSoulBrazierSpell02",
+    "form_id": "01000024|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flameclaim",
+    "string": "火焰之契",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCSoulBrazierSpell03",
+    "form_id": "01000025|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flameclaim",
+    "string": "火焰之契",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCSoulBrazierSpell04",
+    "form_id": "01000026|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flameclaim",
+    "string": "火焰之契",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCSoulBrazierSpell05",
+    "form_id": "01000027|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flameclaim",
+    "string": "火焰之契",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireExplosionSpell",
+    "form_id": "0100002D|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fire Explosion",
+    "string": "火焰爆炸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCKindledAttunementSpell",
+    "form_id": "0100002E|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Kindled Attunement",
+    "string": "炽燃调和",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCEmberwispCounter",
+    "form_id": "01000006|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Emberwisp",
+    "string": "烬魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FGCFireDmgCounter",
+    "form_id": "01000029|FGCAxeOfFierySoulsTrulyUnique.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fire Attunement",
+    "string": "火焰调和",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EnchSteelBattleaxeFierySouls",
+    "form_id": "00040002|Skyrim.esm",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Battleaxe of Fiery Souls",
+    "string": "钢制灼烧摄魂巨斧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EnchSteelBattleaxeFierySouls",
+    "form_id": "00040002|Skyrim.esm",
+    "index": 1,
+    "type": "WEAP DESC",
+    "original": "Defeated foes grants Emberwisps, every 20 stored wisps will strengthen the axe's fire damage up to a max of 60, or can be consumed to activate \"Flameclaim\".",
+    "string": "击败敌人可获得烬魂，每储存20个烬魂将提升战斧的火焰伤害，上限为60，或可消耗烬魂以激活\"烈焰征伐\"。",
+    "status": "TranslationComplete"
+  }
+]

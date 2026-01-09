@@ -1,0 +1,2531 @@
+[
+  {
+    "editor_id": "MAG_PoisonDamageFFAimed25",
+    "form_id": "041E634A|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimed25",
+    "form_id": "041E634A|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds.",
+    "string": "每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimedArea50",
+    "form_id": "041E634C|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimedArea50",
+    "form_id": "041E634C|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds in a large area.",
+    "string": "在大范围内每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimed75",
+    "form_id": "041E6350|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimed75",
+    "form_id": "041E6350|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds.",
+    "string": "每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimedArea100",
+    "form_id": "041FA75E|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimedArea100",
+    "form_id": "041FA75E|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds in a large area.",
+    "string": "在大范围内每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch25",
+    "form_id": "0420496D|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch25",
+    "form_id": "0420496D|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds to enemies in melee range. ",
+    "string": "对近战范围内的敌人每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch75",
+    "form_id": "0420496E|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch75",
+    "form_id": "0420496E|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds to enemies in melee range. ",
+    "string": "对近战范围内的敌人每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcCloak",
+    "form_id": "04204971|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimed100",
+    "form_id": "0425FBFE|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Viper's Sting",
+    "string": "毒蛇之刺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimed100",
+    "form_id": "0425FBFE|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds.",
+    "string": "每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFSelfArea60",
+    "form_id": "042ED974|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Black Marsh",
+    "string": "黑沼泽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_RunePoisonFFLocation75",
+    "form_id": "042FCC7F|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Deadly Poison Rune",
+    "string": "致命剧毒符文",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_RunePoisonFFLocation75",
+    "form_id": "042FCC7F|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Creates a rune that explodes when enemies approach, dealing <mag> Poison damage per second for <10> seconds. ",
+    "string": "制造一个符文，当敌人靠近时该符文会爆炸，每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch100",
+    "form_id": "0448CF03|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch100",
+    "form_id": "0448CF03|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds to enemies in melee range. ",
+    "string": "对近战范围内的敌人每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcAimed00",
+    "form_id": "048C886C|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcAimed00",
+    "form_id": "048C886C|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second. Poisoned targets take extra damage over time.",
+    "string": "每秒造成<mag>点毒素伤害。中毒目标会受到额外的持续伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcAimed50",
+    "form_id": "049420A2|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcAimed50",
+    "form_id": "049420A2|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second. Poisoned targets take extra damage over time.",
+    "string": "每秒造成<mag>点毒素伤害。中毒目标会受到额外的持续伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcAimed100",
+    "form_id": "049606AB|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcAimed100",
+    "form_id": "049606AB|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second. Poisoned targets take extra damage over time.",
+    "string": "每秒造成<mag>点毒素伤害。中毒目标会受到额外的持续伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageBarrierConcAimed",
+    "form_id": "0496A8B5|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageBarrierConcAimed",
+    "form_id": "0496A8B5|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Creates a wall that deals <mag> Poison damage per second. Poisoned targets take extra damage over time.",
+    "string": "在地面上制造一堵每秒造成<mag>点毒性伤害的墙壁。中毒目标会受到额外的持续伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFSelfArea40",
+    "form_id": "04A2AF4A|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Black Marsh",
+    "string": "黑沼泽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFSelfArea20",
+    "form_id": "04A2AF4B|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Black Marsh",
+    "string": "黑沼泽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFSelfAreaDummy",
+    "form_id": "04A2AF4C|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Black Marsh",
+    "string": "黑沼泽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFSelfAreaDummy",
+    "form_id": "04A2AF4C|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals up to <mag> Poison damage per second for <10> seconds in a massive area. Nearby targets take extra damage.",
+    "string": "在大范围内每秒造成<mag>点毒素伤害，持续<10>秒。附近的目标受到额外伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch50",
+    "form_id": "04D278E2|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch50",
+    "form_id": "04D278E2|MysticismMagic.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds to enemies in melee range. ",
+    "string": "对近战范围内的敌人每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON100_FamiliarMammoth",
+    "form_id": "0605C6A0|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Mammoth Familiar",
+    "string": "召唤猛犸使魔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON100_FamiliarMammoth",
+    "form_id": "0605C6A0|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a Mammoth Familiar <dur> seconds. While active, your Mammoth Familiar boosts your health and stamina by <50> points. (Can only be cast outside)",
+    "string": "召唤一个猛犸使魔，持续<dur>秒。你的猛犸使魔会使你的生命和耐力提高<50>点。（只能在室外召唤）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON50_StoreCorpse",
+    "form_id": "0605C6BB|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Store Corpse",
+    "string": "存储尸体",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON50_StoreCorpse",
+    "form_id": "0605C6BB|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cast on a corpse to store it in a pocket of Oblivion. Cast again to retrieve the corpse.",
+    "string": "对尸体施放此咒语，将其存放于湮灭之袋中。再次施放可取回尸体。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON50_StoreCorpse_retrieve",
+    "form_id": "0605C6C1|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Retrieve Corpse",
+    "string": "取回尸体",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON50_StoreCorpse_retrieve",
+    "form_id": "0605C6C1|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Retrieve the corpse you stored.",
+    "string": "取回你存储的尸体。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON100_WingedTwilight",
+    "form_id": "060617EC|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Winged Twilight",
+    "string": "召唤有翼暮光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON100_WingedTwilight",
+    "form_id": "060617EC|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a Winged Twilight for <dur> seconds that wields storm magic and attacks with a powerful shriek. Summons help from her sisters when injured.",
+    "string": "召唤一个有翼暮光，持续<dur>秒，施展风暴魔法，并以强大的尖啸进行攻击。受伤时会召唤姐妹协助。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT75_PolymomrphHorse",
+    "form_id": "0607FE43|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Polymorph: Horse",
+    "string": "变形术：马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT75_PolymomrphHorse",
+    "form_id": "0607FE43|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Transform into a horse for <dur> seconds. While transformed, you can sprint like the wind and jump over obstacles. (Use voice power to revert)",
+    "string": "变身为马，持续<dur>秒。变身期间，你可以如风一样奔跑并跳过障碍物。（使用吼声能力恢复原型）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT50_PolymomrphFox",
+    "form_id": "06084F5A|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Polymorph: Fox",
+    "string": "变形术：狐狸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT50_PolymomrphFox",
+    "form_id": "06084F5A|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Transform into a fox for <dur> seconds. While transformed, you are hard to detect and most creatures and people will ignore you. (Use voice power to revert)",
+    "string": "变身为狐狸，持续<dur>秒。变身期间，你很难被发现，大多数生物和人类都会忽略你。（使用吼声能力恢复原型）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT50_PolymomrphBoar",
+    "form_id": "06084F75|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Polymorph: Bristleback",
+    "string": "变形术：鬃背兽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT50_PolymomrphBoar",
+    "form_id": "06084F75|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Transform into a bristleback for <dur> seconds. While transformed, your have extra armor and can lunge to knock down enemies. (Use voice power to revert)",
+    "string": "变身为鬃背兽，持续<dur>秒。变身期间，你将获得额外护甲值，并可猛扑击倒敌人。（使用吼声能力恢复原型）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT75_PolymomrphSpider",
+    "form_id": "060993A2|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Polymorph: Frostbite Spider",
+    "string": "变形术：霜噬蜘蛛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT75_PolymomrphSpider",
+    "form_id": "060993A2|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Transform into a frostbite spider for <dur> seconds. While transformed, you are resistant to poison, your attacks deal poison damage, and you can spit acid. (Use voice power to revert)",
+    "string": "变身为霜噬蜘蛛，持续<dur>秒。变身期间，你将获得毒素抗性，你的攻击将造成毒素伤害，并可以喷吐酸液。（使用吼声能力恢复原型）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT100_PolymomrphChaurus",
+    "form_id": "060993A7|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Polymorph: Chaurus Hunter",
+    "string": "变形术：查鲁斯猎手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT100_PolymomrphChaurus",
+    "form_id": "060993A7|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Transform into a chaurus hunter for <dur> seconds.  While transformed, you can spit acid and deliver lethal stings, you are resistant to magic, and your wings allow you to float.  (Use voice power to revert)",
+    "string": "变身为查鲁斯猎手，持续<dur>秒。变身期间，你可以喷吐酸液并进行致命刺击，同时获得魔法抗性，并且翅膀使你可以漂浮。（使用吼声能力恢复原型）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON100_Lurker",
+    "form_id": "060D6053|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Lurker",
+    "string": "召唤潜伏者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON100_Lurker",
+    "form_id": "060D6053|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a powerful Lurker for <dur> seconds.",
+    "string": "召唤一个强大的深潜者，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT100_PocketDimension",
+    "form_id": "060FE927|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Pocket Dimension",
+    "string": "口袋维度",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT100_PocketDimension",
+    "form_id": "060FE927|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Teleport to a personal pocket dimension containing a bed, chests, bookshelves, and all crafting stations.",
+    "string": "传送到个人口袋维度，其中包含床、箱子、书架和所有制作站点。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT100_Duplication",
+    "form_id": "06117E7F|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Duplication",
+    "string": "复制",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT100_Duplication",
+    "form_id": "06117E7F|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Create a copy of an item in your inventory. Cannot copy Divine or Daedric artifacts.",
+    "string": "复制一件你背包中的物品。无法复制神器或魔神器。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT100_Earthquake",
+    "form_id": "061364E0|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Earthquake",
+    "string": "地震",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT100_Earthquake",
+    "form_id": "061364E0|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "An explosion of kinetic force centered on the caster, dealing <mag> points of pure damage and flinging away all targets within 100 feet.",
+    "string": "以施法者为中心的动能爆发，造成<mag>点纯粹伤害，并将100英尺内的所有目标推开。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES25_SunburstRune",
+    "form_id": "0613B5ED|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Sunburst Rune",
+    "string": "旭日符文",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES25_SunburstRune",
+    "form_id": "0613B5ED|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cast on a nearby surface, it explodes for <mag> points of sun damage when undead enemies come near and sets them on fire.",
+    "string": "在附近表面施放符文，当亡灵敌人靠近时，爆炸造成<mag>点太阳伤害，并使其着火。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES100_DreadCocoon",
+    "form_id": "0614A91A|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dread Cocoon",
+    "string": "恐惧之茧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES100_DreadCocoon",
+    "form_id": "0614A91A|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cast on a corpse to implant it with a <Chaurus Reaper> egg that will hatch in <dur> seconds. Hatched creatures are allied with you.",
+    "string": "对尸体施放此咒语，向其植入一颗将在<dur>秒内孵化的<查鲁斯收割者>卵。孵化出的生物将成为你的盟友。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES100_DreadCocoon_rite",
+    "form_id": "0614A92A|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dread Cocoon",
+    "string": "恐惧之茧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES100_RiteOfTheOldGods",
+    "form_id": "0614A935|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rite of the Old Gods",
+    "string": "古神仪式",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES100_RiteOfTheOldGods",
+    "form_id": "0614A935|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, your poison and disease spells ignore all resistances and can affect any type of enemy; Cocoon spells can be used on any type of corpse.",
+    "string": "<dur>秒内，你的毒素和疾病法术会忽略所有抗性并可影响任何类型的敌人，茧类法术可在任何类型的尸体上使用。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_WallOfLight_hazFFContact",
+    "form_id": "0614FA42|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Sun Hazard",
+    "string": "太阳损伤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES100_LiftCurse",
+    "form_id": "06154B88|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Lift Curse",
+    "string": "解除诅咒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES100_LiftCurse",
+    "form_id": "06154B88|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cure yourself of all diseases and curses, including vampirism and lycanthropy.",
+    "string": "治愈所有疾病和诅咒，包括吸血鬼化和狼人化。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES100_Resurrection",
+    "form_id": "06154B8E|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resurrection",
+    "string": "复生",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES100_Resurrection",
+    "form_id": "06154B8E|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Bring a recently dead person or creature back to life. Undead, daedra, and machines cannot be revived.",
+    "string": "使刚死去的人或生物复活。亡灵、迪德拉和机器无法复活。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES100_SunShard",
+    "form_id": "0615EDA4|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Sun Shard",
+    "string": "太阳碎片",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES100_SunShard",
+    "form_id": "0615EDA4|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summon a blazing miniature sun for <dur> seconds that turns night into day and burns nearby undead for <mag> damage per second.",
+    "string": "召唤一个持续<dur>秒的炽热微型太阳，将黑夜变成白昼，并灼烧附近的亡灵，每秒造成<mag>点伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_SunShard_hazard",
+    "form_id": "0615EDA9|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Sun Shard Hazard",
+    "string": "太阳碎片损伤",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_SunShard_hazard",
+    "form_id": "0615EDA9|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag> sun damage per second.",
+    "string": "每秒造成<mag>点太阳伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_PoisonSeed_exp",
+    "form_id": "0617F249|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Seed Explosion",
+    "string": "毒素之种爆炸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_PoisonSeed_exp",
+    "form_id": "0617F249|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag> poison damage.",
+    "string": "造成<mag>点毒素伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_WildGrowth_poison",
+    "form_id": "0617F265|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_WildGrowth_poison",
+    "form_id": "0617F265|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Causes <mag> points of poison damage for <dur> seconds.",
+    "string": "每秒减损目标<mag>点生命，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_WildGrowth_poison_rite",
+    "form_id": "0618E5B1|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_WildGrowth_poison_rite",
+    "form_id": "0618E5B1|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Causes <mag> points of poison damage for <dur> seconds.",
+    "string": "每秒减损目标<mag>点生命，持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_PoisonCloakFFContact",
+    "form_id": "061B1D53|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison",
+    "string": "毒药",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_PoisonCloakFFContact_rite",
+    "form_id": "061B1D58|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison",
+    "string": "毒药",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_PoisonSeed_exp_rite",
+    "form_id": "061B6E73|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Seed Explosion",
+    "string": "毒素之种爆炸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_PoisonSeed_exp_rite",
+    "form_id": "061B6E73|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag> poison damage.",
+    "string": "造成<mag>点毒素伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_ToxicCloud_hazEff",
+    "form_id": "061B6E74|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_ToxicCloud_hazEff",
+    "form_id": "061B6E74|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag> poison damage per second.",
+    "string": "每秒造成<mag>点毒素伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES100_ToxicCloud",
+    "form_id": "061B6E77|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Toxic Cloud",
+    "string": "剧毒之云",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES100_ToxicCloud",
+    "form_id": "061B6E77|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Fills the area around the caster with toxic gas that deals <mag> poison damage per second. Lasts <dur> seconds.",
+    "string": "使施法者周围区域充满有毒气体，每秒造成<mag>点毒素伤害。持续<dur>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_ToxicCloud_hazEff_rite",
+    "form_id": "061B6E7A|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_ToxicCloud_hazEff_rite",
+    "form_id": "061B6E7A|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag> poison damage per second.",
+    "string": "每秒造成<mag>点毒素伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES75_PoisonBolt",
+    "form_id": "061C61B2|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Bolt",
+    "string": "毒素箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES75_PoisonBolt",
+    "form_id": "061C61B2|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A toxic orb that explodes on impact, dealing <mag> poison damage and leaving a glob of acid where it lands.",
+    "string": "剧毒的球体，在撞击时会爆炸，造成<mag>毒素伤害，并在落地处留下一团酸液。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES75_PoisonBolt_rite",
+    "form_id": "061C61BA|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Bolt - Rite",
+    "string": "毒素箭-仪式",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_PoisonBolt_hazEff",
+    "form_id": "061CB2CC|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_PoisonBolt_hazEff",
+    "form_id": "061CB2CC|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag> poison damage per second.",
+    "string": "每秒造成<mag>点毒素伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_PoisonBolt_hazEff_rite",
+    "form_id": "061CB2CD|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_PoisonBolt_hazEff_rite",
+    "form_id": "061CB2CD|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag> poison damage per second.",
+    "string": "每秒造成<mag>点毒素伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_DES100_Dragonfire",
+    "form_id": "061EEA79|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragonfire",
+    "string": "龙之火焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_DES100_Dragonfire",
+    "form_id": "061EEA79|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Channel a gout of dragon fire that deals <mag> fire damage per second. Targets on fire take extra damage.",
+    "string": "引导一股龙之火焰，每秒造成<mag>点火焰伤害。着火的目标受到额外伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_DES100_HowlingGale",
+    "form_id": "061F3B7B|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Howling Gale",
+    "string": "呼啸狂风",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_DES100_HowlingGale",
+    "form_id": "061F3B7B|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Channel a blast of frozen air that deals <mag> frost damage to health and stamina per second.",
+    "string": "引导一股冰冻气流，每秒对生命和耐力造成<mag>点寒霜伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_DES100_ThunderBlast",
+    "form_id": "061F8C84|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thunder Blast",
+    "string": "雷霆冲击",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_DES100_ThunderBlast",
+    "form_id": "061F8C84|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Drains magicka from all surrounding enemies while charging; when released, creates a <mag> point electric explosion centered on the caster. Damage increases based on the magicka drained while charging.",
+    "string": "充能时吸取周围所有敌人的魔力；释放时，以施法者为中心制造一个<mag>点的电击爆炸。伤害会根据充能时吸取的魔力增加。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_DES100_ThunderBlast_disintegrate",
+    "form_id": "061F8C86|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Disintegrate",
+    "string": "粉身碎骨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_DES100_Flameheart",
+    "form_id": "06202EA1|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Flameheart",
+    "string": "焰心",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_DES100_Flameheart",
+    "form_id": "06202EA1|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Manifests the living spirit of fire to fight at your side for <dur> seconds. When the effect ends, it explodes for <mag> fire damage.\n",
+    "string": "凝聚鲜活的火焰之灵，与你并肩作战，持续<dur>秒。效果结束时，火焰之灵会爆炸，造成<mag>点火焰伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_DES100_StormRift",
+    "form_id": "06207FB0|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Storm Rift",
+    "string": "风暴裂隙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_DES100_StormRift",
+    "form_id": "06207FB0|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Create a ball of storm energy at the target location for <dur> seconds that will shoot lightning at nearby enemies.\n",
+    "string": "在目标位置创建一个持续<dur>秒的风暴能量球，向附近的敌人发射闪电。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_DES100_ArcticFortress",
+    "form_id": "062172CC|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Arctic Fortress",
+    "string": "严寒堡垒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_DES100_ArcticFortress",
+    "form_id": "062172CC|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Freeze yourself into solid ice for <dur> seconds. While frozen, you cannot move or attack, but you are immune to harm and surrounded by a barrier of jagged ice that damages enemies.",
+    "string": "将自己冻结成坚冰，持续<dur>秒。冻结期间，你无法移动或攻击，但免疫伤害，并被一道锯齿冰霜屏障所包围，可对敌人造成伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON00_BoundWoodAxe_mystic",
+    "form_id": "0624EE68|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bound Woodcutter's Axe",
+    "string": "凝聚伐木斧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON25_BoundPickAxe_mystic",
+    "form_id": "06253F84|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bound Pickaxe",
+    "string": "凝聚鹤嘴锄",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON25_BoundPickAxeAdv_mystic",
+    "form_id": "06253F8B|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bound Pickaxe",
+    "string": "凝聚鹤嘴锄",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON100_FaithfulFamiliar",
+    "form_id": "06259098|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Faithful Familiar",
+    "string": "忠实使魔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON100_FaithfulFamiliar",
+    "form_id": "06259098|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summon a familiar of your choice permanently. ",
+    "string": "永久召唤一个你选择的使魔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT100_PolymomrphBear",
+    "form_id": "0627C7DE|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Polymorph: Snow Bear",
+    "string": "变形术：雪熊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT100_PolymomrphBear",
+    "form_id": "0627C7DE|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Transform into a snow bear for <dur> seconds. While transformed, you have extra armor and frost resistance, and can roar to frighten enemies. (Use voice power to revert)",
+    "string": "变身为雪熊，持续<dur>秒。变身期间，你将获得额外的护甲和寒霜抗性，并能发出咆哮来震慑敌人。（使用吼声能力恢复原型）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT75_PolymomrphSabrecat",
+    "form_id": "062A5008|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Polymorph: Sabrecat",
+    "string": "变形术：剑齿虎",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT75_PolymomrphSabrecat",
+    "form_id": "062A5008|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Transform into a sabrecat for <dur> seconds. While transformed, your claws shred armor and cause bleeding. (Use voice power to revert)",
+    "string": "变身为剑齿虎，持续<dur>秒。变身期间，你的爪子会撕碎护甲并造成流血。（使用吼声能力恢复原型）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT50_PolymomrphWolf",
+    "form_id": "062AA113|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Polymorph: Wolf",
+    "string": "变形术：狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ALT50_PolymomrphWolf",
+    "form_id": "062AA113|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Transform into a wolf for <dur> seconds. While transformed, you can howl to summon nearby wolves to your aid. (Use voice power to revert)",
+    "string": "变身为狼，持续<dur>秒。变身期间，你可以发出嚎叫，召唤附近的狼来协助你。（使用吼声能力恢复原型）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ILL100_Enthrall",
+    "form_id": "063147A1|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Enthrall",
+    "string": "奴役",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ILL100_Enthrall",
+    "form_id": "063147A1|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Creatures and people up to level <mag> will follow you and fight for you until released. Only 1 target can be enthralled at a time.",
+    "string": "<mag>级以内的生物和人类将跟随你并帮你战斗，直到被释放。最多同时奴役一个目标。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ILL100_Enthrall_MM",
+    "form_id": "063147A6|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Enthrall",
+    "string": "奴役",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ILL100_Trickster",
+    "form_id": "0634728D|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trickster",
+    "string": "诡术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ILL100_Trickster",
+    "form_id": "0634728D|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Create <2> phantom copies of yourself for <dur> seconds. The copies have the same weapons, armor, and spells as you, but are only half as strong.",
+    "string": "创造<2>个你自己的幻影复制体，持续<dur>秒。这些复制体拥有与你相同的武器、护甲和法术，但强度只有你的一半。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ILL100_Glamour",
+    "form_id": "0634C3A9|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Glamour",
+    "string": "迷惑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_ILL100_Glamour",
+    "form_id": "0634C3A9|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cast at a target or corpse to silently disguise yourself as one of their allies for <dur> seconds. Cannot be cast during combat.\n",
+    "string": "对目标或尸体施放此技能，使自身静默地伪装成其盟友，持续<dur>秒。战斗中无法施放。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON100_DarkCrystal",
+    "form_id": "063565C0|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dark Crystal",
+    "string": "黑暗水晶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON100_DarkCrystal",
+    "form_id": "063565C0|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Store part of your soul in a black soul gem, gaining immortality but reducing your health by <25> points. The Dark Crystal will shatter when you are hit with a killing blow, reviving you with full health.\n",
+    "string": "将你的部分灵魂储存于一颗黑色灵魂石中，获得永生，但生命值会减少<25>点。当你受到致命一击时，黑暗水晶会破碎，让你满血复活。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_PoisonBolt_hazEff_NPC",
+    "form_id": "0638E11D|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES_PoisonBolt_hazEff_NPC",
+    "form_id": "0638E11D|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag> poison damage per second.",
+    "string": "每秒造成<mag>点毒素伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES75_PoisonBolt_NPC",
+    "form_id": "0638E125|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Bolt",
+    "string": "毒素箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_RES75_PoisonBolt_NPC",
+    "form_id": "0638E125|LostGrimoire.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A toxic orb that explodes on impact, dealing <mag> poison damage and leaving a glob of acid where it lands.",
+    "string": "剧毒的球体，在撞击时会爆炸，造成<mag>毒素伤害，并在落地处留下一团酸液。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON25_BoundPickAxe_mystic80",
+    "form_id": "07000804|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bound Pickaxe",
+    "string": "凝聚鹤嘴锄",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON25_BoundPickAxeAdv_mystic80",
+    "form_id": "07000805|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bound Pickaxe",
+    "string": "凝聚鹤嘴锄",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_MGEF_CON00_BoundWoodAxe_mystic80",
+    "form_id": "07000806|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bound Woodcutter's Axe",
+    "string": "凝聚伐木斧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonCloakFFSelf_rite",
+    "form_id": "07000810|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Cloak",
+    "string": "毒药斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonCloakFFSelf_rite",
+    "form_id": "07000810|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, nearby enemies take <mag> Poison damage per second. Poisoned targets take extra damage over time.",
+    "string": "<dur>秒内，附近的敌人每秒受到<mag>点毒素伤害。中毒目标会受到额外的持续伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageBarrierConcAimed_rite",
+    "form_id": "07000811|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageBarrierConcAimed_rite",
+    "form_id": "07000811|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Creates a wall that deals <mag> Poison damage per second. Poisoned targets take extra damage over time.",
+    "string": "在地面上制造一堵每秒造成<mag>点毒性伤害的墙壁。中毒目标会受到额外的持续伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcAimed00_rite",
+    "form_id": "07000812|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcAimed00_rite",
+    "form_id": "07000812|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second. Poisoned targets take extra damage over time.",
+    "string": "每秒造成<mag>点毒素伤害。中毒目标会受到额外的持续伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcAimed100_rite",
+    "form_id": "07000813|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcAimed100_rite",
+    "form_id": "07000813|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second. Poisoned targets take extra damage over time.",
+    "string": "每秒造成<mag>点毒素伤害。中毒目标会受到额外的持续伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcAimed50_rite",
+    "form_id": "07000814|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcAimed50_rite",
+    "form_id": "07000814|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second. Poisoned targets take extra damage over time.",
+    "string": "每秒造成<mag>点毒素伤害。中毒目标会受到额外的持续伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageConcCloak_rite",
+    "form_id": "07000815|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimed100_rite",
+    "form_id": "07000816|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Viper's Sting",
+    "string": "毒蛇之刺",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimed100_rite",
+    "form_id": "07000816|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds.",
+    "string": "每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimed25_rite",
+    "form_id": "07000817|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimed25_rite",
+    "form_id": "07000817|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds.",
+    "string": "每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimed75_rite",
+    "form_id": "07000818|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimed75_rite",
+    "form_id": "07000818|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds.",
+    "string": "每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimedArea100_rite",
+    "form_id": "07000819|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimedArea100_rite",
+    "form_id": "07000819|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds in a large area.",
+    "string": "在大范围内每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimedArea50_rite",
+    "form_id": "0700081A|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFAimedArea50_rite",
+    "form_id": "0700081A|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds in a large area.",
+    "string": "在大范围内每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFSelfArea20_rite",
+    "form_id": "0700081B|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Black Marsh",
+    "string": "黑沼泽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFSelfArea40_rite",
+    "form_id": "0700081C|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Black Marsh",
+    "string": "黑沼泽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFSelfArea60_rite",
+    "form_id": "0700081D|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Black Marsh",
+    "string": "黑沼泽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFSelfAreaDummy_rite",
+    "form_id": "0700081E|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Black Marsh",
+    "string": "黑沼泽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFSelfAreaDummy_rite",
+    "form_id": "0700081E|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals up to <mag> Poison damage per second for <10> seconds in a massive area. Nearby targets take extra damage.",
+    "string": "在大范围内每秒造成<mag>点毒素伤害，持续<10>秒。附近的目标受到额外伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch100_rite",
+    "form_id": "0700081F|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch100_rite",
+    "form_id": "0700081F|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds to enemies in melee range. ",
+    "string": "对近战范围内的敌人每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch25_rite",
+    "form_id": "07000820|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch25_rite",
+    "form_id": "07000820|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds to enemies in melee range. ",
+    "string": "对近战范围内的敌人每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch50_rite",
+    "form_id": "07000821|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch50_rite",
+    "form_id": "07000821|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds to enemies in melee range. ",
+    "string": "对近战范围内的敌人每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch75_rite",
+    "form_id": "07000822|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonDamageFFTouch75_rite",
+    "form_id": "07000822|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Deals <mag> Poison damage per second for <10> seconds to enemies in melee range. ",
+    "string": "对近战范围内的敌人每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonRuneFFLocation75_rite",
+    "form_id": "07000823|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Deadly Poison Rune",
+    "string": "致命剧毒符文",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonRuneFFLocation75_rite",
+    "form_id": "07000823|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Creates a rune that explodes when enemies approach, dealing <mag> Poison damage per second for <10> seconds. ",
+    "string": "制造一个符文，当敌人靠近时该符文会爆炸，每秒造成<mag>点毒素伤害，持续<10>秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonSprayStaffEnch",
+    "form_id": "04D2C9ED|MysticismMagic.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Poison Spray",
+    "string": "喷溅毒液",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonboltStaffEnch",
+    "form_id": "04D2C9EE|MysticismMagic.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Poisonbolt",
+    "string": "毒素箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_DeadlyPoisonSprayStaffEnch",
+    "form_id": "04D2C9EF|MysticismMagic.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Dealdy Poison Spray",
+    "string": "致命毒素喷洒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_MiasmaStaffEnch",
+    "form_id": "04D2C9F1|MysticismMagic.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Miasma",
+    "string": "毒气",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_ViperboltStaffEnch",
+    "form_id": "04D2C9F3|MysticismMagic.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Viperbolt",
+    "string": "毒蛇箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonCloudStaffEnch",
+    "form_id": "04D2C9F6|MysticismMagic.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Poison Cloud",
+    "string": "毒素之云",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_DeathCloudStaffEnch",
+    "form_id": "04D2C9FA|MysticismMagic.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Death Cloud",
+    "string": "死亡之云",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_DeadlyPoisonRuneStaffEnch",
+    "form_id": "04D36C06|MysticismMagic.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Deadly Poison Rune",
+    "string": "致命剧毒符文",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_WallOfPoisonStaffEnch",
+    "form_id": "04D36C07|MysticismMagic.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Wall Of Poison",
+    "string": "毒素之墙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_CON100_MammothFamiliar",
+    "form_id": "0605C6A1|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Mammoth Familiar",
+    "string": "召唤猛犸使魔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_CON50_StoreCorpse",
+    "form_id": "0605C6C2|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Store Corpse",
+    "string": "存储尸体",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_CON_StoreCorpse_retrieve",
+    "form_id": "060617C4|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Retrieve Corpse",
+    "string": "取回尸体",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_CON100_WingedTwilight",
+    "form_id": "060617ED|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Winged Twilight",
+    "string": "召唤有翼暮光",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_RES00_RayOfLight",
+    "form_id": "0607AD1B|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Ray of Light",
+    "string": "光芒术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_ALT75_PolymorphHorse",
+    "form_id": "0607FE45|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Polymorph: Horse",
+    "string": "变形术：马",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_ALT50_PolymorphFox",
+    "form_id": "06084F5B|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Polymorph: Fox",
+    "string": "变形术：狐狸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_ALT50_PolymorphBoar",
+    "form_id": "06084F76|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Polymorph: Bristleback",
+    "string": "变形术：鬃背兽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_ALT75_PolymorphSpider",
+    "form_id": "060993A3|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Polymorph: Frostbite Spider",
+    "string": "变形术：霜噬蜘蛛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_ALT100_PolymorphChaurus",
+    "form_id": "060993A8|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Polymorph: Chaurus Hunter",
+    "string": "变形术：查鲁斯猎手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_CON100_Lurker",
+    "form_id": "060D6054|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Lurker",
+    "string": "召唤潜伏者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_ALT100_PocketDimension",
+    "form_id": "060FE928|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pocket Dimension",
+    "string": "口袋维度",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_ALT100_Earthquake",
+    "form_id": "061364E1|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Earthquake",
+    "string": "地震",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_RES100_DreadCocoon",
+    "form_id": "0614A91B|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dread Cocoon",
+    "string": "恐惧之茧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_RES100_RiteOfTheOldGods",
+    "form_id": "0614A939|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Rite of the Old Gods",
+    "string": "古神仪式",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_RES100_Resurrection",
+    "form_id": "06154B8F|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Resurrection",
+    "string": "复生",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_RES100_SunShard",
+    "form_id": "0615EDAA|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Sun Shard",
+    "string": "太阳碎片",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_RES00_PoisonSeed",
+    "form_id": "0617F248|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Poison Seed",
+    "string": "毒素之种",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_RES25_WildGrowth",
+    "form_id": "0617F26D|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Wild Growth",
+    "string": "野蛮生长",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_RES100_ToxicCloud",
+    "form_id": "061B6E78|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Toxic Cloud",
+    "string": "剧毒之云",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_RES75_PoisonBolt",
+    "form_id": "061C61B9|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Poison Bolt",
+    "string": "毒素箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_DES100_Dragonfire",
+    "form_id": "061EEA7A|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dragon Fire",
+    "string": "龙之火焰",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_DES100_HowlingGale",
+    "form_id": "061F3B7C|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Howling Gale",
+    "string": "呼啸狂风",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_DES100_ThunderBlast",
+    "form_id": "061F8C85|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Thunder Blast",
+    "string": "雷霆冲击",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_DES100_Flameheart",
+    "form_id": "06202EA8|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flameheart",
+    "string": "焰心",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_DES100_StormRift",
+    "form_id": "06207FB4|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Storm Rift",
+    "string": "风暴裂隙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_DES100_ArcticFortress",
+    "form_id": "062172CD|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Arctic Fortress",
+    "string": "严寒堡垒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_CON00_BoundWoodAxe",
+    "form_id": "0624EE6C|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bound Woodcutter's Axe",
+    "string": "凝聚伐木斧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_CON25_BoundPickAxe",
+    "form_id": "06253F85|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bound Pickaxe",
+    "string": "凝聚鹤嘴锄",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_CON100_FaithfulFamiliar",
+    "form_id": "0625909A|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Faithful Familiar",
+    "string": "忠实使魔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_ALT100_PolymorphBear",
+    "form_id": "0627C7DF|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Polymorph: Snow Bear",
+    "string": "变形术：雪熊",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_ALT75_PolymorphSabrecat",
+    "form_id": "062A5009|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Polymorph: Sabrecat",
+    "string": "变形术：剑齿虎",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_ALT50_PolymorphWolf",
+    "form_id": "062AA114|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Polymorph: Wolf",
+    "string": "变形术：狼",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_ILL100_Enthrall",
+    "form_id": "063147A7|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Enthrall",
+    "string": "奴役",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_ILL100_Trickster",
+    "form_id": "0634729B|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Trickster",
+    "string": "诡术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SPELL_ILL100_Glamour",
+    "form_id": "0634C3AE|LostGrimoire.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Glamour",
+    "string": "迷惑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_Poisonbolt",
+    "form_id": "041E634D|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Poisonbolt",
+    "string": "毒素箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_Viperbolt",
+    "form_id": "041E634F|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Viperbolt",
+    "string": "毒蛇箭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonCloud",
+    "form_id": "041E6352|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Poison Cloud",
+    "string": "毒素之云",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_DeathCloud",
+    "form_id": "041FA75F|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Death Cloud",
+    "string": "死亡之云",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonousTouch",
+    "form_id": "04209A74|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Poisonous Touch",
+    "string": "毒素之触",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_VipersGrasp",
+    "form_id": "04209A76|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Viper's Grasp",
+    "string": "毒蛇之握",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_DeadlyPoisonRune",
+    "form_id": "04209A7A|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deadly Poison Rune",
+    "string": "致命剧毒符文",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_BlackMarsh",
+    "form_id": "042ED973|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Black Marsh",
+    "string": "黑沼泽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_Venomfang",
+    "form_id": "0448CF04|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Venomfang",
+    "string": "毒牙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonSpray",
+    "form_id": "048C886D|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Poison Spray",
+    "string": "喷溅毒液",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_DeadlyPoisonSpray",
+    "form_id": "049420A3|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deadly Poison Spray",
+    "string": "致命毒液喷洒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_Miasma",
+    "form_id": "049606AC|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Miasma",
+    "string": "毒气",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_WallofPoison",
+    "form_id": "0496F9BA|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Wall of Poison",
+    "string": "毒素之墙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_VenomousTouch",
+    "form_id": "04D278E3|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Venomous Touch",
+    "string": "剧毒之触",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonCloakDmg01",
+    "form_id": "04D2C9E7|MysticismMagic.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Poison Damage",
+    "string": "毒素伤害",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_CON100_FamiliarMammoth",
+    "form_id": "0605C6A9|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Conjure Mammoth Familiar",
+    "string": "召唤猛犸使魔卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_CON100_WingedTwilight",
+    "form_id": "06070B00|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Conjure Winged Twilight",
+    "string": "召唤有翼暮光卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_ALT50_PolymorphFox",
+    "form_id": "06084F5F|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Fox Transformation",
+    "string": "狐狸变身卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_ALT75_PolymorphHorse",
+    "form_id": "06084F61|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Horse Transformation",
+    "string": "马变身卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_ALT50_PolymorphBoar",
+    "form_id": "06084F79|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Bristleback Transformation",
+    "string": "鬃背兽变身卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_ALT75_PolymorphSpider",
+    "form_id": "060993AC|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Frostbite Spider Transformation",
+    "string": "霜噬蜘蛛变身卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_ALT100_PolymorphChaurus",
+    "form_id": "060993AE|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Chaurus Hunter Transformation",
+    "string": "查鲁斯猎手变身卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_CON100_Lurker",
+    "form_id": "060D6057|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Conjure Lurker",
+    "string": "召唤深潜者卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_ALT100_Duplication",
+    "form_id": "06117E84|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Duplication",
+    "string": "复制卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_ALT100_Earthquake",
+    "form_id": "061364E5|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Earthquake",
+    "string": "地震卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_RES100_DreadCocoon",
+    "form_id": "0614A924|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Dread Cocoon",
+    "string": "恐惧之茧卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_RES100_RiteOfTheOldGods",
+    "form_id": "0614A93A|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Rite of the Old Gods",
+    "string": "古神仪式卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_RES100_LiftCurse",
+    "form_id": "06154B8B|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Lift Curse",
+    "string": "解除诅咒卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_RES100_Resurrection",
+    "form_id": "06159C9E|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Resurrection",
+    "string": "复生卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_RES100_SunShard",
+    "form_id": "0615EDAD|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Sun Shard",
+    "string": "太阳碎片卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_RES00_PoisonSeed",
+    "form_id": "0617F24F|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Poison Ssed",
+    "string": "毒素之种卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_RES25_WildGrowth",
+    "form_id": "0618E5A9|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Wild Growth",
+    "string": "野蛮生长卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_RES100_ToxicCloud",
+    "form_id": "061B6E7C|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Toxic Cloud",
+    "string": "剧毒之云卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_RES75_PoisonBolt",
+    "form_id": "061CB2D1|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Poison Bolt",
+    "string": "毒素箭卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_CON100_FaithfulFamiliar",
+    "form_id": "062590A9|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Faithful Familiar",
+    "string": "忠实使魔卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_DES100_Flameheart",
+    "form_id": "0625E1AF|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Flameheart",
+    "string": "焰心卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_DES100_StormRift",
+    "form_id": "0625E1B0|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Storm Rift",
+    "string": "风暴裂隙卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_DES100_ArcticFortress",
+    "form_id": "0625E1B2|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Arctic Fortress",
+    "string": "严寒堡垒卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_ALT100_PolymorphBear",
+    "form_id": "062818F1|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Snow Bear Transformation",
+    "string": "雪熊变身卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_ALT50_PolymorphWolf",
+    "form_id": "062AA126|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Wolf Transformation",
+    "string": "狼变身卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_ALT75_PolymorphSabrecat",
+    "form_id": "062AA128|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Sabrecat Transformation",
+    "string": "剑齿虎变身卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_ILL100_Enthrall",
+    "form_id": "063147B0|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Enthrall",
+    "string": "奴役卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_ILL100_Trickster",
+    "form_id": "063472A7|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of the Trickster",
+    "string": "诡术卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_ILL100_Glamour",
+    "form_id": "063514BA|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Glamour",
+    "string": "迷惑卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_CON100_DarkCrystal",
+    "form_id": "063565C4|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Dark Crystal",
+    "string": "黑暗水晶卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_CON25_BoundPickaxe",
+    "form_id": "063565D8|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Bound Pickaxe",
+    "string": "凝聚鹤嘴锄卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_SCROLL_CON00_BoundWoodcuttersAxe",
+    "form_id": "063565DA|LostGrimoire.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Bound Woodcutter's Axe",
+    "string": "凝聚伐木斧卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonboltScroll",
+    "form_id": "04D36C0C|MysticismMagic.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Poisonbolt",
+    "string": "毒素箭卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonousTouchScroll",
+    "form_id": "04D36C0D|MysticismMagic.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Poisonous Touch",
+    "string": "毒素之触卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_PoisonCloudScroll",
+    "form_id": "04D36C11|MysticismMagic.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Poison Cloud",
+    "string": "毒素之云卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_VenomousTouchScroll",
+    "form_id": "04D36C13|MysticismMagic.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Venomous Touch",
+    "string": "剧毒之触卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_VipersGraspScroll",
+    "form_id": "04D36C17|MysticismMagic.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Viper's Grasp",
+    "string": "毒蛇之握卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_ViperboltScroll",
+    "form_id": "04D36C19|MysticismMagic.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Viperbolt",
+    "string": "毒蛇箭卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_DeadlyPoisonRuneScroll",
+    "form_id": "04D36C1A|MysticismMagic.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of the Deadly Poison Rune",
+    "string": "致命剧毒符文卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_VenomfangScroll",
+    "form_id": "04D36C1D|MysticismMagic.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Venomfang",
+    "string": "毒牙卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_DeathCloudScroll",
+    "form_id": "04D36C1F|MysticismMagic.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Death Cloud",
+    "string": "死亡之云卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MAG_BlackMarshScroll",
+    "form_id": "04D36C21|MysticismMagic.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Black Marsh",
+    "string": "黑沼泽卷轴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MerchantRiverwoodTraderChest",
+    "form_id": "00078C0C|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_BoundPickAxeMystic80",
+    "form_id": "07000801|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Bound Pickaxe",
+    "string": "凝聚鹤嘴锄",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_BoundPickAxeAdvMystic80",
+    "form_id": "07000802|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Bound Pickaxe",
+    "string": "凝聚鹤嘴锄",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GRIM_WPN_BoundWoodAxeMystic80",
+    "form_id": "07000803|LostGrimoire_Adamant_Patch.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Bound Woodcutter's Axe",
+    "string": "凝聚伐木斧",
+    "status": "TranslationComplete"
+  }
+]

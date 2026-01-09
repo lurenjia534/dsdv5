@@ -1,0 +1,2000 @@
+[
+  {
+    "editor_id": "TRHStoragePortalME",
+    "form_id": "05000023|trhoarder.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Summon Portal Spirit",
+    "string": "召唤传送门精灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHStoragePortalME",
+    "form_id": "05000023|trhoarder.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Opens a portal to the Riverwood Hoarder's storage system.",
+    "string": "打开通往河木镇守财奴存储系统的传送门。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLocateMeME",
+    "form_id": "050004D3|trhoarder.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Locate Me",
+    "string": "定位我",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLocateMeME",
+    "form_id": "050004D3|trhoarder.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Find out exactly where you are",
+    "string": "准确查明你的位置",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLocateMeSpell",
+    "form_id": "050004D4|trhoarder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Locate Me",
+    "string": "定位我",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHStoragePortalSpell",
+    "form_id": "0500006E|trhoarder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Summon Portal Spirit",
+    "string": "召唤传送门精灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCandleOffActivator",
+    "form_id": "050004C1|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Candle",
+    "string": "蜡烛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCandleOffActivator",
+    "form_id": "050004C1|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Extinguish",
+    "string": "熄灭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCreateDestinationCrystalActivator",
+    "form_id": "05000522|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Destination Crystal",
+    "string": "目的地水晶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCreateDestinationCrystalActivator",
+    "form_id": "05000522|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Create",
+    "string": "制作",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHBookStorageActivator",
+    "form_id": "05000569|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Book Storage",
+    "string": "书籍存储",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHBookStorageActivator",
+    "form_id": "05000569|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Open",
+    "string": "开启",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHRemovableTorchSconce01",
+    "form_id": "05000011|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Torch Sconce",
+    "string": "火把台",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCandlesOffActivator",
+    "form_id": "050004C3|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Candles",
+    "string": "蜡烛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCandlesOffActivator",
+    "form_id": "050004C3|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Extinguish",
+    "string": "熄灭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHBookShelfStackerActivator",
+    "form_id": "05000077|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Bookshelves",
+    "string": "书架",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHBookShelfStackerActivator",
+    "form_id": "05000077|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Stack",
+    "string": "一堆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHApparelStorageActivator",
+    "form_id": "05000420|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Apparel Storage",
+    "string": "服装储存",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHApparelStorageActivator",
+    "form_id": "05000420|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Open",
+    "string": "开启",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHDestinationCrystaltActivator",
+    "form_id": "050004DA|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Destination Crystal",
+    "string": "目的地水晶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHDestinationCrystaltActivator",
+    "form_id": "050004DA|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Select",
+    "string": "选择",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHDropOffFirewoodActivator",
+    "form_id": "05000623|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Firewood",
+    "string": "木柴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHDropOffFirewoodActivator",
+    "form_id": "05000623|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Drop Off",
+    "string": "卸下",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHScrollStorageActivator",
+    "form_id": "05000076|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Scroll Storage",
+    "string": "卷轴存储",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHScrollStorageActivator",
+    "form_id": "05000076|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Open",
+    "string": "开启",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHWeaponRackActivator",
+    "form_id": "05000432|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Weapon Storage",
+    "string": "武器存储",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHWeaponRackActivator",
+    "form_id": "05000432|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Open",
+    "string": "开启",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHChandelierOnActivator",
+    "form_id": "05000074|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Chandelier",
+    "string": "吊灯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHChandelierOnActivator",
+    "form_id": "05000074|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Light",
+    "string": "点亮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCandlesOnActivator",
+    "form_id": "050004C4|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Candles",
+    "string": "蜡烛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCandlesOnActivator",
+    "form_id": "050004C4|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Light",
+    "string": "点亮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHDoorDeadBolt",
+    "form_id": "0500006F|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Door Bar",
+    "string": "门栓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHHandOfGodPullChain",
+    "form_id": "050004D2|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Pull Chain",
+    "string": "链环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHHornOfPlentyActivator",
+    "form_id": "050004D7|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Horn of Plenty",
+    "string": "丰饶之角",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHHornOfPlentyActivator",
+    "form_id": "050004D7|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Open",
+    "string": "开启",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHPotionStorageActivator",
+    "form_id": "05000071|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Potion Storage",
+    "string": "药剂储藏",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHPotionStorageActivator",
+    "form_id": "05000071|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Open",
+    "string": "开启",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHDoorLock",
+    "form_id": "05000001|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Door Lock",
+    "string": "门锁",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHDweButton",
+    "form_id": "050005E9|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Button",
+    "string": "按钮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHChandelierOffActivator",
+    "form_id": "05000073|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Chandelier",
+    "string": "吊灯",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHChandelierOffActivator",
+    "form_id": "05000073|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Extinguish",
+    "string": "熄灭",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHEnableForPeriodWithItemActivator",
+    "form_id": "0500000A|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Firewood",
+    "string": "木柴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHEnableForPeriodWithItemActivator",
+    "form_id": "0500000A|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Add",
+    "string": "加入",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHHandOfGodLever",
+    "form_id": "050004D9|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Hand of God",
+    "string": "上帝之手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHStoreDestinationButton",
+    "form_id": "050004DB|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Destination",
+    "string": "目的地",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHStoreDestinationButton",
+    "form_id": "050004DB|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Store",
+    "string": "储存",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHNumeralTabletActivator",
+    "form_id": "050004D6|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Numeral",
+    "string": "数字",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSortingChestActivator",
+    "form_id": "05000070|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Sorting Chest",
+    "string": "分类箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSortingChestActivator",
+    "form_id": "05000070|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Open",
+    "string": "开启",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCandleOnActivator",
+    "form_id": "050004C2|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Candle",
+    "string": "蜡烛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCandleOnActivator",
+    "form_id": "050004C2|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Light",
+    "string": "点亮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHPlaySoundOnActivate",
+    "form_id": "050005EA|trhoarder.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Trap Linker",
+    "string": "陷阱连锁器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHRingAlchemy",
+    "form_id": "050006F8|trhoarder.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Ring of Minor Alchemy",
+    "string": "次级炼金术戒指",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHWeddingWreath",
+    "form_id": "050006E0|trhoarder.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Wedding Wreath",
+    "string": "婚礼花环",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSmthingGloves",
+    "form_id": "050006F6|trhoarder.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Gloves of Minor Smithing",
+    "string": "初级锻造手套",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHStoragePortalSpellTome",
+    "form_id": "0500007B|trhoarder.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Summon Portal Spirit",
+    "string": "法术书：召唤传送门精灵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHStoragePortalSpellTome",
+    "form_id": "0500007B|trhoarder.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nOpen Storage Portal",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n开放式存储平台",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLocateMeSpellTome",
+    "form_id": "050004DD|trhoarder.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Locate Me",
+    "string": "法术书：定位我",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLocateMeSpellTome",
+    "form_id": "050004DD|trhoarder.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nLocate Me",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n定位我",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHHandOfGodNotes",
+    "form_id": "05000523|trhoarder.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Notes on The Hand of God",
+    "string": "《上帝之手》笔记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHHandOfGodNotes",
+    "form_id": "05000523|trhoarder.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$SkyrimBook'><font size='30'>\r\n<p align='center'>\r\nNotes on\r\nThe Hand of God\r\n</p></font>\r\n<font size='20'>\r\n<p align='left'>\r\nWhich God? Which Hand?? And what does it do? Sadly only the last question will be answered in the pages hereafter. And probably not entirely accurately either.\r\n<p>\r\n<pagebreak></pagebreak><p align='left'>The Hand of God is arguably one of the most powerful artifacts ever discovered. It has the power to teleport the user to any location in Skyrim - though no further. It also seems unable to teleport to an altitude below the very highest peak of the Throat of the World. Of course, a drop from such a height would prove deadly - but somehow the teleporting magicks defend against injuries from falls for a short period after.\r\n\r\nLocations can be set by entering coordinates. The left set of numerals, from 0000 to 9999, cover the East/West coordinates, and the right set the North/South.\r\n\r\nThe Spell 'Locate Me' will allow you to learn your current coordinates when exploring Skyrim.\r\n\r\nDestination Crystals can be used to set a location for re-use later, and are made at the enchanting desk. They can also be named.</p></font>\r\n<font face='$SkyrimBooks'><p><i>It's recommended  to also have the mod 'Open Cities' installed, as the cities of Windhelm, Whiterun, Solitude, Riften and Markarth exist in their own worldspaces, and are separate to Skyrim. If 'Open Cities' is not used, aim to land just outside. Also be cautious not to break any quests by appearing in a location too early - again locating your landing spots just outside places of interest should help to avoid this.</i></p></font>",
+    "string": "<font face'$SkyrimBook'><font size='30'>\r\n<p align='center'>\r\n说明\r\n上帝之手\r\n</p></font>\r\n<font size='20'>\r\n<p align='left'>\r\n哪个神？哪只手？它又有什么作用？遗憾的是，在接下来的篇章中，只有最后一个问题会得到解答。而且，答案可能并不完全准确。\r\n<p>\r\n<pagebreak></pagebreak><p align='left'>“上帝之手”堪称迄今为止发现的最强大的神器之一。它拥有将使用者传送到《上古卷轴5：天际》中任何地点的能力——但仅限于此。此外，它似乎也无法传送到世界之喉最高峰以下的任何高度。当然，从这样的高度坠落无疑会致命——但不知何故，传送魔法能在之后的一段时间内防止坠落造成的伤害。\r\n\r\n可以通过输入坐标来设置位置。左侧的一组数字，从0000到9999，代表东/西坐标，右侧的一组数字代表北/南坐标。\r\n\r\n“定位我”这个咒语将使你在探索天际时能够得知你当前的坐标。\r\n\r\n目标水晶可用于设定后续重用的位置，并在附魔台制作。它们还可以被命名。</p></font>\r\n<font face='$SkyrimBooks'><p><i>建议同时安装“开放城市”模组，因为冬堡、白漫、索利图德、里夫滕和马尔卡斯等城市都存在于它们自己的世界空间中，与天际是分开的。如果不使用“开放城市”模组，请尽量降落在这些城市之外。同时也要注意，不要过早出现在某个地点而破坏任何任务——再次强调，将你的降落点定在景点之外会有助于避免这种情况。</i></p></font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHScrollStorageChest",
+    "form_id": "0500007C|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Scroll Storage",
+    "string": "卷轴存储",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedSuppliesChest",
+    "form_id": "05000052|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Linked Supplies Chest",
+    "string": "关联物资箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedOutgoingChest",
+    "form_id": "05000047|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Outgoing Chest",
+    "string": "发货箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedIngredientChest",
+    "form_id": "0500003D|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Linked Ingredient Chest",
+    "string": "联动材料箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedCookingBarrel",
+    "form_id": "0500005B|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Linked Cooking Barrel",
+    "string": "联动烹饪桶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSortingChest",
+    "form_id": "05000082|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Sorting Chest",
+    "string": "分类箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHMiscChest",
+    "form_id": "05000085|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Miscellany Chest",
+    "string": "杂项箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHBookStorageChest",
+    "form_id": "05000087|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Book Storage",
+    "string": "书籍存储",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHApparelStorageChest",
+    "form_id": "05000083|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Apparel Storage",
+    "string": "服装储存",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedReturningChest",
+    "form_id": "0500052E|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Returning Chest",
+    "string": "回收箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHAmmoStorageChest",
+    "form_id": "05000084|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Ammo Storage",
+    "string": "护甲储存",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHHornOfPlentyChest",
+    "form_id": "050004DE|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Horn of Plenty",
+    "string": "丰饶之角",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSuppliesLargeSack",
+    "form_id": "050005B0|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Large Sack",
+    "string": "大袋子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLettersAndNotesChest",
+    "form_id": "05000549|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Letters, Notes and Journals",
+    "string": "信件、笔记和日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHPotionStorageChest",
+    "form_id": "05000086|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Potions Storage",
+    "string": "药剂储藏",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHWeaponStorageChest",
+    "form_id": "05000081|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Weapon Storage",
+    "string": "武器存储",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHBookShelfStacker",
+    "form_id": "05000080|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Bookshelf Stacker",
+    "string": "书架整理架",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedIncomingChest",
+    "form_id": "05000045|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Incoming Chest",
+    "string": "收货箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedEnchantingChest",
+    "form_id": "0500003B|trhoarder.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Linked Enchanting Chest",
+    "string": "联动魔法箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHoarderLoadDoorMinUseExternal",
+    "form_id": "05000806|trhoarder.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Wooden Door",
+    "string": "木门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHoarderLoadDoorMinUse",
+    "form_id": "05000002|trhoarder.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Wooden Door",
+    "string": "木门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHGrateDoor",
+    "form_id": "0500060F|trhoarder.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Grate",
+    "string": "壁炉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHToiletDoor",
+    "form_id": "050006DC|trhoarder.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Outhouse Door",
+    "string": "外屋门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHBathroomDoor",
+    "form_id": "050000C9|trhoarder.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Bathroom Door",
+    "string": "浴室门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHHorseshoe",
+    "form_id": "050005B1|trhoarder.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Horseshoe",
+    "string": "马蹄铁",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHDestinationCrystalInv",
+    "form_id": "05000524|trhoarder.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Destination Crystal",
+    "string": "目的地水晶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedEnchantingTabletop",
+    "form_id": "05000061|trhoarder.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Linked Arcane Enchanter",
+    "string": "连锁奥术附魔台",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedCraftingBlacksmithAnvil",
+    "form_id": "05000066|trhoarder.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Linked Anvil",
+    "string": "联动铁砧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCommonChair02LR",
+    "form_id": "05000094|trhoarder.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Chair",
+    "string": "椅子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedCraftingTanningRackMarker",
+    "form_id": "05000065|trhoarder.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Linked Tanning Rack",
+    "string": "联动制皮架",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedCraftingOvenMarker",
+    "form_id": "05000091|trhoarder.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Linked Oven",
+    "string": "联动烤炉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedCraftingBlacksmithSharpeningWheel",
+    "form_id": "05000069|trhoarder.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Linked Grindstone",
+    "string": "联动磨刀石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedAlchemyLab",
+    "form_id": "0500003F|trhoarder.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Linked Alchemy Lab",
+    "string": "联动炼金实验室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedCraftingSmelterMarker",
+    "form_id": "05000067|trhoarder.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Linked Smelter",
+    "string": "联动熔炉",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkedCraftingCookingPotSm",
+    "form_id": "0500005F|trhoarder.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Linked Cooking Pot",
+    "string": "联动烹饪锅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHToiletSit",
+    "form_id": "050006DD|trhoarder.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Seat",
+    "string": "座位",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLinkeeCraftingBlacksmithArmorWorkbench",
+    "form_id": "05000063|trhoarder.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Linked Workbench",
+    "string": "联动工作台",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHLongToothEnc",
+    "form_id": "05000095|trhoarder.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Long Tooth",
+    "string": "长牙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHFakeRabbit",
+    "form_id": "05000616|trhoarder.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rabbit",
+    "string": "兔子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHTheHoarderEnc",
+    "form_id": "05000072|trhoarder.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "The Riverwood Hoarder",
+    "string": "河木镇的守财奴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHTheHoarderEnc",
+    "form_id": "05000072|trhoarder.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Hoarder",
+    "string": "守财奴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHHoardersKey",
+    "form_id": "05000097|trhoarder.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Hoarder's Key",
+    "string": "守财奴的钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSewers",
+    "form_id": "05000124|trhoarder.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Riverwood Sewers",
+    "string": "河木镇下水道",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHRiverwoodHoarder",
+    "form_id": "05000005|trhoarder.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Riverwood Hoarder",
+    "string": "河木镇的守财奴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500040C|trhoarder.esp",
+    "index": 1,
+    "type": "REFR FULL",
+    "original": "The Riverwood Hoarder",
+    "string": "河木镇的守财奴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHQuest",
+    "form_id": "050006C7|trhoarder.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Riverwood Hoarder",
+    "string": "河木镇的守财奴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHQuest",
+    "form_id": "050006C7|trhoarder.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've found the barred door to the Riverwood Hoarder in Riverwood. Perhaps I can find another way in through the sewers?",
+    "string": "我在河木镇找到了通往河木镇守财奴的那扇上了锁的门。或许我可以通过下水道找到另一条进入的路？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHQuest",
+    "form_id": "050006C7|trhoarder.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've found the Riverwood Sewers. I should try to find a key to the Riverwood Hoarder's door.",
+    "string": "我找到了河木镇的下水道。我应该试着找到一把能打开河木镇守财奴大门的钥匙。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHQuest",
+    "form_id": "050006C7|trhoarder.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I've found a key to the Riverwood Hoarder! I should find the door and discover what's inside.",
+    "string": "我找到了通往河木镇守财奴的钥匙！我应该找到那扇门，看看里面有什么。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHQuest",
+    "form_id": "050006C7|trhoarder.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I have discoverd the Riverwood Hoarder! Who knows what I might find inside?",
+    "string": "我发现了河木镇的宝藏！谁知道里面会有什么呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHQuest",
+    "form_id": "050006C7|trhoarder.esp",
+    "index": 0,
+    "type": "QUST NNAM",
+    "original": "Find the entrance to the Riverwood Sewers",
+    "string": "找到河木镇下水道的入口",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHQuest",
+    "form_id": "050006C7|trhoarder.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Find a key for the Riverwood Hoarder door",
+    "string": "找到一把能打开河木镇守财奴之门的钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHQuest",
+    "form_id": "050006C7|trhoarder.esp",
+    "index": 2,
+    "type": "QUST NNAM",
+    "original": "Unlock the door to the Riverwood Hoarder",
+    "string": "打开通往河木镇守财奴的大门",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHloadscreenLS",
+    "form_id": "05000607|trhoarder.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Hidden beneath Riverwood lies the abandoned lair of The Hoarder. The perfect base to begin your adventure!",
+    "string": "河木镇下方隐藏着守财奴的废弃巢穴。这里是开始冒险的绝佳基地！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHoarderExteriorLocation",
+    "form_id": "05000412|trhoarder.esp",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "The Riverwood Hoarder",
+    "string": "河木镇的守财奴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHoarderLocation",
+    "form_id": "050001B7|trhoarder.esp",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "The Riverwood Hoarder",
+    "string": "河木镇的守财奴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSewersLocation",
+    "form_id": "050001B8|trhoarder.esp",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Riverwood Sewers",
+    "string": "河木镇下水道",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput1Message",
+    "form_id": "0500051A|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Enter a character",
+    "string": "输入一个字符",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput1Message",
+    "form_id": "0500051A|trhoarder.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "A",
+    "string": "A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput1Message",
+    "form_id": "0500051A|trhoarder.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "B",
+    "string": "B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput1Message",
+    "form_id": "0500051A|trhoarder.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "C",
+    "string": "C",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput1Message",
+    "form_id": "0500051A|trhoarder.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "D",
+    "string": "D",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput1Message",
+    "form_id": "0500051A|trhoarder.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "E",
+    "string": "E",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput1Message",
+    "form_id": "0500051A|trhoarder.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "F",
+    "string": "F",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput1Message",
+    "form_id": "0500051A|trhoarder.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "G",
+    "string": "G",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput1Message",
+    "form_id": "0500051A|trhoarder.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "H",
+    "string": "H",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput2Message",
+    "form_id": "0500051B|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Enter a character",
+    "string": "输入一个字符",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput2Message",
+    "form_id": "0500051B|trhoarder.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "J",
+    "string": "J",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput2Message",
+    "form_id": "0500051B|trhoarder.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "K",
+    "string": "K",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput2Message",
+    "form_id": "0500051B|trhoarder.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "L",
+    "string": "L",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput2Message",
+    "form_id": "0500051B|trhoarder.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "M",
+    "string": "M",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput2Message",
+    "form_id": "0500051B|trhoarder.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "N",
+    "string": "N",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput2Message",
+    "form_id": "0500051B|trhoarder.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "O",
+    "string": "O",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput2Message",
+    "form_id": "0500051B|trhoarder.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "P",
+    "string": "P",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput2Message",
+    "form_id": "0500051B|trhoarder.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "Q",
+    "string": "Q",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHAddDestinationMessage",
+    "form_id": "05000519|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Add a Destination Crystal?",
+    "string": "添加一个目的地水晶？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHAddDestinationMessage",
+    "form_id": "05000519|trhoarder.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "取消",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHAddDestinationMessage",
+    "form_id": "05000519|trhoarder.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Add",
+    "string": "加入",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCreateDestinationCrystalMessage",
+    "form_id": "0500052B|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Create a Destination Crystal from a Petty Soul Gem?",
+    "string": "用小灵魂宝石制作一个目标水晶？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCreateDestinationCrystalMessage",
+    "form_id": "0500052B|trhoarder.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "取消",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput5Message",
+    "form_id": "0500051E|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Enter a character",
+    "string": "输入一个字符",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput5Message",
+    "form_id": "0500051E|trhoarder.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "j",
+    "string": "j",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput5Message",
+    "form_id": "0500051E|trhoarder.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "k",
+    "string": "k",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput5Message",
+    "form_id": "0500051E|trhoarder.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "l",
+    "string": "l",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput5Message",
+    "form_id": "0500051E|trhoarder.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "m",
+    "string": "m",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput5Message",
+    "form_id": "0500051E|trhoarder.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "n",
+    "string": "n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput5Message",
+    "form_id": "0500051E|trhoarder.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "o",
+    "string": "o",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput5Message",
+    "form_id": "0500051E|trhoarder.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "p",
+    "string": "p",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput5Message",
+    "form_id": "0500051E|trhoarder.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "q",
+    "string": "q",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput5Message",
+    "form_id": "0500051E|trhoarder.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "r",
+    "string": "r",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSewerDoorMessage",
+    "form_id": "050001BA|trhoarder.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Riverwood Sewers",
+    "string": "河木镇下水道",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput3Message",
+    "form_id": "0500051C|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Enter a character",
+    "string": "输入一个字符",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput3Message",
+    "form_id": "0500051C|trhoarder.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "R",
+    "string": "R",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput3Message",
+    "form_id": "0500051C|trhoarder.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "S",
+    "string": "S",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput3Message",
+    "form_id": "0500051C|trhoarder.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "T",
+    "string": "T",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput3Message",
+    "form_id": "0500051C|trhoarder.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "U",
+    "string": "U",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput3Message",
+    "form_id": "0500051C|trhoarder.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "V",
+    "string": "V",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput3Message",
+    "form_id": "0500051C|trhoarder.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "W",
+    "string": "W",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput3Message",
+    "form_id": "0500051C|trhoarder.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "X",
+    "string": "X",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput3Message",
+    "form_id": "0500051C|trhoarder.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Y",
+    "string": "Y",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput3Message",
+    "form_id": "0500051C|trhoarder.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "Z",
+    "string": "Z",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput6Message",
+    "form_id": "0500051F|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Enter a character",
+    "string": "输入一个字符",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput6Message",
+    "form_id": "0500051F|trhoarder.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "s",
+    "string": "s",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput6Message",
+    "form_id": "0500051F|trhoarder.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "t",
+    "string": "t",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput6Message",
+    "form_id": "0500051F|trhoarder.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "u",
+    "string": "u",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput6Message",
+    "form_id": "0500051F|trhoarder.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "v",
+    "string": "v",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput6Message",
+    "form_id": "0500051F|trhoarder.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "w",
+    "string": "w",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput6Message",
+    "form_id": "0500051F|trhoarder.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "x",
+    "string": "x",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput6Message",
+    "form_id": "0500051F|trhoarder.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "y",
+    "string": "y",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput6Message",
+    "form_id": "0500051F|trhoarder.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "z",
+    "string": "z",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput6Message",
+    "form_id": "0500051F|trhoarder.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "0",
+    "string": "0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHRemoveDestinationMessage",
+    "form_id": "05000518|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Remove this Destination Crystal?",
+    "string": "移除这个目标水晶吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHRemoveDestinationMessage",
+    "form_id": "05000518|trhoarder.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "取消",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHRemoveDestinationMessage",
+    "form_id": "05000518|trhoarder.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Remove",
+    "string": "移除",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHoardersDoorMessage",
+    "form_id": "050001B9|trhoarder.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Riverwood Hoarder",
+    "string": "河木镇守财奴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput7Message",
+    "form_id": "05000520|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Enter a character",
+    "string": "输入一个字符",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput7Message",
+    "form_id": "05000520|trhoarder.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "1",
+    "string": "1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput7Message",
+    "form_id": "05000520|trhoarder.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "2",
+    "string": "2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput7Message",
+    "form_id": "05000520|trhoarder.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput7Message",
+    "form_id": "05000520|trhoarder.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "4",
+    "string": "4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput7Message",
+    "form_id": "05000520|trhoarder.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "5",
+    "string": "5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput7Message",
+    "form_id": "05000520|trhoarder.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "6",
+    "string": "6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput7Message",
+    "form_id": "05000520|trhoarder.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "7",
+    "string": "7",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput7Message",
+    "form_id": "05000520|trhoarder.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "8",
+    "string": "8",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput7Message",
+    "form_id": "05000520|trhoarder.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "9",
+    "string": "9",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHStoragePortalChoiceMessage",
+    "form_id": "05000413|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which chest?",
+    "string": "哪个箱子？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHStoragePortalChoiceMessage",
+    "form_id": "05000413|trhoarder.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Weapons",
+    "string": "武器",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHStoragePortalChoiceMessage",
+    "form_id": "05000413|trhoarder.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Apparel",
+    "string": "护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHStoragePortalChoiceMessage",
+    "form_id": "05000413|trhoarder.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Potions",
+    "string": "药水",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHStoragePortalChoiceMessage",
+    "form_id": "05000413|trhoarder.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Enchanting",
+    "string": "附魔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHStoragePortalChoiceMessage",
+    "form_id": "05000413|trhoarder.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Ingredients",
+    "string": "烹饪原料",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHFirewoodNeededMessage",
+    "form_id": "05000017|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Firewood is needed",
+    "string": "需要木柴",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput8Message",
+    "form_id": "05000521|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Enter a character",
+    "string": "输入一个字符",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput8Message",
+    "form_id": "05000521|trhoarder.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "-",
+    "string": "-",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput8Message",
+    "form_id": "05000521|trhoarder.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "'",
+    "string": "'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput8Message",
+    "form_id": "05000521|trhoarder.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "#",
+    "string": "#",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput8Message",
+    "form_id": "05000521|trhoarder.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "+",
+    "string": "+",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput8Message",
+    "form_id": "05000521|trhoarder.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "*",
+    "string": "*",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput8Message",
+    "form_id": "05000521|trhoarder.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "!",
+    "string": "!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput4Message",
+    "form_id": "0500051D|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Enter a character",
+    "string": "输入一个字符",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput4Message",
+    "form_id": "0500051D|trhoarder.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "a",
+    "string": "a",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput4Message",
+    "form_id": "0500051D|trhoarder.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "b",
+    "string": "b",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput4Message",
+    "form_id": "0500051D|trhoarder.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "c",
+    "string": "c",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput4Message",
+    "form_id": "0500051D|trhoarder.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "d",
+    "string": "d",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput4Message",
+    "form_id": "0500051D|trhoarder.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "e",
+    "string": "e",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput4Message",
+    "form_id": "0500051D|trhoarder.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "f",
+    "string": "f",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput4Message",
+    "form_id": "0500051D|trhoarder.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "g",
+    "string": "g",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput4Message",
+    "form_id": "0500051D|trhoarder.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "h",
+    "string": "h",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHCharInput4Message",
+    "form_id": "0500051D|trhoarder.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "i",
+    "string": "i",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSetNumeralMessage",
+    "form_id": "05000517|trhoarder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Set coordinates...",
+    "string": "设置坐标。..",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSetNumeralMessage",
+    "form_id": "05000517|trhoarder.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "0",
+    "string": "0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSetNumeralMessage",
+    "form_id": "05000517|trhoarder.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "1",
+    "string": "1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSetNumeralMessage",
+    "form_id": "05000517|trhoarder.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "2",
+    "string": "2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSetNumeralMessage",
+    "form_id": "05000517|trhoarder.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSetNumeralMessage",
+    "form_id": "05000517|trhoarder.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "4",
+    "string": "4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSetNumeralMessage",
+    "form_id": "05000517|trhoarder.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "5",
+    "string": "5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSetNumeralMessage",
+    "form_id": "05000517|trhoarder.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "6",
+    "string": "6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSetNumeralMessage",
+    "form_id": "05000517|trhoarder.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "7",
+    "string": "7",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSetNumeralMessage",
+    "form_id": "05000517|trhoarder.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "8",
+    "string": "8",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TRHSetNumeralMessage",
+    "form_id": "05000517|trhoarder.esp",
+    "index": 9,
+    "type": "MESG ITXT",
+    "original": "9",
+    "string": "9",
+    "status": "TranslationComplete"
+  }
+]

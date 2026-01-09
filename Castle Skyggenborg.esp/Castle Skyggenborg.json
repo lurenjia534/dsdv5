@@ -1,0 +1,2423 @@
+[
+  {
+    "editor_id": "CSSummonEffectSirGodefroy",
+    "form_id": "0527E438|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Call Vengeful Spirit",
+    "string": "召唤复仇之魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSummonEffectSirGodefroy",
+    "form_id": "0527E438|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons the vengeful spirit of Sir Godefroy for <dur> seconds.",
+    "string": "召唤戈德弗洛伊男爵的复仇之魂，持续<dur> 秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSHungeringChaosSummonEffect",
+    "form_id": "052D62B8|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Hungering Chaos",
+    "string": "召唤饥渴混沌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSHungeringChaosSummonEffect",
+    "form_id": "052D62B8|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons an Otherworldly Entity for <dur> seconds. You will only get one chance to summon it.",
+    "string": "召唤来自另一个世界的实体，时许 <dur> 秒。 你只能召唤其一次。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSVampireChangeEffect",
+    "form_id": "052DB3F8|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Vampire Lord",
+    "string": "吸血鬼领主",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSRestoreHealthSelfFFNoRecast",
+    "form_id": "052E051F|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Restore Health",
+    "string": "回复生命",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSRestoreHealthSelfFFNoRecast",
+    "form_id": "052E051F|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Heals the caster <mag> points.",
+    "string": "治愈施法者<mag>点生命。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSAbFXAtronachFlame",
+    "form_id": "052EA781|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bran Explode on Death",
+    "string": "布兰的死亡爆裂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSummonSkeleton",
+    "form_id": "05345B1D|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Undead Guardian",
+    "string": "召唤不死护卫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSummonSkeleton",
+    "form_id": "05345B1D|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a Undead Guardian for <dur> seconds.",
+    "string": "召唤一名不死护卫，持续 <dur> 秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSummonSkeleton2",
+    "form_id": "05345B1F|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Undead Guardian",
+    "string": "召唤不死护卫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSummonSkeleton2",
+    "form_id": "05345B1F|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a Undead Guardian for <dur> seconds.",
+    "string": "召唤一名不死护卫，持续 <dur> 秒。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSVampireSwordEnchant",
+    "form_id": "051A2CD8|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Moon Enchant",
+    "string": "新月附魔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCarryEnchant",
+    "form_id": "0515140F|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Fortify Carry Weight",
+    "string": "强化负重",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSHuntsmanEnchant",
+    "form_id": "05269BFD|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Huntsman",
+    "string": "猎手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSpearEnchant",
+    "form_id": "052BC137|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Vampire's Bane",
+    "string": "吸血鬼克星",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranAttackSpell",
+    "form_id": "052DB3F7|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Vampiric Drain",
+    "string": "吸血鬼吸蚀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSHaunterAbility",
+    "form_id": "050944D0|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Haunter of the Dark",
+    "string": "暗黑幽魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSUndeadAbility",
+    "form_id": "05193908|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Unholy Aura",
+    "string": "不洁帷幕",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSpearSpell",
+    "form_id": "052BC136|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Vampire's Bane",
+    "string": "吸血鬼克星",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSActualSummonSirGodefroy",
+    "form_id": "0527E437|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Call Vengeful Spirit",
+    "string": "召唤复仇之魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranExplodeonDeath",
+    "form_id": "052E5655|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bran Explosion Death",
+    "string": "布兰的死亡爆裂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSConjureBoneman",
+    "form_id": "052E5654|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Boneman",
+    "string": "召唤暗黑骷髅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSVampireTransformSpell",
+    "form_id": "052D11A0|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Vampire Lord",
+    "string": "吸血鬼领主",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSVampireTransformSpell",
+    "form_id": "052D11A0|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Transform into a Vampire Lord. Use the Revert Form power to change back.",
+    "string": "变身成吸血鬼领主。使用形态还原特殊能力返回原貌。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranAttackSpellatLvl20",
+    "form_id": "052EF89A|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Vampiric Drain",
+    "string": "吸血鬼吸蚀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranAttackSpellatLvl30",
+    "form_id": "052EF89B|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Vampiric Drain",
+    "string": "吸血鬼吸蚀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranAttackSpellatLvl40",
+    "form_id": "052EF89D|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Vampiric Drain",
+    "string": "吸血鬼吸蚀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranAttackSpellatLvl60",
+    "form_id": "052EF89F|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Vampiric Drain",
+    "string": "吸血鬼吸蚀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranAttackSpellatLvl10",
+    "form_id": "052EF897|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Vampiric Drain",
+    "string": "吸血鬼吸蚀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranReanimateSpell",
+    "form_id": "0533B8EE|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Raise Dead",
+    "string": "唤醒死尸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMaraFakeShrineSpell",
+    "form_id": "0515B743|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Desecrated Shrine",
+    "string": "被亵渎的圣地",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSFortifyUnarmedDamage",
+    "form_id": "052D62BA|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Rend Reality",
+    "string": "撕裂现实",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSummonSkeletonSpell",
+    "form_id": "0534AC35|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Undead Guardian",
+    "string": "召唤不死护卫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CScrVampireUnarmedDamage06",
+    "form_id": "053641A6|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Vampire Touch",
+    "string": "吸血鬼之触",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranFrostCloak",
+    "form_id": "053641A8|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Frost Cloak",
+    "string": "寒霜斗篷",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDLC1VampireUnequip",
+    "form_id": "053641A5|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Unequip Spells In Melee Mode",
+    "string": "近战模式下无法使用法术",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSHungeringChaosSummonScroll",
+    "form_id": "052D62B7|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Celestial Contract",
+    "string": "天堂契约",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBoltedDoorOpen",
+    "form_id": "05156609|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Door Bar",
+    "string": "门闩杠",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSconceOff",
+    "form_id": "050A8C82|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Torch Sconce",
+    "string": "火把台",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMaraFakeShrine",
+    "form_id": "0515B73E|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Shrine of Mara",
+    "string": "玛拉祭坛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSElevatorCubePedestal2",
+    "form_id": "05227551|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Elevator Power Supply Pedestal",
+    "string": "电梯供能基座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSElevatorCubePedestal",
+    "form_id": "0522753E|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Elevator Power Supply Pedestal",
+    "string": "电梯供能基座",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMaraKnightsGauntletsUnplayable",
+    "form_id": "052BC126|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Order of Mara Gauntlets",
+    "string": "玛拉教团臂甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMaraKnightsShield",
+    "form_id": "052BC128|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Knight's Shield",
+    "string": "骑士盾牌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDremoraArmor",
+    "form_id": "0522C674|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dremora Armor",
+    "string": "魔族护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDremoraGauntlets",
+    "form_id": "0522C675|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dremora Gauntlets",
+    "string": "魔族臂甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMaraEliteKnightArmorUnplayable",
+    "form_id": "052BC124|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Paladin of Mara Cuirass",
+    "string": "玛拉圣骑士护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDremoraBoots",
+    "form_id": "0522C676|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "DremoraBoots",
+    "string": "魔族靴子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMaraEliteKnightArmor",
+    "form_id": "0522C66B|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Paladin of Mara Cuirass",
+    "string": "玛拉圣骑士护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSHood",
+    "form_id": "052D10D2|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Black Hood",
+    "string": "黑色兜帽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMaraPriestHood",
+    "form_id": "052368A5|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Order of Mara Hood",
+    "string": "玛拉教团兜帽",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMaraPriestRobes",
+    "form_id": "052368A3|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Order of Mara Robes",
+    "string": "玛拉教团长袍",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMaraAmuletFake",
+    "form_id": "051379DE|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Amulet of Mara",
+    "string": "玛拉护符",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMaraAmuletFake",
+    "form_id": "051379DE|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "While it looks like an amulet worn by the disciples of Mara it holds no power. Perhaps it is merely a forgery.",
+    "string": "尽管看起来像是玛拉信徒佩戴的护符，但它并没有力量。或许这只是个伪造品。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSAkaviriGauntlets",
+    "form_id": "052500B3|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Akaviri Gauntlets",
+    "string": "阿卡维尔臂架",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSAkaviriHelmet",
+    "form_id": "052500B2|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Akaviri Helmet",
+    "string": "阿卡维尔头盔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSAkaviriShield",
+    "form_id": "052500B1|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Akaviri Shield",
+    "string": "阿卡维尔盾牌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSAkaviriArmor",
+    "form_id": "052500B0|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Akaviri Armor",
+    "string": "阿卡维尔护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSAkaviriBoots",
+    "form_id": "052500B4|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Akaviri Boots",
+    "string": "阿卡维尔靴子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSFeatherRing",
+    "form_id": "052740FB|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Ring of Feather",
+    "string": "轻羽戒指",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMask",
+    "form_id": "0527410B|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Carved Wooden Mask Copy",
+    "string": "木刻面具复制品",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSGeneralArmor",
+    "form_id": "052740F5|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Imperial General Armor",
+    "string": "帝国将军护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSEnchSilverRing",
+    "form_id": "051379DA|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Unenchanted Silver Garnet Ring",
+    "string": "未附魔的石榴石戒指",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSGenuineMaraAmulet",
+    "form_id": "0514C2F2|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Genuine Amulet of Mara",
+    "string": "玛拉虔信护符",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSEchaGoldNecklace",
+    "form_id": "051379D9|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Unenchanted Gold Jeweled Necklace",
+    "string": "未附魔的珠宝金项链",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCarryNecklace",
+    "form_id": "0515140D|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Necklace of Feather",
+    "string": "轻羽项链",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMaraKnightArmor",
+    "form_id": "050996AB|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Order of Mara Cuirass",
+    "string": "玛拉教团护甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranFamiltyRing",
+    "form_id": "05104ABA|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bran's Family Seal",
+    "string": "布兰的家族印章",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMaraKnightsGauntlets",
+    "form_id": "050996AE|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Order of Mara Gauntlets",
+    "string": "玛拉教团臂甲",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMaraKnightHelmet",
+    "form_id": "0522C66E|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Knight Helmet",
+    "string": "骑士头盔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBransRobes",
+    "form_id": "052AC81C|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bran's Robes",
+    "string": "布兰的长袍",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBransShoes",
+    "form_id": "052AC81D|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Shoes",
+    "string": "鞋子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDremoraHelmet",
+    "form_id": "0522C672|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Helmet of Coldharbour",
+    "string": "冷港之盔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSteelPlateHelmetUnplayable",
+    "form_id": "052BC125|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Steel Plate Helmet",
+    "string": "钢板头盔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSacWaterTorture",
+    "form_id": "052D1104|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Water Cure",
+    "string": "水刑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSacWaterTorture",
+    "form_id": "052D1104|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nThe victim should first be safely secured on the table, after which the faucet should be turned and the victim will be forced to slowly consume large quantities of water. Their mouth needs to be forced open and make sure that there nose is closed with pincers. Fill them up to the point of bursting, induce them to vomit, then repeat the process. Be mindful of gastric distention within the victims, keep them conscious and make sure they do not die, else all of the effort would have been for naught. When the victim is at their breaking point remove them from the table and send them over to the sacrifical altar.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n受害者应首先被安全地固定在桌上，之后转动水龙头，受害者将被迫慢慢饮入大量的水。让他们保持张嘴，并确保用镊子夹紧他们的鼻子。将受害者的腹腔填充到临界点，诱导他们呕吐，然后重复这个过程。要注意受害者胃部肿胀的情况，让他们保持清醒，确保他们不会死亡，否则所有的努力都是徒劳的。当受害者到达极限时，把他们从桌子上放下来，送到献祭祭坛上。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSacMaimingNotes",
+    "form_id": "052D1107|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Maiming",
+    "string": "折磨",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSacMaimingNotes",
+    "form_id": "052D1107|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nThe victim needs to be carefully secured and bound. At this point any one of the available tools can be useful. Use hammer to break bones, knifes to rend flesh and spears to skewer. This method of torture is however quite risky, as the constitution of each victim is different and the application of force can have wildly differing results. Keep restorative elixirs close by and make sure that your victims live through the whole process. When they are at the brink of death, release them and bring them to the sacrifical altar.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n小心地捆绑好受害者。干这活的时候，任何工具都可能派上用场。用锤子打断他们的骨头，用刀割他们的肉，用长矛刺穿他们。然而，这种酷刑存在风险，由于每个受害者的身体情况不同，酷刑的结果也可能截然不同。在附近备好恢复药剂，并确保你的受害者在整个过程中活着。当他们濒临死亡时，释放他们，送到献祭祭坛上。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLaboratoryResearchLetter",
+    "form_id": "0527E541|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Research Notes",
+    "string": "研究笔记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLaboratoryResearchLetter",
+    "form_id": "0527E541|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\n-Resurrection trials have been unsuccesful. I should focus my research elsewhere.\r\n\r\n-Out of vampire subjects. No vampires left in the vacinity to replace them.\r\n\r\n-Acquire new human subjects.\r\n\r\n-Toss the previous batch into the Disposal Pit.\r\n\r\n-Envoy killed the Antiquarian and tossed his body into the pit. Need to retrive the key to the elevator chamber that is still on his body.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n-复活实验失败了。我应该把研究的重点放在别处。\r\n\r\n-停止吸血鬼的研究课题。疫苗接种区已经没有吸血鬼可供实验使用了。\r\n\r\n-获得了新的人类实验体。\r\n\r\n-把上一批扔到弃物坑。\r\n\r\n-使节杀掉了研究者，把他的尸体扔进了坑里。需要找回他尸体上的电梯室钥匙。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLaboratoryAlchemyLetter",
+    "form_id": "0527E575|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Alchemy Notes",
+    "string": "炼金笔记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLaboratoryAlchemyLetter",
+    "form_id": "0527E575|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\n-Make a fresh batch of restorative elixirs for the next torture sessions.\r\n\r\n-Make a fresh batch of conjuration potions for the reanimation tests.\r\n\r\n-Make a fresh batch of subduing tonics for the vampire subjects.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n-为下一次酷刑制作一批恢复药剂。\r\n\r\n-为复苏实验制作一批恢复药剂。\r\n\r\n-为吸血鬼研究课题制作一批恢复药剂。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSRemoteSanctuaryBransJournal",
+    "form_id": "0527E5DC|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Desperation",
+    "string": "绝望",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSRemoteSanctuaryBransJournal",
+    "form_id": "0527E5DC|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face=\"$HandwrittenFont\">\r\n\r\n<b>30th of Evening Star, 4E 200</b>\r\nHow many was it? How many centuries have passed since I was reborn?\r\n\r\nWE MADE A DEAL MOLAG! I was to be reborn as a full-fledged Son of the Coldharbour. In exchange I was to sacrifice 30 broken souls in your name each year. The horrors I have commited in your name. All in order to rise up above my rivals and the petty squabbling of the mortal world. And yet, even after centuries of service and countless lost souls I am denied a chance to miss one year. ONE YEAR!\r\n\r\nThe arrogant mortals of the Order of Mara have found out my true identity, that I am one and the same Lord Bran, who helped their ancestor bolster the power of their own order. They have released my prisoners, and now with the year's end hours away, I am unable to fill my quota. I have no doubt that I will be showed no mercy, whether by their hand or by yours Molag. But I will persevare, like I always have. I have built an empire, manipulated mortals into killing my adversaries, made pacts with Herma Mora, Clavicus Vile, and even you. I have risen above the limitations of this world I will do so again. I will find a way to escape your clutches, you foul Daedra, and you will one day come to recognize me as your superior.\r\n",
+    "string": "<font face=\"$HandwrittenFont\">\r\n\r\n<b>30th of Evening Star, 4E 200</b>\r\nHow many was it? How many centuries have passed since i was reborn?\r\n\r\nWE MADE A DEAL MOLAG! I was to be reborn as a full-fledged Son of the Coldharbour. In exchange I was to sacrifice 30 broken souls in your name each year. The horrors I have commited in your name. All in order to rise up above my rivals and the petty squabbling of the mortal world. And yet, even after centuries of service and countless lost souls I am denied a chance to miss one year. ONE YEAR!\r\n\r\nThe arrogant mortals of the Order of Mara have found out my true identity, that I am one and the same Lord Bran, who helped their ancestor bolster the power of their own order. They have released my prisoners, and now with the year's end hours away, I am unable to fill my quota. I have no doubt that I will be showed no mercy, whether by their hand or by yours Molag. But I will persevare, like I always have. I have built an empire, manipulated mortals into killing my adversaries, made pacts with Herma Mora, Clavicus Vile, and even you. I have risen above the limitations of this world I will do so again. I will find a way to escape your clutches, you foul Daedra, and you will one day come to recognize me as your superior.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSummonSirGodefroy",
+    "form_id": "0527E436|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Call Vengeful Spirit",
+    "string": "法术书：召唤复仇之魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSummonSirGodefroy",
+    "form_id": "0527E436|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nSummon the Vengeful Spirit of Sir Godefroy",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\n召唤戈德弗洛伊男爵的复仇之魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLaboratoryRessurection",
+    "form_id": "052837A0|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Notes on Ressurection",
+    "string": "复活笔记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLaboratoryRessurection",
+    "form_id": "052837A0|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nEnvoy seems unsatisfied with the torture of reanimated subjects. Claims that the lack of conscious fear removes the point of torture. Claims that Molag will not be pleased.\r\n\r\nReanimation experiments demeed a failure.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n使节似乎对复活实验体的酷刑不满意。他声称恐惧意识的缺乏使酷刑失去了意义，这样莫拉格·巴尔是不会高兴的。\r\n\r\n复活实验失败了。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSolarLettertoBran",
+    "form_id": "05132867|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Note from the Antiquarian",
+    "string": "研究者的笔记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSolarLettertoBran",
+    "form_id": "05132867|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nLord Bran, as per your instructions, the Warding Stone has been safely placed within the Study.\r\n\r\nAdditionally the Necklace of Feather and a Genuine Amulet of Mara have been put on the display in the Solar, also per your instructions.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n布兰领主，遵照您的吩咐，守护石已经被安全地存入书房。\r\n\r\n另外，轻羽项链和一个玛拉虔信护符已经存入浴室的展示柜，同样是遵照您的吩咐。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalBloody",
+    "form_id": "052368B4|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Bloodstained Journal",
+    "string": "血染的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBransJournalSecret",
+    "form_id": "051327F3|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Old Journal",
+    "string": "旧日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLaboratoryTortureNotes",
+    "form_id": "05283755|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Arrival of the Envoy",
+    "string": "使节的到来",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLaboratoryTortureNotes",
+    "form_id": "05283755|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nMolag's Envoy has arrived today. He insists on overseeing the torture experiments.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n莫拉格·巴尔的使节今天到了。他坚持亲自监督酷刑实验。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSScriptureofMara",
+    "form_id": "05104A77|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "The Scriptures of Mara",
+    "string": "玛拉圣典",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalUndergroundTemple",
+    "form_id": "05292E7A|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Journal of Brother Jan",
+    "string": "简修士的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalUndergroundTemple",
+    "form_id": "05292E7A|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Captain Rychard\r\n\r\nHe went ahead\r\n\r\nPast the big door\r\n\r\nTwo levers\r\n\r\nOne in the Holding Cells\r\n\r\nThe other in the Sacrifical Chamber\r\n\r\nHelp him...\r\n\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>Captain Rychard\r\n\r\n他走向前去\r\n\r\n穿过大门\r\n\r\n两道杠杆\r\n\r\n一道在监禁牢房\r\n\r\n另一道在献祭室\r\n\r\n帮帮他...\r\n\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalMainHall",
+    "form_id": "052087D2|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Journal of Brother Nathaniel",
+    "string": "纳撒尼尔修士的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalMainHall",
+    "form_id": "052087D2|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>\r\n<b>29th of Evening Star, 4E 200</b>\r\nCurse Bran. Curse him, and all that he's wrought. The arrogance of using our brothers as his pawns, and the namesake of our order, all in an attempt to mask his true intentions. He will pay dearly for this treachery. Our forces have gathered outside Skyggenborg and we stand ready. Retribution awaits.\r\n\r\n<b>30th of Evening Star, 4E 200</b>\r\nBlasphemy upon blapshemy. That's what this place is. A menagerie of horrors that have no place on Nirn. And the very fact that this evil has gone on unchecked for centuries disgusts me. I couldn't be more glad to finally have a chance to strike out against these heathens. We were succesful in liberating Bran's prisoners and they have been safely escorted out of the castle. There is still no sign of Bran.\r\n\r\n<b>31st of Evening Star, 4E 200</b>\r\nWhat madness is this? Divines guide me for I fear my mind will fail me after what I have witnessed. While underground we stumbled upon a terrible sight. Chambers designed for torture, sacrifical altars and even shrines dedicated to Daedra worship. We found what remains of Bran's victims. Limbs scattered, bodies mutilated and then later dumped into pits, pilled high. The smell of that dreadful air, the maniacal laughter of the cultists. And just when I thought that it would be over, that we have won. That we would corner Bran and make him face judgement. That is when that terrible thing appeared. An unearthly roar echoed across the desolate halls. At first we thought that the creature was on the side of the cultists, but we were gravely mistaken. That thing killed without remorse and without discrimination. Both the cultists and my brothers in the order were slaughtered. This terrible thing that came out of the darkness. This haunter of the dark. There was no choice but to run.\r\n\r\n<b>1st of Morning Star, 4E 201</b>\r\nI have regrouped with the others back in the entrance hall. But we are trapped. A foul mist is blocking the exit, denying us escape. A group of them have suggested that we flee via the sewer passage from which we entered. They're words ring of cowardice, and I agree with them. We are patching up and are preparing to brave the undercroft even as I write. We will soon be free from this evil place.\r\n\r\nMara save us, the roar has been heard once again, there is no hope left.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>\r\n<b>29th of Evening Star, 4E 200</b>\r\nCurse Bran. Curse him, and all that he's wrought. The arrogance of using our brothers as his pawns, and the namesake of our order, all in an attempt to mask his true intentions. He will pay dearly for this treachery. Our forces have gathered outside Skyggenborg and we stand ready. Retribution awaits.\r\n\r\n<b>30th of Evening Star, 4E 200</b>\r\nBlasphemy upon blapshemy. That's what this place is. A menagerie of horrors that have no place on Nirn. And the very fact that this evil has gone on unchecked for centuries disgusts me. I couldn't be more glad to finally have a chance to strike out against these heathens. We were succesful in liberating Bran's prisoners and they have been safely escorted out of the castle. There is still no sign of Bran.\r\n\r\n<b>31st of Evening Star, 4E 200</b>\r\nWhat madness is this? Divines guide me for I fear my mind will fail me after what I have witnessed. While underground we stumbled upon a terrible sight. Chambers designed for torture, sacrifical altars and even shrines dedicated to Daedra worship. We found what remains of Bran's victims. Limbs scattered, bodies mutilated and then later dumped into pits, pilled high. The smell of that dreadful air, the maniacal laughter of the cultists. And just when I thought that it would be over, that we have won. That we would corner Bran and make him face judgement. That is when that terrible thing appeared. An unearthly roar echoed across the desolate halls. At first we thought that the creature was on the side of the cultists, but we were gravely mistaken. That thing killed without remorse and without discrimination. Both the cultists and my brothers in the order were slaughtered. This terrible thing that came out of the darkness. This Haunter of the Dark. There was no choice but to run.\r\n\r\n<b>1st of Morning Star, 4E 201</b>\r\nI have regrouped with the others back in the entrance hall. But we are trapped. A foul mist is blocking the exit, denying us escape. A group of them have suggested that we flee via the sewer passage from which we entered. They're words ring of cowardice, and I agree with them. We are patching up and are preparing to brave the undercroft even as I write. We will soon be free from this evil place.\r\n\r\nMara save us, the roar has been heard once again, there is no hope left.\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalElevatorHall",
+    "form_id": "052980A8|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Journal of Brother Arangel",
+    "string": "阿兰吉尔修士的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalElevatorHall",
+    "form_id": "052980A8|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>\r\n\r\n<b>1st of Morning Star, 4E 201</b>\r\nThey left us!\r\n\r\nThey locked the door behind them as they fleed. Damn cowards!\r\n\r\nAnd whats worse is that the cubes which powered the elevator are now broken. We are trapped inside the elevator room. Unable to move forward, unable to move back.\r\n\r\nWe are now at the mercy of that dark creature that ripped apart our brethren. The thing is able to manifest anywhere within the boundries of the castle. I have no doubt that, in time, the smell of our blood will lure it to our position. Our doom is certain.\r\n\r\nIf someone is to stumble upon what remains of us, know this. In order to reach the undergrond level of the castle you will need two special power supply cubes in order to activate the elevator.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>\r\n\r\n<b>晨星月1日， 4E 201</b>\r\n他们抛下了我们！\r\n\r\n他们锁上了身后的们，然后就逃走了。该死的懦夫！\r\n\r\n更糟糕的是，为电梯供电的魔方坏了。我们被困在电梯房间里，无论是进是退，都动弹不得。\r\n\r\n我们现在还没被那个撕碎了我们兄弟的黑暗生物发现。这个东西可以在城堡的任何地方现身。我毫不怀疑，随着时间的推移，我们血液的气味将把它引到我们的位置。我们的命运已经注定。\r\n\r\n如果有人找到了我们留下的这些东西，记住：为了达到城堡的地下区域，你需要两个特殊的供能魔方来激活电梯。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranNoteEntranceHall",
+    "form_id": "05104AB1|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter to Bran",
+    "string": "给布兰的信",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranNoteEntranceHall",
+    "form_id": "05104AB1|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>\r\nTo Lord Bran\r\n\r\nI graciously accept your apology over out past disagreements and humbly accept your invintation to be a guest of your home, castle Skyggenborg. May our swords always strike the wicked and our resolve never wane.\r\n\r\nSir Godefroy,\r\nOrder of the Twin Moons\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>\r\n致布兰领主\r\n\r\n我慷慨地接受你对我们过去的不愉快的道歉，并谦卑地接受前往幽影堡做客的邀请。愿我们的剑永远直击邪恶，我们的决心永远不会消退。\r\n\r\n戈德弗洛伊男爵，\r\n双月教团\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalHoldingCells",
+    "form_id": "052A768B|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Journal of Brother Bartholomew",
+    "string": "巴塞洛缪修士的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalHoldingCells",
+    "form_id": "052A768B|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>The hallway to the room with the lever has collapsed. There is another passageway through the cell blocks.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>带杠杆的房间的走廊已经崩塌。还有另一个穿过牢房区的通道。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalBegining",
+    "form_id": "0508004A|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Journal of Brother Cornelius",
+    "string": "科尼利乌斯修士的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalBegining",
+    "form_id": "0508004A|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>\r\n\r\n<b>29th of Evening Star, 4E 200</b>\r\nWe've been keeping watch for hours now. Captain Rychard should be arriving shortly along side our main attack force. This castle, Skyggenborg they called it, it gives me the creeps, it's old and decrepit, with an air of dread surrounding it. Supposedly it has some connection with our own order. I can't make sense of it, how could such a foul place have any connection with the Holy Order of Mara?\r\n\r\nI should try to keep a high spirit for soon we will descent into the castle. The old fort situated below it shall provide us with means of entry. Our scouts report that there is an opening in the walls of the armory, which should prove sufficient for infiltration. Supposedly the tunnels beneath the fort lead straight into the sewer systems. Skyggenborg is vast and there will no doubt be casualties. Because of this, captain has instructed us all to keep a journal, so that we may take note of the castle's layout and if some of us were to fall the rest could make use of the information.\r\n\r\nWe have also been granted provisions in form of lock picks, scrolls of open and torches. The last one is of particular importance as they will likely provide us with the only source of light once we enter. The special enduring torches, despite providing less light, are said to burn longer, while the regular ones should be saved for lighting sconces.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>\r\n\r\n<b>夜星月29日， 4E 200</b>\r\n我们已经警戒了好几个小时。理查德队长应该很快就会和我们的主力部队汇合。这座城堡被称为幽影堡，它让我感到毛骨悚然，它古老而破败，周边弥漫着令人恐惧的气氛。据说它与我们的教团有着某种关系。我无法理解，这样一个肮脏的地方，怎么可能与神圣的玛拉教团有任何关系？\r\n\r\n我应该尽力保持高度警醒，因为很快我们就将深入城堡。城堡下面的老要塞将为我们提供进入的通路，据说它下面的隧道直接和下水道系统相连。幽影堡很大，过程中毫无疑问会有伤亡。因此，队长指示我们所有人都写下日记，以记录城堡的布局，如果我们中的一些人倒下，其余的人就可以利用这些信息。\r\n\r\n我们还获得了钥匙，卷轴和火把的形式的规定。后者尤其重要，因为一旦我们进入城堡，火把可能就是我们唯一的光源。这种耐用火把尽管提供的照明较弱，但燃烧的时间却较长，而普通的火把则应作为备用的强光源。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalEntranceHall",
+    "form_id": "05104AC3|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Journal of Brother Albert",
+    "string": "阿尔伯特修士的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalEntranceHall",
+    "form_id": "05104AC3|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>My end is approaching, as I write this I'm slumped against the wall, bleeding, and I was the lucky one. The rest were slaugthered by that vile creature, poor Heinry weeped as it dragged him into the Oratory.\r\n\r\nI don't know if any of you are still left out there, but I will use my last bit of strength to help you. If you plan on gaining entry into the castle proper you will need to travel through the sewers connected to the undercroft. We locked the door behind us hoping it would help us escape that creature. But it did little good, as just a second later a loud roar was heard, and the foundations shook. Suddenly black smoke surrounded us and out of the darkness again appeared that thing, we stood no chance.\r\n\r\nThe key to the undercroft is still on Heinry's body in the Oratory. But without a Warding Amulet you won't be able to pass the black smoke surrounding it. In order to create one, you will require a Warding Stone and a Genuine Amulet of Mara, as well as an enchanted anvil to forge it. This fort used to belong to the Holy Order of Mara, so it should still contain all the required items.\r\n\r\nSearch the Solar and the Study.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>My end is approaching, as I write this I'm slumped against the wall, bleeding, and I was the lucky one. The rest were slaugthered by that vile creature, poor Heinry weeped as it dragged him into the Oratory.\r\n\r\nI don't know if any of you are still left out there, but I will use my last bit of strength to help you. If you plan on gaining entry into the castle proper you will need to travel through the sewers connected to the undercroft. We locked the door behind us hoping it would help us escape that creature. But it did little good, as just a second later a loud roar was heard, and the foundations shook. Suddenly black smoke surrounded us and out of the darkness again appeared that thing, we stood no chance.\r\n\r\nThe key to the Undercroft is still on Heinry's Body in the Oratory. But without a Warding Amulet you won't be able to pass the black smoke surrounding it. In order to create one, you will require a Warding Stone and a Genuine Amulet of Mara, as well as an enchanted anvil to forge it. This fort used to belong to the Holy Order of Mara, so it should still contain all the required items.\r\n\r\nSearch the Solar and the Study.\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLibraryLetter2",
+    "form_id": "0525A5D3|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Regarding the Daedra",
+    "string": "关于魔族",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLibraryLetter2",
+    "form_id": "0525A5D3|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nMaster Bran, i am pleased to inform you that Lord Clavicus has accepted your bargain. He has claimed possession of the latest stash of artifacts and in return has gifted you with a regiment of dremora to serve as the defenders of the castle. \r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n布兰大人，我很高兴地通知你，卡拉威库斯·维尔已经接受了你的交易，他收下了你近期收藏的文物，作为回报，他给了你一个魔族军团作为城堡的守卫。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLibraryLetter",
+    "form_id": "0525A5D1|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Note from Antiquarian Garbiel",
+    "string": "研究者加布里埃尔的笔记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLibraryLetter",
+    "form_id": "0525A5D1|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nLord Bran, as per your instructions, the power supply cube has been placed inside the machine control room in the Library.\r\n\r\nThe spare cube has been placed within the dwemer vault in the Reliquary.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n布兰领主，遵照您的吩咐， 供能魔方已存入图书馆内的机械控制室。\r\n\r\n备用供能魔方存在文物室的锻莫保险箱内。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSHistoryOrderofMara",
+    "form_id": "051049FA|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "History of the Holy Order of Mara",
+    "string": "玛拉教团的历史",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSOrderofMaraStrongholds",
+    "form_id": "0513CBEE|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "List of Strongholds under the Order of Mara",
+    "string": "玛拉教团管控下的堡垒清单",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBookoftheBeast",
+    "form_id": "0513CC2C|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Book of the Beast",
+    "string": "野兽之书",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBookoftheBeast",
+    "form_id": "0513CC2C|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\nThe Firmament\r\n\r\n\r\n\r\nby\r\nFfoulke\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he Stars of Tamriel are divided into thirteen constellations. Three of them are the major constellations, known as the Guardians. These are the Warrior, the Mage, and the Thief. Each of the Guardians protects its three Charges from the thirteenth constellation, the Serpent.\r\n\r\nWhen the sun rises near one of the constellations, it is that constellation's season. Each constellation has a Season of approximately one month. The Serpent has no season, for it moves about in the heavens, usually threatening one of the other constellations.\r\n[pagebreak]\r\nThe Warrior\r\n\r\nThe Warrior is the first Guardian Constellation and he protects his charges during their Seasons. The Warrior's own season is Last Seed when his Strength is needed for the harvest. His Charges are the Lady, the Steed, and the Lord. Those born under the sign of the Warrior are skilled with weapons of all kinds, but prone to short tempers.\r\n[pagebreak]\r\nThe Mage\r\n\r\nThe Mage is a Guardian Constellation whose Season is Rain's Hand when magicka was first used by men. His Charges are the Apprentice, the Golem, and the Ritual. Those born under the Mage have more magicka and talent for all kinds of spellcasting, but are often arrogant and absent-minded.\r\n[pagebreak]\r\nThe Thief\r\n\r\nThe Thief is the last Guardian Constellation, and her Season is the darkest month of Evening Star. Her Charges are the Lover, the Shadow, and the Tower. Those born under the sign of the Thief are not typically thieves, though they take risks more often and only rarely come to harm. They will run out of luck eventually, however, and rarely live as long as those born under other signs.<br>\r\n[pagebreak]\r\nThe Serpent\r\n\r\nThe Serpent wanders about in the sky and has no Season, though its motions are predictable to a degree. No characteristics are common to all who are born under the sign of the Serpent. Those born under this sign are the most blessed and the most cursed.\r\n[pagebreak]\r\nThe Lady\r\n\r\nThe Lady is one of the Warrior's Charges and her Season is Heartfire. Those born under the sign of the Lady are kind and tolerant.\r\n[pagebreak]\r\nThe Steed\r\n\r\nThe Steed is one of the Warrior's Charges, and her Season is Mid Year. Those born under the sign of the Steed are impatient and always hurrying from one place to another.\r\n[pagebreak]\r\nThe Lord\r\n\r\nThe Lord's Season is First Seed and he oversees all of Tamriel during the planting. Those born under the sign of the Lord are stronger and healthier than those born under other signs.\r\n[pagebreak]\r\nThe Apprentice\r\n\r\nThe Apprentice's Season is Sun's Height. Those born under the sign of the apprentice have a special affinity for magick of all kinds, but are more vulnerable to magick as well.\r\n[pagebreak]\r\nThe Atronach\r\n\r\nThe Atronach (often called the Golem) is one of the Mage's Charges. Its season is Sun's Dusk. Those born under this sign are natural sorcerers with deep reserves of magicka, but they cannot generate magicka of their own.\r\n[pagebreak]\r\nThe Ritual\r\n\r\nThe Ritual is one of the Mage's Charges and its Season is Morning Star. Those born under this sign have a variety of abilities depending on the aspects of the moons and the Divines.\r\n[pagebreak]\r\nThe Lover\r\n\r\nThe Lover is one of the Thief's Charges and her season is Sun's Dawn. Those born under the sign of the Lover are graceful and passionate.\r\n[pagebreak]\r\nThe Shadow\r\n\r\nThe Shadow's Season is Second Seed. The Shadow grants those born under her sign the ability to hide in shadows.\r\n[pagebreak]\r\nThe Tower\r\n\r\nThe Tower is one of the Thief's Charges and its Season is Frostfall. Those born under the sign of the Tower have a knack for finding gold and can open locks of all kinds.",
+    "string": "[pagebreak]\r\n<p align='center'>\r\n　\r\n　苍穹\r\n　\r\n　福尔克\r\n　著\r\n</p>\r\n　\r\n[pagebreak]\r\n<p align='left'>\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>泰姆瑞尔的星星被划分为十三个星座。十三个星座中有三个是被人们称为守护者的主星座，他们分别是战士星座、法师星座和盗贼星座。每一个主星座都保护着各自掌管的三个星座，让他们免于巨蛇星座的侵扰。当太阳上升到接近某一星座的位置时，这个时间就是该星座的时令。每个星座都有属于自己的时令，时间大约是一个月。十三个星座中只有巨蛇星座没有时令，因为它在天空附近移动，并且常常威胁其他某个星座。\r\n[pagebreak]\r\n　战士星座 \r\n　战士星座是第一个守护者星座。战士在他掌管星座的时令到来时保护他们。战士星座自己的时令是末种月，这时候人们需要他的力量进行作物的收割。战士掌管的三个星座分别是女士星座、骏马星座和君王星座。那些在战士星座的庇护下出生的人通常善于使用各种武器，而他们一般脾气比较暴躁。\r\n[pagebreak]\r\n　法师星座 \r\n　法师星座是第二个守护者星座，它的时令是雨手月，那是人们第一次使用魔能的时间。它所掌管的三个星座分别是学徒星座、巨石星座和仪式星座。那些在法师星座的守护下出生的人拥有更多的魔能，而且有着施展各种魔法的天赋，但他们也常常表现得骄傲和心不在焉。\r\n[pagebreak]\r\n　盗贼星座 \r\n　盗贼星座是最后一个守护者星座，它的时令是一年中最黑暗的夜星月。它所掌管的三个星座分别是恋人星座、暗影星座和高塔星座。那些在盗贼星座守护下出生的人并非都是是具有代表性的盗贼。虽然他们常常想要冒更多的险并且极少收到伤害，然而他们的运气终会用尽，他们很少会比由其他星座守护的人活得更长久。<br>\r\n[pagebreak]\r\n　巨蛇星座 \r\n　巨蛇星座是在天空附近徘徊的星座，尽管它的运动规律能够在一定程度上被人们所预测，它还是没有自己的时令。那些在巨蛇星座的守护下出生的人，他们没有一种代表特性是普通的——他们受到最多的赐福，同时也承受最多的诅咒。\r\n[pagebreak]\r\n　女士星座 \r\n　女士星座是战士星座掌管的三个星座之一，它的时令叫炉火月。那些在女士星座的守护下出生的人，他们友善而富有忍耐力。\r\n[pagebreak]\r\n　骏马星座 \r\n　骏马星座是战士星座掌管的三个星座之一，它的时令叫年中月。那些在骏马星座的守护下出生的人缺乏耐心，他们总是急匆匆地从一个地方赶到另外一个地方。\r\n[pagebreak]\r\n　君王星座 \r\n　君王星座的时令是初种月，他在耕种期间俯瞰着整个泰姆瑞尔。那些在君王星座的守护下出生的人比其他人更加强壮和健康。\r\n[pagebreak]\r\n　学徒星座 \r\n　学徒星座的时令叫日高月。那些在学徒星座的守护下出生的人与各种魔法都有着特殊的联系，但他们同时也更容易受到魔法的伤害。\r\n[pagebreak]\r\n　元素星座 \r\n　元素星座（也经常被叫做巨石星座）是法师星座所掌管的三个星座之一，它的时令叫日暮月。那些在元素星座的守护下出生的人有更多的魔能，他们是天生的魔术师。但他们却无法自己恢复魔能。\r\n[pagebreak]\r\n　仪式星座 \r\n　仪式星座是法师星座所掌管的三个星座之一，它的时令叫晨星月。那些在仪式星座守护下出生的人随着月亮的阴晴圆缺拥有多变的技能。\r\n[pagebreak]\r\n　恋人星座 \r\n　恋人星座是盗贼星座掌管的三个星座之一，它的时令叫日晓月。那些在恋人星座的守护下出生的人举止优雅且充满热情。\r\n[pagebreak]\r\n　暗影星座 \r\n　暗影星座的时令叫次种月。暗影星座赋予它所守护的人在暗影中隐匿的能力。\r\n[pagebreak]\r\n　高塔星座 \r\n　高塔星座是盗贼星座掌管的三个星座之一，它的时令叫霜落月。那些在高塔星座的守护下出生的人懂得找到财宝的诀窍，并且他们能够打开各种各样的锁。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalSecondHall",
+    "form_id": "050C78CD|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Journal of Brother Jonathan",
+    "string": "乔纳森修士的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalSecondHall",
+    "form_id": "050C78CD|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>\r\n<b>1st of Morning Star, 4E 201</b>\r\nWe're finished.\r\n\r\nI saw them all die. First Matthew, then Horace, then Thomas, Barnand, Marcel and Albert. They were all taken by that...thing. We were separated from the rest and captain Rychard with the holy relic in his possession insisted on pushing forward. I am now likely the only one left.\r\n\r\nIt all happened so fast. First the trembling, then the black smoke that started enveloping the castle, and then, and then... It appeared.\r\n\r\nMara forgive me, but I fled, left them all as I heard their screams. The tunnel collapsed but I can still hear it moving behind the rubble. I have failed my brothers and my order. I now sit alone in this room, writing simply to delay the inevitable. Shame eats away at me even as I write this, but as I am to weak to press onward, I implore you, if anyone were to stumble upon this, please, proceed to the heart of the castle, and kill Lord Bran. Complete the task that we, no, I failed to, and rid the world of the shadow cast by Skyggenborg.\r\n\r\nOn the left side of the room there is a candle stick that opens the secret passageway, and there are bound to be more of them deeper inside the castle, good luck. I will now face my judgement. Brothers, I hope that you can forgive me.\r\n\r\nFarewell\r\n\r\nBrother Jonathan\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>\r\n<b>1st of Morning Star, 4E 201</b>\r\nWe're finished.\r\nI saw them all die. First Matthew, then Horace, then Thomas, Barnand, Marcel and Albert. They were all taken by that...Thing. We were separated from the rest and captain Rychard with the holy relic in his possession insisted on pushing forward. I am now likely the only one left.\r\nIt all happened so fast. First the trembling, then the black smoke that started enveloping the castle, and then, and then... It appeared.\r\nMara forgive me, but I fled, left them all as I heard their screams. The tunnel collapsed but I can still hear it moving behind the rubble. I have failed my brothers and my order. I now sit alone in this room, writing simply to delay the inevitable. Shame eats away at me even as I write this, but as I am to weak to press onward, I implore you, if anyone were to stumble upon this, please, proceed to the heart of the castle, and kill Lord Bran. Complete the task that we, no, I failed to, and rid the world of the shadow cast by Skyggenborg.\r\nOn the left side of the room there is a candle stick that opens the secret passageway, and there are bound to be more of them deeper inside the castle, good luck. I will now face my judgement. Brothers, i hope that you can forgive me.\r\n\r\nFarewell\r\n\r\nBrother Jonathan\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalUndercroft",
+    "form_id": "05193808|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Journal of Brother Cillian",
+    "string": "西利安修士的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSJournalUndercroft",
+    "form_id": "05193808|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>The Dead are restless.\r\n\r\nDon't make too much noise.\r\n\r\nStay silent.\r\n</font>",
+    "string": "<font face='$HandwrittenFont'>那些死者很焦躁。\r\n\r\n不要弄出过多声响。\r\n\r\n保持安静。\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranFinalJournal",
+    "form_id": "052C1AF3|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face=\"$HandwrittenFont\">\r\n\r\n<b>???, 4E 201</b>\r\nThe Dreadful thing that I have conjured now runs rampant within the halls of my castle. It is in fact, not a creature at all, but rather a fragment of chaos itself. A piece of Padomay, of Sithis that I managed to bring into this reality. A shadow upon existence, given form by the Lorkhan's realm of limitation. And the form it took. A rampaging eternally hungry werewolf, the only form it could understand. The only way to be rid of it now is to conjure an even stronger spirit in order to destroy a lesser one. I shall begin my work on that immediately. I will bargain with Molag once again. Surely he will see reason. After all, what is some 30 sacrificed souls in comparison to a 1000 more that I will bring him once I make my return, back to Tamriel.",
+    "string": "<font face=\"$HandwrittenFont\">\r\n\r\n<b>???, 4E 201</b>\r\nThe Dreadful thing that I have conjured now runs rampant within the halls of my castle. It is in fact, not a creature at all, but rather a fragment of chaos itself. A piece of Padomay, of Sithis that I managed to bring into this reality. A shadow upon existence, given form by the Lorkhan's realm of limitation. And the form it took. A rampaging eternally hungry werewolf, the only form it could understand. The only way to be rid of it now is to conjure an even stronger spirit in order to destroy a lesser one. I shall begin my work on that immediately. I will bargain with Molag once again. Surely he will see reason. After all, what is some 30 sacrificed souls in comparison to a 1000 more that i will bring him once i make my return, back to Tamriel.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranSolarJournal",
+    "form_id": "051327F4|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Lord Bran's Journal",
+    "string": "布兰领主的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranSolarJournal",
+    "form_id": "051327F4|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face=\"$HandwrittenFont\">\r\n<b>18th of Evening Star, 3E 86</b>\r\nThey return now from their hunt, that is most excellent news. The Order of Mara has proven to be truly remarkable. Damien was an exceptionally powerfull vampire, and yet now he is nothing more than dust. It is a shame that they were unable to capture him alive, as he would have been more useful to me that way no doubt, but this is only a trifling matter.",
+    "string": "<font face=\"$HandwrittenFont\">\r\n<b>夜星月18日， 3E 86</b>\r\n他们现在从狩猎中返程了，这可真是个好消息。玛拉教团确实实力非凡。达米安是一个强大的吸血鬼，但现在已经变为了灰烬。可惜玛拉教团没能活捉他，他活着的话，对我的帮助将会更大。不过，这只是个小问题罢了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSacAnimalCageNotes",
+    "form_id": "052D10F8|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Animal Torture",
+    "string": "动物酷刑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSacAnimalCageNotes",
+    "form_id": "052D10F8|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nThe victim first needs to be carefully straped in, after which the two small cages can be lowered and secured onto the victims body. After this you can secure the animals of choice inside the cages. Skeevers and spiders often make for the most effective animals to use. You should proceed to rattle the cages, inducing panic into the animals, forcing a violent reaction. At this point the victim should be thrown into a fit of panic themselfs. If the victim proves resilient against the animal of choice, you should consider switching to an alternative and repeating the process. Take heed not to kill the victim and make sure that they remain conscious throughout the whole process, induce an elixir or employ violent force if you must. When the victim is sufficently broken remove them from the rack and send them to the sacrifical altar.",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n小心地捆绑好受害者，然后放下两个小笼子，并把它们固定在受害者的身体上。之后，你可以把所选的动物锁在笼子里面。恶鼠和蜘蛛通常是最有效的。持续摇晃笼子，引起动物的恐慌，让它们对受害者产生攻击行为。在这个过程中，受害者应当陷入恐慌。如果受害者对你选择的动物不够恐惧，换一种别的动物，重复该过程。小心不要杀死受害者，确保他们在整个过程中保持清醒，如果需要的话，使用一些恢复药剂，或用暴力强制他们保持清醒。当受害者崩溃时，释放他们，送到献祭祭坛上。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSacIronMaiden",
+    "form_id": "052D10FE|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Iron Maiden",
+    "string": "铁处女",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSacIronMaiden",
+    "form_id": "052D10FE|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><font size='18'>\r\nThe use of this tool is rather simple. Keep the victim restrained as they enter the sarcophagus. Infuse them with the regenerative concotion to keep them from sustaining to much physical damage. The Iron Maiden invokes a special kind of terror. The victim will feel hopeless trapped inside a claustrophobic space. This can often result in violent bursts of panic. Keep an ear out for the sounds of the victim in order to make sure that they don't die. When they have given up hope completely, remove them from the Iron Maiden and send them to the sacrifical altar.\r\n\r\nThe last victim of the Iron Maiden died of fright and got stuck inside. The usage of this tool is to be halted until this is resolved.\r\n\r\n\r\n</font>",
+    "string": "<font face='$HandwrittenFont'><font size='18'>\r\n这个工具用起来非常简单。首先确保受害者进入石棺时是动弹不得的。向他们注入恢复药剂，以防身体受到过度的伤害。铁处女会创造特殊的痛苦。受害者被困在幽闭空间中，会感到绝望。这通常会导致受害者产生由恐惧引发的暴力行为。留意受害者的动静，确保他们不会死。当他们彻底失去希望时，把他们从铁处女中放出来，送到献祭祭坛上。\r\n\r\n铁处女的最后一个受害者因过于恐惧而死，尸体困在了里面。问题得到解决之前，这台工具将暂停使用。\r\n\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSStrongBoxEnchJewelry",
+    "form_id": "051379D7|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Strong Box",
+    "string": "保险箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCubeChest",
+    "form_id": "05274115|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Power Supply Cube Container",
+    "string": "供能魔方储存箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCFirstKnapsack",
+    "form_id": "05080048|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Knapsack",
+    "string": "背包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSewerStrongbox",
+    "form_id": "051CBA67|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Rusty Strong Box",
+    "string": "生锈的保险箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCSingleTorchKnapsack",
+    "form_id": "050A8CAA|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Knapsack",
+    "string": "背包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSArmoryChest",
+    "form_id": "050ADFD5|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Armory Chest",
+    "string": "军械箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSReliquaryChestHuntBow",
+    "form_id": "05292E08|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Reliquary Chest",
+    "string": "文物储存箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSReliquaryChestDagger",
+    "form_id": "05292E05|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Reliquary Chest",
+    "string": "文物储存箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSReliquaryChestSilenceBow",
+    "form_id": "05292E03|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Reliquary Chest",
+    "string": "文物储存箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSReliquaryChestGeneralArmor",
+    "form_id": "05292E01|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Reliquary Chest",
+    "string": "文物储存箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCubeChest2",
+    "form_id": "0528DCDB|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Power Supply Cube Container",
+    "string": "供能魔方储存箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSKeystoneChest",
+    "form_id": "05141F8B|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranScrollChest",
+    "form_id": "052BC1AA|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "箱子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSStrongBoxRing",
+    "form_id": "05104AB6|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Strong Box",
+    "string": "保险箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCLockPicksKnapsack",
+    "form_id": "053BA463|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Knapsack",
+    "string": "背包",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSReliquaryChestRing",
+    "form_id": "05292DFF|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Reliquary Chest",
+    "string": "文物储存箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSReliquaryChestAkavirArmor",
+    "form_id": "0529809F|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Reliquary Chest",
+    "string": "文物储存箱",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSReliquaryDoorSeal",
+    "form_id": "0524AF05|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Opens by a Lever",
+    "string": "用操作杆打开",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSElevatorDoorSeal1",
+    "form_id": "0522754D|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Needs More Power",
+    "string": "需要更多电力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSIronMaiden",
+    "form_id": "052CBF74|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Iron Maiden",
+    "string": "铁处女",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSElevatorDoorSeal2",
+    "form_id": "0522754E|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Needs More Power",
+    "string": "需要更多电力",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSEnduringTorch",
+    "form_id": "050944CF|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "LIGH FULL",
+    "original": "Enduring Torch",
+    "string": "持久的火把",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSMagicStone",
+    "form_id": "0514C2F1|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Warding Stone",
+    "string": "守护石",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDwemerGearValuable",
+    "form_id": "05250079|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dwemer Gear",
+    "string": "锻莫圆轮",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSEmptyBottle",
+    "form_id": "050D6CE3|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Empty Bottle",
+    "string": "空瓶子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSEmptyPoisonBottle",
+    "form_id": "050CCA55|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Empty Poison Bottle",
+    "string": "空的毒药瓶",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSElevatorCube2",
+    "form_id": "0528DCB8|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Elevator Power Supply Cube",
+    "string": "电梯供能魔方",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSElevatorCube",
+    "form_id": "0522754C|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Elevator Power Supply Cube",
+    "string": "电梯供能魔方",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSHaunterTrophy",
+    "form_id": "052DB3D5|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fragment of Void",
+    "string": "虚无碎片",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCrossbow",
+    "form_id": "050B837E|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Elite Crossbow",
+    "string": "精制弩",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCrossbow",
+    "form_id": "050B837E|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "WEAP DESC",
+    "original": "Attacks with this crossbow ignore 50% of armor.",
+    "string": "此强化弩可以穿透敌人<50>%的护甲抗性。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSStaff",
+    "form_id": "0510ED62|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Spear of Mercy",
+    "string": "怜悯之矛",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSGodefroySword",
+    "form_id": "0519DBA0|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Sir Godefroy's Sword",
+    "string": "戈德弗洛伊男爵的剑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSGodefroySword",
+    "form_id": "0519DBA0|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "WEAP DESC",
+    "original": "A once holy sword now engulfed by corruption. While the moons are out, burns the target for 30 points.",
+    "string": "一把曾经神圣的剑，如今被腐败侵蚀。月出时， 对目标造成30点燃烧伤害。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSReliquaryBow",
+    "form_id": "05269BFC|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "The Huntsman",
+    "string": "猎手",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSilenceBow",
+    "form_id": "052740F3|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Bow of Silence",
+    "string": "寂静之弓",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDragonpriestStaff",
+    "form_id": "0527410E|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dragonpriest Staff",
+    "string": "龙祭司之杖",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDremoraBattleaxe",
+    "form_id": "0529809B|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Battleaxe",
+    "string": "魔族巨斧",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSAkaviriKatana",
+    "form_id": "052980A2|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Akaviri Katana",
+    "string": "阿卡维尔武士刀",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDeadFemale1",
+    "form_id": "0528892E|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCaptainRychard",
+    "form_id": "052BC122|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Rychard",
+    "string": "理查德修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSEnvoyColdharbour",
+    "form_id": "0522C677|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Envoy of Coldharbour",
+    "string": "冷港的使节",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCorpse4",
+    "form_id": "0528894B|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCHaunteroftheDarkFinalBoss",
+    "form_id": "052C6C5B|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Haunter of the Dark",
+    "string": "暗黑幽魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCorpse3",
+    "form_id": "05288946|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDiscipleofMolagBal",
+    "form_id": "052CBF73|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Disciple of Molag Bal",
+    "string": "莫拉格·巴尔的信徒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDiscipleofMolagBal2",
+    "form_id": "052D10D6|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Disciple of Molag Bal",
+    "string": "莫拉格·巴尔的信徒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDiscipleofMolagBal3",
+    "form_id": "052D10DD|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Disciple of Molag Bal",
+    "string": "莫拉格·巴尔的信徒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDiscipleofMolagBal4",
+    "form_id": "052D10E0|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Disciple of Molag Bal",
+    "string": "莫拉格·巴尔的信徒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSTorturer",
+    "form_id": "052D10E7|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Torturer",
+    "string": "拷打者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSTorturer2",
+    "form_id": "052D10EA|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Torturer",
+    "string": "拷打者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDeadVampireMale",
+    "form_id": "0528893C|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Vampire Corpse",
+    "string": "吸血鬼尸体",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDeadFemale2",
+    "form_id": "05288930|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBrotherWilem",
+    "form_id": "05165A62|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Wilem",
+    "string": "威利姆修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCHaunteroftheDarkReliquary",
+    "form_id": "0528DCDF|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Haunter of the Dark",
+    "string": "暗黑幽魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSTorturer3",
+    "form_id": "052D111A|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Torturer",
+    "string": "拷打者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBrotherAlbert",
+    "form_id": "050C78C6|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Albert",
+    "string": "阿尔伯特修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBrotherJulius",
+    "form_id": "052368A7|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Julius",
+    "string": "朱利斯修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBrotherHarold",
+    "form_id": "052368AB|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Harold",
+    "string": "哈洛德修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBrotherAnthony",
+    "form_id": "052368A9|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Anthony",
+    "string": "安东尼修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDremoraServant",
+    "form_id": "05212BF4|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dremora Guard",
+    "string": "魔族护卫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSHungeringChaos",
+    "form_id": "052D62B6|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Hungering Chaos",
+    "string": "饥渴混沌",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBrotherJan",
+    "form_id": "05292E78|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Jan",
+    "string": "简修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBrotherNathaniel",
+    "form_id": "0521D1A5|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Nathaniel",
+    "string": "纳撒尼尔修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSRestlessDead2",
+    "form_id": "0519390F|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Restless Dead",
+    "string": "焦躁的死者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSRestlessDead3",
+    "form_id": "05193911|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Restless Dead",
+    "string": "焦躁的死者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSEnvoyColdharbourReliquary",
+    "form_id": "05298096|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Envoy of Coldharbour",
+    "string": "冷港的使节",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBrotherCillian",
+    "form_id": "05193806|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Cillian",
+    "string": "西利安修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBrotherHeinry",
+    "form_id": "05165A60|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Heinry",
+    "string": "亨利修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCHaunteroftheDark",
+    "form_id": "0508F393|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "???",
+    "string": "???",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBrotherSebastian",
+    "form_id": "05165A61|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Sebastian",
+    "string": "塞巴斯汀修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBrotherArangel",
+    "form_id": "052980A9|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Arangel",
+    "string": "阿兰吉尔修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCHaunteroftheDarkSewer",
+    "form_id": "051B2154|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "???",
+    "string": "???",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBrotherCyrus",
+    "form_id": "052837BE|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Cyrus",
+    "string": "赛勒斯修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCHaunteroftheDarkHoldingCells",
+    "form_id": "052A7673|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Haunter of the Dark",
+    "string": "暗黑幽魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBrotherBartholomew",
+    "form_id": "052A768C|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Brother Bartholomew",
+    "string": "巴塞洛缪修士",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLordBran",
+    "form_id": "052AC81B|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Lord Bran",
+    "string": "布兰领主",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCorpse2",
+    "form_id": "051B72FA|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSkeletonGuardian2",
+    "form_id": "05318156|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Undead Guardian",
+    "string": "不死护卫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSkeletonGuardian",
+    "form_id": "05318155|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Undead Guardian",
+    "string": "不死护卫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCorpse",
+    "form_id": "051938ED|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSirGodefroy",
+    "form_id": "0525A5D5|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Spirit of Sir Godefroy",
+    "string": "戈德弗洛伊男爵的幽魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSirGodefroy",
+    "form_id": "0525A5D5|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Sir Godefroy",
+    "string": "戈德弗洛伊男爵",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSkeletonSummon2",
+    "form_id": "05345B1E|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Undead Guardian",
+    "string": "不死护卫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCHaunteroftheDarkAntechamber",
+    "form_id": "052B1A33|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Haunter of the Dark",
+    "string": "暗黑幽魂",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSkeletonSummon",
+    "form_id": "05345B1C|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Undead Guardian",
+    "string": "不死护卫",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDeadLurker",
+    "form_id": "052B6FEF|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Lurker Guardian",
+    "string": "潜伏者守护者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSAntiquarian",
+    "form_id": "0528892C|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Antiquarian Gabriel",
+    "string": "研究者加布里埃尔",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDeadVampireFemale1",
+    "form_id": "0528893A|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Vampire Corpse",
+    "string": "吸血鬼尸体",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDeadMale3",
+    "form_id": "05288938|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDeadMale2",
+    "form_id": "05288936|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDeadMale",
+    "form_id": "05288934|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDeadFemale3",
+    "form_id": "05288932|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Corpse",
+    "string": "尸骸",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSRestlessDead",
+    "form_id": "05193906|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Restless Dead",
+    "string": "焦躁的死者",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSDisposalPitKey",
+    "form_id": "0528892B|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Disposal Pit Key",
+    "string": "弃物坑钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSOratoryKey",
+    "form_id": "05113E99|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Warding Amulet",
+    "string": "守护护符",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBransKey",
+    "form_id": "052BC1B2|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Bran's Key",
+    "string": "布兰的钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCellKey",
+    "form_id": "052A7667|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Cell Key",
+    "string": "牢房钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSanctumKey",
+    "form_id": "053734E9|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Sanctum Key",
+    "string": "圣所钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLiftChamberKey",
+    "form_id": "0528892A|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Lift Chamber Key",
+    "string": "电梯室钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSUndercroftKey",
+    "form_id": "05174E41|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Undercroft Key",
+    "string": "地下室钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSLowerArmoryKey",
+    "form_id": "050ADFD8|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Storage Key",
+    "string": "仓库钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSHaunterOratoryKey",
+    "form_id": "0515B795|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "Oratory Key",
+    "string": "祈祷室钥匙",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBloodinWine",
+    "form_id": "051CB968|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Crimson Wine",
+    "string": "深红葡萄酒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1DawnguardHQ01",
+    "form_id": "02001DBA|Dawnguard.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fort Dawnguard",
+    "string": "黎明守卫堡垒",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCastleLibrary",
+    "form_id": "052551FC|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Library",
+    "string": "图书馆",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSOratory",
+    "form_id": "05156526|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Oratory",
+    "string": "祈祷室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSUndercroft",
+    "form_id": "05179F59|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Undercroft",
+    "string": "地下室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSUndergroundHoldingCells",
+    "form_id": "05292EB3|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Holding Cells",
+    "string": "监禁牢房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VampireCastleGuildhall",
+    "form_id": "02000803|Dawnguard.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Volkihar Keep",
+    "string": "弗基哈尔要塞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSUndergroundSacrificalChambers",
+    "form_id": "052A76A1|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Sacrifical Chamber",
+    "string": "献祭室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenRatway01",
+    "form_id": "0003B698|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Ratway",
+    "string": "鼠道",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSUnknown",
+    "form_id": "0526ED16|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Beyond Nirn",
+    "string": "奈恩之外",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCastleMainEntrance",
+    "form_id": "0520D8F4|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Castle Skyggenborg",
+    "string": "幽影堡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCastleLaboratorySecond",
+    "form_id": "05288950|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Laboratory",
+    "string": "实验室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyHavenTemple",
+    "form_id": "000161EB|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Sky Haven Temple",
+    "string": "天佑神殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSBranBossArena",
+    "form_id": "052BC139|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Bran's Sanctum",
+    "string": "布兰的圣所",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCastleLaboratory",
+    "form_id": "0523B9CB|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Laboratory",
+    "string": "实验室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSFinalBossArea",
+    "form_id": "052C134B|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Castle Skyggenborg",
+    "string": "幽影堡",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSFirstMainHall",
+    "form_id": "050D6D20|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Entrance Hall",
+    "string": "门厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSRemoteSanctuary",
+    "form_id": "05274080|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Void Sanctum",
+    "string": "虚无圣所",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSStudy",
+    "form_id": "0513CB68|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Study",
+    "string": "书房",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSUndergroundSanctum",
+    "form_id": "052649C8|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Great Antechamber",
+    "string": "前厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCastleLaboratoryDome",
+    "form_id": "05245D03|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Disposal Pit",
+    "string": "弃物坑",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCave",
+    "form_id": "0500AA11|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Remote Passageway",
+    "string": "未标记的通道",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmPalaceoftheKings",
+    "form_id": "0001677C|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Palace of the Kings",
+    "string": "众王之殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmHalloftheDead",
+    "form_id": "00016786|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hall of the Dead",
+    "string": "亡者之厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSecondHall",
+    "form_id": "050B30FE|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Storage",
+    "string": "仓库",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HelgenKeep01",
+    "form_id": "0005DE24|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Helgen Keep",
+    "string": "赫迩镇要塞",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSFirstHall",
+    "form_id": "0508F398|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Armory",
+    "string": "军械库",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCastleReliquary",
+    "form_id": "05245D40|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Reliquary",
+    "string": "文物室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSCastleSafeRoom",
+    "form_id": "051B21D1|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Grand Hall",
+    "string": "大厅",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSolar",
+    "form_id": "05113E9B|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Solar",
+    "string": "浴室",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSUndergroundTemple",
+    "form_id": "0525F813|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Underground Temple",
+    "string": "地下神殿",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CSSewer",
+    "form_id": "051B2019|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Sewer",
+    "string": "下水道",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "天际",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500590F|Castle Skyggenborg.esp",
+    "index": 1,
+    "type": "REFR FULL",
+    "original": "Remote Passageway",
+    "string": "未标记的通道",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmWorld",
+    "form_id": "0001691D|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Windhelm",
+    "string": "风舵城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenWorld",
+    "form_id": "00016BB4|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Riften",
+    "string": "裂谷城",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthWorld",
+    "form_id": "00016D71|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Markarth",
+    "string": "马卡斯城",
+    "status": "TranslationComplete"
+  }
+]

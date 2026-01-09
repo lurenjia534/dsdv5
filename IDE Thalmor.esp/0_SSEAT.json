@@ -14,7 +14,7 @@
     "index": 1,
     "type": "NPC_ FULL",
     "original": "J'datharr",
-    "string": "贾达萨尔",
+    "string": "杰'达萨尔",
     "status": "TranslationComplete"
   },
   {
@@ -27,21 +27,12 @@
     "status": "TranslationComplete"
   },
   {
-    "editor_id": "aaaMarkers",
-    "form_id": "0005EAC7|Skyrim.esm",
-    "index": 1,
-    "type": "CELL FULL",
-    "original": "Marker Storage Unit",
-    "string": "标记存储单元",
-    "status": "TranslationComplete"
-  },
-  {
     "editor_id": "Tamriel",
     "form_id": "0000003C|Skyrim.esm",
     "index": 1,
     "type": "WRLD FULL",
     "original": "Skyrim",
-    "string": "天际省",
+    "string": "天际",
     "status": "TranslationComplete"
   },
   {
@@ -50,7 +41,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "My duty is simple - oversee the Thalmor Justiciars, and make sure they perform their duties admirably.",
-    "string": "我的职责很简单--监督梭莫审判官,确保他们出色地履行职责。",
+    "string": "我的职责很简单，监督梭默审判者们，确保他们出色地履职。",
     "status": "TranslationComplete"
   },
   {
@@ -59,7 +50,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "The Empire, in its wisdom, has come to recognize Talos worship as a barbaric remnant of a bygone age.",
-    "string": "帝国以其智慧,已认识到对塔洛斯的崇拜是过往时代的野蛮遗存。",
+    "string": "帝国很有智慧，已经意识到塔洛斯信仰是旧时代的野蛮残余。",
     "status": "TranslationComplete"
   },
   {
@@ -68,7 +59,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "Talos was a heroic man, but not a god. It pains the Altmer that we must remind our younger cousins of the difference.",
-    "string": "塔洛斯是一位英雄人物,但并非神明。令我们高等精灵痛心的是,现在甚至必须向年轻的表亲们提醒这一区别。",
+    "string": "塔洛斯是个英雄人物，但不是神。我们必须提醒我们年轻的表亲们注意这一差异让我们傲特莫感到痛苦。",
     "status": "TranslationComplete"
   },
   {
@@ -77,7 +68,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "We only want what is best for Tamriel. Surely, the rebels will accept peace when they realize this.",
-    "string": "我们只希望泰姆瑞尔得到最好的局面。当叛军意识到这一点时,他们肯定会接受和平。",
+    "string": "我们只希望泰姆瑞尔更好。当叛军意识到这一点时，他们会接受和平的。",
     "status": "TranslationComplete"
   },
   {
@@ -86,7 +77,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "I could swear I've seen you somewhere before...",
-    "string": "我敢发誓以前在哪儿见过你......",
+    "string": "我发誓我以前在什么地方见过你……",
     "status": "TranslationComplete"
   },
   {
@@ -95,7 +86,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "Welcome. I don't believe we've met. I am Elenwen, the Thalmor Ambassador to Skyrim.",
-    "string": "欢迎。我想我们未曾谋面。我是艾琳温,梭莫驻天际省的大使。",
+    "string": "欢迎。咱们应该没有见过面。我叫爱琳温，是梭默驻天际大使。",
     "status": "TranslationComplete"
   },
   {
@@ -104,7 +95,7 @@
     "index": 2,
     "type": "INFO NAM1",
     "original": "And you are...?",
-    "string": "那么你是......?",
+    "string": "你是……？",
     "status": "TranslationComplete"
   },
   {
@@ -140,7 +131,7 @@
     "index": 1,
     "type": "DIAL FULL",
     "original": "I found this amulet in Ogmund's house.",
-    "string": "我在昂蒙德的房子里找到了这个护身符。",
+    "string": "我在欧格蒙家发现了这个护符。",
     "status": "TranslationComplete"
   },
   {
@@ -149,7 +140,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "Ah, there we have it. This will be all I need to have Ogmund taken care of. ",
-    "string": "啊,这就对了。有了这个,我就能让昂蒙德得到应有的处置了。",
+    "string": "啊，好了。这下我就能解决欧格蒙的一切了。",
     "status": "TranslationComplete"
   },
   {
@@ -158,7 +149,7 @@
     "index": 2,
     "type": "INFO NAM1",
     "original": "I would like to personally thank you on behalf of myself and the Thalmor for your assistance. Here, for your work.",
-    "string": "我谨代表我个人及先祖神州,为你的协助致以诚挚的谢意。这是给你的酬劳。",
+    "string": "我谨代表我个人和梭默感谢你的协助。给，这是你的报酬。",
     "status": "TranslationComplete"
   },
   {
@@ -167,7 +158,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "Oh! Um, he he... Hold on... I... I can explain...",
-    "string": "哦!呃,呵呵......等等......我......我可以解释......",
+    "string": "哦！嗯，他他，等等……我……我可以解释……",
     "status": "TranslationComplete"
   },
   {
@@ -185,7 +176,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "Wait... who in blazes is this?",
-    "string": "等等......这到底是谁?",
+    "string": "等等……这到底是谁啊？",
     "status": "TranslationComplete"
   },
   {
@@ -194,7 +185,7 @@
     "index": 2,
     "type": "INFO NAM1",
     "original": "And so we meet again. But this time I know who and what you really are.",
-    "string": "于是我们又见面了。但这一次,我清楚你的真实身份与本质。",
+    "string": "我们又见面了，这次我知道你真实身份了。",
     "status": "TranslationComplete"
   },
   {
@@ -203,7 +194,7 @@
     "index": 1,
     "type": "DIAL FULL",
     "original": "General Tullius never mentioned you...",
-    "string": "图留斯将军从未提起过你......",
+    "string": "图留斯将军从未提起过你……",
     "status": "TranslationComplete"
   },
   {
@@ -212,7 +203,7 @@
     "index": 1,
     "type": "INFO RNAM",
     "original": "Galmar never mentioned a mission here...",
-    "string": "加尔玛从未提过这里的任务......",
+    "string": "加尔玛从没提到这里有任务……",
     "status": "TranslationComplete"
   },
   {
@@ -221,7 +212,7 @@
     "index": 1,
     "type": "DIAL FULL",
     "original": "Why aren't you going in there?",
-    "string": "你为什么不进去?",
+    "string": "你为什么不进去？",
     "status": "TranslationComplete"
   },
   {
@@ -1166,7 +1157,7 @@
     "index": 1,
     "type": "DIAL FULL",
     "original": "I don't want to get involved.",
-    "string": "我不想掺和进去。",
+    "string": "我不想掺和。",
     "status": "TranslationComplete"
   },
   {
@@ -1229,7 +1220,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "Of course you do.",
-    "string": "你当然知道。",
+    "string": "当然可以。",
     "status": "TranslationComplete"
   },
   {
@@ -1472,7 +1463,7 @@
     "index": 1,
     "type": "DIAL FULL",
     "original": "What are your thoughts on the Forsworn?",
-    "string": "你对弃誓者有什么看法?",
+    "string": "你怎么看待那些弃誓者？",
     "status": "TranslationComplete"
   },
   {
@@ -3731,7 +3722,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "The feeling is mutual.",
-    "string": "彼此彼此。",
+    "string": "我也这么想。",
     "status": "TranslationComplete"
   },
   {
@@ -4496,7 +4487,7 @@
     "index": 1,
     "type": "INFO NAM1",
     "original": "For the Empire!",
-    "string": "为了帝国!",
+    "string": "为了帝国！",
     "status": "TranslationComplete"
   },
   {
@@ -4550,7 +4541,7 @@
     "index": 1,
     "type": "DIAL FULL",
     "original": "Yes. Here it is.",
-    "string": "是的。就是这个。",
+    "string": "是的。在这里。",
     "status": "TranslationComplete"
   },
   {
@@ -4640,7 +4631,7 @@
     "index": 1,
     "type": "QUST FULL",
     "original": "Siege on the Dragon Cult",
-    "string": "拜龙教围攻",
+    "string": "围攻拜龙教",
     "status": "TranslationComplete"
   },
   {
@@ -4649,7 +4640,7 @@
     "index": 1,
     "type": "QUST CNAM",
     "original": "I have been asked to defeat the Dragon Priest in Forelhost and to bring back his Mask. A journal left by Skorm Snow-Strider may reveal a way past the collapsed areas.",
-    "string": "我接到任务,要去佛瑞霍斯特击败龙祭司并带回他的面具。斯克姆·雪行者留下的日记或许能揭示穿过坍塌区域的方法。",
+    "string": "我被要求去打败皮纸主人中的龙祭司，并带走他的面具。“雪步”斯科姆遗留的日记可能会指向穿过塌陷区的路。",
     "status": "TranslationComplete"
   },
   {
@@ -4658,7 +4649,7 @@
     "index": 2,
     "type": "QUST CNAM",
     "original": "I have been asked to defeat the Dragon Priest in Forelhost and to bring back his Mask. I have found the journal of Skorm Snow-Strider, which may reveal how to bypass the collapsed areas.",
-    "string": "我接到任务,要去佛瑞霍斯特击败龙祭司并带回他的面具。我找到了斯克姆·雪行者的日记,其中可能揭示了如何绕过坍塌区域的方法。",
+    "string": "我被要求去打败皮纸主人中的龙祭司，并带走他的面具。我找到了“雪步”斯科姆遗留的日记，可能会指向穿过塌陷区的路。",
     "status": "TranslationComplete"
   },
   {
@@ -4667,7 +4658,7 @@
     "index": 3,
     "type": "QUST CNAM",
     "original": "I have been asked to defeat the Dragon Priest in Forelhost and to bring back his Mask. I can reach the blocked off areas of the stronghold through the well.",
-    "string": "我接到任务,要去佛瑞霍斯特击败龙祭司,并带回他的面具。我可以通过水井进入堡垒被封锁的区域。",
+    "string": "我被要求去打败皮纸主人中的龙祭司，并带走他的面具。我可以通过水井到达要塞被封锁区域。",
     "status": "TranslationComplete"
   },
   {
@@ -4676,7 +4667,7 @@
     "index": 4,
     "type": "QUST CNAM",
     "original": "I have been asked to defeat the Dragon Priest in Forelhost and to bring back his Mask.",
-    "string": "我接到任务,要去佛瑞霍斯特击败龙祭司,并带回他的面具。",
+    "string": "我被要求去打败皮纸主人中的龙祭司，并带走他的面具。",
     "status": "TranslationComplete"
   },
   {
@@ -4685,7 +4676,7 @@
     "index": 5,
     "type": "QUST CNAM",
     "original": "I have defeated the Dragon Priest, Rahgot, and taken his Mask. I should return with it to Valmir.",
-    "string": "我已击败龙祭司拉格特,并取走了他的面具。我应该带着它回去找瓦尔米尔。",
+    "string": "我打败了龙祭司拉格特，并带走了他的面具，我应该把它带回去给瓦尔米尔。",
     "status": "TranslationComplete"
   },
   {
@@ -4694,7 +4685,7 @@
     "index": 6,
     "type": "QUST CNAM",
     "original": "Valmir has betrayed me and has been tricking soldiers into the ruins. He must die.",
-    "string": "瓦尔米尔背叛了我,一直把士兵骗进废墟。他必须死。",
+    "string": "瓦尔米尔背叛了我，并一直诓骗士兵进入废墟。他必须死。",
     "status": "TranslationComplete"
   },
   {
@@ -4739,7 +4730,7 @@
     "index": 10,
     "type": "QUST NNAM",
     "original": "(Optional) Find Skorm Snow-Strider's journal",
-    "string": "(可选)寻找斯克姆·雪行者的日记",
+    "string": "（可选）找到“雪步”斯科姆的日记",
     "status": "TranslationComplete"
   },
   {
@@ -4748,7 +4739,7 @@
     "index": 20,
     "type": "QUST NNAM",
     "original": "(Optional) Show Skorm Snow-Strider's journal to Valmir",
-    "string": "(可选)向瓦尔米尔展示斯克姆·雪行者的日记",
+    "string": "（可选）向瓦尔米尔展示“雪步”斯科姆的日记",
     "status": "TranslationComplete"
   },
   {
@@ -4757,7 +4748,7 @@
     "index": 30,
     "type": "QUST NNAM",
     "original": "(Optional) Find the key to the well in the Catacombs",
-    "string": "(可选)在墓穴中找到井的钥匙",
+    "string": "（可选）在地下墓穴里找到井的钥匙",
     "status": "TranslationComplete"
   },
   {
@@ -4766,7 +4757,7 @@
     "index": 50,
     "type": "QUST NNAM",
     "original": "Obtain Rahgot's mask",
-    "string": "获取龙祭祀拉格特的面具",
+    "string": "获得拉格特的面具",
     "status": "TranslationComplete"
   },
   {
@@ -4775,7 +4766,7 @@
     "index": 60,
     "type": "QUST NNAM",
     "original": "Return to Valmir",
-    "string": "返回瓦尔米尔处",
+    "string": "回去找瓦尔米尔",
     "status": "TranslationComplete"
   },
   {

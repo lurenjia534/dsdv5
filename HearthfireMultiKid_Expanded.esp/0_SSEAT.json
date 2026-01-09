@@ -1,0 +1,2036 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "000CD60E|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We're united, but where should we live? My home is yours, of course.",
+    "string": "我们结婚了，但是我们应该住哪呢？当然，我的家就是你的家。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CD60F|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm a married man! Hey, where should we live? I guess you could always stay with me.",
+    "string": "我结婚了！嘿，我们住在哪里好？你可以搬来跟我住啊。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CD611|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Married. It doesn't feel like I thought it would, but I'm happy. Where should we live? You could stay with me...",
+    "string": "结婚了。和我想的不一样，但我很开心。我们该住哪里呢？你可以和我住一起……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E62|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is the happiest day of my life. Where should we live? My home is your home now, of course.",
+    "string": "这是我一生中最快乐的时候了。我们住哪儿？嗯，我家也是你家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0002E11A|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We're married. I guess we'll need to decide where we're living, won't we? You can always stay with me.",
+    "string": "我们已经结婚了。我想是时候决定我们住在哪里了，对吗？你可以一辈子都跟我在一起的。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CD60C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I guess we have our entire lives together, now. Where should we live? You could stay with me...",
+    "string": "看来我们这一辈子都要永远在一起了。我们到哪里去住？你可以和我在一起……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E5F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We face the world together now. Where should we live? My home is yours.",
+    "string": "我们现在要一起过日子了。我们住在哪里好呢？我家现在也是你家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFINHouseChoiceTopic",
+    "form_id": "000C57EE|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like us to move somewhere else.",
+    "string": "我想我们得去别的什么地方。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse10",
+    "form_id": "0200086D|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, Goldenhills Plantation.",
+    "string": "没错，就是金丘种植园。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse08",
+    "form_id": "0200086F|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, Dead Man's Dread.",
+    "string": "没错，就是亡者之惧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse07",
+    "form_id": "02000878|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, Bloodchill Manor.",
+    "string": "没错，就是血寒别墅。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse06",
+    "form_id": "0200088F|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, Gallows Hall.",
+    "string": "没错，就是绞架堂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse05",
+    "form_id": "02000894|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, Hendraheim.",
+    "string": "没错，就是亨德之家。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse04",
+    "form_id": "020008C1|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, Nchuanthumz.",
+    "string": "没错，就是楚安图兹。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse03",
+    "form_id": "020008D4|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, Shadowfoot Sanctum.",
+    "string": "是的，影踪秘所。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse02",
+    "form_id": "020008D5|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, Myrwatch.",
+    "string": "是的，神秘塔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse01",
+    "form_id": "020008E2|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, Tundra Homestead.",
+    "string": "是的，苔原宅邸。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToCCHouse10",
+    "form_id": "0200091F|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Goldenhills Plantation.",
+    "string": "金丘种植园。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToCCHouse08",
+    "form_id": "0200096D|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dead Man's Dread.",
+    "string": "亡者之惧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToCCHouse07",
+    "form_id": "0200096E|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Bloodchill Manor.",
+    "string": "血寒别墅。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToCCHouse06",
+    "form_id": "0200099A|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Gallows Hall.",
+    "string": "绞架堂。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToCCHouse05",
+    "form_id": "020009A5|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hendraheim.",
+    "string": "亨德之家。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToCCHouse04",
+    "form_id": "020009A6|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Nchuanthumz.",
+    "string": "楚安图兹。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToCCHouse03",
+    "form_id": "020009A7|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Shadowfoot Sanctum.",
+    "string": "影踪秘所。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToCCHouse02",
+    "form_id": "020009A8|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Myrwatch.",
+    "string": "神秘塔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToCCHouse01",
+    "form_id": "020009A9|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tundra Homestead.",
+    "string": "苔原宅邸。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02002D9F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I understand. ...Sorry.",
+    "string": "我明白了……对不起。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02002D9F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sorry, I can't afford it right now.",
+    "string": "抱歉，我现在付不起。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E65|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Could you give me an allowance?",
+    "string": "你可以给我零用钱吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E66|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Could I get a few gold to spend? Please?",
+    "string": "可以给我几枚金币零用吗？拜托啦？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008783|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Braith is a big meanie. She keeps telling Lars 'n me what to do. I don't wanna play with her anymore.",
+    "string": "布赖丝坏透了。她一直指使我和拉斯。我不想再和她玩了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008784|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I played with Lucia in the park today. I feel sorry for her.",
+    "string": "我今天和路西亚在公园里一起玩了。我替她觉得难过。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008785|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lars is such a milk-drinker. He can't even stand up to a girl.",
+    "string": "拉斯真是个懦夫。他甚至不敢反抗一个女孩子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008786|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dragonsreach is so cool! All the kids there are mean, though.",
+    "string": "龙临堡实在太酷了！不过那里每个孩子都很坏就是了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200877C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There are lots of scary people here, Mama. Promise you'll keep me safe?",
+    "string": "妈妈，这里有好多吓人的人。答应我，你会保护我好吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200877B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mister Brynjolf gave me an apple, Papa! He seems nice.",
+    "string": "布林纽夫先生给了我一颗苹果呢，爸爸！他看起来人真好。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200877D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Maramal said I could visit the temple whenever I wanted.",
+    "string": "妈妈说只要我想，随时都可以去神殿里看看。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200877E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mister Brynjolf said he could teach me a lot of neat things when I'm older.",
+    "string": "布林纽夫先生说等我再长大一点，他可以教我很多灵巧的技术。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200877F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wanna go swimming, but the guards keep yelling at me. The canal's not that dirty...",
+    "string": "我想要去游泳，可是守卫不停地对我大吼大叫。明明运河又没有很脏……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008776|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Banning said I could come play with his dogs. I want a dog.",
+    "string": "班宁说我可以去找他的狗玩。我也想要养狗。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008777|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I climbed all the way up to the temple, but they said I wasn't old enough to get in. They're just mean.",
+    "string": "我一路爬上去到了神殿，他们才说我年纪太小不能进去。他们简直坏透了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008778|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hate Markarth. There's nowhere to play! It's all just rocks. Rocks rocks rocks.",
+    "string": "我恨马卡斯城。这里根本没地方玩！除了石头，还是石头。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008779|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aicantar let me see his museum. It's really nice.",
+    "string": "爱坎塔让我参观他的博物馆。那真是个很棒的地方。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008911|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you think I could be a bard? I really like singing.",
+    "string": "你觉得我能成为一位吟游诗人吗？我真的很喜欢唱歌耶。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200890E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When I grow up, I wanna join the Legion!",
+    "string": "等我长大，我要加入帝国军团！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008773|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Grimvar said a boy used to live in that abandoned house, all alone, 'til the Dark Brotherhood came 'n got him. Scary, huh?",
+    "string": "格瑞姆瓦说之前有个男孩自己一个人住在废屋里，直到有天黑暗兄弟会的人来把他抓走。很吓人吧？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008774|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm gonna join the Stormcloaks. They're the best!",
+    "string": "我要加入风暴斗篷！他们是最棒的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008775|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Argonians at the docks say they can breathe underwater. I wish I could do that...",
+    "string": "码头的阿尔贡人说他们可以在水面下呼吸。我希望我也可以……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008913|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Rolff says I shouldn't go to the Gray Quarter anymore. He said it's not safe there.",
+    "string": "罗尔夫跟我说不要再去灰民区了。他说那里不安全。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008912|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I saw a Thalmor the other day. He was really scary!",
+    "string": "有天我看到一个梭默成员。他真的很吓人呢！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200890F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Palace looks so pretty. I wish they'd let me inside...",
+    "string": "那宫殿真是太美了。真希望他们让我进去。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EEF|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ma took me to the market. We saw this huge fish! I bet even you couldn't lift it!",
+    "string": "妈带我去了市场。我们看到这么大的一只鱼！我敢打赌你根本举不动。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EF4|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mama took me to the market! There were lot of pies and cakes there. She said she'd show me how to bake one!",
+    "string": "妈妈带我去了市场！那里有好多派和蛋糕。她说她会教我怎么自己烤。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EF1|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pa said he'd take me hunting soon. I can't wait! I bet I'll bring down a mammoth!",
+    "string": "爸说过阵子他会带我去打猎。我等不及了！我敢说我一定可以放倒一只长毛象！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200890D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Papa said we could go fishing! With my help, I'm sure he'll catch something this time!",
+    "string": "爸爸说我们可以去钓鱼！有我帮忙，这次他一定可以钓到什么的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008919|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This place is scary. There are monsters in the swamp. I just know it!",
+    "string": "这地方真吓人。有怪兽躲在沼泽里。不为什么，我就是知道！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200891A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Look at all the snow! I want to go sledding! Or skating!",
+    "string": "看看这些雪！我想去滑雪橇！或是溜冰！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200891B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's so c-c-cold here! If I play outside for too long, I'm going to freeze solid!",
+    "string": "这、这里好冷喔！如果我在外面玩太久，我会冻僵的！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008915|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did you really build this house all by yourself? Wow!",
+    "string": "你真的是靠自己盖起这栋房子的吗？哇！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008916|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I went fishing at the lake. I almost caught something!",
+    "string": "我去湖边钓鱼，差一点就钓到了呢！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008917|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I like living here. The lake is so pretty.",
+    "string": "我喜欢住在这里。那座湖好美哟。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008781|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I like it here. The tree in the park is so pretty!",
+    "string": "我喜欢这里。公园里的树好漂亮！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008782|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That big tree in the park looks so sad... I feel sorry for it.",
+    "string": "公园里的大树看起来好伤心……让我也替它觉得难过。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MovingBranchTopic",
+    "form_id": "02003D01|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's time for us to move.",
+    "string": "我们该搬家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DD5|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Actually, let's just stay here.",
+    "string": "老实说呢，我们还是留在这里吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToSolitude",
+    "form_id": "02003D03|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Proudspire Manor, my house in Solitude.",
+    "string": "豪塔别墅，我在独孤城的家。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToMarkarth",
+    "form_id": "02003D04|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vlindrel Hall, my house in Markarth.",
+    "string": "林德尔会堂，我在马卡斯城的房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToRiften",
+    "form_id": "02003D05|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Honeyside, my house in Riften.",
+    "string": "甜蜜湾，我在裂谷城的房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToWhiterun",
+    "form_id": "02003D06|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Breezehome, my house in Whiterun.",
+    "string": "微风阁，我在白漫城的房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToWindhelm",
+    "form_id": "02003D07|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hjerim, my house in Windhelm.",
+    "string": "霜斋，我在风舵城的房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DED|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child3>.",
+    "string": "<Alias.ShortName=Child3>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000022|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child4>.",
+    "string": "<Alias.ShortName=Child4>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000021|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child5>.",
+    "string": "<Alias.ShortName=Child5>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DD9|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DD8|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000020|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child6>.",
+    "string": "<Alias.ShortName=Child6>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300001F|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child2>.",
+    "string": "去外面玩吧，<Alias.ShortName=Child2>。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DEF|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child3>.",
+    "string": "<Alias.ShortName=Child3>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000026|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child4>.",
+    "string": "<Alias.ShortName=Child4>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000025|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child5>.",
+    "string": "<Alias.ShortName=Child5>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DD7|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DD6|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000024|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child6>.",
+    "string": "<Alias.ShortName=Child6>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000023|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child2>.",
+    "string": "去外面玩吧，<Alias.ShortName=Child2>。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DF1|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child3>.",
+    "string": "<Alias.ShortName=Child3>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300002A|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child4>.",
+    "string": "<Alias.ShortName=Child4>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000029|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child5>.",
+    "string": "<Alias.ShortName=Child5>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000028|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child6>.",
+    "string": "<Alias.ShortName=Child6>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000027|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child2>.",
+    "string": "去外面玩吧，<Alias.ShortName=Child2>。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DD4|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DD5|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go play outside, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，出去玩会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E0D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aww...",
+    "string": "喔呜……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E0D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Not right now.",
+    "string": "等会儿。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DE7|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Here's... 5 gold.",
+    "string": "这里是……5金币。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DCF|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Here's 10 gold.",
+    "string": "这里是……10金币。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02002DA0|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Here's 10 gold.",
+    "string": "这里是……10金币。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DC1|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sure. Here's 25 gold.",
+    "string": "当然。这里是25金币。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DAA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How about 100 gold?",
+    "string": "100金币如何？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D9A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "No problem. Here's 500 gold.",
+    "string": "没问题。这里是500金币。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D8D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sure, whatever you want. 1000 gold?",
+    "string": "当然，你想怎么样都行。1000金币呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02002DA2|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sure, whatever you want. 1000 gold?",
+    "string": "当然，你想怎么样都行。1000金币呢？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeAdoption",
+    "form_id": "02003D1A|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I could adopt you, if you want.",
+    "string": "你愿意的话，我可以领养你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E09|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? Are you... are you sure?",
+    "string": "真的吗？你……你确定？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DA8|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Yes, I've got a big house in Solitude.",
+    "string": "是啊，我在独孤城有间大房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D99|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Yes, I've got a big house in Windhelm.",
+    "string": "是啊，我在风舵城有间大房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D8C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Yes, I've got a house in Riften.",
+    "string": "是啊，我在裂谷城有间房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D80|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Yes, I've got a house in Whiterun.",
+    "string": "是啊，我在白漫城有间房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E29|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Yes, I've got a house in Markarth.",
+    "string": "是啊，我在马卡斯城有间房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003F02|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A new home! Wow! I can't wait to see it!",
+    "string": "一个新家！哇！我等不及要亲眼看看了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EFE|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I need to get my things and say goodbye to everyone. I'll meet you at home. Thanks! Thanks so much!",
+    "string": "我得收拾东西，并和大家告别。我们在家见吧。谢谢！非常感谢！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EFF|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Just... just let me get my things and say goodbye to everyone. I'll meet you at home. Thanks! Thanks again!",
+    "string": "让……让我收拾东西并和大家告别吧。我们在家见了。再次谢谢你！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200DDB6|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can't wait!",
+    "string": "我等不及了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003F01|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wow! I can't wait to see my new home!",
+    "string": "哇！我等不及要看看新家了！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DD7|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Where will your child be living?",
+    "string": "你的孩子将会住在哪里？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DAF|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Yes, I've got a house in Falkreath.",
+    "string": "我在佛克瑞斯有间房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D9D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Yes, I've got a house in Hjaalmarch.",
+    "string": "我在希雅陲领有间房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D92|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Yes, I've got a house in the Pale.",
+    "string": "我在苍原领有间房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D81|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Congratulations! If you ever want to adopt another child, you'll always be welcome here.",
+    "string": "恭喜！如果你还想再领养一个孩子，随时欢迎再来。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EBF|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We should find a place with room for your kids, though.",
+    "string": "不过，我们得找个有房间给你的孩子住的地方才行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EBA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, but... you have children, don't you? We'll have to find somewhere with room for them.",
+    "string": "喔，但是……你有孩子不是吗？我们得找个有房间给孩子住的地方才行。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EBB|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You have children, though, don't you? We'll have to find somewhere with room for them too.",
+    "string": "但你有孩子了，不是吗？我们也得找个能让他们住下的地方。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EBC|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "But you have kids, right? We should find a home where we can live together.",
+    "string": "但是有孩子对吧？我们得找个能供我们一起住的房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToFalkreath",
+    "form_id": "02003D73|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Lakeview Manor, my house in Falkreath.",
+    "string": "我在佛克瑞斯领的房子，湖景庄园。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToHjaalmarch",
+    "form_id": "02003D74|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Windstad Manor, my house in Hjaalmarch.",
+    "string": "去风城庄园，我在希雅陲领的房子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToPale",
+    "form_id": "02003D75|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Heljarchen Hall, my house in The Pale.",
+    "string": "我在苍原领的房子，圣贤堑大厅。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E94|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child3>.",
+    "string": "<Alias.ShortName=Child3>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300005E|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child4>.",
+    "string": "<Alias.ShortName=Child4>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300005D|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child5>.",
+    "string": "<Alias.ShortName=Child5>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DDB|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DDA|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300005C|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child6>.",
+    "string": "<Alias.ShortName=Child6>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300005B|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child2>.",
+    "string": "该回家了，<Alias.ShortName=Child2>。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000062|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child4>.",
+    "string": "<Alias.ShortName=Child4>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000061|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child5>.",
+    "string": "<Alias.ShortName=Child5>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DDD|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DDC|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000060|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child6>.",
+    "string": "<Alias.ShortName=Child6>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300005F|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child2>.",
+    "string": "该回家了，<Alias.ShortName=Child2>。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E98|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child3>.",
+    "string": "<Alias.ShortName=Child3>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000066|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child4>.",
+    "string": "<Alias.ShortName=Child4>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000065|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child5>.",
+    "string": "<Alias.ShortName=Child5>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DDF|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DDE|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000064|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child6>.",
+    "string": "<Alias.ShortName=Child6>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000063|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child2>.",
+    "string": "该回家了，<Alias.ShortName=Child2>。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E9A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child3>.",
+    "string": "<Alias.ShortName=Child3>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300006A|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child4>.",
+    "string": "<Alias.ShortName=Child4>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000069|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child5>.",
+    "string": "<Alias.ShortName=Child5>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DE1|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DE0|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000068|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child6>.",
+    "string": "<Alias.ShortName=Child6>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000067|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child2>.",
+    "string": "该回家了，<Alias.ShortName=Child2>。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E9C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child3>.",
+    "string": "<Alias.ShortName=Child3>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300006E|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child4>.",
+    "string": "<Alias.ShortName=Child4>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300006D|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child5>.",
+    "string": "<Alias.ShortName=Child5>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DE3|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DE2|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300006C|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child6>.",
+    "string": "<Alias.ShortName=Child6>，该回家了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300006B|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Time to go home, <Alias.ShortName=Child2>.",
+    "string": "该回家了，<Alias.ShortName=Child2>。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DE4|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DE5|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DE6|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DE7|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DE8|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DE9|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300008A|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child3>.",
+    "string": "<Alias.ShortName=Child3>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000089|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child4>.",
+    "string": "<Alias.ShortName=Child4>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000088|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child5>.",
+    "string": "<Alias.ShortName=Child5>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000087|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child6>.",
+    "string": "<Alias.ShortName=Child6>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DEA|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DEB|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DEC|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go do your chores, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，去做你的家务。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DED|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go do your chores, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，去做你的家务。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DEE|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go do your chores, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，去做你的家务。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DF0|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go do your chores, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，去做你的家务。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DEF|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go do your chores, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，去做你的家务。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DF1|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Go do your chores, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，去做你的家务。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DF3|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "<Alias.ShortName=Child7>...",
+    "string": "<Alias.ShortName=Child7>……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DF4|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "<Alias.ShortName=Child8>...",
+    "string": "<Alias.ShortName=Child8>……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DF2|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "<Alias.ShortName=Child7>...",
+    "string": "<Alias.ShortName=Child7>……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DF5|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "<Alias.ShortName=Child8>...",
+    "string": "<Alias.ShortName=Child8>……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DF9|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DF6|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DF7|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DFA|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DF8|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child7>.",
+    "string": "<Alias.ShortName=Child7>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DFB|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for bed, <Alias.ShortName=Child8>.",
+    "string": "<Alias.ShortName=Child8>，该上床睡觉了。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DFC|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I've got something for you, kiddo.",
+    "string": "我有东西要给你，孩子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DFD|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I've got something for you, kiddo.",
+    "string": "我有东西要给你，孩子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DFE|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I've got something for you, kiddo.",
+    "string": "我有东西要给你，孩子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000DFF|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I've got something for you, kiddo.",
+    "string": "我有东西要给你，孩子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000E00|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I've got something for you, kiddo.",
+    "string": "我有东西要给你，孩子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000E01|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I've got something for you, kiddo.",
+    "string": "我有东西要给你，孩子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000E02|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I've got something for you, kiddo.",
+    "string": "我有东西要给你，孩子。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B0B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B0C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B0D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B0E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B0F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B10|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B11|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B12|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B13|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B14|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B15|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B16|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B17|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B18|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B19|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B1A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B1B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B1C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B1D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B1E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B1F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B20|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B21|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B22|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How are the kids?",
+    "string": "孩子们过得怎么样？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008909|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Make it stop! Please, make it stop!",
+    "string": "让它停下来！请让它停下来！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200890B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I... I'll be all right. Please, just... just make it stop!",
+    "string": "我……我会没事的。请……请让它停下来！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000E03|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Kiddo ...",
+    "string": "孩子……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000E04|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Kiddo ...",
+    "string": "孩子……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000E05|HearthfireMultiKid_Expanded.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Kiddo ...",
+    "string": "孩子……",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_AgreeKeepPet",
+    "form_id": "02013EC7|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sure. When I don't need him, he can stay with you.",
+    "string": "当然。当我不需要它的时候，它可以陪着你。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToCUSTOM",
+    "form_id": "030000AB|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "To our new home.",
+    "string": "去我们的新房子",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "030000BA|HearthfireMultiKid.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Yes, I've got a nice new house.",
+    "string": "是的，我搞到一套漂亮的新房子。",
+    "status": "TranslationComplete"
+  }
+]

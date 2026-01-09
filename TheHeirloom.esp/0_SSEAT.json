@@ -1,0 +1,407 @@
+[
+  {
+    "editor_id": "_Ev1l_HeirloomEnchantment",
+    "form_id": "0501615C|TheHeirloom.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Heirloom",
+    "string": "传家宝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomTheHeirloom",
+    "form_id": "05000D64|TheHeirloom.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "The Heirloom",
+    "string": "传家宝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomOldBountyLetter",
+    "form_id": "05039866|TheHeirloom.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Old Bounty Letter",
+    "string": "古老的赏金信件",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomOldBountyLetter",
+    "form_id": "05039866|TheHeirloom.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face=\"$HandwrittenFont\">\r\n<font size=\"40\">Bounty</font>\r\n\r\nBy order of King Asgis:\r\n\r\nTo all able bodied men and women of Whiterun. A priest named Fjola has been insighting terror into the citizens of Riverwood with sayings of \"visions.\" For more information speak to me at Dragonsreach in Whiterun city. We have some evidence stored in the dungeon.\r\n\r\nA reward will be offered to anyone who finds this priest.\r\n\r\n--Lord Asgens, 23 Last Seed, 4E 1",
+    "string": "<font face=\"$HandwrittenFont\">\r\n<font size=\"40\">悬赏</font>\r\n\r\n根据阿斯吉斯国王的命令:\r\n\r\n致所有身体健全的白漫男女。一位名叫Fjola的牧师一直在用“幻象”的说法向河木镇的居民灌输恐怖。如需更多信息，请在白漫城的龙临堡与我联系。我们在地牢里储存了一些证据。\r\n\r\n任何找到这位牧师的人都会得到奖励。\r\n\r\n--阿斯金领主, 23 末种月, 4E 1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomFjolasJournal",
+    "form_id": "0506717D|TheHeirloom.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Fjola's Journal",
+    "string": "弗杰拉的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomFjolasJournal",
+    "form_id": "0506717D|TheHeirloom.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face=\"$HandwrittenFont\"><b>16 Sun's Dawn, 3E 399</b>\r\n\r\nToday I was given a vision of a woman on the Day of Hearts while exploring Cold Rock Pass inside the mountain south of Morthal. She said \"Do not be afraid. I will do you no harm.\" I asked the lady \"Where are you from?\" She replied \"I am from Aetherius.\" So I asked \"What do you want of me?\" She said \"I came to ask you to come here on the sixteenth day for six months at this same time, and then I will tell you who I am and what I want. And afterwards, I will return here a seventh time.\" I asked her if I would go to Aetherius and she said that I would, but only after much prayer. She then asked \"Would you like to offer yourself to Akatosh to accept all the sufferings which He may send to you in reparation for the countless sins by which he is offended and in supplication for the conversion of sinners?\" I responded in the affirmative and she said \"Then you will have much to suffer, but the grace of Akatosh will be your comfort.\"\r\n\r\n<b>16 First Seed, 3E 399</b> \r\n\r\nThe lady appeared to me again and I asked \"My lady, what do you want of me?\" She responeded \"I want you to come on the sixteenth day of next month and to pray every day.\" I then asked for a curing of one of the people I serve. She responed \"If she is converted, she will be cured within a year.\" I also asked to be taken to Aetherius. The lady said \"Yes, I will take you soon, but you must remain on Nirn for some time. Talos wishes to use you to make me better known and loved. He wishes to establish in the world devotion to my heart.\" I replied \"Must I stay here all alone?\" She responded \"No, my child, and would that make you suffer? Do not be disheartened. My heart will never abandon you, but will be your refuge and the way that will lead you to Akatosh.\"\r\n\r\n<b>16 Rain's Hand, 3E 399</b>\r\n\r\nThe lady appeared to me once again and I asked \"What do you want of me?\" She said \"I want you to come on the sixteenth day of next month and to continue to pray  every day in honor of Mara, in order to obtain peace for the world for she alone can help.\" I then requested \"I would like to ask who you are and to perform a miracle so that people will believe that you are appearing to me.\" She replied \"Continue to come here every month. In Sun's Height I will tell you who I am and what I want. And I will perform a miracle so that everyone may see and believe.\" She continued \"Sacrifice yourselves for sinners and say often, especially when you make some sacrifice, 'O my Talos, this is for love of you, for the conversion of sinners, and in reparation for the offenses committed against the heart of Mara.' \" \r\n\r\nI was then given a vision of Oblivion and she said \"You saw Oblivion where the souls of poor sinners go. In order to save them, Akatosh wishes to establish in the world devotion to my heart. If people do what I ask, many souls will be saved and there will be peace.\r\n\r\nJagar Tharn's rule will end. But if people do not stop offending Akatosh, another, even worse situation will begin in the reign of Uriel VII. When you shall see the gates of Oblivion opened know that this is the great sign that Akatosh gives you that he is going to punish the world for its many crimes by means of war, hunger, and persecution of the devotees of the divines. To prevent it, I shall come to ask for the consecration of the Summerset Isles to my heart and the communion of reparation on the first Loredas.\r\n\r\nIf people attend to my requests, the Summerset Isles will be converted and the world will have peace. If not, she will scatter her errors throughout the world, provoking wars and persecutions of the true believers. The good will be martyred, the Empire will have much to suffer, and various nations will be destroyed.\r\n\r\nIn the end my heart will triumph. The Emperor will consecrate the Summerset Isles to me; it will be converted, and a certain period of peace will be granted to the world. In Skyrim the true faith will always be kept. When you pray, end your prayer with O my Talos, forgive us our sins, save us from the fires of Oblivion and lead all souls to Aetherius, especially those most in need.\" I then asked \"Do you want anything more of me?\" She said \"No, today I want nothing else of you.\"\r\n\r\n<b>16 Second Seed, 3E 399</b>\r\n\r\nI wish I could go back to Cold Rock Pass and visit the lady, but I've been imprisoned on accounts of me telling people about these visions. They say I'm insighting terror about the Emperor and about the gates of Oblivion being opened.\r\n\r\n<b>23 Second Seed, 3E 399</b>\r\n\r\nI made it out of prison and went back to Cold Rock Pass on account of me missing the last meeting. The lady was waiting for me on my arrival. She told me \"Pray, pray a great deal and make many sacrifices for many souls go to Oblivion because they have no one to make sacrifices and to pray for them. Zenithar too will come with Talos to bring peace to the world. Akatosh will also come to bless the people. Mara and Dibella will come too.\"\r\n\r\n<b>16 Midyear, 3E 399</b>\r\n\r\nI went back to where she appeared to me and she was there. I asked again \"What do you want of me?\" The lady replied \"Continue to pray every day in order to obtain the end of Jagar Tharn's rule. In Sun's Height Akatosh will come, and Mara and Dibella and Zenithar with Talos to bless the world. Akatosh is pleased with your sacrifices\" I said \"People have begged me to ask you many things. The cure of some sick persons, of a deaf mute...\" She responded \"Some I will cure, others not. In Sun's Height I shall perform a miracle so that everyone may believe.\"\r\n\r\n<b>16 Sun's Height, 3E 399</b>\r\n\r\nWhen I returned back to Cold Rock Pass expecting an apparition she appeared to me again and said to me \"I am the Divine Mother, I have come to warn the faithful to amend their lives and ask for pardon for their sins. They must not offend Akatosh any more, for he is already too grievously offended by the sins of men. People must pray. Let them continue praying everyday. I would like a chapel built here in my honor. Jagar Tharn's rule will end soon.\" \r\n\r\n<b>16 Last Seed, 4E 1</b>\r\n\r\nAfter a few year of coming back here to worship, she appeared for the final time. It was revealed to me what the sign might be. Akatosh, Mara, Dibella and Zenithar all appeared to me looking at Talos. When I looked at Talos it was like staring into a mirror. An image of myself, but not me. A relative perhaps? Then they all spoke with one accord;\r\n\r\n\"<Alias=Player> is to arrive. The Oblivion crisis has been fulfilled. Now is a time of great distress but fear not for <Alias=Player> will overcome.\" Then they turned to me and said \"You will pass on soon. You are to be caught by the guards one more time so that <Alias=Player> might find your journal. Then you shall come back and pass. A troll will move in shortly after and guard you from any robberies. You are welcome home to Aetherius.\"\r\n\r\nI've created an heirloom for you <Alias=Player>. I know you're reading this. Go to Cold Rock Pass, retrieve your heirloom as I couldn't pass it down, and after your quest is finished build a chapel here to adore the Nine Divines.\r\n</font>\r\n",
+    "string": "<font face=\"$HandwrittenFont\"><b>16 Sun's Dawn, 3E 399</b>\r\n\r\n今天，我在探索莫塔尔以南山区的冷岩关时，看到了一个女人在红心日的景象。她说：“别害怕。我不会伤害你的。”我问这位女士：“你从哪里来？”她回答说：“我来自埃瑟留。”于是我问：“你想让我做什么？”她说“我来是为了让你在第十六天来这里，在六个月的同一时间来这里，然后我会告诉你我是谁，我想要什么。之后，我会第七次回到这里。”我询问她是否愿意去埃瑟留，她说我愿意，但只是经过多次祈祷。然后，她问：“你愿意把自己献给阿卡托什，接受他可能给你带来的所有痛苦，以弥补他被冒犯的无数罪行，并恳求罪人皈依吗？”我肯定地回答，她说：“那么你将遭受很多痛苦，但阿卡托什的恩典将是你的安慰。”\r\n\r\n<b>16 First Seed, 3E 399</b> \r\n\r\n这位女士再次出现在我面前，我问：“夫人，你想让我做什么？”她回答说：“我想让你在下个月16日来，每天祈祷。”然后我要求治愈我所服务的一个人。她回答说：“如果她皈依了，一年内就会痊愈。”我还要求带她去埃瑟留斯。这位女士说：“是的，我很快就会带你去，但你必须在尼恩待一段时间。塔洛斯希望用你来让我更好地被人所知和爱。他希望在世界上建立对我内心的忠诚。”我回答说：“我必须一个人呆在这里吗？”她回答道：“不，我的孩子，这会让你受苦吗？不要灰心。我的心永远不会抛弃你，但会成为你的避难所，也是你通往阿卡托什的道路。”\r\n\r\n<b>16 Rain's Hand, 3E 399</b>\r\n\r\n这位女士再次出现在我面前，我问她：“你想让我做什么？”她说：“我希望你在下个月16日来，继续每天为玛拉祈祷，以便为世界获得和平，因为只有她能提供帮助。”然后我请求“我想问你是谁，并创造一个奇迹，这样人们就会相信你在我面前出现。”她回答说：“继续每个月来这里。在太阳的高度，我会告诉你我是谁，我想要什么。我会创造奇迹，这样每个人都能看到并相信。”她继续说：“为罪人牺牲自己，经常说，尤其是当你做出一些牺牲，‘我的塔洛斯啊，这是为了爱你，为了罪人的皈依，也是为了弥补对玛拉心灵的冒犯。’”\r\n\r\n然后，我看到了遗忘的景象，她说：“你看到了遗忘，可怜的罪人的灵魂去了哪里。为了拯救他们，阿卡托什希望在世界上建立对我心的奉献。如果人们按照我的要求去做，许多灵魂将得救，并会有和平。”。\r\n\r\nJagar Tharn的统治将结束。但如果人们不停止冒犯阿卡托什，另一个更糟糕的局面将在乌列尔七世统治时期开始。当你看到遗忘之门打开时，要知道这是阿卡托什给你的一个巨大信号，他将通过战争、饥饿和迫害神学家的信徒来惩罚世界的许多罪行。为了防止它，我将来要求将萨默塞特群岛奉献给我的心，并就第一个洛雷达斯进行赔偿。\r\n\r\n如果人们满足我的要求，萨默塞特群岛将皈依，世界将和平。否则，她将把自己的错误散布在世界各地，挑起战争，迫害真正的信徒。善良的人将殉道，帝国将遭受巨大的苦难，各个国家将被摧毁。\r\n\r\n最终，我的心会胜利。皇帝将把夏屿献给我；它将被转换，世界将获得一定时期的和平。在天际，真正的信仰将永远保持。当你祈祷时，以我的塔洛斯结束你的祈祷，原谅我们的罪，把我们从遗忘之火中拯救出来，把所有的灵魂都带到埃瑟留身边，尤其是那些最需要帮助的人。然后我问：“你还想要我什么吗？”？她说：“不，今天我不想再要你了。”。\r\n\r\n<b>16 Second Seed, 3E 399</b>\r\n\r\n我希望我能回到冷岩关去拜访这位女士，但我因为告诉人们这些幻象而被监禁了。他们说我对皇帝和遗忘之门被打开感到恐惧。\r\n\r\n<b>23 Second Seed, 3E 399</b>\r\n\r\n由于错过了最后一次会议，我出狱后回到了冷石关。我到达时，那位女士正在等我。她告诉我：“祈祷，祈祷很多，为许多灵魂做出许多牺牲。因为他们没有人为他们做出牺牲和祈祷，所以去遗忘。泽尼塔尔也会和塔洛斯一起为世界带来和平。阿卡托什也会来祝福人民。玛拉和迪贝拉也会来。”\r\n\r\n<b>16 Midyear, 3E 399</b>\r\n\r\n我回到她出现在我面前的地方，她就在那里。我又问：“你想让我做什么？”这位女士回答说：“继续每天祈祷，以结束贾加尔·塔恩的统治。在太阳的高度，阿卡托什会来，玛拉、迪贝拉和泽尼萨会和塔洛斯一起祝福世界。阿卡托什对你的牺牲很满意。”我说：“人们恳求我问你很多事情。一些病人的治愈，一个聋哑人的治愈……”她回答说：”有些我会治愈，有些则不会。在太阳高度，我将创造奇迹，让每个人都相信。”\r\n\r\n<b>16 Sun's Height, 3E 399</b>\r\n\r\n当我回到冷岩关，期待着一个幽灵出现时，她再次出现在我面前，对我说：“我是神圣的母亲，我来警告信徒们要改变他们的生活，并为他们的罪行请求宽恕。他们不能再冒犯阿卡托什了，因为他已经被人类的罪行深深地冒犯了。人们必须祈祷。让他们继续每天祈祷。我想在这里建一座小教堂来纪念我。贾格尔·塔恩的统治很快就会结束。”\r\n\r\n<b>16 Last Seed, 4E 1</b>\r\n\r\n回到这里做礼拜几年后，她最后一次出现了。我明白了这个标志可能是什么。阿卡托什、玛拉、迪贝拉和泽尼萨都看着塔洛斯出现在我面前。当我看着塔洛斯时，就像盯着镜子一样。一张我自己的照片，但不是我。也许是亲戚？然后，他们异口同声地说；\r\n\r\n“<Alias=Player>即将到来。遗忘危机已经解决。现在是一个非常痛苦的时刻，但不要害怕<Alias=Player>会克服的。”然后他们转向我说：“你很快就会过去的。你会再被警卫抓住一次，这样<Alias=1layer>就可以找到你的日记了。然后你会回来传球。不久后会有一个巨魔进来，保护你免受任何抢劫。欢迎你回到埃瑟里斯家。”\r\n\r\n我为你创造了一件传家宝<Alias=Player>。我知道你在读这个。去冷岩关，取回你的传家宝，因为我无法传下去，在你的任务完成后，在这里建一座小教堂来崇拜九神。\r\n</font>\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomInheritanceLetter",
+    "form_id": "050022F1|TheHeirloom.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Inheritance Letter",
+    "string": "继承信件",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomInheritanceLetter",
+    "form_id": "050022F1|TheHeirloom.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>My dear <Alias=Player>,\r\n\r\nEver since you've become estranged I've been meaning to share something with you but I couldn't bring myself to find you. Now I have to tell you. Fjola, our priest relative, saw your future and had many visions. He had requested an heirloom to be passed down to you but he never got the chance. \r\n[pagebreak]\r\nIf you can find him your journey will be made easier. I would start by asking the leader of Riverwood in Skyrim. I know it might be a long trek but it will certainly be worth it if it's from Fjola. I wished that one day we could have reconnected but it's far too late for me. \r\n\r\nRegards, a concerned relative.\r\n</font>\r\n",
+    "string": "<font face='$HandwrittenFont'>亲爱的 <Alias=Player>,\r\n\r\n自从你疏远后，我一直想和你分享一些东西，但我无法找到你。现在我必须告诉你。Fjola，我们的牧师亲戚，看到了你的未来，有很多愿景。他曾要求传给你一件传家宝，但他从来没有机会。\r\n[pagebreak]\r\n如果你能找到他，你的旅程会更容易。我会先问天际Riverwood的领导人。我知道这可能是一次漫长的跋涉，但如果是从Fjola出发，那肯定是值得的。我希望有一天我们能重新联系，但对我来说已经太晚了。\r\n\r\n问候，一位关心的亲戚。\r\n</font>\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomFjola",
+    "form_id": "0501B25E|TheHeirloom.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Fjola The Priest",
+    "string": "弗杰拉牧师",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunDragonsreachBasement",
+    "form_id": "0004A376|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dragonsreach Dungeon",
+    "string": "龙临堡地牢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ColdRockPass01",
+    "form_id": "00054D0E|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Cold Rock Pass",
+    "string": "寒石关",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomGerdurFjola",
+    "form_id": "05048B6C|TheHeirloom.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have this letter that mentions Riverwood, if you could help me find Fjola...",
+    "string": "我有一封信提到了河木镇，如果你能帮我找到弗杰拉...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05048B6E|TheHeirloom.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fjola? How do you know that name?",
+    "string": "弗悦拉？你怎么知道那个名字的？ ?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomGerdurDescribe",
+    "form_id": "0504DC6F|TheHeirloom.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It was in the letter of inheritance.",
+    "string": "那是在继承书上。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504DC70|TheHeirloom.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right, can you describe it to me?",
+    "string": "行。你能跟我描述一下吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomGerdurRumors",
+    "form_id": "0504DC73|TheHeirloom.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Describes the letter)",
+    "string": "（描述信件）",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504DC74|TheHeirloom.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, I don't believe those rumors, my friend. Besides, who would ever want to harm such... Wait, it can't be.",
+    "string": "哎呀，我的朋友，我不相信那些谣传。另外谁想要伤害这个……等等，这不可能吧。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomGerdurPriest",
+    "form_id": "0504DC75|TheHeirloom.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is it? Who is Fjola?",
+    "string": "这是怎么一回事？弗杰拉是谁？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504DC76|TheHeirloom.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some old priest buried here long ago. I've been searching for his tomb for a few years now.",
+    "string": "很久以前有一些老祭司葬在这里。我已经花了好些年寻找他的坟墓了。.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomGerdurWhatNeedKnow",
+    "form_id": "0504DC77|TheHeirloom.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Oh... I was hoping he was alive. Can you help me anyway?",
+    "string": "哦。我希望他还活着。你能帮帮我吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504DC78|TheHeirloom.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well... all right. What exactly do you need to know?",
+    "string": "嗯……好吧。你想知道什么？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomGerdurBountyGive",
+    "form_id": "0504DC79|TheHeirloom.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are there any clues as to where he is buried?",
+    "string": "关于他埋在哪里有任何线索吗？",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504DC7A|TheHeirloom.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Here. Take a look at this. Some of the Jarl's men came by and left this bounty letter.",
+    "string": "拿去看看。这是领主的手下路过时留下的悬赏启事。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Heirloom",
+    "string": "传家宝",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. Now all I need to do is read the letter of inheritence that was left for me to gather my thoughts on where to proceed next.",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。现在我需要做的就是阅读留给我的继承信件，以收集我对下一步行动的想法。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I read my inheritance letter and it's pointing me to Riverwood to find a priest named Fjola. I should have talked to Gerdur but now she is dead.",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我读了我的遗产信，信上说我要去河木镇找一位名叫弗杰拉的牧师。我本应与歌尔朵交谈，但现在她已经去世。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I read my inheritance letter and it's pointing me to Riverwood to find a priest named Fjola. I should find the leader of the town.",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我读了我的遗产信，信上说我要河木镇找一位名叫弗杰拉的牧师。我应该找到镇上的领导。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I read my inheritance letter and it's pointing me to Riverwood to find a priest named Fjola. The leader of Riverwood, Gerdur, is now dead. I'll have to find my heirloom without their help.",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我读了我的遗产信，信上说我要去河木镇找一位名叫弗杰拉的牧师。河木镇的领袖歌尔朵现已去世。没有他们的帮助，我必须找到我的传家宝。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I read my inheritance letter and investigated Riverwood. I talked to Gerdur and she gave me an old bounty letter about Fjola. I should read it to find out where to go next.",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我读了我的遗产信，调查了河木镇。我和歌尔朵谈过了，她给了我一封关于弗杰拉的旧赏金信。我应该读一下，看看下一步该去哪里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I read my inheritance letter and investigated Riverwood. I talked to Gerdur and she gave me an old bounty letter about Fjola. I read the old bounty letter and it said talk to Lord Asgens in Dragonsreach. He's probably long been dead but their might still be clues left around the place.",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我读了我的遗产信，调查了河木镇。我和歌尔朵谈过了，她给了我一封关于弗杰拉的旧赏金信。我读了那封旧的赏金信，信上说要和龙镇的阿斯金斯勋爵谈谈。他可能早就死了，但他们可能仍然是这个地方留下的线索。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I read my inheritance letter and investigated Riverwood. I talked to Gerdur and she gave me an old bounty letter about Fjola. I read the old bounty letter and I looked around Dragonsreach for clues. I found Fjola's confiscated journal. I should read it to see if there's any clues as to where he might have gone.",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我读了我的遗产信，调查了河木镇。我和歌尔朵谈过了，她给了我一封关于弗杰拉的旧赏金信。我读了那封旧的赏金信，四处寻找线索。我找到了弗杰拉被没收的日记。我应该读一下，看看他可能去了哪里。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I read my inheritance letter and investigated Riverwood. I talked to Gerdur and she gave me an old bounty letter about Fjola. I read the old bounty letter and I looked around Dragonsreach for clues. I found Fjola's confiscated journal and read it. He said he would pass at Cold Rock Pass and that my heirloom will be there. I should also gear up before heading there as he mentioned troll-kind being there.",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我读了我的遗产信，调查了河木镇。我和歌尔朵谈过了，她给了我一封关于弗杰拉的旧赏金信。我读了那封旧的赏金信，四处寻找线索。我找到了弗杰拉被没收的日记并阅读了它。他说他会在冷岩关通过，我的传家宝也会在那里。在前往那里之前，我也应该做好准备，因为他提到那里有巨魔。",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I read my inheritance letter and investigated Riverwood. I talked to Gerdur and she gave me an old bounty letter about Fjola. I read the old bounty letter and I looked around Dragonsreach for clues. I found Fjola's confiscated journal and read it. He said he would pass at Cold Rock Pass and that my heirloom would be there. I went to Cold Rock Pass and retrieved my heirloom!",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我读了我的遗产信，调查了河木镇。我和歌尔朵谈过了，她给了我一封关于弗杰拉的旧赏金信。我读了那封旧的赏金信，四处寻找线索。我找到了弗杰拉被没收的日记并读了起来。他说他会在冷岩关通过，我的传家宝也会在那里。我去了冷石关，取回了我的传家宝！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I read my inheritance letter and investigated Riverwood. I talked to Gerdur and she gave me an old bounty letter about Fjola. I read the old bounty letter and I looked around Dragonsreach for clues. I found Fjola's confiscated journal but didn't read it. I went to Cold Rock Pass anyway and retrieved my heirloom!",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我读了我的遗产信，调查了河木镇。我和歌尔朵谈过了，她给了我一封关于弗杰拉的旧赏金信。我读了那封旧的赏金信，四处寻找线索。我找到了弗杰拉被没收的日记，但没有读。不管怎样，我还是去了冷石关，取回了我的传家宝！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 11,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I read my inheritance letter and investigated Riverwood. I talked to Gerdur and she gave me an old bounty letter about Fjola. I read the old bounty letter but couldn't find any clues. I went to Cold Rock Pass anyway and retrieved my heirloom!",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我读了我的遗产信，调查了河木镇。我和歌尔朵谈过了，她给了我一封关于弗杰拉的旧赏金信。我看了那封旧的赏金信，但找不到任何线索。不管怎样，我还是去了冷石关，取回了我的传家宝！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 12,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I read my inheritance letter and investigated Riverwood. I talked to Gerdur and she gave me an old bounty letter about Fjola. I went to Cold Rock Pass anyway and retrieved my heirloom!",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我读了我的遗产信，调查了河木镇。我和歌尔朵谈过了，她给了我一封关于弗杰拉的旧赏金信。不管怎样，我还是去了冷石关，取回了我的传家宝！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 13,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I read my inheritance letter and it pointed me to Riverwood to find a priest named Fjola. The leader of Riverwood, Gerdur, died and the town was in a state of mourning. I went to Cold Rock Pass anyway and retrieved my heirloom!",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我读了我的遗产信，信中指出我要去歌尔朵找一位名叫弗杰拉的牧师。河木镇的领导人歌尔朵去世，该镇处于哀悼状态。不管怎样，我还是去了冷石关，取回了我的传家宝！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 14,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I read my inheritance letter and it pointed me to Riverwood. I went to Cold Rock Pass anyway and retrieved my heirloom!",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我读了我的遗产信，信中把我指向了河木镇。不管怎样，我还是去了冷石关，取回了我的传家宝！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 15,
+    "type": "QUST CNAM",
+    "original": "I have finally made it to Skyrim. It's been a rough journey but I finally made it. I have an inheritance letter but I didn't read it. I went to Cold Rock Pass anyway and retrieved my heirloom!",
+    "string": "我终于到了天际。这是一段艰难的旅程，但我终于做到了。我有一封遗产信，但我没有读过。不管怎样，我还是去了冷石关，取回了我的传家宝！",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Read your inheritance letter",
+    "string": "阅读你的遗产信",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Talk to the leader of Riverwood",
+    "string": "与河木镇的领导交谈",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Read the bounty letter",
+    "string": "阅读赏金信",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Investigate Dragonsreach's dungeon in Whiterun",
+    "string": "调查白漫的龙临堡地牢",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Read Fjola's journal",
+    "string": "阅读弗杰拉的日记",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Ev1l_HeirloomQuest",
+    "form_id": "05002DB7|TheHeirloom.esp",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Retrieve your heirloom",
+    "string": "取回你的传家宝",
+    "status": "TranslationComplete"
+  }
+]
